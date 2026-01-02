@@ -1,0 +1,318 @@
+    #Areion24.news » Flux oEmbed (JSON) oEmbed (XML)
+
+   Le site d'information des publications d'Areion Group
+   ____________________ (BUTTON)
+
+     * Mon Compte
+     * Qui sommes-nous ?
+     * Nos auteurs
+     * Nous trouver en kiosque
+          + DSI
+          + DSI HS
+          + DIPLOMATIE
+          + GD DIPLOMATIE
+          + CARTO
+          + MOYEN-ORIENT
+     * S’abonner
+          + à DIPLOMATIE
+          + à CARTO
+          + à MOYEN-ORIENT
+          + à DSI
+     * Nous contacter
+
+   Areion24.news
+   L'EUROPE 2025
+
+     * Accueil
+     * Nos magazines
+          + Diplomatie
+          + Grands Dossiers de Diplomatie
+          + Carto
+          + Moyen-Orient
+          + DSI
+          + DSI Hors-Série
+          + DefTech
+          + Space International
+     * Agenda
+     * Réseaux sociaux
+          + Diplomatie sur Facebook
+          + Carto sur Twitter
+          + Carto sur Facebook
+          + DSI sur Facebook
+          + DSI sur Twitter
+     * Les Blogs d’Areion24
+          + Le Blog de Joseph HENROTIN
+     * Chaîne TV
+     * Boutique
+
+     *
+     *
+
+Les robots humanoïdes : le rêve démiurgique réalisé
+
+L’or, arme monétaire silencieuse. Le grand retour des réserves dans la
+géopolitique mondiale
+
+République démocratique du Congo. Atouts et faiblesses des Forces armées dans
+les opérations contre le M23 et ses soutiens
+
+Les sociétés militaires privées : vers une privatisation de la guerre ?
+
+Les robots humanoïdes chinois à la conquête du monde ?
+
+Désinformation : quelles réalités ? Quels enjeux et quels défis ?
+
+   Areion24.news
+   ____________________ (BUTTON)
+
+     * Accueil
+     * Nos magazines
+          + Diplomatie
+          + Grands Dossiers de Diplomatie
+          + Carto
+          + Moyen-Orient
+          + DSI
+          + DSI Hors-Série
+          + DefTech
+          + Space International
+     * Agenda
+     * Réseaux sociaux
+          + Diplomatie sur Facebook
+          + Carto sur Twitter
+          + Carto sur Facebook
+          + DSI sur Facebook
+          + DSI sur Twitter
+     * Les Blogs d’Areion24
+          + Le Blog de Joseph HENROTIN
+     * Chaîne TV
+     * Boutique
+
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI4MCIgaGVpZ2h0PSI4MCIgdmlld0JveD0iMCAwIDgwIDgwIj48cmVjdCB3aWR0aD
+   0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0e
+   TogMC4xOyIvPjwvc3ZnPg==] Emmanuel R. Goffi
+   Partagez !
+       FacebookXPinterestLinkedInEmailWhatsApp
+
+   Magazine Diplomatie
+
+Les robots humanoïdes : le rêve démiurgique réalisé
+
+   1 décembre 2025
+   13 659 vues
+   10 mn de lecture
+   Page 1 sur 3
+
+   Associés à la robotique, les systèmes d’intelligences artificielles
+   rendent actuel ce qui relevait jusqu’alors de la science-fiction :
+   l’avènement des robots humanoïdes, mais surtout leur démocratisation et
+   leur généralisation. Avec quelles conséquences ?
+
+   Dans sa Théorie générale de la population, l’économiste et démographe
+   français Alfred Sauvy affirmait : « Despote conquérant, le progrès
+   technique ne souffre pas l’arrêt. Tout ralentissement équivalant à un
+   recul, l’humanité est condamnée au progrès à perpétuité. » (1)
+
+   Certes, il serait nécessaire de s’entendre sur ce que veut dire « le
+   progrès », mais la sentence tombe comme une condamnation sans appel,
+   à l’heure où l’humain est toujours plus près d’atteindre son vieux rêve
+   démiurgique de créer un être artificiel qui serait, selon la formule
+   religieuse, « à son image ».
+
+   La longue tradition de rationalisme scientifique qui nous porte
+   à croire que l’humain n’est rien d’autre qu’un composé d’une substance
+   matérielle et d’une substance immatérielle, toutes deux duplicables par
+   des artifices techniques, associée à une croyance profondément ancrée
+   dans le progrès technique comme panacée des maux de l’humanité, nous
+   ont amenés à développer des technologies souvent fascinantes, et
+   parfois inquiétantes.
+
+   On prête à Albert Einstein l’affirmation selon laquelle « le progrès
+   technique est comme une hache qu’on aurait mise dans les mains d’un
+   psychopathe ».
+
+   Au vu des avancées récentes en matière d’intelligence artificielle
+   (IA), on serait tenté de lui donner raison.
+
+   En octobre 2022, à l’occasion du Tesla AI Day, Elon Musk présentait
+   deux prototypes du robot humanoïde Optimus, dont Tesla envisage de
+   produire « des millions d’unités », avec pour objectif assumé de
+   « transformer la civilisation », d’offrir « un avenir d’abondance, un
+   avenir où il n’y a pas de pauvreté, où les gens auront ce qu’ils
+   veulent en termes de produits et de services ». Vaste projet s’il en
+   est, qui démontre à quel point la robotique est entrée dans certaines
+   cultures et témoigne de notre acculturation lente mais irréversible
+   à la cohabitation programmée avec ces humains artificiels. Cohabitation
+   qui ne peut qu’interroger, tant ses impacts — au moins ceux
+   prévisibles — sont préoccupants.
+
+   Produits de la foi dans le progrès technique et d’une certaine forme
+   d’hédonisme d’une partie de l’humanité, les machines anthropomorphes
+   dupliquant tant le corps que l’esprit humain sont ainsi en passe
+   d’investir le quotidien de millions de personnes. En 2024, le même
+   Elon Musk annonçait d’ailleurs la production de 10 000 unités d’Optimus
+   d’ici fin 2025, robot rendu de plus en plus accessible par
+   l’industrialisation de la production qui permettrait de le
+   commercialiser en dessous de 20 000 dollars.
+
+   Vous avez dit « robot humanoïde »?
+
+   Le robot humanoïde, c’est-à-dire « ressemblant à l’humain » (qu’il soit
+   androïde, avec l’apparence d’un homme, ou gynoïde, avec l’apparence
+   d’une femme), est né dans les années 1990 au Japon, avec pour objectif
+   de remplacer l’humain dans l’accomplissement de certaines tâches
+   répétitives et dangereuses.
+
+   Rendus célèbres par la pop culture, notamment américaine, les robots
+   d’apparence humaine (anthropomorphes) font désormais partie de notre
+   univers mental. Du célèbre Terminator aux « réplicants » de Blade
+   Runner, en passant par les hôtes biomécaniques de Westworld, le robot
+   Sonny du film I, Robot, ou encore les humanoïdes de la série Real
+   Humans : 100 % humain, de Goldorak du studio Toei Animation à Astro Boy
+   d’Osamu Tezuka, ces duplications physiques et intellectuelles de
+   l’humain sont sujettes à tous les fantasmes.
+
+   Pour autant, le robot humanoïde n’est pas un fantasme récent. L’idée
+   même d’un être artificiel semblable, au moins physiquement, à l’humain
+   est ancienne. On le retrouve 2000 ans avant l’ère chrétienne dans le
+   Mythe d’Atrahasis, également appelé Poème du Supersage, dans lequel les
+   dieux créent l’humain, sous forme de figurines masculines et féminines,
+   pour exécuter les tâches laborieuses (2). Les humains sont alors conçus
+   pour être les objets servant des dieux, comme l’automate puis le robot
+   humanoïde seront des objets servant des humains.
+
+   On retrouve cette même idée de l’homme créé à partir d’eau et de terre
+   par Prométhée dans la mythologie grecque, auquel Athéna insufflera la
+   vie, ainsi que dans la tradition judéo-chrétienne (Genèse 2:4-25).
+
+   Puis ce sera au tour de l’humain de créer un être pour le libérer de
+   certaines tâches et le servir. Ce seront les fameux automates du dieu
+   Héphaïstos, servantes en or et autres tripodes animés destinés à servir
+   les mets aux dieux de l’Olympe, mentionnés dans l’Illiade d’Homère dès
+   le VIII^e siècle avant l’ère chrétienne.
+   Page 1 sur 3
+
+Sur le même sujet
+
+La Grande Guerre du Nord (1700-1721)
+
+Corée du Sud : vers l’« implosion démographique » ?
+
+L’Azerbaïdjan, un émirat postsoviétique ?
+
+À propos de l'auteur
+
+   Voir tous les articles
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSIxNDAiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+
+Emmanuel R. Goffi
+
+   Professeur d’éthique appliquée à l’intelligence artificielle, en charge
+   du domaine « Éthique, management, projet professionnel et personnel » �
+   l’ISEP, école d’ingénieurs du numérique (Paris).
+   L’énigme de l’Est : penser la crise RDC-Rwanda au-delà des lignes de
+   fracture
+   Pologne : quelle stratégie de défense face à la menace russe ?
+   Partagez !
+       FacebookXPinterestLinkedInEmailWhatsApp
+
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSIzMTIiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMTIgMzMiPjxyZWN0IHdpZH
+   RoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFja
+   XR5OiAwLjE7Ii8+PC9zdmc+]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSIzMjAiIGhlaWdodD0iMzAzIiB2aWV3Qm94PSIwIDAgMzIwIDMwMyI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI2OTgiIGhlaWdodD0iMjY5IiB2aWV3Qm94PSIwIDAgNjk4IDI2OSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI5NTgiIGhlaWdodD0iOTY1IiB2aWV3Qm94PSIwIDAgOTU4IDk2NSI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSIxNDM3IiBoZWlnaHQ9IjE0NDgiIHZpZXdCb3g9IjAgMCAxNDM3IDE0NDgiPjxyZW
+   N0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7Zmlsb
+   C1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI2OTMiIGhlaWdodD0iNzI0IiB2aWV3Qm94PSIwIDAgNjkzIDcyNCI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI2OTgiIGhlaWdodD0iMjY2IiB2aWV3Qm94PSIwIDAgNjk4IDI2NiI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+   [svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHd
+   pZHRoPSI2OTgiIGhlaWdodD0iMjY2IiB2aWV3Qm94PSIwIDAgNjk4IDI2NiI+PHJlY3Qgd2
+   lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wY
+   WNpdHk6IDAuMTsiLz48L3N2Zz4=]
+
+   IFRAME: about:blank
+
+Areion24​.news
+
+   Areion24​.news est le portail d’information des publications d’Areion
+   Group, premier groupe de presse français spécialisé dans les questions
+   internationales et stratégiques. Il édite notamment les magazines
+   CARTO, DIPLOMATIE, DSI, MOYEN-ORIENT, DEFTECH et SPACE INTERNATIONAL,
+   et a pour mission de publier des actualités et des analyses
+   scientifiques visant à nourrir le débat public sur les questions
+   internationales et stratégiques. [En savoir plus]
+
+Charte éditoriale
+
+   Nos articles sont pour l’essentiel issus des magazines diffusés en
+   kiosque et librairie édités par Areion Group. Les analyses publiées sur
+   ce site répondent à des normes de validation de l’information
+   particulièrement exigeantes, la plupart de nos auteurs étant chercheurs
+   ou universitaires. Nos auteurs s’engagent à publier des contenus
+   fiables, factuels, instructifs, pertinents, transparents et utiles. Si
+   besoin, vous pouvez alerter notre rédaction en lui envoyant un message
+   à l’adresse moderateur@areion24.news.
+
+   Copyright ©2003-2025. Site réalisé par Digital Area (CMG) pour Areion
+   Group. Tous droits réservés.
+     * Facebook
+     * Twitter
+     * Instagram
+     * Linkedin
+
+     * Nous contacter
+          + Vous êtes marchand de journaux
+          + Vous êtes libraire
+          + Vous êtes journalistes
+          + Foreign rights
+          + Proposer un article
+          + Nous contacter
+     * Légal / CGV
+          + Conditions générales de vente (CGV)
+          + Charte de protection des données
+          + Mentions légales
+
+   0
+   Votre panier

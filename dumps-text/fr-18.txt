@@ -1,0 +1,1442 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire et réception du livre au temps de Freud
+       (BUTTON) Afficher / masquer la sous-section Histoire et réception
+       du livre au temps de Freud
+          + 1.1 Années 1880-1890
+          + 1.2 1900 et les éditions suivantes
+     * 2 Le rêve comme « accomplissement de souhait »
+     * 3 Sept chapitres
+     * 4 Contenu du livre
+       (BUTTON) Afficher / masquer la sous-section Contenu du livre
+          + 4.1 Méthode d'interprétation
+               o 4.1.1 « L'injection faite à Irma » et l'auto-analyse de
+                 Freud
+               o 4.1.2 Les « rêves de Rome » de Freud et l'infantile
+          + 4.2 Contenu manifeste du rêve et contenu latent
+          + 4.3 Travail du rêve
+          + 4.4 Rêves d'autres personnes
+          + 4.5 Rêves de commodité
+          + 4.6 Rêves typiques
+          + 4.7 Symbolisme
+     * 5 Le chapitre VII
+     * 6 Critiques et débats
+       (BUTTON) Afficher / masquer la sous-section Critiques et débats
+          + 6.1 Critiques actuelles des psychologues cognitivistes et des
+            neuropsychiatres
+          + 6.2 Sur l'analyse du rêve de « l'Injection faite à Irma »
+               o 6.2.1 À propos de « Mathilde »
+               o 6.2.2 « Logique du rêve » et « écriture »
+          + 6.3 « Père, ne vois-tu pas... »
+          + 6.4 Sur « le chapitre VII »
+     * 7 Notes et références
+       (BUTTON) Afficher / masquer la sous-section Notes et références
+          + 7.1 Notes
+          + 7.2 Références
+     * 8 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 8.1 Bibliographie
+               o 8.1.1 Traductions françaises de L'interprétation du rêve
+               o 8.1.2 Autres textes et correspondance de Freud
+               o 8.1.3 Études spécialisées
+               o 8.1.4 Bibliographie contemporaine complémentaire
+          + 8.2 Articles connexes
+          + 8.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+L'Interprétation du rêve
+
+   [ ] 38 langues
+     * العربية
+     * Azərbaycanca
+     * Български
+     * বাংলা
+     * Catal�
+     * کوردی
+     * Čeština
+     * Deutsch
+     * English
+     * Esperanto
+     * Español
+     * فارسی
+     * Suomi
+     * Gaeilge
+     * Galego
+     * עברית
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Արեւմտահայերէն
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * 日本語
+     * 한국어
+     * Latina
+     * മലയാളം
+     * Nederlands
+     * Norsk bokmål
+     * Português
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Slovenščina
+     * ไทย
+     * Türkçe
+     * Українська
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Interprétation des rêves (homonymie).
+
+   L'Interprétation du rêve
+   Image illustrative de l’article L'Interprétation du rêve
+   Page de garde de l'édition originale
+     __________________________________________________________________
+
+   Auteur Sigmund Freud
+   Pays Drapeau de l'Autriche Autriche
+   Genre Psychologie
+   Version originale
+   Langue Allemand
+   Titre Die Traumdeutung
+   Éditeur Franz Deuticke
+   Lieu de parution Vienne
+   Date de parution 1900
+   Version française
+   Traducteur Ignace Meyerson (1926), OCF.P, tome IV, (2003),Jean-Pierre
+   Lefebvre (2010)
+   Éditeur Éditions F. Alcan, Puf, Seuil
+   Lieu de parution Paris
+   Date de parution 1926 (Traduction Meyerson)
+   Nombre de pages 643
+   modifier
+
+   L'Interprétation du rêve (Die Traumdeutung)^[note 1] ou
+   L'Interprétation des rêves^[note 2] est un ouvrage de Sigmund Freud
+   publié fin 1899, mais daté par l'éditeur de 1900. Ce livre représente
+   un moment fondateur de la psychanalyse au début du XX^e siècle.
+
+Histoire et réception du livre au temps de Freud
+
+   [modifier | modifier le code]
+
+   En 1925, Freud « écrit dans son autobiographie: “L'interprétation du
+   rêve paru en 1900, fut à peine mentionnée dans les revues
+   spécialisées” »^[2].
+   Dans l'article « Freud » du Dictionnaire du monde germanique (2007),
+   Jacques Le Rider dit, à propos de « L'interprétation du rêve [Die
+   Traumdeutung], ouvrage paru en novembre 1899 et publié avec le
+   millésime 1900, dont la diffusion et le retentissement furent d'abord
+   confidentiels, mais qui connut de nombreuses rééditions, à chaque fois
+   remaniées », qu'il « s'est imposé comme un des ouvrages théoriques les
+   plus célèbres du XX^e siècle »^[3].
+
+Années 1880-1890
+
+   [modifier | modifier le code]
+
+   Freud s'intéressait à ses propres rêves depuis longtemps, bien avant de
+   se lancer dans l' « aventure » de son livre sur « la Traumdeutung »
+   proprement dite: une lettre à sa fiancée Martha Bernays du 19 juillet
+   1883 « parle d'un “carnet de notes personnelles sur les rêves” composé
+   à partir de son expérience »^[4].
+   De même, Freud s'est intéressé très tôt aux rêves de ses patients^[5].
+   Au-delà d'utiles indications sur ce que ceux-ci, consciemment ou non,
+   « dissimulaient » à leur médecin^[5], Freud en vient à penser que les
+   mécanismes de production du rêve sont homologues aux mécanismes de
+   production du symptôme. Puis il admet que cela n'était pas limité aux
+   structures pathologiques, l'analyse des rêves pouvant constituer « une
+   méthode puissante d'élucidation des processus psychiques eux-mêmes »,
+   et il note et analyse dès lors ses propres rêves. L'élaboration du
+   livre durera presque quatre années, du printemps 1896 à fin 1899^[5].
+   [250px-FreudFliess1890.jpg] Freud et Fliess en
+   1890.[250px-Emma_eckstein.jpg] Emma Eckstein.
+
+   Au petit matin du 24 juillet 1895, Freud fait un rêve concernant l'une
+   de ses patientes, qu'il désigne sous le prénom d'Irma, dans l'analyse
+   qu'il en fait en 1900^[6]. L'interprétation permet à Freud de vérifier
+   sa thèse selon laquelle le rêve est réalisation de désir, et dans ce
+   rêve précisément, il s'agit du « désir de rejeter la responsabilité de
+   la faute sur quelqu'un d'autre, à savoir M. et Otto »^[6]. Dans
+   l'autoanalyse de Freud que ce rêve inaugure, Wilhelm Fliess apparaît �
+   l'arrière-plan du rêve pour avoir commis une erreur médicale, avec
+   l'une des patientes de Freud, Emma Eckstein^[6].
+
+   Freud passe d'une théorie du fonctionnement psychique
+   « neurobiologique », telle qu'il avait projeté en 1895 d'en rendre
+   compte dans l'Esquisse d'une psychologie scientifique, essai finalement
+   non publié^[5], à une théorie en termes de processus psychiques, qu'il
+   met quatre ans à élaborer et qui devient L'interprétation des
+   rêves^[5].
+
+   L'interprétation du rêve était déjà prête pour l'essentiel au début de
+   1896^[7]. 1896 est pour Freud l'année de la mort de son père, Jacob
+   Freud, le 23 octobre. D'après Marthe Robert, citée dans la notice, « le
+   projet même de l'ouvrage coïncidait avec une crise; Freud se
+   contraignit finalement à l'écrire pour tenter de surmonter l'état
+   intérieur fort pénible où la mort de son père l'avait plongé »^[8].
+   [250px-IngresOdipusAndSphinx.jpg] Ingres, Œdipe explique l'énigme du
+   Sphinx, 1827.
+
+   La mort du père de Freud et les souvenirs d'enfance qui se relient à la
+   personne de celui-ci apparaissent comme la source de plusieurs rêves,
+   en particulier des rêves dits « de Rome »^[9]. À l'automne 1897, au
+   retour d'un voyage en Italie, Freud déclare à son ami Wilhelm Fliess:
+   « Je ne crois plus à ma neurotica », terme par lequel il désigne la
+   théorie de la séduction à laquelle il renonce le 21 septembre. Dans sa
+   lettre du 15 octobre 1897, il fait référence au « mythe d'Œdipe » en
+   écrivant à Fliess: « J'ai trouvé en moi comme partout ailleurs des
+   sentiments d'amour envers ma mère et de jalousie envers mon père,
+   sentiments qui sont, je pense, communs à tous les jeunes enfants [...]
+   s'il en est ainsi [...] on comprend l'effet saisissant d' Œdipe roi
+   »^[10].
+
+   Achevé en septembre 1899, le manuscrit de Freud est publié le 4
+   novembre par l'éditeur Deuticke, qui le date pourtant de 1900:
+   « remarquable intuition », écrit Roger Perron, pour un livre « qui
+   devait ouvrir le siècle de la psychanalyse »^[11].
+
+1900 et les éditions suivantes
+
+   [modifier | modifier le code]
+
+   La première édition (600 exemplaires) « se vend mal ». Freud écrit �
+   Fliess le 23 mars 1900 : « [...] les éloges ressemblent à des aumônes,
+   l'ouvrage est manifestement antipathique à la plupart des gens ». Cette
+   vision assez pessimiste de Freud sur la réception de son livre est
+   cependant démentie dans la réalité : Henri Ellenberger a relevé « au
+   moins onze recensions dans des périodiques d'intérêt général et des
+   revues scientifiques, dont certaines furent très élogieuses ». En
+   France, Bergson salue les découvertes de Freud dans une conférence de
+   mars 1901^[12].
+   [Freud_and_other_psychoanalysts_1922_-_Otto_Rank.jpg] Otto Rank
+   collabora aux éditions 3-7 de L'interprétation du rêve.
+
+   L'interprétation du rêve est un texte qui fut beaucoup remanié et qui,
+   de 1900 à 1930, connut huit éditions. Otto Rank collabora à la
+   troisième édition (1911) et de manière importante à la quatrième
+   édition (1914)^[12]. Il rédigea deux chapitres qui figurent dans les
+   éditions 4-7, de 1914 à 1922: « Traum und Dichtung » [« Rêve et
+   poésie »] et « Traum und Mythus » [« Rêve et mythe »]^[13].
+   La célèbre phrase: « l'interprétation du rêve est la via regia menant �
+   la connaissance de l'inconscient dans la vie d'âme » est un ajout de
+   1909 (2^e édition)^[14].
+
+   En 1921, Freud écrit que si ce livre avait jadis pour rôle d'informer
+   (« sur la nature du rêve »), « il lui faut maintenant remédier, avec
+   tout autant de soins, à l'incompréhension têtue que rencontre cette
+   information »^[15].
+
+   En 1924, devenu plus « confiant dans les destinées de son livre », il
+   écrit dans le « Court abrégé de la psychanalyse » : « La psychanalyse
+   est pour ainsi dire née avec le XX^e siècle ». Un siècle plus tard,
+   L'interprétation du rêve est « le titre le plus universellement diffusé
+   de toute l'œuvre freudienne »^[12].
+   Les milieux philosophiques, littéraires ou artistiques « exprimèrent
+   leur approbation », et le livre fut accueilli avec enthousiasme par les
+   surréalistes français, spécialement par André Breton^[16].
+
+   En 1931, dans sa préface à la troisième édition anglaise (révisée) de
+   The Interpretation of dreams, Freud écrit à propos de son livre qu'il
+   demeure « pour l'essentiel inchangé ». Il le considère comme « la plus
+   précieuse de toutes les découvertes » qu'il a eu « la bonne fortune de
+   faire »^[17].
+
+Le rêve comme « accomplissement de souhait »
+
+   [modifier | modifier le code]
+
+   « Wunsch [souhait] est le grand mot de la Traumdeutung », souligne
+   François Robert en 2010^[18].
+
+   Selon les théorisations de Freud, le rêve, loin d'être un phénomène
+   absurde ou magique, possède un sens : il est « l'accomplissement d'un
+   désir » ou, plus exactement et littéralement traduit de l'allemand
+   Wunscherfüllung, c'est un « accomplissement de souhait » (traduction
+   des OCF.P). Il a pour fonction de satisfaire le rêveur. Le rêve
+   renseigne par conséquent sur les désirs plus secrets du rêveur,
+   c'est-à-dire « refoulés » dans son inconscient. Au chapitre II où il
+   explique sa méthode de l'interprétation des rêves à partir du rêve
+   exemplaire de L'injection faite à Irma, Freud déclare: « Le rêve expose
+   les faits tels que j'aurais souhaité qu'ils se fussent passés; son
+   contenu est accomplissement d'un désir, son motif un désir après
+   complète interprétation, tout rêve se révèle comme l'accomplissement
+   d'un désir »^[19].
+
+Sept chapitres
+
+   [modifier | modifier le code]
+
+   La traduction des têtes de chapitres se réfère à l'ancienne traduction
+   d'Ignace Meyerson, publiée en 1926 sous le titre La science des rêves,
+   augmentée et entièrement révisée par Denise Berger, et intitulée
+   L'interprétation des rêves^[20] :
+    1. La littérature scientifique concernant les problèmes du rêve.
+    2. La méthode d'interprétation des rêves. Analyse d'un exemple de
+       rêve.
+    3. Le rêve est un accomplissement de désir.
+    4. La déformation dans le rêve.
+    5. Le matériel et les sources du rêve.
+    6. Le travail du rêve.
+    7. Psychologie des processus du rêve.
+
+   Élisabeth Roudinesco et Michel Plon discernent trois parties dans
+   L'interprétation du rêve :
+    1. le chapitre I qui est « la recension bibliographique des travaux
+       effectués avant Freud » ;
+    2. « la méthode d'interprétation des rêves, la théorie de la formation
+       du rêve, sa fonction, le travail du rêve composent la deuxième
+       partie » qui comprend les cinq chapitres suivants, chapitres
+       « essentiels, plusieurs fois modifiés » par Freud ;
+    3. la troisième partie correspond au chapitre VII, consacré à l'exposé
+       de la théorie du fonctionnement de l'appareil psychique : Freud y
+       « expose les instances de sa première topique »: conscient,
+       préconscient et inconscient^[21].
+
+Contenu du livre
+
+   [modifier | modifier le code]
+
+Méthode d'interprétation
+
+   [modifier | modifier le code]
+
+   Freud propose l'une des premières descriptions de la méthode propre �
+   l'interprétation analytique. De fait, il décrit la règle de
+   l'association libre qui reste l'un des piliers essentiels de la
+   pratique psychanalytique. Freud prend appui, pour indiquer ce qu'est la
+   technique de l'interprétation^[22], sur plusieurs de ses propres rêves.
+
+« L'injection faite à Irma » et l'auto-analyse de Freud
+
+   [modifier | modifier le code]
+   Articles détaillés : L'injection faite à Irma, Auto-analyse et
+   L'auto-analyse de Freud.
+   [250px-Stele_-_Sigmund_Freud%2C_Das_Geheimnis_des_Traumes_%28Wien_1900%
+   29_002.jpg] Plaque commémorative du lieu, près de Grinzing où « le 24
+   juillet 1895, le mystère du rêve fut révélé au D^r Sigmund Freud »
+   (rêve de l'injection faite à Irma).
+
+   Le rêve de « l'injection faite à Irma »^[23] est inaugural en tant que
+   « modèle » et pour son analyse au chapitre II du livre intitulé « La
+   méthode de l'interprétation du rêve. Analyse d'un échantillon (Muster)
+   de rêve  ». Ce rêve inaugure l'énoncé du processus d'interprétation du
+   rêve et d'une certaine façon l'histoire de la technique psychanalytique
+   et la période d'autoanalyse de Freud, où son ami Wilhelm Fliess joue un
+   rôle important^[24].
+   [250px-Wien-Grinzing_from_south_1900.jpg] Grinzing en 1900.
+
+   Freud fait ce rêve dans la nuit du 23 au 24 juillet 1895, durant ses
+   vacances et alors qu'il séjournait à la Villa Bellevue près de Grinzing
+   dans les environs de Vienne. Le rêve se passe quelques jours avant
+   l'anniversaire de Martha, la femme de Freud, alors enceinte de leur
+   dernier enfant, Anna^[25]. Bellevue était une maison isolée, sur l'une
+   des collines adjacentes au Kahlenberg^[26]. L'analyse de son rêve par
+   Freud lui permet d'en déduire ce qui devient la thèse principale de son
+   livre, selon laquelle « le rêve s'avère être un accomplissement de
+   souhait ». Freud, au cours d'un séjour l'année suivante à Bellevue,
+   écrit à Fliess : « Crois-tu vraiment qu'il y aura un jour sur cette
+   maison une plaque de marbre où on pourra lire : “Ici se dévoila le 24
+   juillet 1895 / au Dr Sigmund Freud / le mystère du rêve.” Les chances
+   en sont jusqu'à présent bien minces »^[27]. Une grande partie des rêves
+   rapportés dans la Traumdeutung étant constituée des rêves de Freud
+   ^[28], L'interprétation du rêve représente, avec les Lettres à Fliess,
+   l'un des deux volets de l'auto-analyse » de Freud^[29].
+
+Les « rêves de Rome » de Freud et l'infantile
+
+   [modifier | modifier le code]
+
+   Les « rêves de Rome »^[30] ne se passent pas à Rome mais se rapportent
+   à la « désirance » (Sehnsucht) de Freud d' « aller à Rome »^[31]. Ils
+   représentent entre autres et parmi les rêves d' « ambition » de Freud
+   la place importante de « l'infantile » dans les sources du rêve. C'est
+   au cours des « rêves de Rome » qu'est évoquée notamment l'histoire du
+   père de Freud humilié par un chrétien parce que juif, histoire que
+   Jacob Freud avait racontée à son fils enfant : placés dans la partie B
+   « L'infantile dans le rêve » du chapitre V « Le matériel du rêve et les
+   sources du rêve », Freud y « associe librement » à son « héros favori »
+   dans l'adolescence, Hannibal Barca dont le père Hamilcar Barca « fait
+   jurer à son petit garçon, devant l'autel domestique, qu'il prendra
+   vengeance des Romains ». Freud écrit: « Hannibal et Rome symbolisaient
+   pour l'adolescent que j'étais l'opposition entre la ténacité du
+   judaïsme et l'esprit d'organisation de l'Église catholique »^[32].
+   [250px-Gause_%E2%80%93_Prater_%E2%80%93_ca._1895.jpg] Le Prater, vers
+   1895 par Wilhelm Gause.
+
+   C'est à ce souvenir d'enfance « enfoui » considéré comme un
+   « excitateur de rêve » que Freud fait remonter sa « désirance d'aller �
+   Rome », en analysant dans le troisième rêve l'élément figuratif de
+   « Monsieur Zucker » à qui il « décide de [...] demander [son] chemin
+   menant à la ville » (Lübeck dans le « récit de rêve »), avec
+   l'« association libre » d'ordre verbal à l'expression bien connue
+   « Tous les chemins mènent à Rome »^[33]. Dans un autre rêve inspiré par
+   « l'ambition » et rappelé auparavant, Freud avait associé à ce qu'on
+   lui avait raconté dans son enfance : « une vieille paysanne avait
+   prophétisé à la mère heureuse de son premier-né qu'elle avait fait
+   cadeau au monde d'un grand homme ». Cette « prophétie » se trouva
+   renforcée par un autre souvenir de jeunesse de Freud alors jeune garçon
+   de onze ou douze ans, que ses parents avaient emmené au Prater et
+   auquel un « poète » ambulant eut l'occasion de prophétiser « contre une
+   petite rétribution » qu'il pourrait bien « un jour devenir
+   “ministre” »^[34].
+
+Contenu manifeste du rêve et contenu latent
+
+   [modifier | modifier le code]
+
+   Le rêve comme le rêveur le raconte est appelé le contenu manifeste. Il
+   accomplit un désir refoulé. L'interprétation a pour but de déceler ce
+   contenu latent.
+    1. Le contenu manifeste du rêve « désigne le rêve avant qu'il soit
+       soumis à l'investigation analytique, tel qu'il apparaît au rêveur
+       qui en fait le récit »^[35].
+    2. Le contenu latent est l'« ensemble de significations auquel aboutit
+       l'analyse d'une production de l'inconscient, singulièrement du
+       rêve. Une fois déchiffré, le rêve n'apparaît plus comme un récit en
+       images mais comme une organisation de pensées, un discours,
+       exprimant un ou plusieurs désirs »^[36].
+
+   Selon Freud, « le contenu latent est antérieur au contenu manifeste, le
+   travail du rêve transformant l'un en l'autre ». Toutefois, « cela ne
+   signifie pas que l'analyste puisse tout redécouvrir », précisent
+   Laplanche et Pontalis en citant Freud : « “Dans les rêves les mieux
+   interprétés on est souvent obligé de laisser dans l'ombre un point
+   [...]. C'est là l'ombilic du rêve” »^[36].
+
+Travail du rêve
+
+   [modifier | modifier le code]
+   Article détaillé : Travail du rêve.
+
+   Le « travail du rêve » consiste en un ensemble d'opérations « qui
+   transforment les matériaux du rêve (stimuli corporels, restes diurnes,
+   pensées du rêve) en un produit : le rêve manifeste. La déformation est
+   l'effet de ce travail ». Laplanche et Pontalis signalent qu' « à la fin
+   du chapitre IV de L'interprétation du rêve (Die Traumdeutung, 1900),
+   Freud écrit : “Le travail psychique dans la formation du rêve se divise
+   en deux opérations : la production des pensées du rêve, leur
+   transformation en contenu [manifeste] du rêve” ». C'est la seconde de
+   ces deux opérations « qui constitue au sens strict le travail du rêve
+   dont Freud a analysé les quatre mécanismes : Verdichtung
+   (condensation), Verschiebung (déplacement), Rücksicht auf
+   Darstellbarkeit (prise en considération de la figurabilité), sekundäre
+   Bearbeitung (élaboration secondaire) »^[37] :
+    1. La « condensation » est le fait que plusieurs représentations
+       s'amalgament et n'en font plus qu'une. Ainsi, un seul élément du
+       rêve manifeste peut recouvrir plusieurs pensées latentes du rêve :
+       « la condensation s'organise autour de certains des termes du
+       contenu manifeste, sortes de points de nouage sous lesquels s'est
+       effectuée une fusion entre plusieurs pensées latentes très
+       différentes les unes des autres »^[38].
+    2. Le « déplacement » « résulte de transferts d'intensités psychiques
+       de certains éléments sur d'autres, de telle manière que certains,
+       riches, deviennent sans intérêt et peuvent ainsi échapper à la
+       censure, alors que d'autres vont se trouver survalorisés »^[38].
+    3. La « figuration », ou prise en considération de la figurabilité est
+       le troisième mécanisme : Freud « montre que le rêve, voie royale
+       d'accès à l'inconscient, ne peut représenter des relations logiques
+       entre les éléments qui le composent (alternatives, contradictions
+       ou causalités), mais qu'il peut en revanche les modifier ou les
+       maquiller, l'interprétation ayant pour tâche de rétablir ces
+       relations effacées par le travail du rêve ». Ainsi, « deux
+       personnes peuvent n'en faire qu'une » (importance de
+       l'identification) ou peuvent « être représentées par une seule
+       chose qui leur est commune ». Le processus de l'identification
+       permet au rêveur de « se déguiser : “C'est la personne même du
+       rêveur, souligne Freud, qui apparaît dans chacun des rêves, je n'ai
+       trouvé aucune exception à cette règle. Le rêve est absolument
+       égoïste” » ^[39].
+    4. Pour les auteurs du Vocabulaire de la psychanalyse , le « quatrième
+       mécanisme », l'« élaboration secondaire », représente « un deuxième
+       temps du travail (Arbeit) du rêve ; elle porte sur des produits
+       déjà élaborés par les autres mécanismes (condensation, déplacement,
+       figuration) » : l' « élaboration secondaire » est pour Freud un
+       « effet de la censure » et « peut être rapprochée de la
+       rationalisation ». Elle joue « un rôle prévalent » dans le « rêve
+       diurne », où elle assure « une cohérence plus grande qu'à ceux du
+       rêve »^[40].
+
+Rêves d'autres personnes
+
+   [modifier | modifier le code]
+
+   On peut citer entre autres : « le rêve des fraises » d'Anna Freud^[41];
+   le « rêve du lion jaune » ; le « rêve du souper empêché (saumon fumé) »
+   dit aussi de la « spirituelle bouchère » ; le « rêve de l'enfant qui
+   brûle » ; le « rêve de l'enfant mort étendu dans un cercueil »...
+     * Le rêve du « souper empêché (saumon fumé) »^[42], dit aussi de la
+       « spirituelle bouchère » se rapporte en théorie au concept
+       d'identification associé aux « symptômes hystériques » : la notion
+       d' « identification hystérique » ressort du « commentaire qui suit
+       le rêve de la “spirituelle bouchère” à propos des identifications
+       qu'elle y fait avec son amie et présumée rivale (chapitre IV) ».
+       C'est ainsi, dit Freud, que « les patients peuvent “souffrir pour
+       une foule de gens et jouer à eux seuls tous les rôles d'un
+       drame” »^[43].
+
+Rêves de commodité
+
+   [modifier | modifier le code]
+
+   Le « rêve de commodité » satisfait « à ses deux fonctions essentielles,
+   de satisfaction d'un désir et de gardien du sommeil ». Freud mentionne
+   un tel rêve fait par un jeune médecin (le neveu de Breuer) dans une
+   lettre à W. Fliess du 4 mars 1895. Ce sera, dans L'interprétation du
+   rêve, le rêve de « Monsieur Pepi »^[44], cité au chapitre III et au
+   chapitre V : le jeune médecin qu'on réveille de bon matin pour qu'il
+   aille prendre son service à l'hôpital, se rendort aussitôt, et rêve
+   qu'il est déjà à l'hôpital, couché dans un lit, avec un écriteau à la
+   tête du lit portant son nom. Il n'a donc pas besoin de se rendre à son
+   travail et peut se rendormir^[45].
+
+Rêves typiques
+
+   [modifier | modifier le code]
+
+   « Le rêve typique est un rêve qui, par son contenu et sa forme, se
+   présente de façon à peu près semblable chez un grand nombre de
+   personnes ». Freud consacre « un long sous-chapitre » aux rêves
+   typiques, au chapitre IV de L'interprétation du rêve^[46].
+
+   Par exemple, les rêves « d'examen », « de nudité » , « de vol » (dans
+   les airs), comptent parmi les rêves « typiques ».
+
+   C'est à l'occasion des rêves typiques « de la mort de personnes
+   chères » que Freud évoque « la légende d'Œdipe » en référence �
+   Œdipe-Roi de Sophocle.
+
+Symbolisme
+
+   [modifier | modifier le code]
+
+   Au chapitre VI de L'interprétation du rêve, Freud « consacre un
+   paragraphe à “la figuration par symboles en rêve” ». Il s'agit
+   d'« équivalences symbole-symbolisé relativement constantes et
+   universelles dans une culture donnée (et, pour certaines peut-être,
+   dans toute culture) ». Étant donné « la multiplicité des exemples
+   donnés », Roger Perron insiste sur le fait qu'il ne faut pas « y voir
+   une nouvelle “clé des songes”, démarche contre laquelle tout cet
+   ouvrage s'insurge »^[47].
+
+   Dans le rêve d'une jeune femme agoraphobe, celle-ci s'est fabriqué un
+   chapeau avec les organes génitaux de son mari, afin de se protéger de
+   son désir de se laisser séduire par de beaux militaires^[48]: le
+   chapeau est le symbole de l'homme (de l'organe génital masculin).
+   Dans un « rêve d'escalier » (communiqué et interprété par Otto Rank),
+   « toute la symbolique de l'escalier se démasque comme représentance du
+   coït »^[49].
+
+   Au chapitre VI sur « Le travail du rêve », Freud, en citant le travail
+   d'Otto Rank « sur la “stratification symbolique dans le rêve à réveil
+   provoqué” (1912) », suit les développements de ce dernier concernant
+   « le fait qu'un grand nombre de “rêves à stimulus urinaire” sont à vrai
+   dire causés par un stimulus sexuel qui cherche à se satisfaire d'abord
+   sur la voie de la régression sous la forme infantile de l'érotisme
+   urétral » (L'Interprétation du rêve, ajout de 1919)^[50].
+
+Le chapitre VII
+
+   [modifier | modifier le code]
+
+   Le dernier chapitre « Sur la psychologie des processus de rêve »
+   représente un livre en soi, d'une grande importance théorique. « Freud
+   y met en place sa conception de l'appareil psychique en reprenant
+   nombre des éléments contenus dans les “manuscrits” envoyés à Fliess au
+   cours des années précédentes ». Il y développe pour la première fois
+   « sa conception de l'inconscient, l'opposition entre processus primaire
+   et processus secondaire, préfiguration de l'opposition entre principe
+   de réalité et principe de plaisir et sa conception du
+   refoulement »^[51].
+   [250px-Erl_king_sterner.jpg] Illustration (A.E. Sterner) du Roi des
+   aulnes de Goethe
+
+   Les schémas de l'appareil psychique, explicatifs de la première topique
+   freudienne, sont situés dans la seconde section (B dans les OCF.P) sur
+   « La régression »^[52].
+
+   Le chapitre VII commence par le rêve de l'« Enfant qui brûle »^[53]. Le
+   rêve est cité à plusieurs reprises dans la suite du chapitre VII ^[54].
+   Robert Mancini, à propos de ce rêve de « l'enfant mort qui brûle :
+   Père, ne vois-tu pas [...] » allusif à un vers de la ballade de Goethe
+   « Le Roi des aulnes », pose la question : « Pourquoi Freud a-t-il fait
+   du rêve de l'enfant mort l'illustration de sa métapsychologie [...]? »
+   ^[55].
+
+   D'après le Vocabulaire de la psychanalyse, c'est afin de « rendre
+   compte d'un aspect essentiel du rêve » que Freud a introduit dans la
+   Traumdeutung la notion de « régression », d'abord « dans un sens
+   surtout topique »^[56]: comme « les pensées du rêve se présentent
+   principalement sous forme d'images sensorielles qui s'imposent au sujet
+   de façon quasi hallucinatoire », écrivent Laplanche et Pontalis,
+   « l'explication de ce caractère exige une conception topique de
+   l'appareil psychique comme formé d'une succession orientée de
+   systèmes »^[56]. Avec la découverte progressive dans les années
+   1910-1912 des « stades du développement psycho-sexuel infantile se
+   succédant dans un ordre déterminé », qui permettait de dégager de
+   manière plus affirmée « la notion de régression temporelle », Freud,
+   dans un ajout de 1914 à L'Interprétation du rêve au chapitre VII, y
+   différencie le désormais concept de « régression » en ces termes :
+   « “Nous distinguons trois sortes de régressions: a) Topique au sens du
+   schéma [de l'appareil psychique] ; b) Temporelle, où sont reprises des
+   formations psychiques plus anciennes ; c) Formelle, lorsque les modes
+   d'expression et de figuration habituels sont remplacés par des modes
+   primitifs. Ces trois formes de régression, à leur fondement, n'en font
+   qu'une et, dans la plupart des cas, elles se rejoignent, car ce qui est
+   plus ancien dans le temps est également primitif dans sa forme et, dans
+   la topique psychique, se situe près de l'extrémité perception” »^[56]
+   ^,^[57].
+   Dans L'interprétation du rêve, Freud compare l'« appareil psychique »
+   avec un appareil optique pour rendre compréhensible, dit-il, le
+   fonctionnement psychique « en attribuant chaque fonction particulière �
+   une partie constitutive de l'appareil » ; il rattache différentes
+   fonctions à des « lieux spécifiques »^[58]. Une « topique » est « une
+   théorie des lieux (du grec: τόποι) », ici des « lieux psychiques dont
+   on peut donner une représentation figurée spatialement » et qui
+   correspondent à des systèmes « disposés dans un certain ordre les uns
+   par rapport aux autres ». Dans la « première topique » freudienne, « la
+   distinction majeure se fait entre Inconscient, Préconscient et
+   Conscient »^[59] :
+     * Dans le cadre de la première topique, l'inconscient « est constitué
+       de contenus refoulés qui se sont vu refuser l'accès au système
+       préconscient-conscient par l'action du refoulement »^[60].
+     * « Du point de vue métapsychologique, le système préconscient est
+       régi par le processus secondaire. Il est séparé du système
+       inconscient par la censure »^[61]. Dans L'interprétation du rêve,
+       la « censure » « est postulée pour rendre compte des différents
+       mécanismes de déformation (Entstellung) du rêve »^[61].
+     * La « fonction perception-conscience » est souvent rattachée par
+       Freud au « système préconscient, désigné alors comme système
+       préconscient-conscient (Pc-Cs) »^[62].
+
+   En faisant de la perception-conscience « la fonction d'un système
+   particulier », Freud en arrive à postuler « une incompatibilité entre
+   la conscience et la mémoire ». Dans la mémoire, « Freud introduit des
+   distinctions topiques » : un événement « s'inscrit dans différents
+   systèmes mnésiques »^[63].
+
+   Dans ses Problématiques V — Le baquet, Jean Laplanche reprend dans le
+   texte, en le retraduisant, la lettre 52 de Freud à Wilhelm Fliess^[64],
+   qui permet d'expliquer le « modèle » du rêve du chapitre VII :
+                I                 II                III
+ Pc            S.Pc               Ics.              Pcs.              Cs.
+x  x - - - - - x  x   - - - - - - x x  - - -- - - - x  x  - - - - -  x  x
+
+ x             x x                x  x               x                x
+
+   « Pc, ce sont des neurones, dans lesquels les perceptions se
+   produisent, à quoi se relie la conscience, mais qui ne conservent, en
+   eux-mêmes, aucune trace de l'événement. Conscience et mémoire en effet
+   s'excluent [on ne peut percevoir que dans la mesure où, sans cesse, se
+   trouve remise à l'état vierge la plaque sensible].
+
+   “ S-Pc [Signe de perception] est la première inscription des
+   perceptions, tout à fait incapable de conscience, disposée selon
+   l'association de simultanéité.
+
+   “ Ics [inconscience], c'est la seconde inscription ordonnée selon
+   d'autres relations, peut-être causales. Les traces ics correspondraient
+   peut-être à des souvenirs de concept, pareillement inaccessibles à la
+   conscience.
+
+   “ Pcs [préconscience] est la troisième transcription [...] liée à des
+   représentations de mot, correspondant à notre moi officiel.
+   [...] »^[65].
+
+   « Ce qui nous est décrit avec L'interprétation du rêve », écrit plus
+   loin Jean Laplanche, « c'est donc la transformation de ce modèle en un
+   appareil fermé (vous retrouvez à l'intérieur les systèmes I, II, III,
+   sous la forme de nos plaques de radiographie) quelque chose qui évoque
+   un organisme ». Cet « organisme » est fermé « à droite » dans la mesure
+   où « le rêve travaille essentiellement sur des restes diurnes ». Ce
+   sont des « éléments non refoulés, relativement accessibles », ajoute
+   Laplanche : « le rêve leur a fait subir un traitement qui est
+   véritablement un mauvais traitement [...] selon les règles de sa
+   logique propre » : La « logique du rêve » obéit à celle des « processus
+   inconscients : condensation, déplacement, figuration, etc. »^[66].
+
+Critiques et débats
+
+   [modifier | modifier le code]
+
+   Étant donné l'enjeu des thèses de Freud dans L'interprétation du rêve,
+   le livre suscite aujourd'hui des débats ainsi que des critiques, qui
+   ont souvent pour objet la psychanalyse dans son ensemble en tant que
+   méthode d'accès à la connaissance de l'inconscient.
+
+Critiques actuelles des psychologues cognitivistes et des neuropsychiatres
+
+   [modifier | modifier le code]
+   Article détaillé : Interprétation des rêves # Psychologie,
+   cognitivisme, neurosciences.
+
+   Aujourd'hui, le livre de Freud introductif de la méthode
+   psychanalytique découverte de « l'interprétation » peut faire l'objet
+   de critiques dans les domaines de la psychologie expérimentale, des
+   sciences cognitives, de la neurobiologie.
+
+   L'« association libre » est notamment critiquée (G. William Domhoff,
+   David Foulkes)^[67], tandis que pour le neurologue Bernard Lechevalier,
+   il y a compatibilité entre la conception psychanalytique du rêve et les
+   neurosciences^[68].
+
+Sur l'analyse du rêve de « l'Injection faite à Irma »
+
+   [modifier | modifier le code]
+
+   L'interprétation par Freud, dans le cadre de son « auto-analyse », de
+   ce rêve « modèle » de la méthode de « l'association libre » suscite
+   toujours des controverses en fonction des niveaux d'analyse où se
+   situent les différents auteurs.
+
+À propos de « Mathilde »
+
+   [modifier | modifier le code]
+
+   La figure de Mathilde condense plusieurs personnes dans
+   l'interprétation par Freud de son rêve de « l'injection faite �
+   Irma » :
+
+   En produisant l'argument que l'analyse du rêve de l'injection faite �
+   Irma fait en 1895, qui doit illustrer entre autres la méthode de
+   l'association libre, comporte une allusion à une maladie grave dont
+   souffrit en 1897 la fille aînée de Freud, R. Wilcocks estime que
+   l'analyse de ce rêve serait une construction ad hoc, et non une
+   illustration de l'association libre^[69].
+
+   Or, si chez Freud, ce rêve pouvait être considéré comme un rêve
+   prémonitoire, dans la mesure où l'analyse de ses éléments diurnes
+   évoquait les préparatifs, la veille, de la fête d'anniversaire de
+   Martha Freud à la villa Bellevue dans la banlieue viennoise, son
+   « interprétation » a lieu après coup. Un « rêve prémonitoire  » ne
+   contrarie pas la thèse de Freud selon laquelle « le rêve est
+   l'accomplissement d'un désir » : Freud pense en effet que si « la
+   sagesse populaire a raison quand elle prétend que les rêves prédisent
+   l'avenir », c'est qu'en réalité « l'avenir que le rêve nous montre »
+   n'est pas « tel qu'il se réalisera, mais tel que nous souhaitons le
+   voir réalisé »^[70].
+     * Le « cas Mathilde »
+
+   Pour Freud, le souhait du rêve de l'injection faite à Irma est celui de
+   se disculper. Au cours de ses associations au rêve de l'injection faite
+   à Irma, et plus profondément, Freud se souvient en fait du cas d'une
+   patiente, Mathilde S., morte à la suite d'une intoxication
+   médicamenteuse, dont il portait la responsabilité: « ses sentiments de
+   culpabilité apparaissent clairement quand il fait le lien entre les
+   craintes pour la vie de sa fille Mathilde^[71] atteinte de diphtérie
+   [...] avec ce cas aux lourdes conséquences : “cette Mathilde pour
+   l'autre Mathilde, œil pour œil, dent pour dent” »^[72].
+
+« Logique du rêve » et « écriture »
+
+   [modifier | modifier le code]
+
+   Le rêve de « l'injection faite à Irma » a aussi interrogé un philosophe
+   comme Jacques Derrida par rapport à la « logique du rêve ».
+
+   À propos de l'« histoire du chaudron emprunté » que Freud introduit
+   dans son analyse du rêve de « l'injection faite à Irma » pour illustrer
+   la « logique du rêve », Jacques Derrida, au chapitre « La Pharmacie de
+   Platon » de Dissémination, méditait dans les années 1970 sur le
+   « raisonnement du chaudron » évoqué par Freud « dans la Traumdeutung
+   pour y trouver matière à illustrer la logique du rêve »: il appliquait
+   alors, dans un autre registre que celui de la métapsychologie
+   freudienne, l'exemple du chaudron « troué » et de son analyse à sa
+   propre conception de « l'écriture »^[73].
+
+   Dans les années 1990, Derrida mentionne à nouveau ce passage de
+   l'analyse du « rêve d'Irma » où intervient le « raisonnement du
+   chaudron » dans Résistances — de la psychanalyse (1996), texte qui
+   touche, pourrait-on dire avec Jacques Derrida et selon Joël Birman, aux
+   « enjeux les plus décisifs et les plus difficiles entre [...] “la
+   psychanalyse” et “ la déconstruction” »^[74].
+
+« Père, ne vois-tu pas... »
+
+   [modifier | modifier le code]
+
+   Dans le titre de son livre Père, ne vois-tu pas... Le père, le maître,
+   le spectre dans L'Interprétation des rêves, Monique Schneider reprend
+   sous forme de motto un extrait du « rêve cité par Freud : l'enfant mort
+   qui vient réveiller son père en lui murmurant : “Père, ne vois-tu pas
+   que je brûle?” », avec le commentaire suivant : « Toute
+   L'Interprétation des rêves, centrée sur le regard, la vie et la mort,
+   résonne de cet appel adressé au père »^[75].
+
+Sur « le chapitre VII »
+
+   [modifier | modifier le code]
+
+   Dans le cadre de la théorie de la séduction généralisée, Jean
+   Laplanche, au chapitre « Rêve et communication : faut-il récrire le
+   chapitre VII ? » de son livre Sexual (2007), s'interroge sur les
+   rapports du rêve et de la communication. Il propose sur le plan
+   métapsychologique de « substituer la notion de message à celle de
+   perception », en introduisant une dualité entre l'autre émetteur du
+   message compromis avec l'inconscient adulte chez le rêveur, et l'enfant
+   récepteur de la sexualité infantile chez le même rêveur, qui aura,
+   après-coup, à « traduire » un tel message : l'homme, écrit Jean
+   Laplanche, est « plongé dans un monde de messages. Il reçoit des
+   messages et doit les traduire, ceci au risque de laisser de
+   l'intraduit »^[76].
+
+Notes et références
+
+   [modifier | modifier le code]
+
+Notes
+
+   [modifier | modifier le code]
+    1. ↑ Cette traduction du syntagme, adoptée notamment par les OCF/P,
+       choisit de mettre « rêve » au singulier. L'équipe de traduction
+       souligne que « c’est le rêve, en tant que phénomène psychique, qui
+       est ici interprété […] Traum » du titre signifie bien le rêve comme
+       objet, tandis que le terme « Deutung » qui lui est accolé évoque
+       l’interprétation comme mode d’analyse d’un objet, le rêve. ».
+       Enfin, « en allemand, dans les mots composés, rien n’indique que le
+       premier terme soit un pluriel ou un singulier », Interview de
+       l'équipe de traduction des OCF/P, 2003, [lire en ligne].
+    2. ↑ Ce titre a été retenu par le traducteur I. Meyerson dans une
+       publication de 1967 chez PUF^[1].
+
+Références
+
+   [modifier | modifier le code]
+    1. ↑ Bernard Dantier, « Textes de methodologie en sciences sociales »,
+       Les Classiques des sciences sociales, 28 août 2009
+    2. ↑ É. Roudinesco et M. Plon, Dictionnaire de la psychanalyse,
+       entrée: « Interprétation du rêve (L') », Paris, Fayard, Le Livre de
+       Poche / La Pochothèque, 2011, p. 773.
+    3. ↑ Dictionnaire du monde germanique, (Dir.: Élisabeth Décultot,
+       Michel Espagne et Jacques Le Rider), entrée: « Freud (Sigmund) »
+       (Auteur: J. Le Rider), Paris, Bayard, 2007, p. 380.
+    4. ↑ Roudinesco et Plon, entrée : « Interprétation du rêve (L') »,
+       p. 763.
+    5. ↑ ^a b c d et e Roger Perron, « Interprétation des rêves (L'-)»,
+       p. 881, in Alain de Mijolla, Dictionnaire international de la
+       psychanalyse, Paris, Hachette Littératures, 2005.
+    6. ↑ ^a b et c Roger Perron, « Irma (rêve de l'injection faite à -) »,
+       p. 890, in Alain de Mijolla, Dictionnaire international de la
+       psychanalyse, cf. bibliographie.
+    7. ↑ Freud, « Sur l'histoire du mouvement psychanalytique », chap. I.
+    8. ↑ (Marthe Robert, La Révolution psychanalytique, t. I,
+       p. 158-159)>Notice de L'interprétation du rêve, OCF.P t. IV, Paris,
+       PUF/Quadrige, 2010, p. 9.
+    9. ↑ Roudinesco et Plon, « Interprétation du rêve (L') », p. 763-764.
+   10. ↑ Roger Perron, « Complexe d'Œdipe », Dictionnaire international de
+       la psychanalyse, p. 353.
+   11. ↑ Perron, « 'Interprétation des rêves (L'-)», p. 881.
+   12. ↑ ^a b et c Notice de L'interprétation du rêve, OCF.P,
+       PUF/Quadrige, p. 10.
+   13. ↑ Dictionnaire international de la psychanalyse, entrée : « Rank
+       (Rosenfeld) Otto » (Article de E. James Lieberman), p. 1456.
+   14. ↑ OCF.P PUF/Quadrige, p. 663. Via regia: voie royale menant à Rome
+       (note b p. 663).
+   15. ↑ Freud, Préface de la sixième édition, Vienne, avril 1921, dans:
+       L'interprétation des rêves, traduction: Ignace Meyerson, nouvelle
+       édition révisée par Denise Berger, Paris, Puf, 1987, p. 9.
+   16. ↑ Roudinesco et Plon, entrée : « Interprétation du rêve (L') »,
+       p. 774.
+   17. ↑ Freud, Préface à l'édition anglaise de 1932, dans OCF.P,
+       PUF/Quadrige, p. 23.
+   18. ↑ F. Robert, Préface à L'interprétation du rêve, traduit par Janine
+       Altounian, Pierre Cotet, René Laîné, Alain Rauzy et François
+       Robert, OCF.P, Tome IV, Paris, Quadrige / P.U.F., 2010, p. V.
+   19. ↑ Schilton, 2005, p. 457-458.
+   20. ↑ Sigmund Freud, L'interprétation des rêves, tr. en français 1^re
+       éd. I. Meyerson (1926), Paris, PUF, nouvelle éd. révisée:
+       4^e trimestre 1967, février. (ISBN 2 13 040004 3)
+   21. ↑ É. Roudinesco et M. Plon, Dictionnaire de la psychanalyse,
+       entrée: « Interprétation du rêve (L') », Paris, Fayard, 2011,
+       p. 767.
+   22. ↑ Aux sources du rêve de Liliane Fainsilber
+   23. ↑ Voir : S. Freud, chapitre II de L'interprétation du rêve, OCF.P
+       IV, Quadrige/ Puf, p. 131-156.
+   24. ↑ Roger Perron, « Irma (rêve de l'injection faite à -)», p. 890, in
+       Alain de Mijolla, Dictionnaire international de la psychanalyse,
+       cf. bibliographie.
+   25. ↑ Élisabeth Roudinesco et Michel Plon, Dictionnaire de la
+       psychanalyse, Entrée « Irma (L'injection faite à) », Paris, Le
+       Livre de Poche / La Pochothèque, 2011, p. 776-777.
+   26. ↑ Freud, OCF.P IV, PUF /Quadrige, p. 143.
+   27. ↑ Freud, lettre du 12 juin 1900, p. 156 in OCF.P IV, PUF /Quadrige.
+   28. ↑ Soit 47 des 223 rêves qui y sont étudiés, selon Roudinesco et
+       Plon, p. 766.
+   29. ↑ Didier Anzieu, L'auto-analyse de Freud — et la découverte de la
+       psychanalyse.
+   30. ↑ Freud, L'interprétation du rêve, OCF.P IV, PUF /Quadrige,
+       p. 231-235
+   31. ↑ OCF.P, L'interprétation du rêve, PUF/Quadrige, p. 231
+   32. ↑ Freud, L'interprétation du rêve, OCF.P IV, PUF /Quadrige, p. 234.
+   33. ↑ Freud, L'interprétation du rêve, OCF.P IV, PUF /Quadrige,
+       p. 231-232.
+   34. ↑ Freud, L'interprétation du rêve, OCF.P IV, PUF /Quadrige,
+       p. 229-230.
+   35. ↑ Laplanche et Pontalis, entrée: « Contenu manifeste »
+   36. ↑ ^a et b Laplanche et Pontalis, entrée: « Contenu latent »
+   37. ↑ J. Laplanche et J.-B. Pontalis, Vocabulaire de la psychanalyse,
+       entrée : « Travail du rêve », Paris, P.U.F., 1^re éd.: 1967, 8^e
+       édition: 1984, p. 505.
+   38. ↑ ^a et b Roudinesco et Plon, p. 771
+   39. ↑ Roudinesco et Plon, p. 771-772.
+   40. ↑ Laplanche et Pontalis, Vocabulaire de la psychanalyse, entrées :
+       « Élaboration secondaire », « Rêve diurne (rêverie) ».
+   41. ↑ Chapitre III, OCF.P PUF/Quadrige, « Anna, fraises, fraises
+       sauvages », p. 165 : interprété au paragraphe sur les « rêves des
+       enfants », mentionné à nouveau au paragraphe « L'égoïsme des
+       rêves » dans le chapitre V, p. 309: « le rêve de fraises de ma
+       petite Anna [...] ».
+   42. ↑ OCF.P, PUF/Quadrige, p. 182-184, 189 n. 1, 211.
+   43. ↑ Dictionnaire international de la psychanalyse (dir. A. de
+       Mijolla), entrée: « Identification » (Article d'Alain de Mijolla),
+       p. 810.
+   44. ↑ OCF.P, PUF/Quadrige, Rêve de « Pepi H. dans un lit d'hôpital »,
+       p. 160,272.
+   45. ↑ Perron, « Rêve de commodité », p. 1551.
+   46. ↑ Perron, entrée: « Rêve typique » dans Dictionnaire international
+       de la psychanalyse, p. 1557.
+   47. ↑ Perron, entrée: « Symbolisme du rêve », dans Dictionnaire
+       international de la psychanalyse, p. 1768-1769.
+   48. ↑ L'interprétation des rêves, Rêve d'une agoraphobe, Tr. Meyerson,
+       p. 309-310.
+   49. ↑ Freud, L'interprétation du rêve, OCF.P, PUF/Quadrige, p. 417.
+   50. ↑ Freud, L'interprétation du rêve, OCF.P, PUF/Quadrige, p. 451-452.
+   51. ↑ Roudinesco et Plon, entrée : « Interprétation du rêve (L') »,
+       p. 773.
+   52. ↑ OCF.P, PUF/Quadrige, « B. La régression », p. 586-603.
+   53. ↑ OCF.P, PUF/Quadrige, p. 567-568.
+   54. ↑ OCF.P, PUF/Quadrige, p. 586-587, 595, 604, 625.
+   55. ↑ Mancini, Robert. « Freud et le rêve de l'enfant mort », Revue
+       française de psychanalyse, vol. no 63, no. 3, 1999, pp. 1699-1702
+   56. ↑ ^a b et c Laplanche et Pontalis, 2009, entrée « Régression ».
+   57. ↑ En 1967, Laplanche et Pontalis, à l'entrée « Régression » du
+       Vocabulaire de la psychanalyse (1^re édition:1967), citent Freud
+       dans l'édition (nouvelle et augmentée) de 1967 de la traduction de
+       Meyerson de L'Interprétation des rêves, p. 451 (d'après les
+       auteurs, cf. note 1b).
+   58. ↑ Laplanche et Pontalis, entrée « Appareil psychique ».
+   59. ↑ Laplanche et Pontalis, entrée « Topique ».
+   60. ↑ Laplanche et Pontalis, entrée « Inconscient ».
+   61. ↑ ^a et b Laplanche et Pontalis, entrée « Préconscient ».
+   62. ↑ Laplanche et Pontalis, entrée « Conscience (psychologique) ».
+   63. ↑ Laplanche et Pontalis, entrée « Trace mnésique ».
+   64. ↑ Lettre 52 à Fliess, La naissance de la psychanalyse, 1979 (4^e
+       éd.), p. 153-160.
+   65. ↑ Extrait de la lettre 52 de Freud à Fliessp. 154-155, traduction
+       de J. Laplanche d'après Aus den Anfängen der Psychoanalyse, London,
+       Imago Publishing, 1950, p. 186, dans : J. Laplanche, Problématiques
+       V — Le baquet. Transcendance du transfert, Paris, P.U.F., 1987,
+       p. 51-52.
+   66. ↑ J. Laplanche, Problématiques V — Le baquet. Transcendance du
+       transfert, Paris, P.U.F., 1987, p. 53-54.
+   67. ↑ (en) Foulkes D., A grammar of dreams (1978), Basic Books, 1998 et
+       Domhoff G.W., The scientific study of dreams, American
+       Psychological Association, 2003
+   68. ↑ in Séverine Lestienne et Françoise Lotstra « Neuroplasticité et
+       inconscient, sujets d'articulation entre psychanalyse et
+       neurosciences », Cahiers critiques de thérapie familiale et de
+       pratiques de réseaux, 2/2009 (n^o 43), p. 35-45,
+       DOI 10.3917/ctf.043.0035.
+   69. ↑ R. Wilcocks, Maelzel's Chess Player. Sigmund Freud and the
+       Rhetoric of Deceit, Lanham, Rowman & Littlefield, 1994, p. 246-257.
+   70. ↑ Perron, entrée: « rêve prémonitoire », p. 1556.
+   71. ↑ Cf. Plon et Roudinesco, entrée: « Hollitscher Mathilde, née Freud
+       (1887-1978), fille de Sigmund Freud », p. 667: « Bien qu'elle ait
+       vécu jusqu'à 90 ans, Mathilde Hollitscher eut une santé déficiente.
+       Dans son enfance, elle faillit succomber à une diphtérie. Puis en
+       1905, à l'âge de 18 ans, elle frôla à nouveau la mort à la suite
+       d'une intervention consécutive à une crise d'appendicite pratiquée
+       par le chirurgien qui avait opéré Emma Eckstein ».
+   72. ↑ Dictionnaire international de la psychanalyse, entrée :
+       « Mathilde (cas-) » (article d'Albrecht Hirschmüller),
+       p. 1032-1033.
+   73. ↑ Francesca Manzari, Ecriture derridienne : entre langage des rêves
+       et critique littéraire, Peter Lang, 2009, 389 p. (lire en ligne),
+       pages 23, 24 et 25.
+   74. ↑ Joël Birman, « Écriture et psychanalyse : Derrida, lecteur de
+       Freud », Figures de la psychanalyse, ERES, vol. 1, n^o 15,‎ 2015,
+       pages 201 à 218 (DOI 10.3917/fp.015.0201, lire en ligne, consulté
+       le 3 septembre 2016).
+   75. ↑ Monique Schneider, “Père, ne vois-tu pas...” Le père, le maître,
+       le spectre dans L'Interprétation des rêves, Paris, Denoël /
+       L'Espace Analytique (coll. dir. par P. Guyomard et M. Mannoni),
+       1985, Quatrième de couverture.
+   76. ↑ Jean Laplanche, « Rêve et communication: faut-il récrire le
+       chapitre VII ? », p. 51-78 dans Sexual. La sexualité élargie au
+       sens freudien, Paris, P.U.F. / Quadrige, 2007, citations p. 67, 78
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Bibliographie
+
+   [modifier | modifier le code]
+
+Traductions françaises de L'interprétation du rêve
+
+   [modifier | modifier le code]
+     * Sigmund Freud, L'interprétation des rêves, Tr. en français 1^re éd.
+       I. Meyerson (1926), Paris PUF, Nouvelle éd. révisée: 4^e trimestre
+       1967, 6^e tirage: 1987, février. (ISBN 2 13 040004 3) Document
+       utilisé pour la rédaction de l’article
+     * Sigmund Freud, L'interprétation du rêve, traduit par Janine
+       Altounian, Pierre Cotet, René Laîné, Alain Rauzy et François
+       Robert, OCF.P, Tome IV, P.U.F., 2003, (ISBN 213052950X) ; dans
+       Quadrige / P.U.F., 2010 (ISBN 978-2-13-053628-4). Document utilisé
+       pour la rédaction de l’article
+     * Sigmund Freud, L'interprétation du rêve, traduction de Jean-Pierre
+       Lefebvre, Paris, Éditions du Seuil, 2010 (ISBN 9782021012514)
+
+Autres textes et correspondance de Freud
+
+   [modifier | modifier le code]
+     * Sigmund Freud,
+          + Über den Traum (1901),
+               o Sur le rêve, traduit par C. Heim, avec une préface de
+                 Didier Anzieu, Paris, Gallimard, 1988; Folio
+                 (ISBN 2070325547).
+               o Du rêve, traduit par Pierre Cotet et Alain Rauzy, OCF.P
+                 Volume V, Paris, PUF, 2012, p. 15-71
+                 (ISBN 978-2-13-058049-2)
+          + « Complément métapsychologique à la doctrine du rêve »
+            (Metapsychologische Ergänzung zur Traumlehre, 1915 [1917]),
+            traduit par J. Altounian, A. Bourguignon, P. Cotet, A. Rauzy,
+            OCF.P Volume XIII, Paris, PUF, 2012, p. 245-260 (ISBN 2 13
+            042148 2)
+          + Naissance de la psychanalyse, recueil de lettres envoyées par
+            Freud à Wilhelm Fliess, et manuscrit de Esquisse pour une
+            psychologie scientifique, PUF 1956 ; La naissance de la
+            psychanalyse, PUF, 1979.
+          + Lettres à Wilhelm Fliess 1887-1904, Édition complète,
+            Traduction de Françoise Kahn et François Robert, Paris, PUF,
+            2006 (ISBN 2130549950)
+
+Études spécialisées
+
+   [modifier | modifier le code]
+     * Bela Grunberger (Dir.) "Les Rêves, voie royale de l'inconscient",
+       textes réunis sous la direction de Bela Grundberger, éd. Sand &
+       Tchou, 1997 (ISBN 2710705931)
+     * É. Roudinesco et M. Plon, Dictionnaire de la psychanalyse, entrées:
+       « Interprétation du rêve (L') », « Irma (L'injection faite à) »
+       Paris, Fayard, 1997, 2000, 2006 et 2011 pour Le Livre de Poche / La
+       Pochothèque (ISBN 978-2-253-08854-7) Document utilisé pour la
+       rédaction de l’article
+     * Dictionnaire international de la psychanalyse (dir. Alain de
+       Mijolla), articles de Roger Perron: « Interprétation des rêves
+       (L'-) », « Irma (rêve de l'injection faite à -)» , « Complexe
+       d'Œdipe », « Rêve prémonitoire », « Rêve de commodité », « Rêve
+       typique », « Symbolisme du rêve »; article de E. James Lieberman:
+       « Rank (Rosenfeld) Otto »; article d'Alain de Mijolla:
+       « Identification »; article d'Albrecht Hirschmüller: « Mathilde
+       (cas-) », Paris, © Calmann-Lévy: 2002, © Hachette Littératures:
+       2005. Document utilisé pour la rédaction de l’article
+     * Delphine Schilton, « désir (accomplissement du -) », dans A. de
+       Mijolla (dir.), Dictionnaire international de la psychanalyse,
+       Paris, Hachette, 2005 (ISBN 201279145X), p. 457-458.
+     * Didier Anzieu, L'auto-analyse, Paris, PUF, 1^re édition © 1959.
+       Nouvelle édition, L'auto-analyse de Freud — et la découverte de la
+       psychanalyse, 2 volumes, Paris, PUF, 1975; 3^eéd. en 1 volume,
+       Paris, PUF, 1988.; 4^eéd., Paris, PUF, 1998 (ISBN 2130420842).
+     * J. Laplanche et J.-B. Pontalis, Vocabulaire de la psychanalyse,
+       Paris, P.U.F., 1^re éd.: 1967, 8^e édition: 1984, (ISBN 2 13
+       0386210); 5^e édition « Quadrige »: 2007,2^e tirage: 2009
+       (ISBN 978-2-13-056050-0) Document utilisé pour la rédaction de
+       l’article
+     * Jean Laplanche, Problématiques V — Le baquet. Transcendance du
+       transfert, Paris, P.U.F., 1987, p. 48-54, (ISBN 2 13 040026 4)
+       Document utilisé pour la rédaction de l’article
+     * Dictionnaire du monde germanique, (Dir.: Élisabeth Décultot, Michel
+       Espagne et Jacques Le Rider), entrée: « Freud (Sigmund) » (Auteur:
+       J. Le Rider), Paris, Bayard, 2007, (ISBN 9782227476523) Document
+       utilisé pour la rédaction de l’article
+
+Bibliographie contemporaine complémentaire
+
+   [modifier | modifier le code]
+
+   Par ordre chronologique:
+     * Monique Schneider, “Père, ne vois-tu pas...” Le père, le maître, le
+       spectre dans L'Interprétation des rêves, Paris, Denoël, 1985,
+       (ISBN 2207231321)
+     * Robert Mancini, « Freud et le rêve de l'enfant mort », Revue
+       française de psychanalyse, vol. 63, n^o 3, 1999, p. 1699-1702.
+     * Patricia Cotti, Théo Leydenbach, et Bertrand Vichyn, « Quelle
+       traduction pour la Traumdeutung ? Débat entre Patricia Cotti, Théo
+       Leydenbach et Bertrand Vichyn », Champ psychosomatique, vol. 31,
+       n^o 3, 2003, p. 25-45.
+     * Yvon Brès, « L'interprétation du rêve », Revue philosophique de la
+       France et de l'étranger, vol. tome 128, no. 3, 2003, p. 361-364
+       [lire en ligne].
+     * Jean-Michel Quinodoz, Les rêves qui tournent une page, PUF, 2003
+       (ISBN 213051491X)
+     * Jean Laplanche, « Rêve et communication: faut-il récrire le
+       chapitre VII ? », p. 51-78 dans Sexual. La sexualité élargie au
+       sens freudien, Paris, PUF, coll. « Quadrige », 2007
+       (ISBN 978-2-13-055376-2) Document utilisé pour la rédaction de
+       l’article
+     * Lydia Marinelli et Andreas Mayer, Rêver avec Freud. L'histoire
+       collective de "L'Interprétation du rêve", Aubier, 2009
+       (ISBN 978-2700703986).
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Sigmund Freud
+     * L'auto-analyse de Freud
+     * Psychanalyse
+     * L'injection faite à Irma
+     * Travail du rêve
+     * Première topique
+     * Rêve
+     * Logique du chaudron
+
+     * Interprétation des rêves
+
+Liens externes
+
+   [modifier | modifier le code]
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + BnF (données)
+          + GND
+     *
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Britannica
+          + Den Store Danske Encyklopædi
+          + Larousse
+          + Universalis
+
+   v · m
+   Psychanalyse
+   Généralités
+     * Histoire
+     * Métapsychologie
+     * Cure psychanalytique
+     * Psychanalyse dans le monde
+          + Allemagne
+          + France
+          + Grande-Bretagne
+          + Suisse
+     * Écoles
+     * Psychanalyste
+     * Inconscient
+
+   Concepts
+   (Liste)
+     * Angoisse de perte d'objet
+     * Réalité psychique
+     * Fantasme (psychologie)
+     * Fantasme originaire
+     * Théorie de la séduction
+     * Théorie de la séduction généralisée
+     * Sexualité infantile
+          + Stade autoérotique
+          + Stade oral
+          + Stade anal
+          + Stade phallique
+          + Période de latence
+          + Stade génital
+     * Scène primitive
+     * Scène primitive (masochisme)
+     * Stade du miroir
+     * Appareil psychique
+     * Travail du rêve
+     * Régression
+     * Première topique
+          + Conscient
+          + Préconscient
+          + Inconscient
+     * Seconde topique
+          + Ça
+          + Moi
+          + Surmoi
+     * Libido
+     * Narcissisme
+          + Narcissisme primaire
+          + Idéal du Moi - Moi idéal
+
+     *
+          + Narcissisme des petites différences
+     * Transfert
+     * Névrose de transfert
+     * Contre-transfert
+     * Sublimation
+     * Résistance
+     * Mécanisme de défense
+     * Principe de plaisir
+     * Principe de réalité
+     * Pulsions
+     * Pulsion de mort
+     * Pulsion de vie
+     * Position dépressive
+     * Complexe d'Œdipe
+          + Complexe de castration
+          + Envie du pénis
+     * Métaphore du Nom-du-père
+     * Forclusion (psychanalyse)
+     * Réel, symbolique et imaginaire
+     * Ambivalence
+     * Névrose (Hystérie)
+     * Psychose
+     * Projection
+     * Introjection
+     * Position schizo-paranoïde
+     * Identification projective
+     * Clivage du Moi
+     * Déni
+     * Perversion
+     * Après-coup
+     * Association libre
+     * Auto-analyse
+     * Attention flottante
+     * Envie et gratitude
+     * Perlaboration
+     * Refoulement
+     * Refoulement originaire
+     * Souvenir-écran
+     * Idéalisation
+     * Identification
+     * Identification à l'agresseur
+
+   Courants
+     * Européens
+          + Kleinisme
+          + Mouvement lacanien
+     * Américains
+          + Ego psychology
+          + Self psychology
+     * Dissidents
+          + Jungien
+          + Adlérien
+
+   Psychanalystes
+   (Liste)
+     * Karl Abraham
+     * Lou Andreas-Salomé
+     * Didier Anzieu
+     * Piera Aulagnier
+     * Wilfred Bion
+     * Marie Bonaparte
+     * Janine Chasseguet-Smirgel
+     * Francesco Corrao
+     * Françoise Dolto
+     * Erik Erikson
+     * Horacio Etchegoyen
+     * Nicole Fabre
+     * Paul Federn
+     * Ernst Federn
+     * Pierre Fédida
+     * Sándor Ferenczi
+     * Anna Freud
+     * Sigmund Freud
+     * Roland Gori
+     * Wladimir Granoff
+     * André Green
+     * Germaine Guex
+     * Patrick Guyomard
+     * Ernest Jones
+     * Melanie Klein
+     * Heinz Kohut
+     * Jacques Lacan
+     * Jean Laplanche
+     * Maud Mannoni
+     * Octave Mannoni
+     * Alain de Mijolla
+     * Sophie de Mijolla-Mellor
+     * Jacques-Alain Miller
+     * Herman Nunberg
+     * Francis Pasche
+     * François Perrier
+     * Paul-Claude Racamier
+     * Otto Rank
+     * Theodor Reik
+     * Élisabeth Roudinesco
+     * Hermann Rorschach
+     * Guy Rosolato
+     * Jacques Sédat
+     * Hanna Segal
+     * Conrad Stein
+     * Donald Winnicott
+
+   Critiques
+     * Pierre Janet
+     * Carl Gustav Jung
+     * Karl Popper
+     * Mikkel Borch-Jacobsen
+     * Critiques de la psychanalyse
+
+   Associations
+     * Association psychanalytique internationale
+     * Fédération européenne de psychanalyse
+     * Association internationale d'histoire de la psychanalyse (puis
+       Association internationale Interactions de la psychanalyse)
+     * En Allemagne
+          + Sanatorium Schloss Tegel, clinique psychanalytique
+          + Société allemande de psychanalyse
+          + Institut psychanalytique de Berlin
+          + Institut psychanalytique de Francfort
+     * Société britannique de psychanalyse
+     * Société psychanalytique italienne
+     * Société suisse de psychanalyse
+     * En France
+          + Société psychanalytique de Paris
+          + Société de psychanalyse freudienne
+          + Société française de psychanalyse
+          + École freudienne de Paris
+          + Association psychanalytique de France
+          + Espace analytique
+          + Quatrième Groupe
+          + Associations lacaniennes
+          + École de la cause freudienne
+
+     * Bibliographie
+     * Liste de revues
+     * Arborescence
+
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail de la psychanalyse
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=L%27Interprétation_du_rêve
+   &oldid=218909093 ».
+   Catégories :
+     * Livre de Sigmund Freud
+     * Métapsychologie
+     * Rêve
+
+   Catégories cachées :
+     * Article utilisant une Infobox
+     * Page utilisant le modèle Citation avec un retour ligne
+     * Article de Wikipédia avec notice d'autorité
+     * Page utilisant un modèle Bases inactif
+     * Page utilisant P1417
+     * Page utilisant P8313
+     * Page utilisant P6058
+     * Page utilisant P3219
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Page utilisant Palette Psychanalyse
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Psychanalyse/Articles liés
+
+     * La dernière modification de cette page a été faite le 25 septembre
+       2024 à 07:09.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   L'Interprétation du rêve
+   (BUTTON) 38 langues Ajouter un sujet

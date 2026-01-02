@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+  <title>Tableau en</title>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Tableau — en</h1>
+    <p>Mot (regex) : <code>(dream|dreams|dreamed|dreaming)</code> — Contexte : 100 caractères</p>
+    <div class="table-container">
+      <table class="table is-bordered is-hoverable is-striped is-fullwidth">
+        <tr>
+          <th>Numero</th>
+          <th>URL</th>
+          <th>Code HTTP</th>
+          <th>Encodage</th>
+          <th>Nb mots</th>
+          <th>Occurrences</th>
+          <th>Aspiration</th>
+          <th>Dump</th>
+          <th>Contexte</th>
+          <th>Concordance</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td><a href="https://www.bbc.com/news/articles/c5y959kyzr8o" target="_blank">https://www.bbc.com/news/articles/c5y959kyzr8o</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1231</td>
+          <td>6</td>
+          <td><a href="../aspirations/en-1.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-1.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-1.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-1.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td><a href="https://www.bbc.com/news/articles/cy84nvxn39do" target="_blank">https://www.bbc.com/news/articles/cy84nvxn39do</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1192</td>
+          <td>3</td>
+          <td><a href="../aspirations/en-2.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-2.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-2.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-2.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td><a href="https://www.bbc.com/sport/golf/articles/cz0nl38mkl3o" target="_blank">https://www.bbc.com/sport/golf/articles/cz0nl38mkl3o</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>1569</td>
+          <td>5</td>
+          <td><a href="../aspirations/en-3.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-3.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-3.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-3.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td><a href="https://www.bbc.com/news/articles/cjdrex1n3y8o" target="_blank">https://www.bbc.com/news/articles/cjdrex1n3y8o</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1261</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-4.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-4.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-4.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-4.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td><a href="https://www.bbc.com/sport/football/articles/c9qejqerlzdo" target="_blank">https://www.bbc.com/sport/football/articles/c9qejqerlzdo</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>1641</td>
+          <td>1</td>
+          <td><a href="../aspirations/en-5.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-5.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-5.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-5.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td><a href="https://www.bbc.com/news/articles/cx23ln4zxnlo" target="_blank">https://www.bbc.com/news/articles/cx23ln4zxnlo</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1523</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-6.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-6.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-6.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-6.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td><a href="https://www.bbc.com/news/articles/c5y917n4vzpo" target="_blank">https://www.bbc.com/news/articles/c5y917n4vzpo</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1353</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-7.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-7.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-7.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-7.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td><a href="https://www.bbc.com/news/articles/cy7ernn8470o" target="_blank">https://www.bbc.com/news/articles/cy7ernn8470o</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1218</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-8.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-8.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-8.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-8.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td><a href="https://www.bbc.com/news/articles/c93x5g4k7lvo" target="_blank">https://www.bbc.com/news/articles/c93x5g4k7lvo</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1362</td>
+          <td>1</td>
+          <td><a href="../aspirations/en-9.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-9.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-9.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-9.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td><a href="https://www.bbc.com/sport/football/articles/c4gk7g088v2o" target="_blank">https://www.bbc.com/sport/football/articles/c4gk7g088v2o</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>2242</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-10.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-10.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-10.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-10.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td><a href="https://apnews.com/article/brazil-sao-paulo-lt3-independent-cinemas-5aac9f02b81655154f34c7b3d30b6cbb" target="_blank">https://apnews.com/article/brazil-sao-paulo-lt3-independent-cinemas-5aac9f02b81655154f34c7b3d30b6cbb</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>8903</td>
+          <td>7</td>
+          <td><a href="../aspirations/en-11.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-11.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-11.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-11.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td><a href="https://apnews.com/article/meg-donnelly-broadway-moulin-rouge-bc2d4d073b6431278aa09da8beb0005e" target="_blank">https://apnews.com/article/meg-donnelly-broadway-moulin-rouge-bc2d4d073b6431278aa09da8beb0005e</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>8098</td>
+          <td>3</td>
+          <td><a href="../aspirations/en-12.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-12.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-12.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-12.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td><a href="https://dailyyonder.com/commentary-living-in-the-shadow-of-the-american-dream/2025/08/01/" target="_blank">https://dailyyonder.com/commentary-living-in-the-shadow-of-the-american-dream/2025/08/01/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2401</td>
+          <td>7</td>
+          <td><a href="../aspirations/en-13.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-13.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-13.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-13.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td><a href="https://news.asu.edu/20251002-science-and-technology-dream-study-fatherdaughter-duo" target="_blank">https://news.asu.edu/20251002-science-and-technology-dream-study-fatherdaughter-duo</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>1449</td>
+          <td>44</td>
+          <td><a href="../aspirations/en-14.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-14.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-14.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-14.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td><a href="https://nypost.com/2025/09/13/us-news/the-american-dream-is-costlier-than-ever-in-2025-heres-the-price-tag-breakdown/" target="_blank">https://nypost.com/2025/09/13/us-news/the-american-dream-is-costlier-than-ever-in-2025-heres-the-price-tag-breakdown/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>1779</td>
+          <td>9</td>
+          <td><a href="../aspirations/en-15.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-15.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-15.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-15.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td><a href="https://ianwallacedreams.com/" target="_blank">https://ianwallacedreams.com/</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>6565</td>
+          <td>425</td>
+          <td><a href="../aspirations/en-16.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-16.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-16.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-16.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td><a href="https://www.theskimm.com/sleep/why-dont-i-dream" target="_blank">https://www.theskimm.com/sleep/why-dont-i-dream</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>173</td>
+          <td>4</td>
+          <td><a href="../aspirations/en-17.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-17.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-17.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-17.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td><a href="https://choosemuse.com/blogs/news/the-science-of-dreams-what-happens-in-the-brain-when-we-dream?srsltid=AfmBOor4cCjHGRIdy-V5cRMDn1-EXC5RmLFZbzHkVGDchZ7Tuan_qItg" target="_blank">https://choosemuse.com/blogs/news/the-science-of-dreams-what-happens-in-the-brain-when-we-dream?srsltid=AfmBOor4cCjHGRIdy-V5cRMDn1-EXC5RmLFZbzHkVGDchZ7Tuan_qItg</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2916</td>
+          <td>117</td>
+          <td><a href="../aspirations/en-18.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-18.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-18.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-18.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <td><a href="https://jonahcalinawan.com/blog/jungian-dream-analysis/" target="_blank">https://jonahcalinawan.com/blog/jungian-dream-analysis/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2560</td>
+          <td>90</td>
+          <td><a href="../aspirations/en-19.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-19.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-19.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-19.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td><a href="https://www.vogue.com/article/dream-interpretations" target="_blank">https://www.vogue.com/article/dream-interpretations</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>3496</td>
+          <td>100</td>
+          <td><a href="../aspirations/en-20.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-20.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-20.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-20.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <td><a href="https://themillions.com/2020/12/on-dreams-and-literature.html" target="_blank">https://themillions.com/2020/12/on-dreams-and-literature.html</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>5411</td>
+          <td>104</td>
+          <td><a href="../aspirations/en-21.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-21.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-21.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-21.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td><a href="https://faculty.mercer.edu/glance_jc/files/academic_work/victorian_dream_theories.htm" target="_blank">https://faculty.mercer.edu/glance_jc/files/academic_work/victorian_dream_theories.htm</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>5064</td>
+          <td>167</td>
+          <td><a href="../aspirations/en-22.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-22.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-22.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-22.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>23</td>
+          <td><a href="https://lithub.com/what-to-the-writer-are-dreams/" target="_blank">https://lithub.com/what-to-the-writer-are-dreams/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2113</td>
+          <td>62</td>
+          <td><a href="../aspirations/en-23.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-23.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-23.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-23.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>24</td>
+          <td><a href="https://en.wikipedia.org/wiki/Dream" target="_blank">https://en.wikipedia.org/wiki/Dream</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>10828</td>
+          <td>474</td>
+          <td><a href="../aspirations/en-24.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-24.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-24.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-24.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>25</td>
+          <td><a href="https://www.psychologytoday.com/us/blog/the-secret-mind/202512/dream-a-little-dream-of-me" target="_blank">https://www.psychologytoday.com/us/blog/the-secret-mind/202512/dream-a-little-dream-of-me</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2336</td>
+          <td>32</td>
+          <td><a href="../aspirations/en-25.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-25.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-25.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-25.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>26</td>
+          <td><a href="https://iep.utm.edu/dreaming-philosophy/" target="_blank">https://iep.utm.edu/dreaming-philosophy/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>26949</td>
+          <td>1025</td>
+          <td><a href="../aspirations/en-26.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-26.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-26.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-26.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>27</td>
+          <td><a href="https://www.brainfacts.org/thinking-sensing-and-behaving/sleep/2025/the-fascinating-neuroscience-of-lucid-dreaming-072325" target="_blank">https://www.brainfacts.org/thinking-sensing-and-behaving/sleep/2025/the-fascinating-neuroscience-of-lucid-dreaming-072325</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2792</td>
+          <td>75</td>
+          <td><a href="../aspirations/en-27.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-27.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-27.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-27.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>28</td>
+          <td><a href="https://greatergood.berkeley.edu/article/item/why_your_brain_needs_to_dream" target="_blank">https://greatergood.berkeley.edu/article/item/why_your_brain_needs_to_dream</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2735</td>
+          <td>39</td>
+          <td><a href="../aspirations/en-28.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-28.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-28.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-28.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>29</td>
+          <td><a href="https://www.scientificamerican.com/article/what-is-dreaming-and-what-does-it-tell-us-about-memory-excerpt/" target="_blank">https://www.scientificamerican.com/article/what-is-dreaming-and-what-does-it-tell-us-about-memory-excerpt/</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2912</td>
+          <td>85</td>
+          <td><a href="../aspirations/en-29.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-29.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-29.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-29.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td><a href="https://www.verywellmind.com/facts-about-dreams-2795938" target="_blank">https://www.verywellmind.com/facts-about-dreams-2795938</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2851</td>
+          <td>126</td>
+          <td><a href="../aspirations/en-30.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-30.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-30.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-30.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>31</td>
+          <td><a href="https://plato.stanford.edu/entries/dreams-dreaming/" target="_blank">https://plato.stanford.edu/entries/dreams-dreaming/</a></td>
+          <td>200</td>
+          <td>none</td>
+          <td>19556</td>
+          <td>812</td>
+          <td><a href="../aspirations/en-31.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-31.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-31.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-31.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>32</td>
+          <td><a href="https://www.sleepfoundation.org/dreams/lucid-dreams" target="_blank">https://www.sleepfoundation.org/dreams/lucid-dreams</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>5326</td>
+          <td>150</td>
+          <td><a href="../aspirations/en-32.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-32.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-32.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-32.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>33</td>
+          <td><a href="https://www.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams" target="_blank">https://www.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2813</td>
+          <td>39</td>
+          <td><a href="../aspirations/en-33.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-33.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-33.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-33.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>34</td>
+          <td><a href="https://www.thecut.com/article/what-does-it-mean-when-you-dream-about-someone.html" target="_blank">https://www.thecut.com/article/what-does-it-mean-when-you-dream-about-someone.html</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>6469</td>
+          <td>167</td>
+          <td><a href="../aspirations/en-34.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-34.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-34.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-34.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>35</td>
+          <td><a href="https://www.asexuality.org/en/topic/82576-what-do-you-usually-dream-about/" target="_blank">https://www.asexuality.org/en/topic/82576-what-do-you-usually-dream-about/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>5582</td>
+          <td>140</td>
+          <td><a href="../aspirations/en-35.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-35.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-35.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-35.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>36</td>
+          <td><a href="https://www.abc.net.au/news/2026-01-01/jurassic-park-fan-fulfils-dream-of-building-jeep-in-film/106127626" target="_blank">https://www.abc.net.au/news/2026-01-01/jurassic-park-fan-fulfils-dream-of-building-jeep-in-film/106127626</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2203</td>
+          <td>6</td>
+          <td><a href="../aspirations/en-36.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-36.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-36.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-36.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>37</td>
+          <td><a href="https://thedailyrecord.com/2025/12/30/maryland-native-chris-williams-iss-astronaut/" target="_blank">https://thedailyrecord.com/2025/12/30/maryland-native-chris-williams-iss-astronaut/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>3597</td>
+          <td>5</td>
+          <td><a href="../aspirations/en-37.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-37.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-37.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-37.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>38</td>
+          <td><a href="https://www.newarab.com/features/all-aboard-saudi-arabias-dream-desert-rail-service" target="_blank">https://www.newarab.com/features/all-aboard-saudi-arabias-dream-desert-rail-service</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2214</td>
+          <td>17</td>
+          <td><a href="../aspirations/en-38.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-38.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-38.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-38.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>39</td>
+          <td><a href="https://www.verywellmind.com/what-does-it-mean-when-you-dream-about-someone-7510785" target="_blank">https://www.verywellmind.com/what-does-it-mean-when-you-dream-about-someone-7510785</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>2748</td>
+          <td>102</td>
+          <td><a href="../aspirations/en-39.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-39.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-39.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-39.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>40</td>
+          <td><a href="https://asteriskmag.com/issues/12-books/the-dream-of-the-universal-library" target="_blank">https://asteriskmag.com/issues/12-books/the-dream-of-the-universal-library</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2962</td>
+          <td>3</td>
+          <td><a href="../aspirations/en-40.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-40.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-40.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-40.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>41</td>
+          <td><a href="https://wsbt.com/news/local/lifelong-indiana-fan-heading-to-rose-bowl-college-football-playoffs-dream-expereince-sport-season-ticket-holde-alabama" target="_blank">https://wsbt.com/news/local/lifelong-indiana-fan-heading-to-rose-bowl-college-football-playoffs-dream-expereince-sport-season-ticket-holde-alabama</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1679</td>
+          <td>5</td>
+          <td><a href="../aspirations/en-41.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-41.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-41.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-41.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>42</td>
+          <td><a href="https://wjla.com/news/local/nurse-maryland-dream-nursing-school-anne-arundel-community-college-graduation-career-change-support-mom-55th-birthday-carrie-rodevick-rachel-gwin" target="_blank">https://wjla.com/news/local/nurse-maryland-dream-nursing-school-anne-arundel-community-college-graduation-career-change-support-mom-55th-birthday-carrie-rodevick-rachel-gwin</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1904</td>
+          <td>8</td>
+          <td><a href="../aspirations/en-42.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-42.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-42.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-42.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>43</td>
+          <td><a href="https://www.espn.com/college-sports/story/_/id/47381531/2025-ncaa-volleyball-tournament-logan-lednicky-caps-volleyball-dream-title-texas-am" target="_blank">https://www.espn.com/college-sports/story/_/id/47381531/2025-ncaa-volleyball-tournament-logan-lednicky-caps-volleyball-dream-title-texas-am</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>1642</td>
+          <td>5</td>
+          <td><a href="../aspirations/en-43.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-43.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-43.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-43.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>44</td>
+          <td><a href="https://sports.yahoo.com/articles/mets-news-buzz-mets-dream-221436671.html" target="_blank">https://sports.yahoo.com/articles/mets-news-buzz-mets-dream-221436671.html</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>3131</td>
+          <td>1</td>
+          <td><a href="../aspirations/en-44.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-44.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-44.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-44.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>45</td>
+          <td><a href="https://www.lemonde.fr/en/international/article/2025/12/27/algiers-revives-its-dream-of-a-hollywood-epic-for-emir-abd-el-kader_6748878_4.html" target="_blank">https://www.lemonde.fr/en/international/article/2025/12/27/algiers-revives-its-dream-of-a-hollywood-epic-for-emir-abd-el-kader_6748878_4.html</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2611</td>
+          <td>1</td>
+          <td><a href="../aspirations/en-45.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-45.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-45.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-45.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>46</td>
+          <td><a href="https://vmagazine.com/article/v158-i-dream-of-jennie/" target="_blank">https://vmagazine.com/article/v158-i-dream-of-jennie/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2175</td>
+          <td>3</td>
+          <td><a href="../aspirations/en-46.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-46.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-46.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-46.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>47</td>
+          <td><a href="https://www.durangoherald.com/articles/an-american-dream-at-risk-what-happens-to-a-small-nebraska-town-when-3200-workers-lose-their-jobs/" target="_blank">https://www.durangoherald.com/articles/an-american-dream-at-risk-what-happens-to-a-small-nebraska-town-when-3200-workers-lose-their-jobs/</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2504</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-47.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-47.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-47.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-47.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>48</td>
+          <td><a href="https://abcnews.go.com/International/wireStory/venezuelan-familys-christmas-american-dream-poverty-128695851" target="_blank">https://abcnews.go.com/International/wireStory/venezuelan-familys-christmas-american-dream-poverty-128695851</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>891</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-48.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-48.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-48.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-48.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>49</td>
+          <td><a href="https://www.theguardian.com/us-news/2025/dec/30/us-citizenship-immigration-trump" target="_blank">https://www.theguardian.com/us-news/2025/dec/30/us-citizenship-immigration-trump</a></td>
+          <td>200</td>
+          <td>UTF-8</td>
+          <td>2085</td>
+          <td>2</td>
+          <td><a href="../aspirations/en-49.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-49.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-49.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-49.html" target="_blank">kwic</a></td>
+        </tr>
+        <tr>
+          <td>50</td>
+          <td><a href="https://eu.usatoday.com/story/money/2025/12/29/american-dream-cost-home-college-inflation/87731404007/" target="_blank">https://eu.usatoday.com/story/money/2025/12/29/american-dream-cost-home-college-inflation/87731404007/</a></td>
+          <td>200</td>
+          <td>utf-8</td>
+          <td>1143</td>
+          <td>25</td>
+          <td><a href="../aspirations/en-50.html" target="_blank">html</a></td>
+          <td><a href="../dumps-text/en-50.txt" target="_blank">dump</a></td>
+          <td><a href="../contextes/en-50.ctx.txt" target="_blank">ctx</a></td>
+          <td><a href="../concordances/en-50.html" target="_blank">kwic</a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

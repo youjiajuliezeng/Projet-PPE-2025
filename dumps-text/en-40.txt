@@ -1,0 +1,371 @@
+   #Asterisk RSS Feed
+
+     * Current Issue
+     * All Issues
+     * All Articles
+     * Contributors
+     * About
+     * Print Subscriptions
+     * Support Us
+
+   ©2026 Asterisk Magazine Privacy Policy
+
+   Issue Asterisk Logo
+
+   save highlight
+   remove highlight
+
+                       The Dream of the Universal Library
+
+Monica Westin
+
+   The Internet promised easy access to every book ever written. Why can’t
+   we have nice things?
+
+   At the turn of the millennium, Google Books and similar mass
+   digitization projects for the world’s print books were widely seen to
+   promise a universal digital library for reading access on the web.
+   Instead, the future we thought we’d get for human readers has arrived
+   only for machines.
+
+   “Search changes everything,” declared Kevin Kelly, the founding editor
+   of Wired magazine, in his 2006 New York Times Magazine cover story,
+   “Scan This Book!,” written a few years into the Google Books project.
+   Kelly described a rosy future in which future digital books would be
+   cross-linked and wired together to “flow into the universal library as
+   you might add more words to a long story.” Kelly bemoaned how Congress’
+   then recent extension of copyright terms to the life of the author plus
+   70 years would keep much of the universal library dark, at least
+   temporarily. But he predicted that copyright law would eventually
+   “adapt,” as its reign would be “no match” for the technology of search.
+   Ultimately, he thought, “the screen will prevail.” At that time — one
+   of techno-optimism, predating the dominance of social media — this was
+   the majority position.
+
+   The minority position was best expressed a few years earlier by Michael
+   Gorman, then president-elect of the American Library Association. In a
+   2004 LA Times op-ed, he described Google’s newly announced project to
+   mass digitize and make searchable huge numbers of books as an
+   “expensive exercise in futility.” Because copyright limitations meant
+   that much of what a reader could access would be only decontextualized
+   snippets, Gorman argued, the project wouldn’t be useful for the
+   dissemination of knowledge. “The books in great libraries are much more
+   than the sum of their parts,” he wrote. Google Books, he predicted,
+   would be a “solution in search of a problem.”
+   Anagh Banerjee
+
+   Twenty years later, Gorman’s take has proved more prescient than
+   Kelly’s. The vast majority of Google’s digitized books exist as
+   snippets stuck in a zombie state: under copyright but out of print. It
+   is, however, one of the many absurdities of our moment that the company
+   likely grants full access to most of the books in its archive to at
+   least one party: its own LLMs. Other companies have settled for
+   pirating — an option familiar to most non-institutional researchers.
+   The social costs of keeping so many of the world’s digitized books
+   locked away are far-reaching: knowledge gaps, weaker scholarship,
+   stalled innovation, inequitable access, and market failure for the
+   low-demand titles that have dropped off publisher backlists.
+
+   It doesn’t have to be this way. Almost all the infrastructure we now
+   use to find, access, and read books in virtual environments — including
+   the first mass book digitization projects, the metadata for making them
+   discoverable, and the authentication processes for accessing
+   credentials to read them — has existed for two decades. So why are the
+   vast majority of digitized books still inaccessible on the web?
+
+   Ask almost anyone, and the answer you’ll get is “fair use.” Fair use is
+   a doctrine that permits the limited use of copyright material. It is
+   decided on a case-by-case basis, and it has shaped the major digitized
+   book lawsuits of our time.
+
+   I argue that there is another approach. Instead of trying to rewrite
+   copyright law itself, we could pursue common-sense reforms: nimble new
+   licensing models that open up the digital stacks. The US proposed this
+   approach a decade ago, and Europe has since put one into practice. We
+   tried to build the universal library at a moment of digital optimism.
+   This is the moment to try again.
+
+Making the stacks virtual
+
+   The earliest digital libraries were developed in the 1960s by
+   universities and military R&D groups. These connected relatively small
+   sets of archived texts or abstract-only databases to basic information
+   retrieval systems. As computing power became cheaper and network
+   bandwidth increased, projects grew in scope and complexity. In 1971,
+   Michael S. Hart, a student at the University of Illinois, digitized the
+   text of the American Declaration of Independence and shared it with
+   everyone on campus via local ARPANET, one of the earliest computer
+   networks. The resulting project became Project Gutenberg, a web-based
+   library of public domain books that’s often described as the first true
+   online digital library.
+
+   By the mid-1990s, digital library projects linking basic library
+   holdings information were starting to be developed across Europe and
+   the United States. Among the best known was The European Library, a web
+   portal launched in 1997 that hyperlinked the collections of several
+   European national libraries. University libraries were also starting to
+   create their own institutional repositories, often using homegrown
+   software. These smaller digital libraries soon began to be quilted
+   together through both aggregator sites and protocols for sharing data.
+   The dream of the universal digital library, which could contain all
+   online content and link it together, began to take form. But it still
+   contained only a relatively tiny amount of full-text content.
+
+   Google, in fact, grew out of one such project. Larry Page and Sergey
+   Brin began developing what would become Google search while they were
+   PhD students working on the Stanford Integrated Digital Library
+   Project. The self-stated ambition of SIDLP was to be the “glue”
+   connecting all digital content on the web into a comprehensive,
+   functional collection.
+
+   By 2004, it seemed like all the components of a digital universal
+   library were falling into place. New generation web search and indexing
+   created the ability to find content via browsers. WorldCat, the world’s
+   largest catalog for library collections worldwide, had just opened its
+   records. Web crawlers now had a list of book titles, publication dates,
+   and other key data. The rest of the backbone was solidifying. Optical
+   character recognition (OCR) could turn scanned images into searchable
+   text, while ASCII and HTML provided standardized formats that made text
+   accessible in any browser and easy for search engines to index.
+   Digitized books could finally be integrated into the wider web of
+   knowledge.
+
+   The most important component, though, was the books themselves. Fresh
+   off its IPO, Google announced at the 2004 Frankfurt Book Fair their
+   plans to index every book ever published, a project then called Google
+   Print. Google invested massively in the project, which partnered with
+   major research libraries at universities including Harvard, the
+   University of Michigan, and Oxford. In exchange, library partners would
+   typically get their own digitized copy of scanned volumes to preserve
+   and use where law allows, such as providing full open access for
+   public-domain items. Most of Google’s library partners added their
+   digitized copy to HathiTrust, a digital library founded in 2008 by a
+   consortium of research libraries that aggregates, preserves, and serves
+   partner scans.
+
+   Other groups were also uploading scanned books to the web, but the only
+   other organization working at the same scale was the Internet Archive.
+   The Internet Archive had begun scanning books in 2004 and stepped up
+   its pace in 2005. This included some scanning done as part of a
+   consortial project called the Open Content Alliance, a partnership
+   across the Internet Archive, many university libraries, and, for a
+   short time, Microsoft, that sought to counter Google’s efforts. When
+   the Open Content Alliance petered out, the Internet Archive kept up
+   ambitious levels of book scanning on its own.
+
+   These projects captured the public imagination, but the legal problems
+   were obvious early on. While technoutopians like Kelly viewed copyright
+   law as a temporary obstacle, librarians, archivists, and especially
+   attorneys recognized its likely intractability. US copyright law states
+   that only the copyright holder can make and distribute copies of a
+   work, with very limited fair use exceptions, such as excerpting quotes.
+   In most circumstances, anyone making massive numbers of copies of books
+   wouldn’t fall under fair use exceptions.
+
+   Both Google’s and the Internet Archive’s projects tested fair use in
+   two major lawsuits.  The entire online landscape bears their imprint
+   today.
+
+   From the beginning, Google’s model had been to form independent
+   agreements with library scanning partners and let the rights holders
+   find out afterward. It likely would have come as no surprise to Google
+   when the Authors Guild, the country’s largest professional organization
+   for writers, filed a class action lawsuit for copyright infringement
+   soon after the inception of the project. In 2008, Google and the
+   Authors Guild proposed a settlement: Google would pay $125 million and
+   set up a book rights registry, where rights holders could register
+   their copyright claims for books. Google also offered to share future
+   revenues with authors and publishers, as well as sell full‑text access
+   to out‑of‑print books unless an author opted out. A judge threw out the
+   settlement, arguing that this would give Google a near monopoly on the
+   millions of still‑copyrighted “orphan” works, where the rightsholder
+   can’t be located.
+
+   While the decision was controversial, had it gone differently it would
+   have solved many of the problems we see today, including creating
+   access to the vast majority of digitized books that are out of print
+   but under copyright. Google was willing to make as many out-of-print,
+   copyrighted books as accessible as possible and, critically, to create
+   infrastructure that would allow opt-out processes to scale.
+
+   Google won on fair use exception grounds, but the victory — at least
+   for those who dreamed of a universal library — proved pyrrhic. The
+   judge ruled that letting end users see “snippets” constituted a
+   transformative public good that didn’t compete with book sales. Some
+   Google competitors and antitrust-focused groups claimed a win, but the
+   ruling meant that, once again, it would be up to Congress to create a
+   new legal vehicle for dealing with out-of-print copyrighted books,
+   including orphan works. Congress hasn’t moved anything forward since.
+
+   More recently, the Internet Archive faced its own fair use exception
+   lawsuit in 2020. The Internet Archive was one of many libraries and
+   content platforms that had been experimenting with a new, legally
+   unsettled approach to lending scanned books called controlled digital
+   lending, in which libraries replace a physical copy of a resource they
+   own with a digital copy in a “one for one” approach. For example, if a
+   library owns one physical copy of Moby Dick, in a CDL model the library
+   would scan the book and lend the digital copy made to one patron at a
+   time while also removing the original physical copy of the novel from
+   circulation.
+
+   But the Internet Archive veered wildly away from a measured approach to
+   CDL when in March 2020, during COVID library closures, it enacted a
+   short-lived “National Emergency Library” for its scanned books. For a
+   few months, the emergency library allowed everyone to simultaneously
+   borrow the same scan, abandoning the CDL one-copy, one-user model. In
+   response, a group of major publishers filed a lawsuit (Hachette Book
+   Group, Inc. v. Internet Archive). In March 2023, a federal court held
+   that the Internet Archive’s scanning-and-lending program was not fair
+   use. An appeal by the Internet Archive was overruled.
+
+The way forward
+
+   These lawsuits on fair use exceptions to core copyright law remain the
+   dominant frame for public conversations about digital book access. But
+   it’s the wrong way to think about it. We don’t have to overhaul
+   copyright law, or parameters of fair use, to solve the problem of
+   access to most digitized books. We do need a practical framework to
+   make them available through new licensing exceptions and governance in
+   cases where they are commercially unavailable.
+
+   How big is this problem? The most common estimate is that 70% of all
+   digitized books are neither in the public domain nor commercially
+   available in print. Google has never published an up‑to‑date rights
+   breakdown of its Books corpus, and the only hard numbers Google put on
+   the public record came in during the lawsuit, when the first
+   seven million library‑scanned books were under scrutiny. Of these,
+   about one million were public domain, one million were under copyright
+   and in print, and the remaining five million were under copyright but
+   out of print, including many orphan works. No one has a clean way to
+   license these, so they sit in legal limbo, inaccessible to everyone —
+   except, perhaps, Gemini.
+
+   What’s needed for the 70% is a new common-sense licensing framework: a
+   limited, opt-out system that lets a trusted body grant permission to
+   use books no longer on sale, without taking away the authors’ rights so
+   there’s a clear, reliable way to make them available. A new collective
+   license model wouldn’t please copyleft activists who want to reform
+   copyright altogether and would require some extra work from key groups
+   to create processes for opt-outs. But it would better serve almost
+   everyone else in the space, including librarians (like myself), who
+   want to provide legal and low-risk access to their patrons and, of
+   course, readers.
+
+   The EU implemented exactly this kind of “out-of-commerce” framework in
+   its 2019 Digital Single Market directive, which was designed to create
+   efficient online business operations across all EU member states. This
+   included an “out-of-commerce works” regime that allows cultural
+   heritage institutions to make such works available online once a
+   license has been issued or if the rightsholder hasn’t opted out of a
+   public notice. In practice, this means that if a work isn’t available
+   through the ordinary marketplace, cultural heritage institutions like
+   libraries can work with a collective management organization (the US
+   equivalent of this would be the Copyright Clearance Center) to make
+   them available — unless the rightsholder opts out.
+
+   To do this in the US, Congress would have to pass a new standard
+   collective license framework. This would allow institutions like
+   libraries and archives to make digital versions of in-copyright,
+   out-of-commerce books in their collections available for reading
+   online. The Copyright Clearance Center would be the obvious group to
+   manage the opt-out registry and license admin, and libraries themselves
+   to surface the content — the same major research libraries that worked
+   with Google and other organizations to scan their books.
+
+   This is a complex but surmountable task. The Copyright Clearance Center
+   would need to build a registry, a portal for posting notices and
+   opt-outs, and a process to notify libraries about opt-outs. The work
+   required of libraries would be low to moderate, depending on how
+   automated the opt-out workflow would be.
+
+   This new model would deliver what the proposed Google Books settlement
+   got right, including a rights registry and opt-outs. But we wouldn’t
+   need a single private tech platform in charge to build it. And
+   crucially, we wouldn’t have to rewrite the core of US copyright,
+   including who owns what and how long it lasts, or expand definitions of
+   fair use.
+
+   If this all sounds unrealistic, it’s first worth noting that the
+   Copyright Office outlined just such an approach for mass books
+   digitization in 2015 (Copyright Clearance Center CCC.pdf), issuing a
+   report recommending that Congress authorize a pilot for exactly this
+   type of extended collective licensing. Congress didn’t act.
+
+   These licenses exist for other media in the US. The music industry long
+   had a compulsory license laid out in Section 115 of the US Copyright
+   Act, which guarantees anyone the right to reproduce and distribute a
+   nondramatic musical work as long as they follow the statutory rules and
+   pay a set royalty. (This was most recently updated in 2021 by the Music
+   Modernization Act in 2018, which replaced the original song‑by‑song
+   “notice of intention” system with a blanket licence for streaming and
+   downloads.)
+
+   Finally, we are already living in a moment when new type content
+   licenses for books are being churned out at speed. The publishing
+   industry is currently scrambling to develop new licensing models for
+   full-text book access as lucrative data sources for AI. Just this
+   September, Anthropic agreed to pay $1.5 billion to authors and
+   publishers after a judge found it illegally downloaded millions of
+   copyrighted books from pirate libraries like Library Genesis. About
+   500,000 authors will receive $3,000 per work.
+
+   If we can negotiate grand bargains to keep feeding the machines books,
+   surely we can design a rational, lean, humane licence that lets living,
+   breathing readers borrow a digital copy of a work that they can’t buy.
+   The universal library is near, but it’s up to us to ensure that humans,
+   not just AIs, have a card.
+
+   Sign up for our newsletter to get Asterisk’s latest interviews, essays,
+   and more.
+   ____________________ (BUTTON) Subscribe
+   ____________________
+
+   []
+
+   Monica Westin is a writer and librarian who has previously worked at
+   university libraries in the US and UK as well as at the Internet
+   Archive and Google, and who will soon be working for Cambridge
+   University Press & Assessment. These are her own views and don’t
+   reflect those of her employers, past or present.
+
+   Published
+
+   Have something to say? Email us at letters@asteriskmag.com.
+
+   Previous
+   The China Tech Canon
+
+   Next
+   The First Prophet of Abundance
+
+About Highlights
+
+   By highlighting text and “starring” your selection, you can create a
+   personal marker to a passage.
+
+   What you save is stored only on your specific browser locally, and is
+   never sent to the server. Other visitors will not see your highlights,
+   and you will not see your previously saved highlights when visiting the
+   site through a different browser.
+
+   To add a highlight: after selecting a passage, click the star
+   [asterisk_mark.png] . It will add a quick-access bookmark.
+
+   To remove a highlight: after hovering over a previously saved
+   highlight, click the cross [asterisk_x.png] . It will remove the
+   bookmark.
+
+   To remove all saved highlights throughout the site, you can click here
+   to completely clear your cache. All selections have been cleared.
+
+   [asterisk_help.png] [asterisk_x.png]
+
+   © 2026 Asterisk
+   Subscribe
+   Donate
+
+   Sign up for our newsletter to get Asterisk’s latest interviews, essays,
+   and more.
+   ____________________ (BUTTON) Subscribe
+   ____________________
+   [asterisk_x.png]

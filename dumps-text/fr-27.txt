@@ -1,0 +1,676 @@
+    #Accueil Fil RSS des dix dernières actualités
+
+   Aller au contenu | Menu prinicipal | Applications et ENT | Univers UCA
+   | Pied de page
+
+   (BUTTON)
+   Apps & ENT
+
+     * (BUTTON) Instituts
+          + (BUTTON) Clermont Auvergne INP
+          + (BUTTON) Institut Droit, Economie, Management
+          + (BUTTON) Institut Lettres, Langues, Sciences humaines et
+            sociales
+          + (BUTTON) Institut des Sciences
+          + (BUTTON) Institut Sciences de la vie, Santé, Agronomie,
+            Environnement
+          + (BUTTON) IUT Clermont Auvergne
+       (BUTTON) Fermer
+
+Site de Clermont Auvergne INP
+
+Structure d'enseignement
+          + SIGMA Clermont
+          + Polytech Clermont
+          + ISIMA
+          + ED Sciences pour l'ingénieur
+
+Laboratoires
+          + Institut Pascal (IP)
+          + Laboratoire d'Informatique, de Modélisation et d'Optimisation
+            des Systèmes (LIMOS)
+          + Institut de Chimie de Clermont-Ferrand (ICCF)
+       (BUTTON) Fermer
+
+Institut Droit, Économie, Management
+
+Structure d'enseignement
+          + École d'Économie
+          + IAE Clermont Auvergne - School of Management
+          + École de Droit
+          + ED Sciences Économiques, Juridiques, Politiques & de Gestion
+
+Laboratoires
+          + Clermont Recherche Management (CleRMA)
+          + Centre d’Etudes et de Recherches sur le Développement
+            International (CERDI)
+          + Centre Michel de l’Hospital (CMH)
+       (BUTTON) Fermer
+
+Institut Lettres, Langues, Sciences humaines et sociales
+
+Structure d'enseignement
+          + UFR Lettres, Culture, Sciences Humaines
+          + UFR Langues, Cultures et Communication
+          + UFR Psychologie, Sciences Sociales, Sciences de l’Éducation
+          + UFR Sciences et Techniques des Activités Physiques et
+            Sportives
+          + Institut National Supérieur du Professorat et de l'Éducation
+          + École Nationale Supérieure d'Architecture Clermont-Ferrand
+          + ED Lettres Sciences Humaines & Sociales
+
+Laboratoires
+          + Centre d'Histoire "Espaces et Cultures" (CHEC)
+          + Centre de Recherches sur les Littératures et la Sociopoétique
+            (CELIS)
+          + Institut d'Histoire des Représentations et des Idées dans les
+            Modernités (IHRIM)
+          + Laboratoire Activité Connaissance Transmission Education
+            (ACTé)
+          + Laboratoire Communication et Sociétés (ComSocs)
+          + Laboratoire de Géographie Physique et Environnementale
+            (GEOLAB)
+          + Laboratoire Philosophies et Rationalités (PHIER)
+          + Laboratoire de Psychologie Sociale et Cognitive (LAPSCO)
+          + Ressources
+          + Laboratoire de Recherche sur le Langage (LRL)
+          + Maison des Sciences Humaines (MSH)
+          + Territoires (Territoires)
+          + Laboratoire d'Etudes Sociologiques sur la Construction et la
+            Reproduction Sociales (LESCORES)
+       (BUTTON) Fermer
+
+Institut des Sciences
+
+Structure d'enseignement
+          + UFR Chimie
+          + UFR Mathématiques
+          + École Universitaire de Physique et d’Ingénierie
+          + École de l'OPGC
+          + ED Sciences fondamentales
+
+Laboratoires
+          + Institut Pascal (IP)
+          + Laboratoire Magmas et Volcans (LMV)
+          + Institut de Chimie de Clermont-Ferrand (ICCF)
+          + Laboratoire de Mathémathiques Blaise Pascal (LMBP)
+          + Laboratoire de Météorologie Physique (LaMP)
+          + Laboratoire de Physique de Clermont Auvergne (LPC)
+          + Observatoire de Physique du Globe de Clermont-Ferrand (OPGC)
+       (BUTTON) Fermer
+
+Institut Sciences de la Vie, Santé, Agronomie, Environnement
+
+Structure d'enseignement
+          + UFR Biologie
+          + UFR de Médecine et des Professions Paramédicales
+          + UFR d'Odontologie
+          + UFR de Pharmacie
+          + ED Sciences de la Vie, Santé, Agronomie & Environnement
+
+Laboratoires
+          + AutomédiCation aCcompagnement Pluriprofessionnel PatienT
+            (ACCePPT)
+          + Centre de Recherche en Odontologie Clinique (CROC)
+          + Institut Génétique Reproduction et Développement (iGReD)
+          + Imagerie Moléculaire et Stratégies Théranostiques (IMoST)
+          + Laboratoire Microorganismes : Génome Environnement (LMGE)
+          + Laboratoire de Physique et Physiologie intégratives de l'Arbre
+            en environnement Fluctuant (PIAF)
+          + Laboratoire des Adaptations Métaboliques à l'Exercice en
+            conditions Physiologiques et Pathologiques (AME2P)
+          + Institut Pascal (IP)
+          + Institut de Chimie de Clermont-Ferrand (ICCF)
+          + Laboratoire de Génétique, Diversité, Ecophysiologie des
+            Céréales (GDEC)
+          + Microbes Intestin Inflammation et Susceptibilité de l’Hôte
+            (M2iSH)
+          + Microbiologie Environnement Digestif Santé (MEDIS)
+          + NEURO-DOL (NEURO-DOL)
+          + Role of intra-Clonal Heterogeneity and Leukemic environment in
+            ThErapy Resistance of chronic leukemias (CHELTER)
+          + Unité de Nutrition Humaine (UNH)
+          + Unité de Mixte Recherche sur le Fromage (UMRF)
+       (BUTTON) Fermer
+
+IUT Clermont Auvergne
+     * (BUTTON) Services universitaires
+          + (BUTTON) Services aux étudiants
+          + (BUTTON) Services aux personnels
+          + (BUTTON) Services aux entreprises
+       (BUTTON) Fermer
+
+Aide aux étudiants
+          + Centre de service (CDS)
+          + Cellule d'écoute et d'accompagnement face aux violences
+            sexistes et sexuelles et aux discriminations (ALEX)
+          + Le médiateur de l'UCA
+
+Vie étudiante
+          + Activités Physiques et Sportives (SUAPS)
+          + Culture (SUC)
+          + Entrepreneuriat étudiant (PEPITE)
+          + Handicap (SUH)
+          + La Fabrique : réussite, orientation & insertion
+            professionnelle
+          + Santé Universitaire (SSU)
+          + Collège des études doctorales
+
+Ressources numériques
+          + Environnement numérique de travail (ENT)
+          + MyUCA (Application mobile)
+          + UCAPro, le réseau pro
+          + Messagerie Universitaire
+          + Microsoft Office 365 Education
+          + Cours en ligne (Moodle)
+
+Bibliothèque
+       (BUTTON) Fermer
+
+Intranet - Espace d'information des personnels
+
+Ressources
+          + Pôle Ingénierie Pédagogique et Production Audiovisuelle (IPPA)
+          + Direction des systèmes d'information (DOSI)
+          + Station biologique de Besse
+          + Direction de la recherche et des études doctorales
+          + Mesocentre
+          + Bibliothèque
+
+Qualité de vie au travail
+          + Culture, loisirs, action sociale et sports (CLASS)
+          + Service de santé au travail
+          + Cellule d'écoute et d'accompagnement face aux violences
+            sexistes et sexuelles et aux discriminations (ALEX)
+          + Le médiateur de l'UCA
+          + Covid-19
+       (BUTTON) Fermer
+
+Recherche et Valorisation
+          + UCA Accélérateur
+          + UCA Partner
+          + Clermont Auvergne Innovation
+
+Formation
+          + Formation tout au long de la vie
+          + UCA Pro
+          + Taxe d'apprentissage
+
+Marchés publics
+
+Club des entreprises
+
+     * Annuaire
+
+   (BUTTON) fr
+
+   (BUTTON) menu close
+
+     * (BUTTON) Le CELIS
+       (BUTTON) Fermer
+          + Présentation
+          + Flyer du CELIS
+          + Membres
+          + Règlement intérieur du CELIS
+          + Membres associés
+          + Conseil de Laboratoire du CELIS
+          + Nos docteurs
+          + LPPR - Motion du CELIS
+          + Hommage à M. Didier Corderot
+          + Plan d'accès
+     * (BUTTON) Recherche
+       (BUTTON) Fermer
+          + Équipe : Littératures et représentations de l’Antiquité et du
+            Moyen Âge
+          + Axes de recherche : textes théoriques
+          + Axe « Corpus, Diachronies, Formes » : projets et réalisations
+            - équipe LiRAM
+          + Axes de recherche : projets fédérateurs
+          + Axe « Décentrements » : projets et réalisations - équipe LiRAM
+          + Séminaire de Sociopoétique
+          + Axe « Intermédialités et Interactions sociales » : projets et
+            réalisations - équipe LiRAM
+          + Atelier Recherche-Création (ARC)
+          + Équipe : Lumières et romantismes
+          + Chaire Sá de Miranda
+          + Axe « Corpus, Diachronies, Formes » : projets et réalisations
+            - équipe L&R
+          + Programmes Régionaux, Nationaux, Européens, Internationaux
+          + Axe « Décentrements » : projets et réalisations - équipe L&R
+          + I-SITE CAP 20-25
+          + Axe « Intermédialités et Interactions sociales » : projets et
+            réalisations -équipe L&R
+          + Programmes MSH
+          + Équipe : Écritures et interactions sociales
+          + Aires géoculturelles
+          + Axe « Corpus, Diachronies, Formes » : projets et réalisations
+            -équipe EIS
+          + Institut universitaire de France (IUF)
+          + Axe « Décentrements » : projets et réalisations - équipe EIS
+          + Espace collaboratif du CELIS
+          + Axe « Intermédialités et Interactions sociales » : projets et
+            réalisations - équipe EIS
+     * (BUTTON) Productions
+       (BUTTON) Fermer
+          + Publications
+          + Sites en ligne en partenariat avec le CELIS
+          + Manifestations scientifiques
+          + Humanités numériques
+          + Séminaire de Sociopoétique
+          + Ressources audiovisuelles
+          + Collections du CELIS aux Presses Universitaires Blaise Pascal
+          + Podcasts MSH/CELIS
+          + Revues du CELIS
+          + Valorisation de la recherche
+          + Sites en ligne du CELIS
+          + Articles de presse
+     * (BUTTON) Formation
+       (BUTTON) Fermer
+          + Master Lettres et Création littéraire
+          + Master Métiers du livre et de l'édition
+          + Master Langues, littératures et civilisations étrangères et
+            régionales
+          + Master Humanités
+          + Master Etudes Européennes et Internationales
+          + Doctorat
+          + Master Direction de projets ou établissements culturels
+          + ED LLSHS
+     * (BUTTON) Politique internationale
+       (BUTTON) Fermer
+          + Comité scientifique international
+          + Accords internationaux de l'UCA
+          + Chercheurs invités
+          + Partenariats internationaux du CELIS
+     * (BUTTON) Archives
+       (BUTTON) Fermer
+          + Programme national : ANR EVE
+          + Programme national : ANR THEREPSICORE
+          + Programme MSH ANACHRUP
+          + Programme MSH GRIMM
+          + Programme régional : Acteurs et réseaux de la Révolution et de
+            la Contre-Révolution en Europe (1789-1850)
+          + Programme MSH VOYAGER
+          + Programme régional : Les poètes dans la cité en révolution
+            (1789-1848)
+          + Programme MSH GERMANOSPHERE : « WINDE & WANDEL »
+          + Anciens programmes du CELIS (2015-2020)
+     * (BUTTON) Instituts
+       (BUTTON) Fermer
+          + Les instituts
+     * (BUTTON) Services universitaires
+       (BUTTON) Fermer
+          + Services et ressources universitaires
+
+     * Le CELIS
+
+   Le CELIS
+     * Présentation
+     * Flyer du CELIS
+     * Membres
+     * Règlement intérieur du CELIS
+     * Membres associés
+     * Conseil de Laboratoire du CELIS
+     * Nos docteurs
+     * LPPR - Motion du CELIS
+     * Hommage à M. Didier Corderot
+     * Plan d'accès
+
+     Recherche
+   Recherche
+     * Équipe : Littératures et représentations de l’Antiquité et du Moyen
+       Âge
+     * Axes de recherche : textes théoriques
+     * Axe « Corpus, Diachronies, Formes » : projets et réalisations -
+       équipe LiRAM
+     * Axes de recherche : projets fédérateurs
+     * Axe « Décentrements » : projets et réalisations - équipe LiRAM
+     * Séminaire de Sociopoétique
+     * Axe « Intermédialités et Interactions sociales » : projets et
+       réalisations - équipe LiRAM
+     * Atelier Recherche-Création (ARC)
+     * Équipe : Lumières et romantismes
+     * Chaire Sá de Miranda
+     * Axe « Corpus, Diachronies, Formes » : projets et réalisations -
+       équipe L&R
+     * Programmes Régionaux, Nationaux, Européens, Internationaux
+     * Axe « Décentrements » : projets et réalisations - équipe L&R
+     * I-SITE CAP 20-25
+     * Axe « Intermédialités et Interactions sociales » : projets et
+       réalisations -équipe L&R
+     * Programmes MSH
+     * Équipe : Écritures et interactions sociales
+     * Aires géoculturelles
+     * Axe « Corpus, Diachronies, Formes » : projets et réalisations
+       -équipe EIS
+     * Institut universitaire de France (IUF)
+     * Axe « Décentrements » : projets et réalisations - équipe EIS
+     * Espace collaboratif du CELIS
+     * Axe « Intermédialités et Interactions sociales » : projets et
+       réalisations - équipe EIS
+
+     Productions
+   Productions
+     * Publications
+     * Sites en ligne en partenariat avec le CELIS
+     * Manifestations scientifiques
+     * Humanités numériques
+     * Séminaire de Sociopoétique
+     * Ressources audiovisuelles
+     * Collections du CELIS aux Presses Universitaires Blaise Pascal
+     * Podcasts MSH/CELIS
+     * Revues du CELIS
+     * Valorisation de la recherche
+     * Sites en ligne du CELIS
+     * Articles de presse
+
+     Formation
+   Formation
+     * Master Lettres et Création littéraire
+     * Master Métiers du livre et de l'édition
+     * Master Langues, littératures et civilisations étrangères et
+       régionales
+     * Master Humanités
+     * Master Etudes Européennes et Internationales
+     * Doctorat
+     * Master Direction de projets ou établissements culturels
+     * ED LLSHS
+
+     Politique internationale
+   Politique internationale
+     * Comité scientifique international
+     * Accords internationaux de l'UCA
+     * Chercheurs invités
+     * Partenariats internationaux du CELIS
+
+     Archives
+   Archives
+     * Programme national : ANR EVE
+     * Programme national : ANR THEREPSICORE
+     * Programme MSH ANACHRUP
+     * Programme MSH GRIMM
+     * Programme régional : Acteurs et réseaux de la Révolution et de la
+       Contre-Révolution en Europe (1789-1850)
+     * Programme MSH VOYAGER
+     * Programme régional : Les poètes dans la cité en révolution
+       (1789-1848)
+     * Programme MSH GERMANOSPHERE : « WINDE & WANDEL »
+     * Anciens programmes du CELIS (2015-2020)
+
+     Instituts
+   Instituts
+     * Les instituts
+
+     Services universitaires
+   Services universitaires
+     * Services et ressources universitaires
+
+   (BUTTON) Recherche
+   ____________________ (BUTTON) submit
+   (BUTTON)
+
+   Vous êtes ici : AccueilArchivesAnciens programmes du CELIS
+   (2015-2020)L'intimité, le rêve et la création littéraire
+
+L'intimité, le rêve et la création littéraire
+
+     * (BUTTON) Imprimer
+     * (BUTTON) Partager
+
+Partager cette page
+          + Facebook
+          + Twitter
+          + Linkedin
+     * Version PDF
+
+Responsable : Anne Rouhette
+
+Principes généraux et perspectives :
+
+   Cet axe propose de poursuivre et d’approfondir les travaux sur l’intime
+   initiés depuis déjà longtemps par l’équipe Lumières et Romantismes,
+   s’inscrivant dans la continuité de recherches fécondes qui, ces
+   dernières années, ont porté sur des sujets tels que l’écriture de
+   l’intime, voyage et intimité ou encore l’intime et l’objet.
+   Le thème général de « Rêve et création littéraire », développé dans le
+   texte de cadrage ci-dessous, a été retenu dans la perspective du
+   bicentenaire de la première publication de Frankenstein en 1818. Le
+   héros de Mary Shelley y relate un rêve demeuré célèbre dans la
+   littérature britannique mais, en outre, l’œuvre même trouve en partie
+   au moins son origine dans deux rêves faits par la jeune romancière. Un
+   colloque international organisé en janvier 2018 (date provisoire)
+   permettra de revenir sur la « naissance » de Frankenstein, et plus
+   largement sur l’importance du rêve dans la littérature de langue
+   anglaise aux XVIIIe et XIXe siècles : « Autour de Frankenstein : rêve
+   et création littéraire dans la littérature anglaise et américaine des
+   XVIIIe et XIXe siècles » (titre provisoire ; comité d’organisation :
+   Isabelle Hervouet-Farrar et Anne Rouhette ; comité scientifique
+   envisagé : Margaret Anne Doody [Notre Dame University], Thomas Dutoit
+   [Lille III], Marc Porée [ENS-Ulm], Jean Viviès [Université
+   d’Aix-Marseille]…). Ce colloque sera suivi par une publication.
+   En amont, ce colloque sera préparé par des séminaires qui concerneront
+   l’ensemble des membres de l’équipe et non plus les seuls anglicistes,
+   ainsi éventuellement que des conférenciers(-ères) invité(e)s. Sont
+   envisagés deux séminaires (rassemblés sur une journée), qui pourraient
+   s’organiser de manière chronologique : le premier (mai/juin 2016)
+   porterait sur « Rêve et rêverie à l’époque des Lumières » et le second
+   (mai/juin 2017) sur « Rêve et rêverie à l’époque romantique (et
+   au-delà) ». Plusieurs types d’interventions pourront être proposés : en
+   plus des présentations d’œuvres ou d’auteurs spécifiques, il serait
+   souhaitable d’aborder également des ouvrages théoriques et/ou
+   historiques (voir les jalons bibliographiques ci-dessous) afin de
+   permettre à chacun de se familiariser avec les enjeux de la question.
+   Dans cette perspective, des présentations mêlant théorie et étude d’une
+   œuvre pourront se révéler particulièrement intéressantes. Enfin, une
+   telle approche pourrait constituer un lien entre formation et recherche
+   : des étudiants de master seront invités à assister à ces séminaires et
+   le cas échéant, en accord avec leur directeur(-trice), à y intervenir.
+   En aval, selon les souhaits des membres de l’équipe, les problématiques
+   explorées par le colloque pourraient trouver un prolongement dans
+   d’autres travaux (journée d’études, colloque…) portant par exemple sur
+   la littérature de langue française ou sur la littérature européenne, ou
+   bien sur une période plus restreinte.
+
+Texte de cadrage :
+
+   Dans Les Paradis artificiels (1860), Baudelaire distingue deux sortes
+   de rêve : le « rêve naturel », dans lequel le dormeur, « l’homme
+   lui-même », se reconnaît de manière transparente et que l’ivresse du
+   haschich ne ferait qu’exacerber ; et « l’autre espèce », « le rêve
+   absurde, imprévu, sans rapport ni connexion avec le caractère, la vie
+   et les passions du dormeur », le « rêve hiéroglyphique »,
+   incompréhensible au premier abord, qui « représente évidemment le côté
+   surnaturel de la vie » et à qui les anciens attribuaient une cause
+   extérieure à l’homme. Très grossièrement, ces deux aspects
+   correspondent aux conceptions successives que les Lumières et le
+   Romantisme se font du rêve, naturel (intérieur : venant du rêveur) ou
+   surnaturel (extérieur : venant de quelque puissance inconnue, divine ou
+   humaine, imagination archaïque ou collective).
+   La psychanalyse, et Freud en particulier, ont mis en lumière le
+   caractère « intérieur » de cet « extérieur » : ce qui nous paraît
+   inexplicable ou absurde dans nos rêves, « sans rapport ni connexion »
+   avec nous-mêmes, vient de ce qui nous est le plus profond mais qui nous
+   demeure inconnu à l’état conscient, contenu auquel la médiation
+   onirique représente un mode d’accès privilégié. Ce qui nous est le plus
+   intime serait aussi ce qui nous est le plus étranger, autre, ce qui
+   conduit à se demander qui rêve quand on rêve, ou qu’est-ce qui rêve en
+   soi. « Est-ce moi qui rêve la nuit ? Ou bien suis-je devenu le théâtre
+   où quelqu’un, quelque chose, déroule ses spectacles tantôt dérisoires,
+   tantôt pleins d’une inexplicable sagesse ? », se demande ainsi Albert
+   Béguin dans l’introduction de L’Âme romantique et le rêve, alors que la
+   citation de Paul Claudel que Béguin place en exergue à son ouvrage
+   articule plus nettement le paradoxe du rêve : « Fermant les yeux, rien
+   ne m’est plus extérieur, c’est moi qui suis extérieur ». À la question
+   d’Albert Béguin, « suis-je celui qui rêve ? », Jean-Luc Nancy répond
+   indirectement en insistant sur l’effacement de ce « je » dans le
+   sommeil : « À mes propres yeux, qui ne regardent plus rien, qui sont
+   tournés vers eux-mêmes et vers la tache noire en eux, ‟jeˮ ne ‟meˮ
+   distingue plus » (Tombe de sommeil, p. 23). Dans un rêve, « je » peut
+   changer de visage, de sexe, d’âge ; qui est alors le « je » qui rêve et
+   celui qui est rêvé, et quelle est sa relation avec celui ou celle qui,
+   éveillé(e), raconte ou écrit ce rêve ?
+   C’est bien le travail d’écriture du rêve, et la nature du « je » dans
+   ce récit, narrant/narré, intérieur/extérieur, soi/autre, qui nous
+   intéressera ici. Avant Freud, des artistes avaient déjà fait le lien
+   entre rêve et création littéraire, soit en évoquant directement un rêve
+   nocturne qui serait à l’origine d’une œuvre (Walpole pour Le Château
+   d’Otrante, Mary Shelley pour Frankenstein, monstres qu’on pourrait dire
+   engendrés par le sommeil de la raison) ; soit en mêlant le récit d’un
+   rêve personnel à leur œuvre (Dante et La Vita Nuova) ; soit, plus
+   couramment, en proposant le récit enchâssé du rêve d’un personnage, qui
+   vient souvent éclairer et/ou approfondir non seulement la psychologie
+   de ce personnage, mais aussi l’ensemble de l’œuvre (les rêves de Jane
+   Eyre, de Wilhelm Meister ou d’Emma Bovary). Le récit du rêve comme
+   premier brouillon pourra également se prêter à des analyses fécondes :
+   les écrits du moi (correspondance d’écrivains, journaux intimes,
+   mémentos…) développent en effet volontiers des confidences relatives �
+   des rêves nocturnes réels (voire à des rêves inventés de toutes
+   pièces…) susceptibles d’être considérés comme le matériau de base d’une
+   création romanesque à venir. Le rêve devient une autre manière
+   d’inventer de nouveaux projets d’écriture fictionnelle qui ne seront
+   cependant pas tous mis à exécution tant le passage du rêve d’une œuvre
+   future à sa création pour de bon rencontre nombre d’écueils et
+   d’impossibilités qui demandent à être répertoriés et étudiés. Entre
+   autres, on considérera les questions du rêve trop intime et de
+   l’interdit posé par la pudeur ou la retenue mais aussi celle d’un
+   imaginaire débridé dans le rêve que l’œuvre littéraire, encombrée de
+   ses règles, ne peut faire sien ou encore les problèmes de compréhension
+   même et d’interprétation du rêve… Il s’agira donc d’observer en quoi le
+   rêve et son récit constituent les premières traces et peut-être les
+   premiers brouillons d’une œuvre littéraire ultérieure, comment la
+   transcription littéraire se met en place, selon quelles modalités, et
+   pourquoi il lui arrive parfois d’échouer. L’objectif, ici, sera
+   d’observer comment le rêve, en tant qu’écriture de l’intime dans des
+   supports ad hoc (correspondance, privée, journal intime…), se
+   transforme ou pas en une écriture littéraire dans laquelle le rêve est
+   devenu alors la matière première du texte littéraire.
+   Les rêves diurnes (ou rêveries) ont aussi leur place dans la création
+   littéraire, qu’ils soient envisagés en opposition aux rêves nocturnes
+   (Bachelard, qui propose dans Poétique de la rêverie [1960] une
+   réflexion sur le rôle de la rêverie spontanée dans la naissance de
+   l’œuvre littéraire) ou bien en association avec eux (Freud dans « Le
+   Créateur littéraire et la fantaisie », 1908). On pourrait aller jusqu’�
+   évoquer les rêves (à plus proprement parler les hallucinations)
+   produits par des drogues, comme l’opium ou le haschich (Coleridge, De
+   Quincey, Gautier, Baudelaire). Ainsi, si Baudelaire évoque «
+   L’Homme-Dieu », c’est pour souligner cette quête artistique vers
+   laquelle conduit le rêve provoqué « dans l’ivresse du haschisch ».
+   Pourtant, il ne manque pas alors de nommer Rousseau en écrivant « cela
+   ne vous fait-il pas souvenir de Jean-Jacques, qui […] après s’être
+   confessé à l’univers, non sans une certaine volupté, a osé pousser le
+   […] cri de triomphe […] avec […] sincérité et conviction ?
+   L’enthousiasme avec lequel il admirait la vertu, l’attendrissement
+   nerveux qui remplissait ses yeux de larmes, à la vue d’une belle action
+   ou à la pensée de toutes les belles actions qu’il aurait voulu
+   accomplir, suffisaient pour lui donner une idée superlative de sa
+   valeur morale. Jean-Jacques s’était enivré sans haschisch » et cette
+   exaltation l’a conduit à écrire Les Rêveries du promeneur solitaire
+   (1776-1778). Avec le citoyen de Genève, le mot « rêverie » connaît une
+   évolution sémantique très positive qui passe d’une acception classique
+   péjorative à une signification plus laudative, dès la fin du XVIIIe
+   siècle, pour désigner, selon le Littré, « l’état de l’esprit occupé
+   d’idées vagues ». Pour Rousseau, le rêveur forme un homme nouveau
+   capable de se mettre à l’écoute de sa voix intérieure. La rêverie
+   ressemble alors au miroir de l’âme, détentrice de « paisibles
+   méditations » d’où la jouissance n’est jamais éloignée. La rêverie
+   rousseauienne ambitionne une recherche intimiste du bonheur à partir
+   des impressions extérieures laissées en suspens pour atteindre un moi
+   originel légué par le rappel du passé. L’écriture de la rêverie par
+   Rousseau constitue un texte fondateur à la suite duquel les romantiques
+   ont pu exprimer « les innombrables frissons de l’âme et de la nature ».
+   Le processus créateur, en tant que ce qui est à la fois le plus intime
+   et le plus insaisissable à l’auteur, pourra donc trouver dans la
+   lumière (ou dans l’obscurité) du rêve et de la rêverie un lieu
+   d’analyse privilégié, dans une perspective qui pourra entre autres être
+   historique et contrastive : la composition de l’équipe Lumières et
+   Romantismes, formée de dix-huitièmistes et de dix-neuvièmistes
+   spécialistes des littératures de plusieurs aires, se prête
+   particulièrement bien à ce genre d’approche.
+
+Jalons bibliographiques :
+
+   Sources primaires (dans l’ordre chronologique)
+
+   Bunyan, John, Le Voyage du pèlerin (1678)
+   Richardson, Samuel, Clarisse Harlowe (1748)
+   Walpole, Robert, Le Château d’Otrante (1764)
+   Kant, Emmanuel, Les Rêves d’un visionnaire expliqués par les rêves d’un
+   métaphysicien (1766)
+   Diderot, Denis, Le Rêve de d’Alembert (1769)
+   Rousseau, Jean-Jacques, Les Rêveries d’un promeneur solitaire (pub.
+   1782)
+   Goethe, Johann Wolfgang von, Les Années d’apprentissage de Wilhelm
+   Meister (1795-96)
+   Lewis, Matthew, Le Moine (1796)
+   Brockden Brown, Charles, Edgar Huntly, or Memoirs of a Sleep-Walker
+   (1799)
+   Coleridge, Samuel T., « Kubla Khan; Or, A Vision in a Dream » (pub.
+   1816)
+   Hoffmann, ETA, nombreuses œuvres parmi lesquelles Contes Nocturnes
+   (1816-17)
+   Shelley, Mary, Frankenstein (1818)
+   De Quincey, Thomas, Confessions d’un mangeur d’opium (1821)
+   Hugo, Victor, Le Dernier jour d’un condamné (1828), entre autres
+   Hawthorne, Nathaniel, “The Haunted Mind” (1835)
+   Dickens, Charles, A Christmas Carol (1843)
+   Brontë, Charlotte, Jane Eyre (1847)
+   Brontë, Emily, Les Hauts de Hurlevent (1847)
+   Poe, Edgar Allan, nombreuses œuvres parmi lesquelles « A Dream within a
+   Dream » (1849)
+   Nerval, Gérard de, diverses œuvres parmi lesquelles Les Filles du feu
+   (1850)
+   Flaubert, Gustave, Madame Bovary (1857), entre autres
+   Baudelaire, Les Paradis artificiels (1860)
+   Lautréamont, Les Chants de Maldoror (1869)
+   Stevenson, Robert Louis, Dr. Jekyll and Mr. Hyde (1886)
+
+   Sources secondaires (théorie et histoire littéraire)
+
+   Bachelard, Gaston, nombreuses œuvres parmi lesquelles L’Eau et les
+   rêves (1942), La Terre et les rêveries du repos: essai sur les images
+   de l'intimité (1948) et Poétique de la rêverie (1960)
+   Béguin, Albert, L’Âme romantique et le rêve (1937)
+   Benjamin, Walter, « Sur quelques thèmes baudelairiens » (1939)
+   Blanchot, Maurice, « Le sommeil, la nuit », in L’Espace littéraire
+   (1955)
+   -, « Vaste comme la nuit », in L’Entretien infini (1969)
+   Canovas, Frédéric, L’écriture rêvée (2000)
+   Dieterle, Bernard, et Manfred Engel, The Dream and the Enlightenment /
+   Le Rêve et les Lumières (2003)
+   Freud, Sigmund, nombreuses œuvres parmi lesquelles Sur le rêve (1901),
+   Le Délire et les rêves dans la Gradiva de Jensen (1907) et « Le
+   créateur littéraire et la fantaisie » (1908)
+   Jackson, John Edwin, Souvent dans l’être obscur : rêve, capacité
+   négative et romantisme européen (2001)
+   Nancy, Jean-Luc, Tombe de sommeil (2007)
+   Orwat, Florence Michèle, L’Invention de la rêverie : une conquête
+   pacifique du Grand Siècle (2006)
+   Piper, Andrew, Dreaming in Books: The Making of the Bibliographic
+   Imagination in the Romantic Age (2009).
+
+Équipe :
+
+« Lumières et romantismes»
+
+   +33(0)4 73 34 68 32
+     *
+
+   logo-Centre de Recherches sur les Littératures et la Sociopoétique
+
+
+    Maison des Sciences de l'Homme
+    4, Rue Ledru
+    63057 CLERMONT-FERRAND
+
+     * MSH
+     * ISITE CAP 2025
+     * IUF
+
+     * Accessibilité
+
+     Handicap
+
+     Mentions légales
+
+     Annuaire
+
+     Flux RSS Haut de page

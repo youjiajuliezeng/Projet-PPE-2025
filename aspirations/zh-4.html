@@ -1,0 +1,290 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--站点-->
+<meta name="SiteName" content="北京市卫生健康委员会" />
+<meta name="SiteDomain" content="wjw.beijing.gov.cn" />
+<meta name="SiteIDCode" content="1100000176" />
+<!--栏目-->
+<meta name="ColumnName" content="健康生活" />
+<meta name="ColumnType" content="普通栏目" />
+<meta name="ColumnDescription" content="健康生活" />
+<meta name="ColumnKeywords" content="健康生活" />
+<!--内容-->
+<meta name="ArticleTitle" content="宣医科普|能记得昨天的梦就是睡得好？那可不一定" />
+<meta name="PubDate" content="2022-09-16 09:22" />
+<meta name="ContentSource" content="北京宣武医院" />
+<meta name="Keywords" content="" />
+<meta name="Author" content="" />
+<meta name="Description" content="" />
+<meta name="Image" content="" />
+<meta name="Url" content="http://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html" />
+<title>宣医科普|能记得昨天的梦就是睡得好？那可不一定 </title>
+<link rel="stylesheet" type="text/css" href="../../../../images/style_red.css" />
+<link rel="stylesheet" type="text/css" href="../../../../images/main_red.css" />
+<link rel="stylesheet" type="text/css" href="../../../../images/headerFooter.css" />
+<script src="../../../../images/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="../../../../images/flexible.js" type="text/javascript"></script>
+<script type="text/javascript" src="../../../../images/jquery.qrcode.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable = no">
+<style>
+	/*分享*/
+	.share_title{width: 45px;float:left;line-height:35px;}
+	.m-share{float: left;margin-top:5px;position:absolute;margin-left: 34px;}
+	.share{zoom: 1;}
+	.share:after{content: "";display: block;clear: both;}
+	.share a{float: left;width: 26px;height: 26px;border-radius: 50%;margin-left: 13px;background: #c9c9c9;cursor: pointer;display: block;}
+	.share a i{display: block;width: 26px;height: 26px;-webkit-transition: .4s all;-moz-transition: .4s all;-ms-transition: .4s all;transition: .4s all;}
+	.share a:hover i{-webkit-transform: rotate(360deg);-moz-transform: rotate(360deg);-ms-transform: rotate(360deg);transform: rotate(360deg);}
+	.share #share-icon{width: 26px;height: 26px;float: left;display: none;}
+	.share #share-icon img{width: 100%;height: 100%;}
+	.share .share-qqzone i{background: url("//wjw.beijing.gov.cn/images/share_20230321.png") 4px center no-repeat;}
+	.share .share-qqzone:hover{background-color: #fc7354;}
+	
+	.share .share-wechat i{background: url("//wjw.beijing.gov.cn/images/share_20230321.png") -30px center no-repeat;}
+	.share .share-wechat:hover{background-color: #1fbc7d;}
+	.share .share-weibo i{background: url("//wjw.beijing.gov.cn/images/share_20230321.png") -65px center no-repeat;}
+	.share .share-qq:hover{background-color: #27a8f2;}
+	.share .share-qq i{background: url("//wjw.beijing.gov.cn/images/share_20230321.png") -96px center no-repeat;}
+	.share .share-weibo:hover{background-color: #e96157;}
+	.share .bg-code{left: -36px;z-index: 10;}
+	.share .qrcode{position: absolute;border: 1px solid #ccc;padding: 5px;background: #fff;display: none;width: 100px;height: 100px;z-index: 11;}
+	.share .close-btn{position: absolute;background: #fff;color: #000;font-size: 12px;z-index: 12;width: 12px;height: 12px;line-height: 12px;text-align: center;right: -39px;top: 50px;display: none;cursor: pointer;
+	}
+	.fenxiang_right_col{float:right;margin-right:18%;}
+	.qrcode canvas:nth-of-type(2){margin-top:-100px;}
+</style>
+
+<script type="text/javascript">
+	$(function(){
+		//分享
+		var title = "【" + $.trim(document.title) + "】";
+		var description = $.trim($('meta[name="description"]').attr('content'));
+		var portalUrl = window.location.href;
+		//生成二维码
+		function generateQRCode(rendermethod, picwidth, picheight, url) {
+			$(".qrcode").qrcode({
+				render: rendermethod, // 渲染方式有table方式（IE兼容）和canvas方式
+				width: picwidth, //宽度
+				height: picheight, //高度
+				text: changeUTF(portalUrl), //内容
+				typeNumber: -1, //计算模式
+				correctLevel: 2, //二维码纠错级别
+				background: "#ffffff", //背景颜色
+				foreground: "#000000" //二维码颜色
+
+			});
+		}
+		canvas_table = !!document.createElement('canvas').getContext ? 'canvas' : 'table';
+
+		function init() {
+			generateQRCode(canvas_table, 100, 100, window.location.href);
+		}
+		//中文编码格式转换
+		function changeUTF(str) {
+			var out, i, len, c;
+			out = "";
+			len = str.length;
+			for(i = 0; i < len; i++) {
+				c = str.charCodeAt(i);
+				if((c >= 0x0001) && (c <= 0x007F)) {
+					out += str.charAt(i);
+				} else if(c > 0x07FF) {
+					out += String.fromCharCode(0xE0 | ((c >> 12) & 0x0F));
+					out += String.fromCharCode(0x80 | ((c >> 6) & 0x3F));
+					out += String.fromCharCode(0x80 | ((c >> 0) & 0x3F));
+				} else {
+					out += String.fromCharCode(0xC0 | ((c >> 6) & 0x1F));
+					out += String.fromCharCode(0x80 | ((c >> 0) & 0x3F));
+				}
+			}
+			return out;
+		}
+		init();
+
+		$(".share-wechat").on("click", function() {
+			$(".bg-code,.qrcode").toggle();
+		});
+		//清空二维码
+		$(".close-btn").on("click", function(event) {
+			$(".bg-code,.qrcode,.close-btn").hide();
+			event.stopPropagation();
+		});
+
+		function showToQzone() {
+			 var _desc = description;
+			 var _title = title;
+			 var _url = portalUrl;
+			 var _shareUrl = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?';
+			 _shareUrl += 'url=' + encodeURIComponent(_url);   
+			 _shareUrl += '&title=' + encodeURIComponent(_title);    			 window.open(_shareUrl,'','width=700,height=680,top=0,left=0,toolbar=no,menubar=no,scrollbars=no,resizable=1,location=yes,status=0'); 
+		}
+
+		function showToSina(title, portalUrl, desc) {
+			var _desc = desc;
+			var _t = title + " " + _desc;
+			var _url = portalUrl;
+			var _appkey = ""; 
+			var _site = ''; 
+			var _ralateUid = "";
+			var _u = 'http://service.weibo.com/share/share.php?url=' + _url + '&appkey=' + _appkey + '&title=' + _t + '&ralateUid=' + _ralateUid + '&searchPic=false';
+			window.open(_u, '', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no');
+		}
+		
+		$('.share-qqzone').on('click', function() {
+			showToQzone(title, portalUrl, description);
+		});
+		$('.share-weibo').on('click', function() {
+			showToSina(title, portalUrl, description);
+		});
+	});
+	
+</script>
+<script type="text/javascript">
+	$(function () {
+		var text = window.location.href;
+		$('#qr_wrap').qrcode({
+			text: changeUTF(text),
+			height: 132,
+			width: 132,
+			src: ''
+		});
+		function changeUTF(str) { 
+		var out, i, len, c;
+		out = "";
+		len = str.length;
+		for (i = 0; i < len; i++) {
+			c = str.charCodeAt(i);
+			if ((c >= 0x0001) && (c <= 0x007F)) {
+				out += str.charAt(i);
+			} else if (c > 0x07FF) {
+				out += String.fromCharCode(0xE0 | ((c >> 12) & 0x0F));
+				out += String.fromCharCode(0x80 | ((c >> 6) & 0x3F));
+				out += String.fromCharCode(0x80 | ((c >> 0) & 0x3F));
+			} else {
+				out += String.fromCharCode(0xC0 | ((c >> 6) & 0x1F));
+				out += String.fromCharCode(0x80 | ((c >> 0) & 0x3F));
+			}
+		}
+		return out;
+		}
+	})
+</script>
+</head>
+<body>
+<!--无障碍组件-->
+<script defer async type="text/javascript" src="//wza.beijing.gov.cn/dist/aria.js?appid=ab0bffcab72314f8ed1b4ccc7f067fe8" charset="utf-8" wapForceOldFixed="false" loadData="false" id="ariascripts"></script>
+<!--定义head层开始-->
+<script src="../../../../images/head_red_20230527.js" type="text/javascript"></script>
+<!--定义head层结束-->
+<!--定义main_con层开始-->
+<div id="main_con">
+	<div class="location">当前位置：<a href="../../../" target="_self" title="便民服务" class="CurrChnlCls">便民服务</a>><a href="../../" target="_self" title="健康知识" class="CurrChnlCls">健康知识</a>><a href="../" target="_self" title="健康生活" class="CurrChnlCls">健康生活</a></div>
+	<div class="main_con_weinei">
+    	<div class="weinei_left">
+        	<div class="weinei_left_tit_sanji"> 宣医科普|能记得昨天的梦就是睡得好？那可不一定 </br>  
+			    <div class="weinei_left_tit_sanji_fbt"> </div> 
+			</div>
+        	<div class="weinei_left_tit_sanji2">
+            	<ul>
+                	<li class="weinei_li">发布日期：2022-09-16</li>
+                	<li class="weinei_li">来源：北京宣武医院</li>
+				    <li class="to-big" >
+				    <a href="javascript: doZoom(14);">
+					    <img src="../../../../images/text_little_20150706.png" border="0" alt="文字变小" /></a>
+				    <a href="javascript: doZoom(16);">
+					    <img src="../../../../images/A.png" border="0" alt="恢复文字大小" /></a>
+				    <a href="javascript: doZoom(20);">
+					    <img src="../../../../images/text_bigger_20150706.png" border="0" alt="文字变大" /></a>
+				    </li>
+			    </ul>
+		    </div>	
+			<div class="fenxiang_right_col">
+				<li style="display: inline;float:left;">
+						<font class="share_title">分享：</font>
+						<div class="m-share">
+							<div class="share" id="share">
+								<a class="share-wechat ariaskiptheme">
+									<i></i>
+									<div class="bg-code"></div>
+									<div class="qrcode"><canvas width="100" height="100"></canvas></div>
+									<span class="close-btn">X</span>
+								</a>
+								<a class="share-weibo ariaskiptheme"><i></i></a>
+								<a class="share-qqzone ariaskiptheme"><i></i></a>
+							</div>
+						</div>
+					</li>
+			</div>		 
+			<SCRIPT language=JavaScript>
+				function doZoom(size){
+					document.getElementById('zoom').style.fontSize=size+'px'
+				}
+			</SCRIPT>
+        	<div class="weinei_left_con_sanji" id="zoom">
+			    <div class="view TRS_UEDITOR trs_paper_default trs_web trs_key4format"><p style="text-indent: 2em;">你昨晚做的梦，现在还记得吗？</p><p style="text-indent: 2em;">梦，对于很多人来说，都是一种缥缈的存在，似有若无，看得见摸不到，好像有那么回事儿，但是要细说又不知从何说起。然而就有些骨骼清奇的人，不仅能够清晰地记住自己做的梦，还能像讲故事一样给别人复述。对此，有些人认为这是大脑该休息的时候还在坚持加班，所以属于睡眠质量不好的情况；还有些人则认为，能够清楚地记住自己的梦，都应该归功于超群的记忆力，是脑子好的表现。</p><p style="text-indent: 2em;">那么，哪种说法是对的呢？</p><p style="text-indent: 2em;"><strong>能否记得梦境 取决于在哪个阶段醒来</strong></p><p style="text-indent: 2em;">实际上，人只要睡觉就会做梦。人的睡眠分为非快速眼动睡眠（NREM睡眠）和快速眼动睡眠（REM睡眠）。我们每天晚上的睡眠，都是从 NREM 睡眠到 REM 睡眠再到NREM睡眠的过程，一般来说每晚都要经过 4 - 5 个这样的循环，而生动的梦境都是在 REM 睡眠中发生的。有些人早晨醒来的时候，正好是从 REM 睡眠中醒来，这部分人就会把梦境记得特别清楚。然而，大部分人都是在 NREM 睡眠时醒来，这部分人就会觉得完全不记得自己做梦了。</p><p style="text-indent: 2em;">所以说，并不能因为总是记得梦境就认为自己睡得不好，如果一整晚都睡得很香，早晨醒来的时候还清楚记得自己做了什么梦，反而说明你的睡眠质量很好。</p><p style="text-indent: 2em;">很多失眠的患者，也会觉得一整晚都在做梦，这是怎么回事呢？有很多研究表明，失眠患者一晚上容易觉醒多次，而且往往容易在 REM 睡眠时觉醒，因此，这部分患者会觉得自己一整晚都在做梦。失眠患者往往会过度关注一些不好的事情，梦里也是一些关于这些不好的事情的梦境，于是这些患者就会觉得自己总做一些不好的梦，将“多梦”和睡眠质量不好划上了等号。</p><p style="text-indent: 2em;"><strong>我们只能记得最后一个梦 新旧记忆的重合造就“连续梦”</strong></p><p style="text-indent: 2em;">在 REM 睡眠中，我们对白天所经历的事件和相关的情绪进行处理。这个过程是巩固和加工记忆的过程，也是情绪加工的过程。在这个过程中，会形成很多不同的思维，在不同时间被叫醒的你，很有可能会回忆起不同的梦境。然而正是因为你只记住了苏醒时当下的梦，就认为自己只做了一个梦。也就是说，我们只是记住了这一段睡眠中的最后一个梦，前面的梦境被掩盖了而已。</p><p style="text-indent: 2em;">在 REM 睡眠中，我们会把新的事件加入到以前旧的记忆当中，形成新的记忆，所以，理论上讲这些“梦境”不是完全隔开和独立的。确实有部分人经常从 REM 睡眠醒来，他们可以回忆起自己做过的梦，而且形成“连续剧”，就是这个道理。</p><p style="text-indent: 2em;"><strong>总能在清晰梦境中醒来的人 记忆能力更好一些</strong></p><p style="text-indent: 2em;">REM 睡眠中做的梦往往都是非常生动的，在 REM 睡眠中醒来的人能清晰地回忆起梦里的内容，甚至每个细节都历历在目。这种对梦境的回忆并不是由记忆力完成的，但晚上的 REM 睡眠时间长，确实可以说明当天记住的东西可能比别人的多。这是因为，REM 睡眠的另外一个重要的功能是记忆巩固，REM 睡眠时间的长短与记忆巩固有关。</p><p style="text-indent: 2em;">有人做过一个实验，实验中所有人都学习同样的内容，而 REM 睡眠时间长的人，第二天能够记住的内容就比 REM 睡眠短的人多。从这个角度讲，也确实可以理解为，做梦多且能够清晰记住梦境的人，记忆力相对要更好一点。</p><p style="text-indent: 2em;"><strong>日有所思夜有所梦 放下纠结才能睡得香</strong></p><p style="text-indent: 2em;">有些人经常会梦到白天遇见的事情，甚至在梦里豁然开朗，得出解决办法，于是有些人会认为这是“神的旨意”。</p><p style="text-indent: 2em;">“日有所思，夜有所梦”，我们的大脑在睡眠中并不会完全彻底休息，尤其是在 REM 睡眠中，大脑依然在忙碌地为我们处理信息，巩固记忆。梦里梦到的内容，包括那些“神的旨意”，都是你自己大脑想出的答案。白天对哪些事儿思考的越多，梦里梦见这些事情的概率也就越大。有些时候，在睡觉之前不由自主想到的事儿，也很可能在梦里出现。</p><p style="text-indent: 2em;">然而，如果你正因为一些事而纠结和困扰，在入睡前还在苦苦思索，这就会影响你的睡眠质量了。我们的睡眠是需要大脑安静下来才能睡得更香，如果在入睡前思考一些影响情绪的事情，或者看一些情节激烈的书或电影，就会影响入睡的速度，影响睡眠的质量。因此，如果你想拥有一个好的睡眠，在上床睡觉之前一定要做好准备，暂时把那些困扰和纠结放下。如果实在控制不住大脑的走向，不妨尝试做做放松训练，把注意力集中在感受自己的呼吸节律上，这样就能暂停那些没用的胡思乱想，睡一个舒舒服服的好觉了。</p><p><br/></p></div>
+                
+            </div>
+	    <style>#qr_wrap{width: 135px;margin: 0 auto;padding-bottom:40px;}</style>
+	    <div id="qr_wrap"></div>
+            <div class="weinei_left_con_sanji2 pc-hide">
+			    <a href="javascript:window.close();">【关闭】</a>
+			</div>
+            <div class="weinei_left_con_sanji4"></div>        	
+        </div>
+    </div>
+</div>
+<!--定义main_con层结束-->
+<!--定义foot层开始-->
+<script src="../../../../images/foot_red_20230527.js" type="text/javascript"></script>
+<!--定义foot层结束-->
+<style>
+ .weinei_left{width:998px}
+ .weinei_left_tit_sanji{width:938px;color:#555555;}
+ .weinei_left_tit_sanji_fbt{font-size:17px;font-weight:normal;}
+ .weinei_left_tit_sanji2 .weinei_left_con_sanji{width:968px;}
+ .weinei_left_tit_sanji2 ul{width:938px;margin-left:30px;margin-right:30px;list-style:none;text-align:center;}
+ .weinei_left_tit_sanji2 ul .weinei_li{text-align:center;float:none;}
+ .weinei_left_tit_sanji2 ul .to-big{padding-top:8px;text-align:center;float:none;}
+ .weinei_left_con_sanji{width:938px;margin:10px 23px;}
+ 
+ @media screen and (max-width: 414px) {
+   #main_con{width:98%;}
+   .location{width:90%!important;font-size:.4rem;height:auto;}
+   .main_con_weinei {width:98%!important;}
+   .weinei_left {width:100%!important;}
+   .weinei_left_tit_sanji {width:88%!important;}
+   .weinei_left_tit_sanji ul{width:88%!important;}
+   .weinei_left_tit_sanji2{ width:100%!important;}
+   .weinei_left_tit_sanji2 ul{ width:100%!important;  margin-left:0!important; }().parent.style;
+   .weinei_left_tit_sanji2 ul li{ line-height:.6rem;}
+   .weinei_left_tit_sanji2 ul .weinei_li{display:block!important;}
+   .weinei_left_tit_sanji2 ul .to-big{display:none!important;}
+   .weinei_left_con_sanji2{width:auto}
+   .fenxiang_right_col li{display:block!important; }
+   .fenxiang_right_col li .share_title{font-size:.4rem; width:auto!important;}
+   .fenxiang_right_col{ margin-right:.5rem;}
+   .fenxiang_right_col .m-share{ margin-left:0rem; position:static;}   
+   .weinei_left_con_sanji {width:88%!important;font-size:20px;}
+   .weinei_left_con_sanji img{width:100%!important;height:auto!important;}
+   table{width:auto!important;}
+   table tr{width:auto!important;}
+   table tr td{width:auto!important;}
+   }
+}
+</style>
+<script>
+$(function () {
+	var fatherp = document.getElementById('zoom').getElementsByTagName("img");
+	$.each(fatherp,function(){
+		this.parentNode.style.cssText="text-indent:0rem;text-align:center";
+	});
+	var iframep = document.getElementById('zoom').getElementsByTagName("iframe");
+	$.each(iframep ,function(){
+		this.style.cssText="width:auto";
+	});
+});
+</script>
+</body>
+</html>

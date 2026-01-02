@@ -1,0 +1,2168 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Étymologie du mot « rêve »
+     * 2 Description du phénomène
+     * 3 Mythologie et histoire des religions
+       (BUTTON) Afficher / masquer la sous-section Mythologie et histoire
+       des religions
+          + 3.1 Rêve et divination
+               o 3.1.1 Prémonition
+               o 3.1.2 Incubation
+          + 3.2 Rêve et voyage de l'âme
+          + 3.3 Rêve et initiation
+          + 3.4 Rêve et révélation
+               o 3.4.1 Tradition judaïque
+               o 3.4.2 Tradition musulmane
+     * 4 Philosophie naturelle et médecine
+       (BUTTON) Afficher / masquer la sous-section Philosophie naturelle
+       et médecine
+          + 4.1 Antiquité grecque
+          + 4.2 Moyen Âge
+               o 4.2.1 Principaux textes
+               o 4.2.2 Interprétations
+          + 4.3 Renaissance et âge classique
+          + 4.4 Période moderne
+               o 4.4.1 Approches symboliques
+               o 4.4.2 Psychologie expérimentale
+     * 5 Psychologie
+       (BUTTON) Afficher / masquer la sous-section Psychologie
+          + 5.1 Psychanalyse
+          + 5.2 Psychologie analytique
+     * 6 Ethnopsychiatrie
+     * 7 Neurophysiologie
+       (BUTTON) Afficher / masquer la sous-section Neurophysiologie
+          + 7.1 Premières études
+          + 7.2 Nouvelles approches
+               o 7.2.1 Michel Jouvet : le rêve comme troisième état du
+                 cerveau
+               o 7.2.2 David Foulkes : le rêve dans tous les états de
+                 sommeil
+               o 7.2.3 Peretz Lavie : l'oubli des rêves post-traumatiques
+          + 7.3 Convergences
+          + 7.4 Critiques
+     * 8 Typologie des rêves humains
+       (BUTTON) Afficher / masquer la sous-section Typologie des rêves
+       humains
+          + 8.1 Cauchemar
+          + 8.2 Rêve créatif
+          + 8.3 Rêve lucide
+          + 8.4 Rêve prémonitoire
+          + 8.5 Rêve sexuel
+     * 9 Éthologie
+     * 10 Rêve et réalité
+     * 11 Le rêve dans les arts
+       (BUTTON) Afficher / masquer la sous-section Le rêve dans les arts
+          + 11.1 Littérature
+               o 11.1.1 Écrits
+               o 11.1.2 Romantisme
+               o 11.1.3 Surréalisme
+          + 11.2 En peinture
+          + 11.3 Musicographie
+               o 11.3.1 Musique rock
+          + 11.4 Filmographie
+     * 12 Notes et références
+     * 13 Bibliographie
+       (BUTTON) Afficher / masquer la sous-section Bibliographie
+          + 13.1 Anthropologie
+          + 13.2 Psychanalyse et psychologie analytique
+          + 13.3 Neurosciences
+          + 13.4 Ethnopsychiatrie et anthropologie psychanalytique
+          + 13.5 Arts
+          + 13.6 Divers
+     * 14 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 14.1 Articles connexes
+          + 14.2 Liens externes
+
+   [ ] Basculer la table des matières
+
+Rêve
+
+   [ ] 121 langues
+     * Afrikaans
+     * العربية
+     * ܐܪܡܝܐ
+     * مصرى
+     * Asturianu
+     * Aymar aru
+     * Azərbaycanca
+     * تۆرکجه
+     * Batak Toba
+     * Bikol Central
+     * Български
+     * বাংলা
+     * Brezhoneg
+     * Catal�
+     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * ᏣᎳᎩ
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Võro
+     * Frysk
+     * Gaeilge
+     * 贛語
+     * Kriyòl gwiyannen
+     * Gàidhlig
+     * Galego
+     * Hausa
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Kreyòl ayisyen
+     * Magyar
+     * Հայերեն
+     * Interlingua
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * Jawa
+     * ქართული
+     * Tyap
+     * Қазақша
+     * ភាសាខ្មែរ
+     * ಕನ್ನಡ
+     * 한국어
+     * کٲشُر
+     * Kurdî
+     * Кыргызча
+     * Latina
+     * Lietuvių
+     * Latviešu
+     * मैथिली
+     * Malagasy
+     * Олык марий
+     * Македонски
+     * മലയാളം
+     * Монгол
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * नेपाली
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Nouormand
+     * Occitan
+     * ਪੰਜਾਬੀ
+     * Kapampangan
+     * Polski
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Sicilianu
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * ChiShona
+     * Soomaaliga
+     * Shqip
+     * Српски / srpski
+     * SiSwati
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * తెలుగు
+     * ไทย
+     * Tagalog
+     * Toki pona
+     * Türkçe
+     * Xitsonga
+     * Twi
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * Yorùbá
+     * Vahcuengh
+     * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+     * IsiZulu
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Wikiquote
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Rêve (homonymie).
+   [250px-Dickensdream.jpg] Le Rêve de Dickens (Dickens' Dream), tableau
+   inachevé de Robert William Buss - Musée Charles Dickens de
+   Londres.[250px-Lecomte_du_Nouy_Il_sogno_dell%27eunuco.jpg] Le Rêve de
+   l'Eunuque par Jean-Jules-Antoine Lecomte du
+   Nouÿ.[250px-Paul_Kr%C3%B4n%2C_La_Sieste%2C_huile_sur_toile%2C_c.1930._C
+   oll._part.jpg] La Sieste par Paul Krôn.
+
+   Le rêve est une disposition de l'esprit généralement nocturne,
+   survenant au cours du sommeil, et qui procure à l'individu éveillé des
+   souvenirs nommés rêves.
+
+   Au cours de l'histoire et des civilisations, le rêve a été un moyen de
+   s'affranchir du temps et de l'espace ordinaires, pour accéder au
+   surnaturel, aux ancêtres, au divin, ou encore comme un moyen de
+   guérison, de connaissance et de révélation.
+
+   L'approche rationnelle et scientifique en fait un processus ancré dans
+   le corps et lié à l'activité cérébrale au cours du sommeil. Le rêve
+   pose toujours la question de son sens et de sa signification, ou de son
+   rôle et de sa fonction (approches philosophique, psychodynamique,
+   neurobiologique).
+
+   Dans les arts et la littérature, le rêve représente la « vie rêvée » au
+   sens de projet chimérique ou de représentation d'un autre possible.
+   Cela peut relever aussi bien de l'« agir » (espoir, recherche…) que du
+   « pâtir » (errance, déception…).
+
+Étymologie du mot « rêve »
+
+   [modifier | modifier le code]
+
+   Le mot « rêve » apparaît en 1674 chez Malebranche dans De la recherche
+   de la vérité, comme déverbal dérivé de rêver^[1].
+
+   Le verbe « rêver », anciennement orthographié ‹ resver › (vers 1130) ou
+   ‹ reever › (1240) signifiait « radoter, divaguer ». Son origine est
+   discutée. Il viendrait de l'ancien français desver « perdre le sens »,
+   d'un gallo-roman esvo « vagabond », du latin tardif exvagus de même
+   sens^[2], et enfin du latin classique vagus qui a donné aussi
+   l'adjectif « vague » et le verbe « divaguer »^[3].
+
+   Selon Pierre Guiraud, le terme « rêver » serait à rattacher d'un
+   hypothétique latin populaire reexvadere (re- et exvadare, « évader »),
+   d'où plusieurs significations sur le thème de l'évasion répétée
+   (imaginer, méditer, souhaiter fortement…)^[3].
+
+   Jusqu'au XVII^e siècle, « rêver » a eu le sens de radoter, délirer,
+   déraisonner (ce sens a été repris au XX^e siècle dans le langage
+   familier). Il perd alors son sens péjoratif pour entrer en concurrence
+   avec « songer » qu'il finit par remplacer au XIX^e siècle, pour
+   désigner l'activité psychique du sommeil^[3].
+
+   Le terme « rêve » est rare avant le XIX^e siècle, il garde plus
+   longtemps une connotation négative (délire) tout en prenant aussi une
+   valeur poétique au XVIII^e siècle avec Rousseau^[1] dans Les Rêveries
+   du promeneur solitaire.
+
+Description du phénomène
+
+   [modifier | modifier le code]
+
+   Le rêve est un fait vécu qui se caractérise par une suite, organisée ou
+   non, d'images et de représentations mentales qui se présentent �
+   l'esprit au cours du sommeil^[4]. Commun à de nombreuses espèces
+   animales, il est également perceptible par ses manifestations physiques
+   externes. Chez l'être humain, le rêve se distingue de certaines
+   hallucinations (comme l'état de rêve ou onirisme) et de la rêverie qui,
+   eux, sont vécus à l’état éveillé.
+
+   Vécu avec émotions et sensations par le psychisme, le rêve est aussi
+   une disposition de l'esprit qui « procure à l'individu éveillé des
+   souvenirs nommés eux-aussi rêves »^[5]. Ainsi, lorsque l'on parle de
+   rêve il s'agit souvent du souvenir du rêve dont il est question. Dès
+   lors, il s'agit de distinguer le rêve (fait biologique objectivable),
+   du rêve vécu subjectivement (fait intra-psychique), de son souvenir
+   (fait mémoriel plus ou moins clair et précis, souvent déformé), et du
+   récit qui en est fait au réveil (fait langagier), le récit du rêve,
+   qui, lui-même, peut être transcrit ou non sous forme de textes écrits
+   (fait scripturaire, voire littéraire)^[6].
+
+   Du rêve « en soi » aux traces écrites (ou dessinées) il y aurait cinq
+   étapes à ne pas confondre^[précision nécessaire]. L'ensemble des
+   savoirs sur le rêve est appelé « onirologie », terme repris par le
+   neurobiologiste Michel Jouvet dans De la Science et des rêves, mémoires
+   d'un onirologue, l'étude scientifique du sommeil et de ses
+   perturbations étant l'hypnologie. Il convient de distinguer le rêve,
+   fait neurobiologique, des différents sens, représentations ou
+   significations du rêve selon les cultures et civilisations au cours des
+   siècles^[4] ; ou encore la pratique interprétative (interprétation des
+   rêves) traditionnelle (oniromancie) aussi bien que moderne des récits
+   de rêve (onirocritique).
+
+Mythologie et histoire des religions
+
+   [modifier | modifier le code]
+
+   Le contenu des mythes est fréquemment associé aux rêves. Le rêve est
+   alors un invariant humain universellement conçu comme un moyen de
+   s'affranchir du temps et de l'espace ordinaires, ou d'accéder au
+   surnaturel^[7].
+
+Rêve et divination
+
+   [modifier | modifier le code]
+
+Prémonition
+
+   [modifier | modifier le code]
+   Article détaillé : Oniromancie.
+
+   Le songe prophétique est bien connu dans de nombreuses sociétés de
+   l'Antiquité dont chez les Sémites, comme en témoigne l'Ancien
+   Testament^[8]. On s'intéressait déjà aux rêves à Sumer vers -3000, et
+   dans l'Égypte ancienne (-2500). Les découvertes archéologiques
+   témoignent que les Égyptiens de la X^e dynastie croyaient qu'un rêve
+   pouvait révéler l'avenir et avaient recours à des « clés des
+   songes »^[9]. Ces rêves prémonitoires étaient considérés comme se
+   manifestant le plus souvent sous une forme non immédiatement
+   compréhensible, d'où le recours à un art spécial d'interprétation^[7].
+
+   Le songe comme message divin existe également dans la mythologie
+   grecque, à travers les rêves que Zeus envoie à Agamemnon ou les visions
+   qu'accorde Apollon à Delphes, notamment à Oreste^[10]. Dans l'orphisme
+   et l'école de Pythagore on enseigne que la communication avec le Ciel
+   s'effectue uniquement pendant le sommeil, moment où l'âme s'éveille.
+   Ces rêves peuvent être dits « fastes » ou « néfastes », « véridiques »
+   ou « trompeurs »^[7].
+
+   Au II^e siècle av. J.-C., Artémidore de Daldis développe un système
+   d'interprétation des rêves très élaboré, l’Onirocriticon
+   (Ỏνειροκριτικόν). Pour Artémidore, « Le songe est un mouvement ou un
+   modelage polymorphe de l'âme qui signifie les événements bons ou
+   mauvais à venir »^[11].
+
+   Il distingue :
+     * les rêves ordinaires (enupnion) ;
+     * des songes prémonitoires (oneiros) ;
+     * soit directs (immédiatement compréhensibles) ;
+     * soit indirects (allégorie nécessitant une interprétation)^[7].
+
+   Il précise en outre que^[11] :
+
+     « […] l'onirocrite doit être bien équipé de son propre fond et se
+     servir de sa jugeotte, et de ne pas s'en tenir aux livres […] car,
+     si l'on a erré dès le principe, plus on avance, plus on erre. »
+
+Incubation
+
+   [modifier | modifier le code]
+   Articles détaillés : Incubation (rite) et Culte d'Asclépios.
+
+   L'incubation, du latin incubatio signifiant « être couché dans un
+   temple », consistait à s'endormir près d'un lieu consacré (grotte,
+   sanctuaire, tombe…)^[7]^,^[12].
+
+   Dans le Livre de la Genèse (XXVIII, 36) Jacob s'endort dans une
+   « maison de Dieu » pour communiquer avec lui. Le jeune Thoutmôsis IV
+   s'endort entre les pattes du Sphinx de Gizeh où il reçoit en rêve, la
+   promesse de succéder à son père. Dans la mythologie grecque, les songes
+   ont leurs propres divinités, les Oneiroi, la plus connue est Morphée.
+   Dans l'incubation thérapeutique, les malades se rendaient dans un
+   temple dédié au dieu de la médecine et s'étendaient sur une peau
+   d'animal, dans l'adyton, pour y dormir, après avoir reçu les
+   instructions des prêtres leur recommandant d'être particulièrement
+   attentifs à l'aspect qu'aurait le visage du dieu si celui-ci leur
+   apparaissait en rêve. Cette iatromantique se pratiquait dans les
+   temples d'Asclépios^[7] tel celui d'Épidaure. Dans les sociétés
+   pratiquant le culte des ancêtres le rite d'incubation pouvait se
+   pratiquer sur le tombe de l'ancêtre décédé, par exemple dans les
+   sociétés pré-islamiques du Proche-Orient. Au Moyen Âge, les pèlerins
+   malades allaient dormir près des tombeaux des saints, comme celui de
+   saint Martin dans la basilique de Tours^[7].
+
+   Au début du XXI^e siècle, l'incubation est toujours pratiquée par des
+   pèlerins musulmans qui dorment près des tombeaux de marabouts, ou
+   encore par des pèlerins chrétiens dans certaines églises d'Italie^[7].
+
+Rêve et voyage de l'âme
+
+   [modifier | modifier le code]
+   Articles détaillés : Chamanisme et Chaman.
+
+   Le rêve est également important dans les pratiques chamaniques. Par
+   exemple, une croyance répandue chez les peuples sibériens est que
+   l'homme porterait en lui une sorte de double, une âme-esprit qui habite
+   et anime le corps. Ce double peut abandonner le corps un temps et aller
+   à l'aventure, en particulier durant le sommeil^[13].
+
+   Au cours de ce voyage, l'âme peut être exposée à des accidents ou
+   dangers de toute sorte, par exemple si le dormeur est réveillé
+   subitement alors que son âme est au loin, ou si l'âme est capturée par
+   des esprits mauvais, ou si, à l'état de veille, elle est arrachée de
+   force au corps par des démons ou des sorciers^[13]. Ainsi, en guise
+   d'exemple supplémentaire, chez les Khantys et les Mansis, on dessine un
+   tétras sur les berceaux des nourrissons, afin que l'âme de celui-ci ne
+   s'en aille pas trop loin. Si elle se fait prendre par les esprits, la
+   mort du nouveau-né est inéluctable, à moins que le chaman n'intervienne
+   à temps. Ce départ ou absence de l'âme peut aussi être attribuée �
+   d'autres états proches du rêve comme l'ivresse, la maladie, une peur
+   violente ou encore la folie.
+
+   Dans les sociétés chamaniques, certains types de rêves apportent de la
+   chance au chasseur. Par exemple, si un chasseur rêve de la fille de
+   l'esprit de la Forêt (et des Eaux aussi pour les Selkoupes),
+   c'est-à-dire du donneur de gibier (donneur de chance), sa chasse sera
+   couronnée de succès. Cette fameuse fille peut apparaître différente �
+   chaque rêve, en vertu de la « pluralité d'entités particulières,
+   localisées »^[14]. Les chamans sibériens voient aussi en rêve l'élan ou
+   le renne dont la peau va lui servir à confectionner son tambour. Le
+   rêve lui permet de savoir où le trouver et comment le reconnaître. Il
+   ne lui restera plus qu'à faire part de ces renseignements au chasseur
+   pour que celui-ci aille le tuer. Cette recherche peut durer une année
+   entière.
+
+   Le rêve-voyage peut être aussi un rêve d'élévation ou de destination.
+   En Chine ancienne, l'âme hún quitte le corps au moment du rêve pour
+   s'échapper au ciel sous forme d'un oiseau ; chez les Mélanésiens, le
+   rêve est aussi une aventure de l'âme hors du corps sous forme d'un
+   animal (souris, serpent, oiseau…) ; chez les Kanaks, les rêveurs
+   peuvent voyager dans l'au-delà et contacter les morts^[15], Et, pour
+   les Égyptiens, l’âme quitte le corps sous la forme d'un oiseau🐦 (bâ)
+   pour voir ce qui se passe autre part dans le monde…
+
+Rêve et initiation
+
+   [modifier | modifier le code]
+   [250px-Atrapasuenos.jpg] Attrape-rêves amérindien.
+
+   Les rêves peuvent s'inscrire dans le cadre d'une initiation. Le futur
+   chamane acquiert son pouvoir de guérison du fait d'avoir été malade et,
+   par la qualité de ses rêves, il obtient savoirs, pouvoirs et statut
+   social de chamane. L'âme du futur chamane est ainsi forgée dans un
+   monde-autre, soumises aux épreuves du rêve : rencontres avec des
+   figures divines (Dame des Eaux, Seigneur des Enfers, Dame des animaux),
+   esprits-guides, révélations sur les maladies et leur traitement,
+   dépeçage et cuisson du corps du chamane^[16]^,^[17].
+
+   On connaît de nombreuses sociétés « à rêves », c'est-à-dire de peuples
+   où la connaissance des mythes, croyances, pratiques rituelles comme le
+   chant, sont censées s'acquérir par le rêve. C'est le cas des Mojaves
+   d'Arizona, largement décrits par Georges Devereux. Si les Mohaves
+   croient que leurs mythes proviennent de leurs rêves, l'ethnologue
+   estime lui que ce sont les Mohaves qui rêvent leurs mythes, dont ils
+   font l'apprentissage à l'état de veille. Rêver le mythe confère une
+   efficacité surnaturelle à la récitation du mythe^[18].
+
+   Le chant est alors un équivalent rêvé, condensé du mythe. Les variantes
+   du chant selon les chamanes correspondent aux différences entre les
+   rêves réels des chanteurs respectifs. Ces différences établissent une
+   compétition entre chamanes dont le statut social dépend de leurs
+   pouvoirs reconnus et acceptés par leur société^[19]. C'est aussi le cas
+   des Zápara d'Amazonie équatorienne, étudiés par Anne-Gaël Bilhaut^[20],
+   et qui sont moins connus du grand public.
+
+Rêve et révélation
+
+   [modifier | modifier le code]
+
+   Les références aux songes (somnium) et aux visions (visio) prophétiques
+   occupent une place importante dans l'Ancien et le Nouveau
+   Testament^[21]. Jacques Le Goff liste 43 rêves dans l'Ancien Testament
+   et seulement 9 dans le Nouveau^[22].
+
+   Le rêve est en effet un instrument privilégié du divin pour communiquer
+   avec les hommes : « S'il y a parmi vous un prophète, c'est en vision
+   que je me révèle à lui, c'est dans un songe que je lui parle »^[23].
+   Bien que les visions ne soient pas subordonnées au sommeil, comme c'est
+   le cas dans les songes, il n'est pas toujours aisé de différencier les
+   deux dans les textes bibliques. La prophétie est cependant
+   contraignante et expose le prophète^[24]. Inversement, lorsque la
+   prophétie fait défaut, les songes ne sont plus habités par Dieu : ainsi
+   Saül se plaint « Et Dieu m'a abandonné et ne me répond plus, ni par les
+   prophètes ni par les songes »^[25].
+
+   Le Goff note qu'il n'y a pas d'apparition de morts ou de démons dans
+   les songes bibliques. Si Dieu envoie des rêves vrais, il existe de
+   nombreux rêves mensongers et trompeurs envoyés par de faux prophètes.
+   Le temps et l'au-delà n'appartiennent qu'à Dieu et le rêveur humain n'y
+   a accès que par ce que Dieu lui révèle^[22].
+
+Tradition judaïque
+
+   [modifier | modifier le code]
+
+   Selon Maïmonide, toutes les prophéties et manifestations révélées aux
+   prophètes se font en songe ou en vision, apportées ou non par un ange,
+   que les voies et moyens utilisés soient mentionnés ou non. Selon lui,
+   les révélations s'obtiennent dans une vision, et le prophète en saisit
+   la signification dès son réveil. Les prophètes sont les interlocuteurs
+   privilégiés de Dieu, ils sont choisis par Lui. L'état de sommeil permet
+   la suppression des sens corporels, et c'est une des théories fournie
+   par Maïmonide pour expliquer la réception de l'émanation envoyée par
+   Dieu. Sur la base d'une faculté imaginative très développée, la
+   prophétie est une perfection acquise, mais qui peut être troublée par
+   la tristesse, la colère et la fatigue.
+
+   D'après lui, Moïse seul fit exception à la règle qui veut que Dieu
+   communique sa volonté à ses prophètes par les songes et les visions :
+   « Il n'en est pas ainsi de mon serviteur Moïse, toute ma maison lui est
+   confiée. Je lui parle face à face dans l'évidence, non en
+   énigmes »^[26]. Bien que les songes ordinaires soient considérés comme
+   des vanités, trompeurs et impurs, dans la vision apocalyptique du livre
+   de Joël, la descente sur terre de l'Esprit se répandra sur tous : « vos
+   fils et vos filles prophétiseront, vos anciens auront des songes, vos
+   jeunes gens des visions »^[27]. La loi biblique récuse pourtant la
+   divination par les songes : « Vous ne pratiquerez ni divination ni
+   incantation ». Le Deutéronome ordonne de se méfier des faux prophètes :
+   « Si quelque prophète ou faiseur de songes surgit […] tu n'écouteras
+   pas les paroles de ce prophète ni les songes de ce songeur »^[28].
+   Jérémie y consacre également un livret^[29], et il revient sur ce sujet
+   au ch. 29, v. 8 et 9 : « Car ainsi parle Yahweh : Ne vous laissez pas
+   séduire par vos prophètes qui sont au milieu de vous, ni par vos
+   devins, et n’écoutez pas les songes que vous vous donnez. C’est
+   faussement qu’ils vous prophétisent en mon nom ; je ne les ai pas
+   envoyés, dit Yahweh. »
+
+Tradition musulmane
+
+   [modifier | modifier le code]
+
+   Alors qu'il méditait dans la grotte de Hira, le prophète Mahomet reçoit
+   de la part d'un ange, la parole incréée du Coran^[7].
+
+   Ibn Sīrīn, du VII^e siècle est le premier auteur d'oniromancie
+   musulmane avec son recueil Rêves et Interprétations. Selon lui, il
+   existe trois sortes de rêves : le rêve véridique (rahmani), le rêve
+   représentant un désir personnel (nafsani) et le rêve provenant du
+   diable (shaitani). Il développe également une liste non exhaustive qui
+   offre une interprétation possible de différentes visions.
+
+   Pour l'historien arabe Ibn Khaldoun (1332-1406), il existe trois sortes
+   de songes : ceux qui viennent de Dieu, ceux qui viennent des anges, et
+   ceux qui viennent du diable^[30].
+
+     « Les rêves clairs sont d'origine divine. Les songes allégoriques,
+     qui doivent être interprétés sont d'origine angélique. Et les
+     « rêves confus » sont d'origine démoniaque, parce qu'ils sont vains,
+     et que Satan est la source de la vanité. »
+
+   — Ibn Khaldoun, Discours sur l'histoire universelle
+
+   Pour Ibn Khaldoun, la science de la clef des songes (ta'bîr ar-ru'yâ)
+   fait partie des sciences de la Loi religieuse^[30].
+
+Philosophie naturelle et médecine
+
+   [modifier | modifier le code]
+
+Antiquité grecque
+
+   [modifier | modifier le code]
+   [250px-Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg] Le Rêve par
+   Pierre Puvis de Chavannes.
+
+   Avec la « Raison grecque », les philosophes et médecins grecs
+   s'intéressent aux rêves et à leurs significations, autres que sacrées
+   ou divines. Pour Démocrite, le rêve est une image émanant d'objets ou
+   de personnes (pensées ou formes extérieures) éloignées, et déformée par
+   cette transmission à distance^[31]. Selon Platon (428 - 427 av. J.-C.),
+   Socrate (V^e siècle av. J.-C.) définit le rêve comme un lieu où les
+   désirs honteux, réprimés le jour, se réalisent^[32].
+
+   Aristote (-384 à -322) traite les rêves dans son Petits Traités
+   d’histoire naturelle (titre latin : Parva naturalia)^[33]. Il les
+   considère comme un phénomène somatique lié au vécu de la journée. Le
+   rêve provient d'une fausse perception du corps durant le sommeil,
+   analogue au reflet d'une image dans une eau agitée.
+
+   Le médecin grec Hippocrate (460 av. J.-C.-370 av. J.-C.) développe une
+   théorie médicale du rêve dans le traité Du Régime, livre IV. Ce texte a
+   fait l'objet de publications à part sous des titres tels que Traité
+   d'hygiène d'Hippocrate ou l'Art de prévoir les maladies du corps humain
+   par l'état du sommeil^[34].
+
+   Hippocrate distingue deux catégories de rêves, les rêves divins qu'il
+   laisse aux « interprètes qui possèdent l'art exact de traiter ces
+   choses »^[35], et les rêves d'origine corporelle qui relèvent du
+   médecin. Le modèle médical hippocratique fait du corps, « la demeure
+   [domicile fixe] de l'âme ». À l'état de veille, l'âme est au service du
+   corps, partagée entre différentes tâches (perceptions, mouvements)
+   tournées vers le monde extérieur. Durant le sommeil, l'âme reste
+   active, régnant sans partage, repliée sur le seul fonctionnement
+   interne du corps^[36].
+
+   Dès lors, le rêve et le contenu du rêve peuvent refléter l'état du
+   corps, indiquer ou annoncer l'état de santé ou de maladie. Les
+   matériaux du rêve doivent être agréables, ordonnés, clairs et limpides,
+   plutôt que pénibles, désordonnés, disproportionnés ou confus.
+   Hippocrate interprète ainsi la vision rêvée de phénomènes célestes, de
+   phénomènes terrestres, et de mise en scène de personnes.
+
+   Par exemple, le rêve d'une lune en juste position céleste dans un ciel
+   clair est signe de santé, alors que la vision d'une lune dans le
+   brouillard, ou disproportionnée annonce une maladie. De même si l'on
+   rêve d'une inondation plutôt que d'une rivière habituelle, si l'on
+   court aisément sur un sol ferme ou si l'on grimpe péniblement une
+   montagne ; si l'on se voit soi-même bien habillé et bien chaussé ou au
+   contraire nu ou vêtu de noir, avec un corps déformé. Le médecin devient
+   un nouveau spécialiste du rêve, celui qui les interprète pour soigner
+   le corps (orienter le régime alimentaire en fonction du contenu du
+   rêve)^[36].
+
+   « Ce n'est pas un rejet des dieux, mais une délimitation des sphères
+   d'action efficaces ». Ainsi, rêver dans un temple et adresser des
+   prières aux Dieux reste utile, mais grâce au médecin prescripteur de
+   régime, l'homme par ses rêves peut aussi s'aider lui-même^[35].
+
+Moyen Âge
+
+   [modifier | modifier le code]
+
+Principaux textes
+
+   [modifier | modifier le code]
+
+   Provenant d'originaux byzantins, les textes païens antiques comme
+   l'Oneirocriticon d'Artémidore (II^e siècle) ou la Clef des songes du
+   Pseudo-Daniel (IV^e siècle) seront portés à la connaissance de
+   l'Occident chrétien médiéval dans leurs traductions latines. Le traité
+   le plus achevé sur les rêves est celui de Macrobe (fin du IV^e siècle)
+   Commentaire au songe de Scipion, où il distingue cinq types de rêves :
+   groupés en rêves prémonitoires (clairs ; énigmatiques ; envoyés par la
+   divinité) et les rêves non prémonitoires (symboles du passé ou du
+   quotidien ; illusion pure par impression extérieure)^[37].
+
+   Le premier théologien chrétien du rêve est Tertullien qui rédige, vers
+   210-215, un De anima qui contient un traité sur les rêves^[38]. Dans De
+   genesi ad litteram, Saint Augustin (354-430) se pose la question de
+   savoir si l'homme est responsable de ses rêves sexuels^[39]. Quant �
+   Grégoire le Grand, pape en 590, il distingue trois grands types de
+   rêves : ceux dus à la nourriture et à la faim, ceux envoyés par les
+   démons et ceux d'origine divine. C'est la première vue d'ensemble d'une
+   onirologie chrétienne, où l'on retrouve une pratique christianisée
+   d'incubation : on dort près du tombeau d'un saint, mais le songe
+   lui-même peut aussi faire retrouver la tombe d'un martyr^[40].
+
+   Au XII^e siècle, le moine cistercien Alcher de Clairvaux, dans son
+   ouvrage Liber de spiritu et anima (L'Esprit et l'âme), présente une
+   typologie des rêves, assez proche de celle de Macrobe :
+    1. L'oraculum, rêve que Dieu envoie à ses émissaires ;
+    2. La visio, rêve prophétique clair ;
+    3. Le somnium, rêve nécessitant une interprétation ;
+    4. L'insomnium, rêve commun et sans intérêt ;
+    5. Le phantasma, apparitions fantomatiques, pendant les premières
+       phases du sommeil, dont fait partie le cauchemar ou l'éphialtès.
+
+Interprétations
+
+   [modifier | modifier le code]
+
+   D'après Jacques Le Goff, on voit apparaître à la fin de l'Antiquité
+   tardive une « démocratisation du rêve », où la connaissance du rêve
+   tend à diffuser dans tout le corps social en instituant une
+   « hiérarchie traditionnelle de rêveurs », aux dépens des spécialistes
+   du rêve (devins, oniromanciens…)^[41]. Avec l'instauration du
+   christianisme, si chacun devient capable d'interpréter ses rêves (tout
+   le monde rêve), les vrais rêves prémonitoires envoyés par Dieu sont
+   réservés à une élite tels que les rois, les saints, ou encore les
+   moines. Le rêve-contact divin permet au pouvoir royal de
+   s'affirmer^[42].
+
+   En contrepartie l'Église tend à interdire l'oniromancie, et limiter
+   l'incubation, comme pratiques païennes. Elle s'efforce de détourner les
+   chrétiens de l'interprétation des rêves. Le Goff décrit un processus
+   contradictoire, où le rêve est d'abord surveillé, bloqué, diabolisé
+   (rêves sexuels), car le chrétien ordinaire (celui qui n'est ni roi, ni
+   saint) ne peut avoir accès direct à Dieu par ses rêves, mais uniquement
+   par l'intermédiaire de l'Église^[43].
+
+   En réaction à cette méfiance ou peur des rêves, il se crée un
+   contre-système culturel basé sur le rêve (les courants hérétiques sont
+   fascinés par le rêve). De même, le milieu monastique devient un milieu
+   de producteurs de rêves où les rêves sont copiés, lus, médités et
+   commentés. Cette production est surveillée, filtrée et diffusée en
+   partie au dehors. Avec la révolution urbaine, la réforme grégorienne,
+   la création des ordres mendiants, les rêves monastiques entrent en
+   libre circulation. C'est la première vague de libération des rêves (�
+   partir du XII^e siècle) où de plus en plus on désigne le corps comme
+   origine « naturelle » des rêves du commun des mortels^[44], les rois et
+   les saints pouvant avoir des rêves divins, et les possédés ou
+   hérétiques des rêves diaboliques.
+
+Renaissance et âge classique
+
+   [modifier | modifier le code]
+
+   Jérôme Cardan (1501-1560) fait du rêve un guide véritable.
+   Avertissement ou sollicitation, le rêve peut être prophétique ou jouer
+   un rôle de garde-fou^[45]. Comme lui, Caspar Peucer(1525-1602), auteur
+   du De somniis^[46], l'abbé Richard (XVIII^e s.) et sa Théorie des
+   songes^[47], Franz Splittgerber (Schlaf und Tod, 1866) se situent dans
+   une continuation des conceptions médiévales (le sens ou le pouvoir du
+   rêve).
+
+   Selon Le Goff, le XVII^e siècle connaît des « épidémies de rêves », où
+   le rêve devient une des voies principales par où l'individu s'affirme.
+   Le rêve est un phénomène collectif, d'abord lié au voyage dans
+   l'au-delà, puis au jugement individuel après la mort, il devient aussi
+   univers singulier de l'individu-rêveur^[44].
+
+   À partir du XVII^e siècle, des philosophes rationalistes estiment que
+   c'est le corps lui-même qui est seul responsable des rêves, s'inspirant
+   ainsi d'un courant antique représenté par Aristote ou Hippocrate.
+   Descartes (1595-1656) souligne l'association mécanique des idées entre
+   l'âme et le corps. Spinoza (1632-1677) n'a pas besoin d'un esprit pour
+   savoir ce que peut le corps. Pour Locke (1632-1704), rien ne peut être
+   pensé ou rêvé sans avoir fait l'objet d'une expérience sensible^[48].
+   Selon Locke^[48] :
+
+     « les songes d'un homme endormi ne sont composés, à mon avis, que
+     des idées que cet homme a eues en veillant, quoique pour la plupart
+     jointes bizarrement ensemble »
+
+   — John Locke, Essai philosophique concernant l'entendement humain
+
+   Pour Leibnitz (1646-1716), le songe montre l'activité constante de la
+   pensée et des sensations, en défendant l'idée d'une continuité entre
+   l'état de veille et l'état de sommeil. Même en dormant, on a quelque
+   perception de ce qui se passe au-dehors, « quoique ce sentiment ne soit
+   pas toujours assez fort pour causer le réveil »^[48]. Les
+   neurophysiologistes et psychologues du XIX^e siècle vont s'engager dans
+   cette voie matérialiste.
+
+Période moderne
+
+   [modifier | modifier le code]
+
+   Elle se caractérise par une profusion d'études sur le mécanisme
+   onirique, ainsi que par un développement des théories, soit
+   biologiques, soit métaphysiques.
+
+Approches symboliques
+
+   [modifier | modifier le code]
+
+   Karl Albert Scherner (en)(1825-1889) distingue deux types de symboles
+   dans La Vie des rêves (1861) : ceux sexuels évoquant soit le pénis soit
+   le vagin, et ceux somatiques renseignant sur l'état physiologique du
+   corps. Il est selon Freud le « véritable découvreur de la symbolique
+   onirique ».
+
+   Hervey de St-Denys (1822-1892) compile ses rêves depuis l'âge de treize
+   ans. Dans Les rêves et les moyens de les diriger (1867) il tente une
+   approche du rêve lucide qui préfigure les méthodes de conditionnement
+   modernes. Selon lui le rêve s'apparente à un rébus, logique et
+   signifiant, et que le dormeur doit décoder.
+
+   W. Robert (Der Traum als Naturnotwendigkeit erklärt, 1886) considère
+   que le rêve est un processus vital qui permet au cerveau de ne
+   conserver que les données et images importantes, les rêves sont donc
+   des fragments des images en processus d’élimination. Il montre que si
+   l'on prive le dormeur de la capacité de rêver, celui-ci peut en
+   décéder. Robert parle même du « travail du rêve », concept repris par
+   la psychanalyse.
+
+   Parmi les nombreux scientifiques s'étant intéressés à la question du
+   rêve, il y a encore le médecin russe Marie de Manaceine qui, en 1897,
+   dans Sleep: its physiology, pathology, hygiene, and psychology^[49]
+   pense que le rêve permet de se connecter à un imaginaire collectif.
+
+Psychologie expérimentale
+
+   [modifier | modifier le code]
+
+   Dans Le Sommeil et les rêves (1861), Alfred Maury réalise une série
+   d’études expérimentales^[50], exposant le dormeur à des stimuli
+   externes pour observer si ceux-ci influencent le contenu onirique. Il
+   est le principal représentant d’une théorie organique du rêve.
+   Jusqu'alors le rêve n'avait pas de structure temporelle au sein du
+   sommeil. En réveillant des sujets à intervalles réguliers il remarqua
+   que les souvenirs de rêve étaient rares, infirmant l'idée qu'ils
+   survenaient de façon permanente pendant le sommeil. Il fit l'hypothèse
+   que le rêve était un phénomène épisodique ou aléatoire survenant à des
+   moments particuliers : pendant l'endormissement, sous l'influence de
+   stimuli externes ou internes ou avant le réveil^[51].
+
+   Par la suite plusieurs groupes de chercheurs ont tenté de refaire les
+   expériences de Maury, en vain. L’intégration de stimuli externes dans
+   le rêve était au mieux partielle, souvent nulle. Dans aucun cas le
+   stimulus ne devint le sujet central d'un rêve. Cette difficulté de
+   détourner l’attention du rêveur de sa création interne a été nommée par
+   Allan Rechtschaffen (en) le « processus monomaniaque » (« single-minded
+   process »)^[52]. En 1998, des chercheurs comme Peretz Lavie (en)
+   considèrent que Maury n'étudiait pas les rêves, car les expériences se
+   faisaient juste après son endormissement, mais des hallucinations
+   hypnagogiques^[53].
+
+   Des savants se sont, avant la psychanalyse, et souvent dans des termes
+   proches, intéressés aux rêves comme productions sensées de l'esprit.
+   Leur approche est celle de la psychologie expérimentale, qui apparaît �
+   la fin du XIX^e siècle. Les principaux sont le médecin allemand Carl
+   Gustav Carus et le naturaliste Gotthilf Heinrich von Schubert^[54]. Les
+   premières expériences de privation de sommeil ont cependant été
+   réalisées en 1894 par Marie de Manacéïne chez des poussins. Elle montre
+   que ceux-ci mouraient après 4 à 6 jours sans sommeil^[55]^,^[56].
+
+   Dans son ouvrage Le Rêve (1920) le biologiste français Yves Delage
+   étudie les images oniriques provenant d’actions ou de perceptions de la
+   journée. Il expérimente le rêve lucide également. Selon lui le rêve met
+   en jeu deux phénomènes : la fusion de représentations dans une image et
+   l’attribution d’un acte à un autre sujet.
+
+   En 1928, la découverte du premier outil technologique de neuroscience,
+   l'électroencéphalographie (EEG) permet d'étudier l'activité électrique
+   cérébrale. La correspondance entre rêve et cerveau n'était qu'une
+   hypothèse plausible, elle devient une évidence. Les premières études
+   permettent de distinguer, non pas deux états de fonctionnement cérébral
+   (sommeil et éveil) mais trois : vigilance, sommeil et rêve^[57]. En
+   1937, l'Allemand Klaue fit la différence chez le chat entre deux
+   activités corticales au sein du sommeil, l'une rapide, l'autre lente,
+   sans les associer à une activité onirique. En 1944, l'Allemand Ohlmeyer
+   décrivit des cycles d'érections pendant le sommeil, qui correspondent
+   en fait aux périodes de rêve, mais sans relier les unes aux
+   autres^[51].
+
+   Les études menées entre 1928 et 1953 réfutent la théorie de la
+   continuité : le rêve n'est pas la conséquence (résultat passif) d'un
+   demi-sommeil ou d'une diminution de l'attention, c'est une activité
+   cérébrale en elle-même. Le rêve est alors perçu aussi différent du
+   sommeil, que le sommeil l'est de l'éveil^[57].
+
+Psychologie
+
+   [modifier | modifier le code]
+
+   Deux principales écoles de psychologie accordent une importance
+   cruciale à l'interprétation des rêves : la psychanalyse de Sigmund
+   Freud et la psychologie analytique de Carl Gustav Jung. Au XX^e siècle,
+   le psychanalyste Sigmund Freud voit dans le rêve l’accomplissement d’un
+   désir. Pour Carl Gustav Jung, le rêve a pour rôle de rétablir
+   l’équilibre du psychisme. Par la suite, de nombreux psychanalystes ont
+   étudié le rêve en se référant à Freud ou à Jung : Géza Róheim
+   (1891-1953), Medard Boss (1903-1990), Masud Khan (1924-1989) et James
+   Hillman (1926-2011).
+
+Psychanalyse
+
+   [modifier | modifier le code]
+   Articles détaillés : L'Interprétation du rêve et Travail du rêve.
+   [250px-Die_Traumdeutung.jpg] Die Traumdeutung (1900) de Sigmund Freud
+
+   La publication en 1900 du livre Die Traumdeutung (L'Interprétation du
+   rêve) par Sigmund Freud marque un tournant dans la compréhension du
+   rêve.
+
+   Au niveau épistémologique, pense Paul-Laurent Assoun, le geste de Freud
+   consiste à réintroduire la production onirique dans la
+   psychologie^[58].
+
+   Selon Freud, l'« interprétation des rêves est la voie royale qui mène �
+   la connaissance de l'inconscient »^[59]. Le rêve, loin d'être un
+   phénomène absurde ou magique, possède un sens : il est
+   « l'accomplissement d'un désir »^[60]. Freud écrit en effet au chapitre
+   III de L'interprétation du rêve intitulé dans la traduction des OCF.P
+   « Le rêve est un accomplissement de souhait » que le rêve « n'est pas
+   dénué de sens ni absurde », qu'il est « un phénomène psychique à part
+   entière et pour tout dire un accomplissement de souhait »^[61].
+   L'interprétation d'un rêve consiste à élucider son contenu latent,
+   c'est-à-dire les pensées latentes que le rêveur a refoulées dans son
+   inconscient et que le travail du rêve^[62], en contournant la
+   « censure », transforme en contenu manifeste du rêve, tel que celui-ci
+   peut apparaître dans le « récit du rêve » dont un patient dans son
+   souvenir peut l'adresser au psychanalyste.
+
+   En clinique, le cas de « l'Homme aux loups » analysé par Freud dans À
+   partir de l'histoire d'une névrose infantile (1918 [1914]), fournit
+   « d'un point de vue technique » un « exemple de l'analyse extrêmement
+   élaborée d'un rêve » dans le cadre d'une cure psychanalytique^[63].
+
+   Selon Jacques Lacan, l'homme ne veut pas se réveiller, la preuve en est
+   que dans un rêve, au moment où le rêveur s'approche d'une vérité
+   insupportable, il se réveille. Le sujet veut l'homéostasie endormante
+   du principe de plaisir : il dort et rêve pour la maintenir et il se
+   réveille pour la conserver^[64].
+
+Psychologie analytique
+
+   [modifier | modifier le code]
+   Article détaillé : Rêve selon la psychologie analytique.
+
+   Dès 1916 Carl Gustav Jung publie la première ébauche de sa propre façon
+   d'interpréter le rêve dans une revue anglaise The Psychology of
+   Dreams^[65]. Par la suite, il développe sa conception et sa théorie du
+   rêve dans deux ouvrages: L'Homme à la découverte de son âme^[66] et Sur
+   l'interprétation des rêves^[67].
+
+   Pour lui, le rêve est aussi une porte ouverte sur l'inconscient, mais
+   il élargit sa fonction par rapport à Freud. Son interprétation et son
+   rôle dans la psyché diffèrent de la perspective freudienne. Jung
+   explique en effet que « la fonction générale des rêves est d'essayer de
+   rétablir notre équilibre psychologique à l'aide d'un matériel onirique
+   qui, d'une façon subtile, reconstitue l'équilibre total de notre
+   psychisme tout entier. »^[68]. C'est ce qu'il appelle la fonction
+   compensatrice (ou complémentaire) des rêves dans notre constitution
+   psychique. En ce sens, le rêve participe du développement de la
+   personnalité, en même temps qu'il lie le sujet au vaste réservoir
+   imaginaire qu'est l'inconscient collectif. Le rêve est par conséquent
+   au cœur de la psychothérapie jungienne qui vise, par son étude et par
+   la méthode de l'amplification, à rapporter chacun des motifs oniriques
+   à l'imaginaire humain, et ainsi à en développer le sens pour le rêveur.
+
+Ethnopsychiatrie
+
+   [modifier | modifier le code]
+
+   En ethnopsychiatrie, discipline récente^[69] représentée en France par
+   l'anthropologue et psychiatre Georges Devereux^[70] puis par Tobie
+   Nathan^[71] qui forme à son tour Marie Rose Moro, pionnière de la
+   consultation transculturelle, les rêves et cauchemars^[72] de patients
+   migrants ou non-occidentaux sont, entre autres, entendus et respectés,
+   comme sous l'arbre à palabres, selon les critères spécifiques de leur
+   tradition et croyances ethniques ou culturelles dans une perspective
+   d'anthropologie de la santé^[73]. Tobie Nathan, fondateur en France du
+   Centre Georges-Devereux, a notamment publié ses travaux dans les revues
+   Ethnopsychiatrica et Nouvelle Revue d'ethnopsychiatrie.
+
+Neurophysiologie
+
+   [modifier | modifier le code]
+   Article détaillé : Électroencéphalographie quantitative.
+   [250px-Sleep_EEG_REM.png] Enregistrement polysomnographique (30
+   secondes) représentant le sommeil à mouvements oculaires rapides.
+   Electroencéphalogramme mis en évidence par un cadre rouge. Mouvements
+   oculaires soulignés par un trait rouge.
+
+   La neurophysiologie du rêve se distingue des théories psychologiques en
+   ce sens qu'elle permet l'étude descriptive et fonctionnelle de
+   l'activité du cerveau qui rêve, aux niveaux biochimique, biologique et
+   anatomique.
+
+Premières études
+
+   [modifier | modifier le code]
+
+   Les travaux de Nathaniel Kleitman et son ouvrage important de 1939
+   Sleep and wakefulness^[74] aboutiront à la découverte des mouvements
+   oculaires rapides (MOR) (avec Eugene Aserinsky). Leur élève, William C.
+   Dement, également psychiatre et psychanalyste, entreprendra l'étude
+   expérimentale de la fonction du rêve, notamment chez le chat.
+
+   À partir des années 1950, débute véritablement la neurophysiologie des
+   rêves chez l'homme. Dement découvre que les mouvements oculaires,
+   appelés aussi sommeil paradoxal, s'accompagnaient d'une activité de
+   rêve (récit de rêve si réveil provoqué à ce moment-là). Dement constata
+   que 80 % des dormeurs réveillés pendant les phases MOR se rappelaient
+   leurs rêves, contre 7 % seulement pendant les périodes de sommeil
+   profond^[75]^,^[76]. Le rêve survenait par périodes de 20 à 25 min,
+   séparées par des intervalles de 90 minutes, et caractérisé par une
+   activité corticale similaire à celle de l'endormissement et des
+   mouvements oculaires rapides^[51].
+
+   Ces travaux furent confirmés par Michel Jouvet chez le chat. Il
+   découvrit en outre que pendant les phases MOR existait une disparition
+   du tonus musculaire axial, associée à une activité cérébrale intense,
+   proche de l'éveil les yeux ouverts, et de l'endormissement les yeux
+   fermés (soit une durée de 6 min toutes les 25 min chez le chat). C'est
+   ce qui le conduisit à introduire la notion de sommeil paradoxal,
+   faisant ainsi du rêve le troisième état physiologique du cerveau. Ces
+   critères d'atonie, d'activité cérébrale^[77], et des mouvements
+   oculaires se retrouvèrent également chez l'homme^[75].
+
+   Les réveils provoqués interrompant le rêve étaient suivis d'une
+   augmentation compensatoire du sommeil paradoxal. Dement en déduisit que
+   le rêve était un besoin physiologique. Toutefois il n’existe aucune
+   certitude scientifique sur la question de l'utilité objective (besoin
+   physiologique) du rêve^[76].
+
+Nouvelles approches
+
+   [modifier | modifier le code]
+
+Michel Jouvet : le rêve comme troisième état du cerveau
+
+   [modifier | modifier le code]
+
+   Michel Jouvet, neurobiologiste français, et d'autres chercheurs ont
+   montré que chez les rats et les souris certaines fonctions que l’on
+   croyait héréditaires ne le sont pas. Si l’on met le souriceau dans une
+   nouvelle famille, il se comportera comme celle-ci. M. Jouvet en déduit
+   que ces adaptations doivent se faire pendant le sommeil paradoxal et
+   que celui-ci sert donc à la programmation de l’individuation,
+   c’est-à-dire la différenciation des individus^[78]. En outre, le moi
+   conscient n’est actif que pendant l’éveil (attention volontaire,
+   prendre une décision, etc.). Ce moi ne contrôle plus le cerveau pendant
+   le sommeil. Celui qui regarde les images des rêves n’est pas le moi
+   conscient, mais d’après lui : « C’est ton soi, ou ton inconscient, qui
+   te rêve en dehors de ta volonté »^[79]. Pour ce neurobiologiste, le
+   rêve n'est ni du sommeil, ni de l'éveil, mais un troisième état du
+   cerveau aussi différent du sommeil que celui-ci hors de l'éveil^[80].
+
+David Foulkes : le rêve dans tous les états de sommeil
+
+   [modifier | modifier le code]
+
+   En 1962, le psychologue cognitiviste David Foulkes se rend compte que
+   tout le monde ne comprend pas la même chose si on lui demande au réveil
+   « avez-vous rêvé ? ». Il y a par exemple des gens qui, s’ils ont rêvé
+   d’un fait quotidien, ne considèrent pas cela comme un rêve et
+   répondront donc par la négative à la question. La question a donc été
+   reformulée de manière plus neutre « quelque chose vous a-t-il traversé
+   l’esprit avant votre réveil ? ». En analysant les récits obtenus dans
+   les laboratoires de sommeil, il devint alors évident que les rêves des
+   stades de sommeil autres que le sommeil paradoxal étaient plus
+   fragmentés, plus proches d’une simple pensée. « J’ai pensé à mon examen
+   de math. » Tandis que le même thème pendant le sommeil paradoxal est
+   plus développé avec une intrigue ou des détails^[81].
+
+   Par la reformulation, Foulkes peut montrer que la fréquence de récits
+   de rêves de sujets réveillés pendant un sommeil lent profond peut
+   atteindre plus de 70 %. Tous les stades du sommeil sont donc propices �
+   la production de rêves. Toutefois, la faculté de mémorisation est
+   supérieure lorsque le sujet est réveillé en période de sommeil
+   paradoxal, ce qui permet d'ailleurs d'obtenir des récits de rêve auprès
+   de presque toutes les personnes (soit 80 %), y compris celles qui
+   prétendent ne jamais rêver, et ces rêves sont les plus vifs et les plus
+   riches en images. En revanche, la remémoration est très difficile après
+   un réveil en sommeil lent. Dans tous les cas, le rêve qui survient le
+   plus aisément à la conscience est celui qui précède immédiatement le
+   réveil. Le rêve intervient ainsi dans tous les stades du sommeil mais
+   dans des proportions différentes^[82].
+
+Peretz Lavie : l'oubli des rêves post-traumatiques
+
+   [modifier | modifier le code]
+
+   Dans son laboratoire du sommeil à Haïfa en Israël, Peretz Lavie a
+   étudié la quantité de rêves de trois groupes : un groupe de survivants
+   de la Shoah bien adaptés à la vie après leur libération, un groupe de
+   survivants ayant toujours des problèmes et des cauchemars, et un groupe
+   d’Israéliens nés en Israël. Les dormeurs étaient toujours réveillés
+   lorsque les enregistrements électriques montraient une période de
+   sommeil paradoxal.
+
+   Si le troisième groupe avait un nombre de rêves proche de la moyenne,
+   c'est-à-dire 78 %, ce nombre baissait à 55 % pour le deuxième groupe et
+   n’était que de 33 % pour les personnes s’étant bien réadaptées à la vie
+   quotidienne. La seule différence concernant le sommeil des différents
+   groupes concernait sa profondeur. Les personnes ayant subi un
+   traumatisme disposaient d'un sommeil plus profond que les personnes en
+   bonne santé^[83].
+
+Convergences
+
+   [modifier | modifier le code]
+
+   Le rêve désigne un ensemble de phénomènes psychiques éprouvés au cours
+   du sommeil. Au réveil, le souvenir du rêve est souvent lacunaire, et
+   parfois même inexistant. Il est cependant possible d’entraîner la
+   remémoration onirique. On observe que les rêves les plus élaborés
+   émergent pendant les phases de sommeil paradoxal.
+
+   En 1999, les scientifiques issus de l'Académie américaine de médecine
+   et de l'Association internationale pour l'étude des rêves se sont
+   accordés pour reconnaître que le sommeil paradoxal n'était pas
+   l'équivalent du rêve. La définition exacte du rêve varie selon les
+   rêveurs, les scientifiques, les pays et les cultures. Aussi, pour les
+   besoins de la recherche, il a été convenu de ne plus employer le terme
+   de rêve, et de le remplacer par « activité mentale liée au sommeil »,
+   cette activité onirique étant présente à tous les stades du
+   sommeil^[82].
+
+   Cette activité mentale consciente, mais labile, résulte de
+   l'auto-stimulation du cerveau déconnecté du monde extérieur lors des
+   sommeils profond et paradoxal. Ses caractéristiques varient
+   continuellement du sommeil lent au sommeil paradoxal. Le rêve
+   s'apparente à toute pensée, sensation ou émotion d'un état de veille
+   lors du sommeil profond, puis devenant de plus en plus comparable à un
+   état hallucinatoire sensori-moteur lors du sommeil paradoxal^[84].
+   Toutefois le rêve se distingue de l’hallucination et de la rêverie qui,
+   eux, sont vécus à l’état éveillé.
+
+   Le rêve n'est pas généré par des stimulations sensorielles. En étudiant
+   l'activité cérébrale par tomographie à positons lors du sommeil
+   paradoxal, les rêves seraient à relier à des processus cycliques
+   d'activation et de désactivation de différentes régions du cerveau :
+   activation de régions (du tronc cérébral comme la formation réticulée ;
+   ou encore thalamus, amygdale…), inactivation d'autres comme le cortex
+   préfrontal^[82].
+
+   Ces processus expliqueraient l'étrangeté des rêves, l'importance des
+   émotions et de la vision d'images, et la rareté des rêves comportant
+   des actions telles que lire, écrire ou compter. Cependant il faut
+   rester prudent en cherchant des corrélations entre circuits neuronaux
+   et contenus du rêve^[82].
+
+Critiques
+
+   [modifier | modifier le code]
+
+   La fonction éventuelle du rêve reste débattue entre ceux qui n'y voient
+   qu'une manifestation épiphénoménale du sommeil paradoxal, dépourvue de
+   toute fonction propre, et ceux qui supposent que le rêve reflète un
+   processus d'abstraction des représentations mentales^[85] ou de
+   régulation émotionnelle. Les chercheurs en neurosciences qui étudient
+   le rêve divergent quant aux fonctions ou à l'absence de fonction des
+   rêves.
+
+   Le thérapeute comportementaliste Jacques Montangero constate :
+   « Aujourd'hui encore certains neurobiologistes admettent avec
+   difficulté l'existence de ces faits [càd la présence de rêves en
+   sommeil lent], car en décrivant ce qui se passe au niveau du cerveau
+   pendant le sommeil paradoxal, ils aimeraient convaincre qu'ils
+   décrivent les bases biologiques du rêve »^[86].
+
+Typologie des rêves humains
+
+   [modifier | modifier le code]
+
+   Souvent, une typologie des rêves est utilisée pour les distinguer
+   suivant leur forme et contenu^[réf. souhaitée] :
+     * le rêve d'actualité semble se calquer sur la réalité (par exemple
+       le futur marié qui rêve de son mariage),
+     * le rêve concomitant coïncide à l'environnement au moment du rêve
+       (un bruit rêvé qui coïncide à un bruit extérieur),
+     * les rêves récurrents sont des rêves plus ou moins similaires qui
+       apparaissent plus ou moins fréquemment.
+
+Cauchemar
+
+   [modifier | modifier le code]
+
+   Pour des articles plus généraux, voir Troubles du sommeil et
+   Parasomnie.
+   Articles détaillés : Cauchemar, Terreur nocturne et Cauchemar
+   (folklore).
+
+   Le cauchemar est un rêve à forte charge anxieuse qui survient durant la
+   seconde partie de la nuit, habituellement associé au sommeil paradoxal,
+   et dont on garde le souvenir ; et qui se différencie des terreurs
+   nocturnes qui surviennent durant le premier tiers de la nuit, liées �
+   une mauvaise stabilité du sommeil lent profond, avec amnésie quasi
+   constante^[87]^,^[88].
+
+Rêve créatif
+
+   [modifier | modifier le code]
+
+   Il s'agit d'un rêve duquel le sujet tire une nouveauté : idée d'une
+   œuvre artistique, invention d'un nouveau concept ou réponse à un
+   questionnement. L'induction des rêves créatifs rappelle le procédé
+   d'incubation de l'Antiquité, mais dans le but d'une création artistique
+   ou de la résolution d'un problème plutôt que dans celui de la guérison.
+   De nombreux créateurs ont trouvé l'inspiration en rêve par hasard. Mais
+   il est possible de la provoquer volontairement.
+
+   L'induction des rêves créatifs se fait selon un processus similaire au
+   processus créatif en général, tel que décrit par Don Fabun^[89]. Ce
+   processus s'élabore grâce à une motivation suffisante, une préparation
+   adéquate et une manipulation intensive. Une forte implication affective
+   est nécessaire. Les étapes d'incubation, de pressentiment de la
+   solution et d'illumination peuvent alors survenir dans le rêve, ou
+   juste après l'éveil^[90]. L'étape de vérification permet d'évaluer si
+   la solution est correcte.
+
+   De nombreux écrivains ou scientifiques se sont inspirés de rêves
+   créatifs : Howard Phillips Lovecraft s'inspira très souvent de ses
+   rêves afin de rédiger ses nouvelles (l'exemple le plus frappant est la
+   nouvelle intitulée La Tombe, qui est une retranscription quasi exacte
+   d'un rêve), l'œuvre Kubla Khan de Samuel Taylor Coleridge a été
+   entièrement élaborée en rêve, William Blake a mis en œuvre un procédé
+   de gravure sur cuivre que lui indiqua en rêve son frère cadet décédé,
+   la Sonate des trilles du Diable composée par Giuseppe Tartini fut,
+   d'après lui, une reproduction moins réussie que celle entendue en rêve,
+   et enfin Friedrich Kekulé von Stradonitz rêva la structure cyclique du
+   benzène et révolutionna la chimie moderne.
+
+Rêve lucide
+
+   [modifier | modifier le code]
+   Article détaillé : Rêve lucide.
+
+   Dans le rêve lucide, il y a comme une irruption de la conscience
+   éveillée dans le déroulement du processus onirique habituel. Le rêveur
+   sait que le monde qui l'entoure n'est qu'une construction de son esprit
+   et peut ainsi analyser et réagir de façon plus ou moins rationnelle
+   selon son degré de « lucidité ». Cette prise de conscience,
+   involontaire ou obtenue par certaines techniques, peut permettre au
+   rêveur de contrôler le contenu et le déroulement du rêve^[91].
+
+Rêve prémonitoire
+
+   [modifier | modifier le code]
+   Article détaillé : Rêve prémonitoire.
+
+   Rêves jugés prophétiques, qui n'ont pas forcément de lien avec la vie
+   privée du rêveur et annoncent un événement futur censé se réaliser.
+
+Rêve sexuel
+
+   [modifier | modifier le code]
+   Cette section est un extrait de Rêve érotique.[modifier].
+   Un rêve érotique ou rêve sexuel est, comme son nom l'indique, un rêve
+   au contenu érotique ou sexuel.
+
+Éthologie
+
+   [modifier | modifier le code]
+
+   Les mammifères placentaires, les marsupiaux et les oiseaux connaissent
+   le mouvement oculaire rapide et le sommeil paradoxal^[92], et suivent
+   les mêmes phases du sommeil que l'humain^[93].
+   [250px-Arbre_d%27%C3%A9volution_des_esp%C3%A8ces_en_fonction_du_premier
+   _anc%C3%AAtre_commun_r%C3%AAveur.png] Arbre phylogénétique simplifié
+   selon le premier ancêtre commun rêveur
+
+   Le sommeil paradoxal et par conséquent les premiers rêves chez les
+   animaux seraient donc apparus chez un des premiers mammifères, il y a
+   environ 200 millions d’années. Puis serait réapparu de manière
+   indépendante chez les premiers oiseaux^[94]. En 2017, l’institut
+   Max-Planck à Francfort (Allemagne) a réussi à montrer que les rêves
+   primaires pouvaient certainement être plus anciens qu'on ne le pense.
+   En effet, le neurologue Gilles Laurent et son équipe ont pu observer
+   des périodes de sommeil paradoxal chez le Dragon australien ou Pogona
+   vitticeps, un reptile. Durant une expérience, l’électroencéphalogramme
+   de l’animal témoignait d’une activité cérébrale proche de celle de
+   l’éveil qui a duré environ 40 secondes, en plein sommeil. Gilles
+   Laurent l’a confirmé en prenant le reptile dans ses bras. Ce dernier ne
+   s’est pas réveillé et ses membres étaient complètement détendus. Ainsi,
+   grâce à la preuve que les reptiles subissent aussi une période de
+   sommeil paradoxal durant leur sommeil, les premiers « rêveurs » ne
+   seraient donc pas les mammifères ou les oiseaux, mais les reptiles car
+   apparus bien avant (vers 350 millions d’années). « Notre découverte
+   augmente la probabilité que le sommeil paradoxal ne soit apparu qu'une
+   seule fois, chez l'ancêtre commun des mammifères et des reptiles »,
+   conclut Laurent Gilles. Cela peut même évoquer l’idée que l’ensemble
+   des dinosaures (aviens et non-aviens) aient pu rêver de leur
+   vivant^[95].
+
+   Si on sait que les rêves chez les mammifères et les oiseaux sont
+   similaires aux nôtres sur le plan du mécanisme cérébral, cela reste
+   cependant difficile de savoir à quoi ils ressemblent chez les reptiles
+   et comment ces rêves se forment. Le cerveau reptilien se différenciant
+   de celui des mammifères par l’absence de néocortex. Ce dernier qui est
+   essentiel à la mémoire, la conscience ou encore les perceptions
+   sensorielles, autant de capacités qui facilitent la formation de rêves
+   complexes. De plus, la découverte du rêve chez les reptiles met en
+   évidence un paradoxe : l’évolution nette et l’ancienneté du sommeil
+   paradoxal souligne que cette phase du sommeil a un rôle important pour
+   le fonctionnement cérébral des animaux. Cependant, elle est absente (ou
+   en tout cas très discrète) chez certaines espèces aux capacités
+   cognitives réputées^[96].
+
+   Chez les cétacés par exemple, aucune trace de sommeil paradoxal n’a été
+   retrouvé, pourtant réputés comme étant des animaux dotés d’une
+   intelligence remarquable. Une équipe sud-africaine vient de montrer que
+   l'éléphant d'Afrique, pourtant connu pour sa fabuleuse mémoire,
+   pratique très peu le sommeil paradoxal. Ces inhibitions ou ces
+   réductions du sommeil paradoxal seraient dues à plusieurs raisons :
+     * La prédation : certains animaux ne peuvent pas se permettre de
+       relâcher l’ensemble de leurs muscles. Ces espèces ont généralement
+       une réduction du temps de sommeil paradoxal
+     * Perte de fonctions motrices : chez les cétacés par exemple, la
+       perte de tonus musculaire les ferait tout simplement couler. Ils
+       risqueraient l’hypothermie ou bien succomberaient d’une anoxie
+       (l’ensemble des cétacés a besoin de remonter à la surface pour
+       pouvoir respirer).
+     * Fonction non essentielle : pour certaines espèces comme l’éléphant,
+       les rêves ne constituent pas une fonction vitale. En effet,
+       l’éléphant ne dort que 2 heures environ par jour et n’aurait pas
+       besoin de compenser le fait qu’il n’ait pas de sommeil paradoxal
+       (phase courte mais récupératrice du sommeil) par un autre mécanisme
+       plus long durant son sommeil.
+
+Rêve et réalité
+
+   [modifier | modifier le code]
+
+   Les rapports du rêve et de la réalité sont un aspect des philosophies
+   orientales qui mettent en doute la capacité de la raison analytique �
+   rendre compte du monde tel qu'il est. L'exemple taoïste le plus célèbre
+   est le philosophe chinois Zhuangzi ou Tchouang-Tseu (vers 370-300 av.
+   J.C.) avec son fameux « rêve de Zhou »^[97] :
+
+     « Un jour, Zhuang Zhou rêvait qu'il était un papillon : il en était
+     tout aise, d'être papillon ; quelle liberté ! quelle fantaisie ! Il
+     en avait oublié qu'il était Zhou. Soudain il se réveille, et se
+     retrouve tout ébaubi dans la peau de Zhou. Mais il ne sait plus si
+     c'est Zhou qui a rêvé qu'il était papillon, ou s'il est un papillon
+     qui rêve d'être Zhou. »
+
+   Le propos de Zhuangzi n'est pas de prétendre que tout est rêve, mais
+   qu'il n'y a pas de moyen de savoir si ce qu'on pense connaître est une
+   connaissance ou une ignorance. « Il n'y a que les sots qui se croient
+   éveillés, ils en sont même parfaitement certains. Princes, bergers,
+   tous unis dans cette même certitude ! Confucius et vous, ne faites que
+   rêver ; et moi qui dis que vous rêvez, je suis aussi en rêve »^[97].
+
+   Cette même idée se retrouve dans les Pensées de Blaise Pascal
+   (1623-1662)^[97] :
+
+     « Ne se peut-il faire que cette moitié de vie n'est elle-même qu'un
+     songe, sur lesquels les autres sont entés [greffés], dont nous nous
+     éveillons à la mort ? (...) Qui sait si cette autre moitié de la vie
+     où nous pensons veiller n'est pas un autre sommeil un peu différent
+     du premier ? »
+
+   En écho à la thématique de la veille et du rêve, le concept bouddhique
+   d'éveil ou illumination (Bodhi ou wu en chinois ou satori en japonais))
+   désigne un état de « non-pensée », réalisant une unité indifférenciée
+   de la veille et du rêve. L'esprit vide de toute pensée, de toute notion
+   et de toute opposition peut alors se contempler lui-même, par
+   révélation de sa vérité intérieure^[98].
+
+   En philosophie occidentale, le rêve illustre le problème des rapports
+   du cerveau et de la conscience, de l'être conscient et de son
+   inconscient, du principe de plaisir et du principe de
+   réalité^[99]^,^[100].
+
+Le rêve dans les arts
+
+   [modifier | modifier le code]
+
+   Le rêve constitue un sujet pour tous les arts que ce soit la
+   littérature, la musique, la peinture et sculpture ou le film, car sa
+   dimension est ici celle de la « vie rêvée » au sens de projet
+   chimérique ou de représentation d'un autre possible. Il comporte des
+   dimensions d'attente, d'espoir, d'anticipation, d'entreprise ou de
+   recherche (l'agir), mais aussi d'errance, d'illusion, de vanité et de
+   déception (le pâtir)^[101].
+
+Littérature
+
+   [modifier | modifier le code]
+
+   Dans les œuvres de fiction, on trouve fréquemment des rêves comme
+   élément du récit. Toutefois, il est plus rare qu'il soit un thème
+   central. On peut cependant citer La Nouvelle rêvée (Traumnovelle, 1926)
+   d'Arthur Schnitzler, écrite en 1925, et plus récemment, Le Livre de mes
+   rêves de Federico Fellini ou La Loi du rêveur de Daniel Pennac.
+
+   Le rêve semble plus présent encore dans les œuvres poétiques, soit
+   comme source du poème pour les images qui y abondent (voir
+   Surréalisme), soit comme objet d'un questionnement approfondi - lequel
+   se distingue toutefois de l'interprétation psychanalytique - (voir par
+   exemple Façons d'éveillé, façons d'endormi d'Henri Michaux), ou encore
+   comme moteur principal d'un récit. Parmi les textes contemporains on
+   peut citer Bascule, de Pierre Guéry, publié en 2006; un long poème
+   procédant de ces trois approches et dans lequel toutes les limites
+   entre cauchemar, rêve lucide et somnambulisme semblent abolies pour
+   laisser place à un univers indéterminé, flottant, et dans lequel la
+   parole devient progressivement nekuia, rituel d'évocation et de
+   convocation des morts.
+
+Écrits
+
+   [modifier | modifier le code]
+
+   Avec Hamlet, Shakespeare pose le problème du rêve comme trame de
+   l'existence et de l'au-delà (to be or not to be) « Mourir
+   —Dormir—Dormir ? Rêver peut-être »^[101].
+
+   Des hommes de lettres comme René Descartes^[102] ont noté leurs rêves.
+   Étonnamment, c'est lors d'une nuit mémorable où il a vécu plusieurs
+   rêves marquants que Descartes se pose pour la première fois la question
+   du cogito.
+
+   Le rêve est l'emblème du narcissisme et de l'enfermement sur soi, comme
+   chez Verlaine « Je fais souvent ce rêve étrange et pénétrant / D'une
+   femme inconnue, et que j'aime, et qui m'aime » (Poèmes
+   saturniens)^[101].
+     * Bruce Chatwin, Le chant des pistes, récit qui fait connaître le
+       Temps du rêve un thème central de la culture des Aborigènes
+       d'Australie étudiée notamment par l'ethnologue Barbara Glowczewski.
+     * Carlos Castaneda L'art de rêver, 1993.
+     * Namkhai Norbu Rinpoché, Michael Katz, Le yoga du rêve, Ed.
+       l'Originel, 1993.
+
+Romantisme
+
+   [modifier | modifier le code]
+   Article détaillé : Thèmes récurrents du romantisme.
+
+   Avec les préromantiques, la rêverie a valeur de liberté dans
+   l'imaginaire, comme chez Jean-Jacques Rousseau (Les rêveries du
+   promeneur solitaire). À la fin du XVIII^e siècle, le rêve devient une
+   composante de l'« âme romantique » avec sa part de nuit et d'ombre, où
+   la vie s'objective par des affects qui pourraient bien être des
+   « ombres de rêves ou des rêves d'ombres » comme chez le poète
+   britannique Shelley^[103].
+
+   L'œuvre de Jean Paul comporte beaucoup de récits oniriques. En outre il
+   écrit trois textes sur le sujet. La magie naturelle de l'imagination
+   (1795), Sur le rêve (1798) et Coup d'œil sur le monde des rêves (1813).
+   Le poète anglais Samuel Taylor Coleridge écrit en 1816 son poème Les
+   souffrances du sommeil. En France, on peut citer Gérard de Nerval :
+   Aurélia ou le rêve et la vie (1855). Le public de l'époque avait un
+   goût pour le rêve, l'occultisme et le fantastique. Les clés des songes
+   se référaient aux clés plus anciennes^[104]. Le fragment Heinrich von
+   Ofterdingen (Henri d'Ofterdingen) de Novalis commence avec le rêve de
+   la fleur bleue qui devient le visage d'une jeune fille. À son réveil,
+   Heinrich se met à la recherche de cette fleur. Par la suite la fleur
+   bleue devient un symbole du romantisme allemand^[105]. Le roman anglais
+   Les Aventures d'Alice au pays des merveilles de Lewis Carroll de 1865.
+
+Surréalisme
+
+   [modifier | modifier le code]
+
+   Comme le romantisme, le symbolisme et le surréalisme remettent en cause
+   la raison comme limitation appauvrissante du monde. L'imagination
+   s'appuie sur les songes, le rêve est investi dans la création
+   esthétique. Le rêve littéraire, narratif ou poétique « transgresse les
+   lois naturelles, mais respecte le spectre des tonalités affectives de
+   la veille (…) et porte sur la nature du réel et de l'expérience
+   vécue »^[103]. L'origine du rêve surréaliste se trouve dans les années
+   de formation d'André Breton. Étudiant en médecine, il est mobilisé au
+   cours de la Première Guerre mondiale dans un service de psychiatrie
+   militaire. Il eut à traiter un homme qui, sous les obus ennemis,
+   s'exposait debout avec de grands gestes comme s'il réglait leur
+   circulation. Fasciné qu'on puisse vivre dans un monde aussi
+   fantastique, il s'intéresse alors aux travaux de Pierre Janet et de
+   Sigmund Freud^[106].
+
+   Après la guerre, Breton renonce à ses études médicales, pour se joindre
+   aux Dadaïstes, avant de fonder son propre mouvement littéraire. Il voit
+   dans le rêve et l'état hypnagogique une source de création poétique.
+   Ceci le conduira à mettre en pratique l'automatisme verbal, la parole
+   automatique ou l'écriture automatique comme moyens d'accéder à un
+   « discours intérieur ». Ce discours est censé provenir d'un moi profond
+   relié à des forces cosmiques créatrices d'où naissent toutes les formes
+   d'art, nouvelles et inconnues^[106].
+
+En peinture
+
+   [modifier | modifier le code]
+
+   Quelques exemples à travers les siècles :
+     * Simone Martini, Le rêve de saint Martin (1322-1326).
+       Simone Martini, Le rêve de saint Martin (1322-1326).
+     * Un démon féminin s'entretient avec un roi, illustration d'un
+       manuscrit de 1602.
+       Un démon féminin s'entretient avec un roi, illustration d'un
+       manuscrit de 1602.
+     * Giovanni Battista Tiepolo, 1757.
+       Giovanni Battista Tiepolo, 1757.
+     * Francisco de Goya.
+       Francisco de Goya.
+     * Paul Gauguin, Le Rêve (1897).
+       Paul Gauguin, Le Rêve (1897).
+
+     * Salvador Dalí, Le Rêve, 1931.
+     * Salvador Dalí Rêve causé par le vol d'une abeille autour d'une
+       pomme grenade, une seconde avant l'éveil, 1944.
+     * Pablo Picasso, Le Rêve, 1932.
+
+Musicographie
+
+   [modifier | modifier le code]
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+     * Franz Liszt, Rêves d'amour, nocturnes pour piano (S541) 1850
+     * Jacques Offenbach, Les Contes d'Hoffmann, un opéra fantastique,
+       1851
+     * Le Ballet Casse-noisette de Piotr Ilitch Tchaïkovski (1891-1892)
+       Comme les Contes d'Hoffmann c'est une adaptation d'un conte
+       d'E.T.A. Hoffmann.
+     * Songe d'une nuit d'été de Felix Mendelssohn, ouverture, op. 21
+       (1826), et musique de scène, op. 61 (1843)
+     * Gabriel Fauré, Après un rêve, op. 7 (1871), Romance pour voix et
+       piano
+     * Gabriel Fauré, Rêve d'amour, op. 5 (1871-1879), Romance pour voix
+       et piano
+     * Richard Wagner, Träume issu des cinq chants pour voix de femme,
+       Studie zu Tristan und Isolde (Rêves), 1857
+     * Hector Berlioz, la Symphonie fantastique, 1830.
+
+Musique rock
+
+   [modifier | modifier le code]
+     * Sting, l'album The Dream of the Blue Turtles, 1985
+     * Muse, la chanson Micro Cuts
+     * Aerosmith, la chanson Dream On
+     * Epica, la chanson Death of a Dream
+     * Depeche Mode, la chanson Dream On
+     * Metallica, la chanson Enter Sandman, 1991
+
+Filmographie
+
+   [modifier | modifier le code]
+     * Le charme discret de la bourgeoisie, de Luis Buñuel
+     * Un chien andalou, de Luis Buñuel
+     * Matrix, des frères Wachovski
+     * La Science des Rêves, de Michel Gondry
+     * Mille et un rêves, documentaire de Patrick Le Gall
+     * eXistenZ, de David Cronenberg
+     * Eraserhead, de David Lynch
+     * Mulholland Drive (film), de David Lynch
+     * Inception, de Christopher Nolan
+     * Ça tourne à Manhattan, de Tom DiCillo
+     * Paprika, de Satoshi Kon
+     * Les Griffes de la Nuit, de Wes Craven (1984)
+     * Rêves (film, 1990), de Akira Kurosawa
+     * Eyes Wide Shut (1999) de Stanley Kubrick, d'après la Traumnovelle
+       (1926) d'Arthur Schnitzler
+     * Waking Life (film, 2001), de Richard Linklater
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ ^a et b Rey 2005, p. 283.
+    2. ↑ Albert Dauzat, Nouveau dictionnaire étymologique et historique,
+       Larousse, 1964, p. 648.
+    3. ↑ ^a b et c Rey 2005, p. 299.
+    4. ↑ ^a et b Rey 2005, p. 285.
+    5. ↑ Le Quellec 2017, p. 1130. citation de S. Jama, anthropologie du
+       rêve, PUF, 1997.
+    6. ↑ Voir Jean-Daniel Gollut, Conter les rêves. La narration de
+       l'expérience onirique dans les œuvres de la modernité, Corti, 1993
+    7. ↑ ^a b c d e f g h et i Le Quellec 2017, p. 1130-1131
+    8. ↑ Alfred Guillaume, Prophétie et divination, Payot, Paris, 1941.
+    9. ↑ Sophie Jama, Anthropologie du rêve, PUF, 1997, p. 12.
+   10. ↑ Ovide, Les Métamorphoses, « Le jugement des armes. Ajax », livre
+       XIII, 1-381.
+   11. ↑ ^a et b Artémidore de Daldis (trad. A.J. Festugière), La clef des
+       songes : Onirocriticon, Paris, J. Vrin, coll. « Bibliothèque des
+       textes philosophiques », 1975, 171 p. (ISBN 2-7116-0033-5, lire en
+       ligne), p. 6 et 11.
+   12. ↑ Th. Lefort, "Notes sur le culte d'Asclépios. Nature de
+       l'incubation dans ce culte", Le Musée belge, 1906, p. 21-37;
+       p. 101-126.
+   13. ↑ ^a et b Henri Ellenberger, A la découverte de l'inconscient,
+       histoire de la psychiatrie dynamique, Simep, 1970, 759 p.
+       (ISBN 2-85334-097-X), p. 7.
+   14. ↑ Roberte Hamayon, La Chasse à l'âme Esquisse d'une théorie du
+       chamanisme sibérien, Société d'ethnologie, 1990
+       (ISBN 2-901161-35-9).
+   15. ↑ Le Quellec 2017, p. 1132.
+   16. ↑ Mircea Eliade, Le Chamanisme et les techniques archaïques de
+       l'extase, PUF, 1968 (ISBN 2-22888-596-7).
+   17. ↑ Michel Perrin, Le chamanisme, Paris, PUF, coll. « Que sais-je ? »
+       (n^o 2968), 2001, 127 p. (ISBN 2-13-051843-5), p. 31-33.
+   18. ↑ Georges Devereux, Ethnopsychanalyse complémentariste, Flammarion,
+       coll. « nouvelle bibliothèque scientifique », 1972, p. 237-238.
+   19. ↑ Devereux 1972, p. 246.
+   20. ↑ Bilhaut 2011
+   21. ↑ Alfred Guillaume Prophétie et Divination, Payot, 1941.
+   22. ↑ ^a et b Jacques Le Goff, L'imaginaire médiéval, Éditions
+       Gallimard, coll. « Quarto », 1999, 1372 p.
+       (ISBN 978-2-07-075463-2), p. 690-694
+       dans Un autre Moyen Âge (réunion d'ouvrages et d'articles de J. Le
+       Goff)
+       .
+   23. ↑ Livre des Nombres, 12, 6.
+   24. ↑ Livre de Jérémie, Livre de Jérémie#Chapitre 20.
+   25. ↑ Premier livre de Samuel, Premier livre de Samuel#Premier livre de
+       Samuel 28.
+   26. ↑ Livre des Nombres, 12, 7-8.
+   27. ↑ Livre de Joël, 3, 1.
+   28. ↑ Deutéronome, 13, 2-4.
+   29. ↑ Livre de Jérémie - Crampon#Chapitre 23.
+   30. ↑ ^a et b Rey 2005, p. 286
+   31. ↑ Richard L. Gregory, Le Cerveau un inconnu, Dictionnaire
+       encyclopédique, Éditions Robert Laffont, 1993 (ISBN 2-221-05752-X),
+       p. 1165.
+   32. ↑ Platon, La République, livre 9.
+   33. ↑ Des rêves - Wikisource / Aristote : Des rêves. Trad. J.
+       Barthélémy St Hilaire, Paris, 1847
+   34. ↑ Hippocrate (0460-0377 av J.-C. ) Auteur du texte, Traité
+       d'hygiène d'Hippocrate, ou l'Art de prévoir les maladies du corps
+       humain par l'état du sommeil, traduit du grec par M. D***…, impr.
+       de J.-L. Scherff, 1816 (lire en ligne)
+   35. ↑ ^a et b Vivian Nutton (trad. de l'anglais), La médecine antique,
+       Paris, Les Belles Lettres, 2016, 562 p. (ISBN 978-2-251-38135-0),
+       p. 75.
+   36. ↑ ^a et b (en) Giuseppe Gambiano, Une interprétation
+       « matérialiste » des rêves : Du régime IV, Paris, CNRS, 1980,
+       486 p. (ISBN 2-222-02449-8), p. 87-96
+       Dans Hippocratica, M.D. Grmek (dir.).
+   37. ↑ Le Goff 1999, p. 698-704.
+   38. ↑ Le Goff 1999, p. 709.
+   39. ↑ Le Goff 1999, p. 722.
+   40. ↑ Le Goff 1999, p. 726-727.
+   41. ↑ Le Goff 1999, p. 713-716.
+   42. ↑ Valérie Bach, Les Clefs des songes médiévales
+       (XIII^e – XV^e siècles), Strasbourg, Presses universitaires de
+       Strasbourg, coll. « Sciences de l’Histoire », 2007.
+   43. ↑ Le Goff 1999, p. 722-723.
+   44. ↑ ^a et b Le Goff 1999, p. 440 et 732-734.
+   45. ↑ Jean-Claude Margolin, Cardan Jérôme (1501-1576), t. 12, Paris,
+       Encyclopaedia Universalis / Le Monde, 2009, 800 p.
+       (ISBN 978-2-35856-032-0), p. 473
+       dans les Essentiels d'Universalis.
+   46. ↑ « Kaspar Peucer (1525-1602) - Auteur - Ressources de la
+       Bibliothèque nationale de France », sur data.bnf.fr (consulté le 5
+       avril 2018)
+   47. ↑ Jérôme (1720?-18 ) Richard, La théorie des songes ([Reprod.]) /
+       par M. l'abbé Richard, les frères Estienne, 1766 (lire en ligne)
+   48. ↑ ^a b et c Rey 2005, p. 287-288
+   49. ↑ Marie de Manaceine, Le Sommeil, tiers de notre vie, Paris, 1896.
+   50. ↑ Alfred Maury, Le Sommeil et les rêves. Études psychologiques sur
+       ces phénomènes et les divers états qui s’y rattachent, suivies de
+       recherches sur le développement de l’instinct et de l’intelligence
+       avec le phénomène du sommeil, Didier, 1861.
+   51. ↑ ^a b et c Michel Jouvet, Le Sommeil et le rêve, Éditions Odile
+       Jacob, 1992
+   52. ↑ Lavie 1998, p. 100.
+   53. ↑ Lavie 1998, p. 91.
+   54. ↑ Françoise Parot, L'Homme qui rêve, Presses Universitaires de
+       France, coll. « Premier cycle », 1995, p. 75.
+   55. ↑ Vimont-Vicary P., Jouvet-Mounier D. et Delorme F., « Effets EEG
+       et comportementaux des privations de sommeil paradoxal chez le
+       chat », in Electroencephalography and Clinical Neurophysiology,
+       n^o 20 (5), 1966, p. 439-449.
+   56. ↑ Voir aussi Claude Debru, Neurophilosophie du rêve 1990
+   57. ↑ ^a et b Rey 2005, p. 288-290
+   58. ↑ Paul-Laurent Assoun, La Psychanalyse, Presses universitaires
+       françaises, coll. « Quadrige manuels », 2007,
+       (ISBN 978-2-13-056012-8), p. 148.
+   59. ↑ Sigmund Freud, Cinq leçons sur la psychanalyse, (1909), Payot,
+       Paris, 1966, p. 38
+   60. ↑ Freud, L'Interprétation des rêves, traduction Meyerson (1926),
+       Chapitre III: « Le rêve est un accomplissement de désir », Paris,
+       PUF, 1987, p. 113-122.
+   61. ↑ Freud, L'interprétation du rêve,OCF.P, Quadrige / P.U.F., 2010,
+       p. 157.
+   62. ↑ Le « travail du rêve » fait plus spécialement l'objet de tout le
+       chapitre VI intitulé dans la traduction des OCF.P « Le travail de
+       rêve » de L'interprétation du rêve, Quadrige / PUF, p. 319-462.
+   63. ↑ * Patrick Mahony, « À partir de l'histoire d'une névrose
+       infantile (l'Homme aux loups) », dans Dictionnaire international de
+       la psychanalyse (2002), 2 vol. (1.A/L et 2. M/Z), Paris,
+       Hachette-Littérature, 2005, p. 2.
+   64. ↑ Koretzky Carolina, Le réveil. Une élucidation psychanalytique,
+       Rennes, Presses Universitaires de Rennes, 2012, 262 p., p. 15
+   65. ↑ C.G. Jung : The Psychology of Dreams, IN : Collected Papers on
+       Analytical Psychology. Baillière, Tindall and Cox:London 1916
+   66. ↑ C. G. Jung, L'Homme à la découverte de son âme, p. 193 à 337 ; le
+       livre III : « Les rêves » constitue une introduction synthétique �
+       la pensée de Jung sur le processus onirique.
+   67. ↑ Cet ouvrage rassemble les notes de séminaire de Jung de 1936 �
+       1941 concernant l'analyse des rêves.
+   68. ↑ C. G. Jung, L'Homme et ses symboles, Robert Laffont, 1964, p. 49.
+   69. ↑ Cf. François Laplantine, L'ethnopsychiatrie, Éditions
+       Universitaires, 1973
+   70. ↑ Georges Devereux, Essais d'ethnopsychiatrie générale, éd.
+       Gallimard, 1970, 1973, 1977, troisième édition revue et corrigée,
+       traduit de l'anglais par Tina Jolas et Henri Gobard, préface de
+       Roger Bastide, 394 p. (ISBN 2-07-028206-6)
+   71. ↑ Tobie Nathan, Sexualité idéologique et névrose. Essai de clinique
+       ethnopsychanalytique, Grenoble, La Pensée sauvage, 1977
+   72. ↑ consulter également les articles troubles de stress
+       post-traumatique, envoûtement, possession, marabout
+   73. ↑ Tobie Nathan, La folie des autres. Traité d'ethnopsychiatrie
+       clinique, éd. Dunod, 1986.
+   74. ↑ (en) Nathaniel Kleitman, Sleep and wakefulness as alternating
+       phases in the cycle of existence, University of Chicago Press,
+       1939.
+   75. ↑ ^a et b Pierre Etévenon, Du Rêve à l'éveil, bases physiologiques
+       du sommeil, Albin Michel, 1987/
+   76. ↑ ^a et b Gregory 1993, p. 1162.
+   77. ↑ le tracé électroencéphalographique n'est pas une preuve que le
+       sujet rêve, mais le reflet d'un état physiologique du cerveau
+       différent de celui de l'éveil ou du sommeil profond.
+   78. ↑ Jouvet, p. 79.
+   79. ↑ Jouvet, p. 89-90 et Hobson, 1988
+   80. ↑ Michel Jouvet, Le sommeil et le rêve, Paris, Odile Jacob, 1992,
+       p. 15
+   81. ↑ Lavie 1998, p. 90.
+   82. ↑ ^a b c et d Isabelle Arnulf, « La mécanique des rêves en 8
+       questions », La Recherche / hors-série, n^o 15,‎ octobre-novembre
+       2015, p. 38-43 (ISSN 1772-3809)
+   83. ↑ Lavie 1998, p. 103-107.
+   84. ↑ Muzur A. (2005) "Towards an integrative theory of sleep and
+       dreaming", Journal of Theoretical Biology 233: 103-118; Hobson JA
+       (2009) "REM sleep and dreaming: towards a theory of
+       protoconsciousness. Nature Review Neuroscience 10: 1-11
+   85. ↑ (en) Dormhoff GW (2003) "The scientific study of dreams. neural
+       networks, Cognitive Development, and Content Analysis" American
+       Psychological Association; Foulkes D (1985) "Dreaming: a
+       cognitive-psychological analysis. Lawrence Erlbaum Associates
+   86. ↑ Jacques Montangero, Comprendre ses rêves pour mieux se connaitre,
+       2007, p. 66.
+   87. ↑ Patricia Franco, « Les troubles du sommeil chez l'enfant et
+       l'adolescent », La Revue du Praticien, vol. 57, n^o 14 « Troubles
+       du sommeil »,‎ 30 septembre 2007, p. 1538-1540
+   88. ↑ Lucie Barateau, « Troubles du sommeil de l'enfant et de
+       l'adulte », La Revue du Praticien, vol. 64,‎ octobre 2014,
+       p. 1169-1176
+   89. ↑ Three roads to awareness, 1970
+   90. ↑ Patricia Garfield, La Créativité onirique.
+   91. ↑ « L'art de diriger ses rêves », sur sommeil.univ-lyon1.fr
+       (consulté le 29 septembre 2019)
+   92. ↑ (en) The Evolution of REM Dreaming: New Research Includes All
+       Mammals, Richard Wilkerson, Electric Dreams, n° 10, vol. 1, janvier
+       2003.
+   93. ↑ (en) « Animals have complex dreams, MIT researcher proves », sur
+       MIT News | Massachusetts Institute of Technology, 24 janvier 2001
+       (consulté le 19 novembre 2025)
+   94. ↑ (en) Mark S. Blumberg, John A. Lesku, Paul-Antoine Libourel et
+       Markus H. Schmidt, « What Is REM Sleep? », Current Biology,
+       vol. 30, n^o 1,‎ janvier 2020, R38–R49 (ISSN 0960-9822,
+       DOI 10.1016/j.cub.2019.11.045, lire en ligne, consulté le 3
+       décembre 2020)
+   95. ↑ (en) Sam Reiter, Hua-Peng Liaw, Tracy M. Yamawaki et Robert K.
+       Naumann, « On the Value of Reptilian Brains to Map the Evolution of
+       the Hippocampal Formation », Brain, Behavior and Evolution,
+       vol. 90, n^o 1,‎ 2017, p. 41–52 (ISSN 0006-8977 et 1421-9743,
+       DOI 10.1159/000478693, lire en ligne [archive du 28 mars 2023],
+       consulté le 19 novembre 2025)
+   96. ↑ (en) Paul-Antoine Libourel et Baptiste Barrillot, « Is there REM
+       sleep in reptiles? A key question, but still unanswered », Current
+       Opinion in Physiology, vol. 15,‎ juin 2020, p. 134–142
+       (ISSN 2468-8673, DOI 10.1016/j.cophys.2020.01.001, lire en ligne,
+       consulté le 3 décembre 2020).
+   97. ↑ ^a b et c Anne Cheng, Histoire de la pensée chinoise, Paris,
+       Éditions du Seuil, 1997, 650 p. (ISBN 2-02-012559-5), p. 122-123.
+   98. ↑ Cheng 1997, p. 391.
+   99. ↑ Henri Ey, Conscience (article), vol. 20 : Les Essentiels
+       d'Universalis, Philosophie, Paris, Encyclopaedia Universalis / Le
+       Monde, 2009, 800 p. (ISBN 978-2-35856-040-5), p. 363 et 365-366.
+   100. ↑ Jean-François Lyotard, Rêve (article), t. 15, Encyclopaedia
+       Universalis, 1985, p. 1059-1062
+   101. ↑ ^a b et c Rey 2005, p. 291-293
+   102. ↑ Sophie Jama: La nuit des songes de René Descartes. Aubier, 1998
+   103. ↑ ^a et b Rey 2005, p. 294-295.
+   104. ↑ Sophie Jama, Anthropologie du rêve, PUF, 1997, p. 52-54
+   105. ↑ « Giải mã giấc mơ » (consulté le 19 novembre 2025)
+   106. ↑ ^a et b Henri Ellenberger 1974, op. cit., p. 689-690.
+
+Bibliographie
+
+   [modifier | modifier le code]
+
+Anthropologie
+
+   [modifier | modifier le code]
+     * Artémidore de Daldis, La Clef des Songes - Onirocricon, traduction
+       par A. J. Festugière, Librairie Philosophique J. Vrin, coll.
+       « Bibliothèque des textes philosophiques », 1975, 299 p.
+     * Roger Caillois et Gustave E. von Grunebaum, Le Rêve et les sociétés
+       humaines, Gallimard, 1967.
+     * Pierre Erny, Les chrétiens et le rêve dans l'Antiquité,
+       L'Harmattan, coll. « Culture et Cosmologie », 2005, 287 p.
+       (ISBN 2-7475-9761-X)
+     * Georges Devereux, Psychothérapie d'un indien des plaines: réalités
+       et rêve, [1951], rééd. Fayard, 1998 (ISBN 2-213-60024-4)
+     * Alice Mouton, Rêves hittites: contribution à une histoire et une
+       anthropologie du rêve en Anatolie ancienne, éd. Brill, 2007, 346 p.
+       (ISBN 9789004160248)
+     * Olivier Moyano, Rêve et Chamanisme, Éditions Accarias L'Originel,
+       Paris, 1998 (ISBN 2-86316-068-0).
+     * Michel Perrin, Les Praticiens du rêve : Un exemple de chamanisme,
+       Presses Universitaires de France, 2001 (ISBN 2130519474)
+     * Alain Rey, Dictionnaire culturel en langue française, t. IV, Le
+       Robert, 2005 (ISBN 978-2-84902-179-8), p. 285-296
+     * Anne-Gaël Bilhaut, Des nuits et des rêves, Construire le monde
+       zapara en Haute Amazonie, Éditions de la Société d'ethnologie,
+       coll. « Anthropologie de la nuit », 2011 (ISBN 9782901161950)
+     * « Rêve », dans Jean-Loïc Le Quellec & Bernard Sergent, Dictionnaire
+       critique de la mythologie, CNRS, 2017 (ISBN 978-2-27111-512-6),
+       p. 1129-1134
+
+Psychanalyse et psychologie analytique
+
+   [modifier | modifier le code]
+     * Sigmund Freud, Die Traumdeutung (1900),
+          + L'interprétation des rêves, Tr. en français 1^re éd. I.
+            Meyerson (1926), Paris PUF, Nouvelle éd. révisée:
+            4^e trimestre 1967, 6^e tirage : 1987, février
+            (ISBN 2-13040-004-3).
+               o L'interprétation du rêve, traduit par Janine Altounian,
+                 Pierre Cotet, René Laîné, Alain Rauzy et François Robert,
+                 OCF.P, Tome IV, P.U.F., 2003 (ISBN 2-13052-950-X) ; dans
+                 Quadrige / P.U.F., 2010 (ISBN 978-2-13053-628-4)
+               o Le rêve de l'injection faite à Irma (extrait de:
+                 L'interprétation des rêves, chapitre II), Payot, coll.
+                 « Petite Bibliothèque Payot », 2011
+                 (ISBN 978-2-22890-657-9).
+     * Sigmund Freud, Sur le rêve (Über den Traum, 1901), Gallimard-Poche,
+       1990 (ISBN 2-07032-554-7).
+     * Carl Gustav Jung, Sur l'interprétation des rêves, LGF - Livre de
+       Poche, 2000 (ISBN 2-25390-463-5).
+     * Charles Baudouin, Introduction à l’analyse des rêves, Genève,
+       Mont-Blanc, 1942, ed. l'Arche, 1950.
+
+Neurosciences
+
+   [modifier | modifier le code]
+     * Isabelle Arnulf, Une fenêtre sur les rêves. Neuropathologie et
+       pathologies du sommeil, Odile Jacob, 2014 (ISBN 978-2738130464)
+     * Michel Jouvet, Le sommeil et le rêve, Paris, Odile Jacob, 1992
+       (ISBN 2-73810-154-2).
+     * Michel Jouvet, Pourquoi rêvons-nous ? Pourquoi dormons-nous ? Où,
+       quand, comment ?, Odile Jacob, 2000 (ISBN 2-73810-845-8).
+     * Michel Jouvet, De la science et des rêves. Mémoires d'un
+       onirologue, Odile Jacob, 2013 (ISBN 978-2-73812-791-4).
+     * Michel Jouvet, Le sommeil, la conscience et l'éveil, Odile Jacob,
+       2016 (ISBN 978-2-7381-3110-2).
+     * Olga Quadens, L'architecture du rêve: du cerveau à la culture, éd.
+       Peeters, 1990, 161 p., avec la collaboration de Pat West.
+     * Pierre Etevenon, Du rêve à l'éveil. Bases physiologiques du
+       sommeil, Collection Sciences d'aujourd’hui, Albin-Michel, 1987
+       (ISBN 978-2-22602-871-6), FeniXX réédition numérique
+       (Albin-Michel), 2015, papier (ISBN 978-2-226-02871-6), EBook pdf
+       (ISBN 978-2-40233-722-9), EBook EPUB (ISBN 978-2-40200-389-6).
+     * Pierre Etevenon, L'Homme éveillé. Paradoxes du sommeil et du rêve,
+       Collection Le corps à vivre, Tchou, 1990 (ISBN 2-7107-0418-8).
+     * Pierre Etevenon, Des rêves pour changer votre vie. L'ascenseur des
+       rêves, Tome 1, ERICK BONNIER éditions, 2013,
+       (ISBN 978-2-36760-011-6), consultation en ligne :[1].
+     * Pierre Etevenon, Des rêves pour changer votre vie. La pratique par
+       des exemples de rêves, Tome 2, ERICK BONNIER éditions, 2013,
+       (ISBN 978-2-36760-016-1), consultation en ligne :[2]
+     * Claude Debru, Neurophilosophie du rêve, éd. Hermann, 1990, 398 p.
+       (ISBN 2-70566-143-4) édité erroné (BNF 35106205).
+     * J. Allan Hobson, Le cerveau rêvant, traduit de l'anglais par Rose
+       Saint-James, éd. Gallimard NRF, 1992, 402 p. (ISBN 2-07072-590-1).
+     * Peretz Lavie, Le Monde du sommeil, Odile Jacob, 1998
+       (ISBN 2-73810-552-1).
+     * Pierre Cheymol, Les Empires du rêve, José Corti, 1994
+       (ISBN 2-71430-512-1).
+     * Françoise Parot, L'Homme qui rêve, PUF, 1995 (ISBN 2-13046-815-2).
+     * (en) Maquet P, Smith C, Stickgold R, Sleep and brain plasticity,
+       Oxford University Press, 2003 (ISBN 978-0-19857-400-2)
+
+Ethnopsychiatrie et anthropologie psychanalytique
+
+   [modifier | modifier le code]
+     * Georges Devereux, Essais d'ethnopsychiatrie générale, éd.
+       Gallimard, 1971.
+     * Géza Róheim, Les portes du rêve, éd. Payot, 2000
+       (ISBN 978-2-22889-290-2).
+     * Roger Dadoun et Claude Mettra, Au-delà des portes du rêve -
+       Entretiens sur l'anthropologie onirique de Géza Róheim, éd. Payot,
+       1977.
+     * François Laplantine, Ethnopsychiatrie, P.U.F., coll. « Que
+       sais-je ? », 1988.
+     * Tobie Nathan, La nouvelle interprétation des rêves, éd. Odile
+       Jacob, 2011 (ISBN 9782738129598)
+     * Tobie Nathan, La folie des autres. Traité d'ethnopsychiatrie
+       clinique, éd. Dunod, coll. « Psychismes », 1986.
+     * Barbara Tedlock, "Rêves et visions chez les amérindiens",
+       Anthropologie et Société, vol. 18, 2, 1994, pp. 13–27.
+     * Gemma Orobitg Canal, Les Pumés et leurs rêves. Étude d'un groupe
+       indien des plaines du Vénézuela, éd. des Archives Contemporaines,
+       1998, 331 p., coll. « Ordres sociaux ».
+     * Sylvie Poirier, ss dir., « Rêver la culture », Anthropologie et
+       Société, 1994, vol. 18, 2, 205 p.
+     * Benjamin Kilborne, Interprétation du rêve au Maroc, éd. La pensée
+       sauvage, 1978.
+     * Nadia Mohia-Navet, Les thérapies traditionnelles dans la société
+       Kabyle. Pour une anthropologie psychanalytique, préface du
+       Professeur Sam-Ali, éd. L'Harmattan, coll. « Santé, sociétés et
+       culture », 1993, 268 p. (ISBN 2-73841-634-9).
+
+Arts
+
+   [modifier | modifier le code]
+     * Jean-Daniel Gollut, Conter les rêves. La narration de l'expérience
+       onirique dans les œuvres de la modernité, éd. José Corti, 1993
+       (ISBN 2-71430-497-4).
+     * Michel Perrin, Voir les yeux fermés ; arts, chamanismes et
+       thérapies, éd. Seuil, 2007 (ISBN 978-2-02020-777-5).
+     * Michel Perrin, Visions Huichols, un art amérindien du Mexique,
+       Somogy, 2014 (ISBN 978-2-75720-816-8).
+     * Les Dessins hypnotiques de Robert Desnos, Édition établie et
+       présentée par Carole Aurouet, Nouvelles Éditions Jean-Michel Place,
+       coll. « Dessins d’Écrivain », 2015, 80 p.
+     * Jean-Claude Lebensztejn, La Maison du Sommeil, Paris, Éditions de
+       l'INHA, coll. « Dits », 2018, 48 p. (ISBN 978-2-917902-45-5).
+
+Divers
+
+   [modifier | modifier le code]
+     * Henri Bergson, Le Rêve (1901), Payot, coll. Petite Bibliothèque
+       Payot, 2012 (ISBN 978-2-22890-776-7).
+     * Albert Béguin, L'Âme Romantique et le Rêve. Essai sur le romantisme
+       allemand et la poésie française, Biblio essais, 1939.
+     * Frédéric Canovas, L'Écriture rêvée. Paris, L'Harmattan, 2000.
+     * Tony James, Le Songe et la Raison. Essai sur Descartes, Éditions
+       Hermann, 2010.
+     * Jacqueline Carroy, Nuits Savantes, Une histoire des rêves
+       (1800-1945), éditions EHESS, Paris, 2012.
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * rêves, sur Wikimedia Commons
+
+   Une catégorie est consacrée à ce sujet : Rêve.
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Langage de rêve
+     * Rêverie
+     * Temps du rêve
+     * Incube, Succube
+     * Électroencéphalographie quantitative
+     * Hatsuyume
+     * Rêve éveillé dirigé, Onirothérapie
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     * Ressource relative à la recherche Voir et modifier les données sur
+       Wikidata  :
+          + Stanford Encyclopedia of Philosophy
+     * Ressource relative à la santé Voir et modifier les données sur
+       Wikidata  :
+          + Medical Subject Headings
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Britannica
+          + Den Store Danske Encyklopædi
+          + Store norske leksikon
+          + Treccani
+          + Universalis
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + BnF (données)
+          + LCCN
+          + GND
+          + Japon
+          + Israël
+          + Tchéquie
+     * Wikirêve, la plus grande encyclopédie en ligne du rêve, symbolisme
+       et interprétation par Louise-Frédérique S.
+     * Site de l'université de Lyon-1 sur le sommeil, les rêves et l'éveil
+     * Joseph Delbœuf, Le sommeil et les rêves considérés principalement
+       dans leurs rapports avec les théories de la certitude et de la
+       mémoire, Éd. Félix Alcan, Paris, 1885, 262 pages.
+     * Base de textes pour l'étude du rêve: plus de 1 400 récits de rêves
+       littéraires d'époques et de cultures diverses, ainsi que des textes
+       fondamentaux sur l'interprétation et la théorie du rêve (Platon,
+       Maury, Hervey de Saint-Denys, Delboeuf, etc.)
+     * Cultures du rêve : histoire culturelle et littéraire du rêve
+
+   v · m
+   Rêves
+   Phénomènes
+   Rêve
+     * Oneiroi
+     * Langage de rêve
+     * Rêve récurrent
+     * Faux réveil
+     * Interobjet
+     * Personnage de rêve
+
+   Rêve lucide
+     * Rêve pré-lucide
+     * Rêve lucide
+
+   Cauchemar
+     * Capteur de rêves
+     * Terreur nocturne
+     * Rêve anxieux
+     * Trouble cauchemardesque
+     * Somnambulisme
+     * Epialès
+
+   Sommeil
+     * État hypnagogique
+     * Pointes PGO
+     * Sommeil paradoxal
+     * État hypnopompique
+
+   Thérapie et Interprétation
+   Oniromancie
+     * Conjoint d'esprit
+     * Guide des rêves
+     * Oneironautique
+     * Psychonautisme
+     * Yoga nidra
+     * Yoga du rêve
+
+   Interprétation des rêves
+     * Interprétation psychanalytique des rêves
+     * Imagination incarnée
+     * Imagerie guidée
+     * Dictionnaire des rêves
+
+   Neurosciences cognitives des rêves
+     * Oniroscope
+     * Hypothèse de l'activation-synthèse
+     * Hypnologie
+
+   Travail du rêve
+     * Art du rêve
+     * Journal des rêves
+     * Incubation des rêves
+     * Partage des rêves
+
+   Induction du sommeil
+     * Berceuse
+     * Hypnose
+     * Onirogen
+
+   Livres anciens
+     * Oneirocritica
+     * Interprétation des rêves
+
+     * icône décorative Portail de l’anthropologie
+     * icône décorative Portail de la mythologie
+     * icône décorative Portail des religions et des croyances
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail de la philosophie
+     * icône décorative Portail des neurosciences
+     * icône décorative Portail de la culture
+     * icône décorative Portail du sommeil et du rêve
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Rêve&oldid=230793325 ».
+   Catégories :
+     * Rêve
+     * Pensée
+     * Sémiologie psychiatrique
+     * Anthropologie
+     * Chamanisme
+
+   Catégories cachées :
+     * Article à précision nécessaire
+     * Article contenant un appel à traduction en anglais
+     * Article à référence souhaitée
+     * Page utilisant le modèle Extrait
+     * Article avec une section vide ou incomplète
+     * Catégorie Commons avec lien local différent sur Wikidata
+     * Page utilisant P3123
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la recherche
+     * Page utilisant P486
+     * Page pointant vers des bases relatives à la santé
+     * Page utilisant P1417
+     * Page utilisant P8313
+     * Page utilisant P4342
+     * Page utilisant P3365
+     * Page utilisant P3219
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Anthropologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Mythologie/Articles liés
+     * Portail:Mythes et légendes/Articles liés
+     * Portail:Religions et croyances/Articles liés
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Philosophie/Articles liés
+     * Portail:Neurosciences/Articles liés
+     * Portail:Biologie/Articles liés
+     * Projet:Biologie/Pages liées
+     * Portail:Culture/Articles liés
+     * Portail:Sommeil et Rêve/Articles liés
+
+     * La dernière modification de cette page a été faite le 20 novembre
+       2025 à 05:18.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Rêve
+   (BUTTON) 121 langues Ajouter un sujet

@@ -1,0 +1,543 @@
+   Jonathan C. Glance
+   Mercer University
+   Presented at NVSA Conference (Northeast Victorian Studies Association)
+   29 April, 2001
+
+         Revelation, Nonsense or Dyspepsia: Victorian Dream Theories
+
+   Upon reading a dream episode in a novel by Dickens, or the Brontes, or
+   Wilkie Collins, we might pause and ask, What did the Victorians
+   consider dreams to be? This simple question leads to others: are
+   literary dreams the same as real dreams? should we interpret them as
+   such? perhaps even, what do we believe dreams to be? If we distinguish
+   real dreams from those in novels—that is, in conventionalized,
+   artificial forms—then the interpretation of these literary dreams
+   presents certain problems for the cautious critic. We assume a
+   character's dreams contain some significance, of course. We can consult
+   various psychoanalytic methodologies for interpretive guidelines, and
+   these will often produce fascinating readings, yet we may experience a
+   certain intellectual dissatisfaction with interpretations which must be
+   so alien to what the author and original audience of a text might have
+   imagined the dream to have meant. Warnings against the intentional
+   fallacy notwithstanding, an author's apprehensions of what dreams are,
+   how they may be used in literature, and how readers will respond to
+   them clearly matter in the process of composing a dream episode. These
+   considerations suggest a cultural and historical approach, rather than
+   a psychanalytic one. Perhaps no better test case for this approach
+   exists than in the works of Charles Dickens, so let us ask, What did
+   Dickens believe dreams to be?
+
+   Dickens composed a vast quantity of literary dreams throughout his
+   career. They appear in his earliest writings—Sketches by Boz and The
+   Pickwick Papers—and in his last, unfinished novel: The Mystery of Edwin
+   Drood. In between, they proliferate in Dickens's novels (for example,
+   in David Copperfield, Bleak House, Hard Times and Great Expectations),
+   and create the essential structure for shorter prose fiction, like A
+   Christmas Carol and The Chimes. Dickens depicts dreams and dreaming not
+   only in his manifestly fictional works, but also in his ostensibly
+   nonfictional ones: examples include "An Italian Dream" in Pictures From
+   Italy, and "Night Walks" in The Uncommercial Traveler. Furthermore, he
+   published numerous articles on dreams in his magazines Household Words
+   and All the Year Round, and speaks of them in his letters.
+
+   This wealth of material has received surprisingly little critical
+   attention. Catherine Bernard has one of the most focused discussions of
+   Dickens and Victorian theories of dreaming, published in 1981 in the
+   collection Victorian Science and Victorian Values. She posits Dickens
+   as a proto-Freudian, however, claiming for example that "Dickens
+   anticipated Freud's idea of day residues and the distinction between
+   latent and manifest content" and further that he "intuitively perceived
+   the autobiographical origins of dreams" (205). Ronald R. Thomas
+   continues the interweaving of Freud and Dickens in his discussions of
+   Great Expectations and A Christmas Carol in Dream s of Authority: Freud
+   and the Fictions of the Unconscious (1990).
+
+   Such an approach is understandable. Sigmund Freud's The Interpretation
+   of Dreams (published one hundred years ago) revolutionized the
+   scientific study of dreams, and provided a framework for the
+   interpretation of these phenomena. We are all familiar with Freud's
+   model of the unconscious and with his theories of the underlying causes
+   of dreams, and so our tendency may be to apply these notions to the
+   dreams we find in novels written before 1900 as well as to those
+   written after. By doing so we assume that authors such as Dickens
+   somehow had a modern understanding of the unconscious and an
+   intuitively Freudian notion of dreaming. We also assume that literary
+   dreams operate in the same manner as actual dreams (Freud himself
+   proposes this approach in "Delusions and Dreams in Jensen's Gradiva").
+   These assumptions require careful scrutiny, however, if literary dreams
+   are not real dreams (that is,artifacts of the unconscious), but
+   consciously created imitations of them. This paper argues that literary
+   dreams arise from a historical and cultural context, and reflect not
+   just their author's insights into the human mind, but also contemporary
+   theories about dreams (from both scientific and popular sources), as
+   well as conventional literary representations of dreams and visions. To
+   attribute to Dickens a modern understanding of the unconscious or an
+   intuitively Freudian notion of dreaming is to wrench him from his
+   historical context. To do so is also to ignore the complications of the
+   textual evidence, for Dickens's own writings on dreams reveal complex
+   assumptions about the causes and meanings of dreams. This complexity
+   stems from the conflicting theories of dreaming in the Victorian
+   period.
+
+   In order to understand how Dickens used dreams, then, we must return to
+   the question: What would he consider dreams to be? Dickens grew up
+   under the dual influence of the Romantic movement's fascination with
+   states of marginal consciousness, and neuroscience's new theories and
+   advances in the study of the brain. The change in long accepted
+   paradigms of the structure of the nervous system, and the
+   well-publicized and revolutionary work in organology and phrenology of
+   Franz Joseph Gall and Caspar Spurzheim, "all helped to focus the
+   attention of the layman as well as the scientist on the nervous system
+   and, in particular, on the brain" (Clarke and Jacyna 5). Roger Cooter
+   notes, "Gall's doctrine beckoned into its orbit every one of the
+   social, psychological, intellectual, political and religious concerns
+   that had been aggravated and heightened by the conditions of rapid and
+   pervasive social and economic change" (6). The operation of the
+   sleeping mind became an important focal point for supporters and
+   opponents of Gall, and this attention encouraged widespread speculation
+   on the mysterious nature and meaning of dreams.
+
+   That speculation manifested itself in two broad paradigms: the
+   scientific and the spiritual. Perhaps the next step to answering our
+   initial question, then, is to ask, "What would Dickens have been
+   reading about dreams?" Scientific studies, or at least studies which
+   assumed the prestige and authority (if not the pure methods) of
+   science, proliferated in the early nineteenth century. But these
+   studies coexisted in the book stalls and the magazines with works of
+   oneirocriticism (or dream interpretation guides) and spiritual accounts
+   of revelatory dreams.
+
+   The foundation for most scientific studies of mental activity was
+   associationism, which David Hartley popularized in his Observations on
+   Man (1749). Hartley deduces three causes for dreams: the residue of
+   daily impressions, the physical state of the dreamer's stomach and
+   brain, and, most importantly, the associations of thoughts and images
+   which always go on in the mind, but which are more vivid and less
+   controlled during sleep. Most later scientific studies accept Hartley's
+   associationist paradigm; a partial list of those published during
+   Dicken's life includes William Newnham's Essays on Superstition (1830);
+   John Abercrombie's Inquiries Concerning the Intellectual Powers and the
+   Investigation of Truth (1831); Walter C. Dendy's On the Phenomena of
+   Dreams and Other Transient Illusions (1832); Robert Macnish's The
+   Philosophy of Sleep (1834); Alexander Grant's The Literature and
+   Curiosities of Dreams (1865); and William Hammond's Sleep and Its
+   Derangements (1869). Although these works differ in terminology and
+   emphasis, their similarities are striking. The authors, all physicians
+   or surgeons, employ little scientific rigor to support their claims.
+   More frequently, they rely on second-hand anecdotal evidence, classical
+   sources (usually Pliny, Plutarch and Suetonius) or literature (often
+   Sir Walter Scott's The Antiquary). We can follow the trail of one
+   anecdote as a typical example: to illustrate how sensory impressions
+   shape our dreams, Abercrombie describes how his friend, James Gregory,
+   gave him a manuscript by his father, Dr. Gregory, which relates that
+   the doctor had gone to bed with a hot water bottle at his feet, and had
+   dreamed he was walking on Mt. Aetna (260). Abercrombie makes no
+   apparent effort to check this story's veracity or to duplicate it.
+   Macnish repeats the anecdote of Dr. Gregory's dream, and thirty-seven
+   years later, Hammond continues its use in this fairly effaced form:
+   "Instances are given of persons sleeping with bottles of hot water
+   applied to their feet dreaming of walking on burning lava, or some
+   other hot substance" (133). A scientific methodology to study whether
+   the same stimulus will produce similar dreams did not appear until
+   Alfred Maury's Le Sommeil et le Reves (1865), which pioneered the role
+   of stimulation and suggestion in shaping dreams.
+
+   Certain general assumptions about dreams recur in these scientific
+   studies. One often repeated point is that dreams only occur in
+   imperfect sleep. Newnham states, "There are no dreams in natural
+   sleep—that is, in sound and quiet sleep—the body being healthy, and the
+   mind at ease." Dreams occur only in a "morbid" state, when the brain is
+   disordered by certain irritants, such as strong emotions, prolonged
+   study, approaching sickness, dyspepsia or other states which impair
+   sleeping (163). Macnish employs a phrenological model, stating that in
+   "perfect sleep" all the brain's organs are at rest; but if one or more
+   of the organs remain awake while the others sleep, dreaming results
+   (43). The rationale seems to be that dreaming has to occur in an
+   aberrant state of mind, because of the irrational nature of dreams.
+   Another general feature of these studies is the analogy between
+   dreaming and insanity. Abercrombie compares how in both dreaming and
+   madness the mind acts without volition, and follows whatever "chain of
+   thought" or associated images are present at the moment (256). Macnish
+   calls a dream a "transient delirium," which resembles insanity in the
+   absence of the mental faculty of judgement (45). All the studies assert
+   that dreams originate in both previous mental associations and existing
+   sensory impressions. Macnish speaks at greater length than the others
+   on the effect of diet on the content of dreams. He contends that "a
+   disordered state of the stomach and liver will often produce dreams,"
+   and that as a general rule dyspepsia produces bad dreams (53). A final
+   and crucial point of agreement in these various scientific studies is
+   their denial of prophetic powers in dreams. Dendy states that although
+   the notion of revelatory dreams is "entertained generally," we no
+   longer live in "days of special inspiration"; therefore, he cannot
+   rationally accept "the visions of slumbers as revelations or
+   prognostics" (70). Macnish advances the same argument, and comments
+   that the idea "is so singularly unphilosophical, that I would not have
+   noticed it, were it not advocated even by persons of good sense and
+   education" (102). This last remark is important, for it indicates that
+   the scientific view of dreams had strong competition for popular
+   acceptance.
+
+   We find that competition in dream books and spiritual accounts of
+   revelatory dreams. Dream books, inexpensive handbooks for the most
+   general and least educated audiences, contain encyclopedic lists of
+   objects or actions, and provide instructions on how to interpret any of
+   them if they appear in the reader's dreams. These books invariably
+   claim that an understanding of dreams will help the reader prosper, or
+   will warn of coming trouble. Stemming in principle from the
+   second-century dream book the Oneirocriticon (or The Interpretation of
+   Dreams) of Artemidorus (first translated into English in 1643),
+   nineteenth-century dream books are often anonymous works plagiarized
+   heavily from previous dream books, sometimes only altering the title
+   page in hopes of attracting new buyers. One such work I have examined
+   is the anonymous, undated Nocturnal Revels: or, Universal Interpreter
+   of Dreams and Visions. This text presents "the Nature, Causes, and Uses
+   of various kinds of Dreams and Representations," and lists various
+   objects and actions in dreams, with their meanings. Another widely read
+   type of dream book, more spiritual and less pragmatic, catalogues
+   narratives of revelatory dreams and other mysterious phenomena. Some of
+   these works insist on a divine or supernatural origin for this
+   capacity, while others claim it is a natural human power. For example,
+   Mrs. Blair's Dreams and Dreaming (1843) contains narratives of
+   premonitory dreams drawn from the Bible and contemporary accounts, and
+   the author treats these dreams as divine revelations that God offers as
+   moral directives. She asks, "Does it not savour of infidelity to say,
+   that the Divine Being has neither the will nor the ability to instruct
+   his creatures asleep as well as awake?" (114). Similarly, an anonymous
+   article in the Baptist Magazine in 1828 asserts, "Insignificant as
+   dreams in general are, there are doubtless two classes of agents that
+   have access to our minds when sleep has impaired our own agency"—those
+   classes are good angels (or "ministering spirits") and evil angels (who
+   tempt the weak to wickedness) (qtd. in Grant 160-62). In contrast to
+   such religious theories are those who assert a natural origin. Thomas
+   De Quincey speaks in Suspiria de Profundis (1845) of "the machinery for
+   dreaming planted in the human brain" as "a dreaming organ" analogous to
+   other sensory organs (88), and "the one great tube through which man
+   communicates with the shadowy" (88). Catherine Crowe's The Night Side
+   of Nature (1850), provides many anecdotal examples of presentiments and
+   prophetic dreams, and explains that "The soul, which is designed as the
+   mirror of a superior spiritual order (to which it belongs), still
+   receives, in dreams, some rays from above, and enjoys a foretaste of
+   its future condition" (47). Yet Crowe asserts that "the faculty of
+   presentiment [is] a natural one, though only imperfectly and
+   capriciously developed" (47). Some few studies tried to link the
+   spiritual and scientific theories. Joseph Haven, in Mental Philosophy:
+   including the Intellect, Sensibilities, and Will (1857), tenatively
+   asserts, "A dream may be prophetic, yet not supernatural. Some law, not
+   fully known to us, may exist, by virtue of which the nervous system,
+   when in a highly excited state, becomes susceptible of impressions not
+   ordinarily received ... so as to become strangely cognizant of the
+   coming future. Can anyone show that this is impossible? Is it more
+   improbable than that the cases recorded are mere chance coincidences?"
+   (qtd. in Grant 165).
+
+   This survey of the competing discussions of dreams suggests the real
+   diversity of theories and explanations which coexisted. The two broad
+   streams of scientific and spiritual dream theories, each with
+   subcurrents of disputes over method or essence, run parallel and in
+   continual debate throughout the nineteenth century. These debates
+   mirror Victorian cultural tensions and uncertainties; dreams become a
+   focus for discussions of the nature of the mind and the soul, matter
+   and spirit, science and religion. Most Victorians, immersed in this
+   debate, aware of both channels of thought, considered dreams to be
+   meaningless and meaningful, mere physiological artifacts and messages
+   from the great beyond.
+
+   Dickens was not only aware of but also keenly interested in this topic.
+   George Henry Lewes reports that dreams were "a subject which always
+   interested him, and on which he had stored many striking anecdotes"
+   (72). Dickens owned several of the major studies of dreams, including
+   ones by Macnish and Abercrombie (Bernard 202). Determining Dickens's
+   actual view of dreams, however, is problematic, because his comments in
+   letters and essays often appear at odds with his practice in the
+   novels. Selecting representative examples from his letters, essays and
+   novels, we can better see the diversity of his views.
+
+   Outside of his fiction, Dickens tends on the whole to favor the
+   scientific view over the supernatural. He parodies popular dreambooks
+   in the essay "Dictionary Dreams," published in All the Year Round (31
+   August, 1861), which sarcastically refutes the accuracy of The Ladies'
+   Own Dreambook and ridicules popular oneirocriticism (549-552). For
+   instance, the narrator of the essay reads that "To dream of cucumbers
+   denotes recovery to the sick, and you will fall speedily in love; . . .
+   also moderate success in trade." The narrator, a believer in modern
+   associationist theories, sarcastically conjectures whether it would not
+   be possible to cultivate such an auspicious dream by contemplating and
+   then devouring an enormous cucumber before bedtime (551).
+
+   Dickens also tends to explore the workings of the sleeping mind as
+   Macnish and Abercrombie do, emphasizing the chaotic whirl of thoughts
+   freed from the control of waking reason. In "Early Coaches," which
+   appears in Sketches by Boz (1836), he depicts the fitful sleep of a man
+   awaiting a predawn call to wake him for a business trip. In this
+   passage he exhibits a classic scientific paradigm of dreams-caused by
+   imperfect sleep, shaped by associated thoughts and external auditory
+   sensations, and perceived half-incredulously by the half-conscious
+   mind:
+   You left strict orders, overnight, to be called at half-past four, and
+   you have done nothing all night but doze for five minutes at a time,
+   and start up suddenly from a terrific dream of a large church-clock
+   with the small hand running round, with astonishing rapidity, to every
+   figure on the dial-plate. At last, completely exhausted, you fall
+   gradually into a refreshing sleep—your thoughts grow confused—the
+   stage-coaches, which have been 'going off' before your eyes all night,
+   become less and less distinct, until they go off altogether; one moment
+   you are driving with all the skill and smartness of an experienced
+   whip—the next...you are closely muffled up, inside, and have just
+   recognised in the person of the guard an old schoolfellow, whose
+   funeral, even in your dream, you remember to have attended eighteen
+   years ago. At last you fall into a state of complete oblivion, from
+   which you are aroused, as if into a new state of existence, by a
+   singular illusion. You are apprenticed to a trunk-maker; how, or why,
+   or when, or wherefore, you don't take the trouble to inquire; but there
+   you are, pasting the lining in the lid of a portmanteau. Confound that
+   other apprentice in the back shop, how he is hammering!—rap, rap, rap—
+   what an industrious fellow he must be! you have heard him at work for
+   half an hour past, and he has been hammering incessantly the whole
+   time. Rap, rap, rap, again—he's talking now—what's that he said? Five
+   o'clock! You make a violent exertion, and start up in bed.
+   This passage seems well informed by scientific studies: the dreams
+   occur only before and after the period of sound sleep (or "oblivion"),
+   not during it; the perception of time is warped during the dream, so
+   that a brief moment of dreaming seems to contain an immense span of
+   time; and the mind creates a dream to explain the sounds perceived
+   during sleep. The second-person narration of this dream emphasizes its
+   familiarity; this is the sort of dream, Dickens suggests, that anyone
+   would have under these conditions-even the reader.
+
+   Dickens interpreted his own dreams from this scientific standpoint as
+   well. In a letter to John Forster in September of 1844, he describes a
+   vivid dream he had while in Italy with his family: the spirit of Mary
+   Hogarth appears to him, veiled in blue like the Madonna but
+   nevertheless recognizable. He pleads for a sign that the visit is real,
+   asking for the comfort of her mother, and also for the answer to the
+   question, "What is the True religion?" Dickens relates,
+   As it paused without replying, I said—Good God, in such an agony of
+   haste, lest it should go away!— 'You think, as I do, that the Form of
+   religion does not so greatly matter, if we try to do good?—or,' I said,
+   observing that it still hesitated, and was moved with the greatest
+   compassion for me, 'perhaps the Roman Catholic is the best?'....'For
+   you,' said the Spirit, full of such heavenly tenderness for me, that I
+   felt as if my heart would break; 'for you, it is the best!' Then I
+   awoke, with the tears running down my face. (4.196)
+
+   This experience would seem to epitomize a revelatory vision: the spirit
+   of a woman he idolized comes to him from the other world and answers
+   one of the profound questions of his life. Yet rather than musing on
+   any serious significance in the dream (or converting to Catholicism),
+   Dickens instead explains it away. He speculates on "the fragments of
+   reality...which helped to make it up," including a painful recurrence
+   of rheumatism which upset his sleep, the near drowning of his son Fred
+   the week before which directed his thoughts toward death, the presence
+   in the room of an altar with a missing religious picture (which had
+   caused Dickens to wonder what the face in the picture had looked like),
+   and the nearby convent bells which had supplied the "thought, no doubt,
+   of Roman Catholic services" (4.196). This letter suggests Dickens was
+   not only familiar with the standard scientific explanations of dreams,
+   but tended to accept them and apply them to his own dreams.
+
+   Dreams were a recurring topic in his magazines, suggesting that the
+   topic interested a general audience. Dickens' published the essays
+   "Dreams" in Household Words (8 March 1851), and "A Physician's Dreams,"
+   in two parts in All the Year Round (26 November and 3 December 1859).
+   Both tend to reflect the accepted scientific explanations of the
+   causes, types and meaning of dreams. The Household Words essayis more
+   interesting because it provided Dickens with an opportunity to discuss
+   his observations on the topic. In a letter he instructed Dr. Thomas
+   Stone, the author, to revise the article, stating, "If I venture to say
+   I think it may be made a little more original, and a little less
+   recapitulative of the usual stories in the books, it is because I have
+   read something on the subject, and have long observed it with the
+   greatest attention and interest" (Letters 6:276). Dickens's views,
+   while informed by scientific explanations and literary conventions of
+   dreams, accept neither fully. In contrast to most scientific views of
+   the day, Dickens opposes the idea that a residue of the day's events
+   chiefly makes up our nightly dreams: "I would suggest that the
+   influence of the day's occurrences, and of recent events, is by no
+   means so great (generally speaking) as is usually supposed....When
+   dreams can be directly traced to any incidents of recent occurrence, it
+   appears to me that the incidents are usually of the most insignificant
+   character-such as made no impression, of which we were conscious, at
+   the time" (6.276-277). His own dreams, he states, are more often scenes
+   from his youth, and he marvels that although he had been married
+   fourteen years and had nine children, he never dreamed of them. He
+   argues that his experience is more common than not, based on many
+   conversations on the subject. He also asserts that there is "a
+   remarkable sameness" in our dreams, which are not, as Stone supposed,
+   "very various and different" (6.278). He adds,
+   how many dreams are common to us all, from the Queen to the
+   Costermonger! We all fall off that Tower-we all skim above the ground
+   at a great pace and can't keep on it—...we all take unheard-of trouble
+   to go to the Theatre and never get in—or to go to a Feast, which can't
+   be eaten or drunk-or to read letters, or placards, or books, that no
+   study will render legible—or to break some Thraldom or other, from
+   which we can't escape—or we all confound the living with the dead, and
+   all frequently have a knowledge or suspicion that we are doing it—we
+   all astonish ourselves by telling ourselves, in a dialogue with
+   ourselves, the most astonishing and terrific secrets—we all go to
+   public places in our night dresses, and are horribly disconcerted, lest
+   the company should discern it. (6.278-279)
+   Stone's article makes use of Dickens' suggestions-even to the extent of
+   paraphrasing and quoting his examples.
+
+   Besides establishing Dickens' fascination with and expertise in the
+   study of dreams, the letter also provides two interesting statements
+   about his theory of dreams in literature. One suggests that dreams can
+   contain a hidden but discernible meaning: "I should say the chances
+   were a thousand to one against anybody's dreaming of the subject
+   closely occupying the waking mind—except—and this I wish particularly
+   to suggest to you—in a sort of allegorical manner" (276). He also
+   discusses the use of dreams as a plot device: "The obvious convenience
+   and effect of making the dreams of heroes and heroines bear on the
+   great themes of a story as illustrated by their late experiences, seem
+   to me to have led the Poets away from the truth, on this head-and to
+   have established the conventional beliefs from which I differ" (277).
+   He may have discounted the conventions, but he also found them too
+   convenient and effective not to use in his own novels.
+
+   There is a tension between what Dickens in his letters asserts real
+   dreams are, and what he creates in his fiction to represent a dream.
+   That tension between scientific and supernatural poles varies in
+   different episodes from different novels. We might plot a line, with
+   the fever dreams which arise as recognizable medical symptoms in Bleak
+   House and Great Expectations on one end, and the overtly supernatural
+   dream visions in A Christmas Carol and The Chimes on the other; in
+   between we might place revelatory dreams which exist in a more or less
+   psychologically believable milieu: Montague Tigg's nightmare in Martin
+   Chuzzlewit, or Stephen Blackpool's vision in Hard Times. Such an
+   organizing principle helps to suggest the variety of Dickens' literary
+   dreams. Despite the useful metaphor of a line between two opposite
+   points, though, even the scientifically explicable fever dreams contain
+   true revelations, and even the supernatural visions are accompanied by
+   rational dismissals within the text. Both paradigms coexist in the
+   dream episode. Dickens takes pains to construct around his dream
+   episodes a rational frame which explains it away as originating within
+   the dreamer. In Martin Chuzzlewit, for instance, Montague Tigg has a
+   nightmare of a door that he cannot keep closed, and of a dangerous man
+   named J. His dream may be a result of his waking thoughts and restless
+   mind (Tigg worries about the door in his room he cannot lock, and "his
+   fears or evil conscience reproduced this door in all his dreams"
+   (651)), or imperfect slumber (Tigg sleeps in a strange bed, during a
+   thunderstorm), or dim awareness of external sensations (Tigg wakes to
+   find Jonas Chuzzlewit "standing at his bedside watching him. And that
+   very door wide open" (651)). Other common explanations are incipient
+   illness (Esther Summerson's smallpox) or indigestion (as Scrooge
+   exclaims to Marley's ghost, "You may be an undigested bit of beef, a
+   blot of mustard, a crumb of cheese, a fragment of an underdone potato.
+   There's more of gravy than of grave about you, whatever you are!"(12)).
+   The dream itself, however, follows the (conventionally literary)
+   tradition that dreams are true revelations. Tigg's own ghost appears in
+   the dream as "a man with a bloody smear upon his head" to reveal his
+   fate: Jonas will kill him with a blow to the head five chapters later.
+
+   The tension between a suspicion of and a faith in the revelatory power
+   of dreams is, of course, quite ancient, but the ambivalence continues
+   throughout the nineteenth century and directly shapes Dickens's
+   discussion of and attitude toward dreams. Further exploration of how
+   popular theories of dreams—which exist on the smudged boundaries of
+   science, religion and folklore-influenced Dickens's creation of
+   literary dreams would form an important contribution to the study of
+   his works. In her essay "Against Tradition: The Case for a
+   Particularized Historical Method," Marilyn Butler emphasizes that, "A
+   genuinely historical perspective discourages dogmatism, by obliging us
+   to foreground the differences between our circumstances, aims, and
+   language, and those of the past" (44). Only by recognizing those
+   differences, and the original contexts which produced Dickens's novels,
+   can we hope to understand the meaning of the literary dreams, rather
+   than project meaning upon them.
+
+                                 Works Cited
+
+   Abercrombie, John. Inquiries Concerning the Intellectual Powers and the
+   Investigation of Truth. 3rd ed. Edinburgh: Waugh and Innes, 1832.
+
+   Bernard, Catherine A. "Dickens and Victorian Dream Theory." Victorian
+   Science and Victorian Values: Literary Perspectives. Ed. James Paradis
+   and Thomas Postlewait. New York: New York Academy of Sciences, 1981.
+   197-216.
+
+   Blair, Mrs. Dreams and Dreaming. London: G. Groombridge, 1843.
+
+   Clarke, Edwin, and L. S. Jacyna. Nineteenth Century Origins of
+   Neuroscientific Concepts. Berkeley: U of California P, 1987.
+
+   Crowe, Catherine. The Night Side of Nature. New York: Redfield, 1850.
+
+   Dendy, Walter C. On the Phenomena of Dreams and Other Transient
+   Illusions. London: Whittaker, Treacher and Co., 1832.
+
+   De Quincey, Thomas. Confessions of an English Opium-Eater and Other
+   Writings. Ed. Grevel Lindop. New York: Oxford UP, 1985.
+
+   Dickens, Charles. Bleak House. Ed. George Ford and Sylvie Monod. Norton
+   Critical ed. New York: W. W. Norton, 1977.
+
+   ---.A Christmas Carol. Christmas Books. Ed. Ruth Glancy. World's
+   Classics ed. Oxford: Oxford UP, 1988. 1090.
+
+   ---. Dombey and Son. Ed. Alan Horsman. The Clarendon Dickens. Oxford:
+   Clarendon, 1974.
+
+   ---. Great Expectations. Ed. Angus Calder. New York: Penguin, 1965.
+
+   ---. Hard Times. Ed. George Ford and Sylvie Monod. A Norton Critical
+   ed. New York: W. W. Norton, 1966.
+
+   ---. The Letters of Charles Dickens. Ed. Graham Storey, Kathleen
+   Tillotson and Nina Burgis. 6 vols. The Pilgrim ed. Oxford: Clarendon,
+   1988.
+
+   ---. Martin Chuzzlewit. Ed. Margaret Cardwell. The Clarendon Dickens.
+   Oxford: Clarendon, 1982.
+
+   ---. Sketches by Boz. (15 October, 1999).
+
+   ---. The Uncommercial Traveler. (18 Octeober, 1999).
+
+   "Dictionary Dreams." All the Year Round 5.123 (31 Aug., 1861): 549-52.
+
+   "Dreams." Household Words 2.50 (8 March, 1851): 566-72.
+
+   Freud, Sigmund. "Delusions and Dreams in Jensen's Gradiva." The
+   Standard Edition of the Complete Psychological Works of Sigmund Freud.
+   Ed. and trans. James Strachey. Vol. 9 of 24. London: Hogarth, 1959.
+   7-93.
+
+   ---. The Interpretation of Dreams. The Standard Edition of the Complete
+   Psychological Works of Sigmund Freud. Ed. and trans. James Strachey.
+   Vols. 4-5 of 24. London: Hogarth, 1959.
+
+   Grant, Alexander Henley. The Literature and Curiosities of Dreams.
+   London: Chapman and Hall, 1865.
+
+   Hammond, William H. Sleep and Its Derangements. Facsimile of the 1873
+   ed. Da Capo Reprint Series. New York: Da Capo, 1982.
+
+   Hartley, David. Observations on Man: His Frame, His Duty, and His
+   Expectations. 2 vols. Facsimile of the 1749 ed. Gainesville, Fla.:
+   Scholars' Facsimiles and Reprints, 1966.
+
+   Lewes, George Henry. "Dickens in Relation to Criticism." The Dickens
+   Critics. Ed. George H. Ford and Lauriat Lane, Jr. Ithaca: Cornell UP,
+   1961. 54-74.
+
+   Macnish, Robert. The Philosophy of Sleep. 1st American ed. New York: D.
+   Appleton, 1834.
+
+   Newnham, W. Essay on Superstition: Being an Inquiry into the Effects of
+   Physical Influence on the Mind, In the Production of Dreams, Visions,
+   Ghosts, and Other Supernatural Appearances. London: J. Hatchard and
+   Sons, 1830.
+
+   Nocturnal Revels; or, Universal Interpreter of Dreams and Visions.
+   London: Barker and Sons, [n.d.].
+
+   "A Physician's Dreams." All the Year Round 2.31 (26 Nov., 1859):
+   109-13; 2.32 (3 Dec. 1859): 135-40.
+
+   Stoehr, Taylor. Dickens: The Dreamer's Stance. Ithaca: Cornell UP,
+   1965.
+
+   Thomas, Ronald Robert. Dreams of Authority: Freud and the Fictions of
+   the Unconscious. Ithaca: Cornell UP, 1990.
+
+   Home Page | Academic Work |

@@ -1,0 +1,491 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5S5GSHV
+
+   Aller au contenu principal
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5S5GSHV
+
+   [icm-logo-fr.png]
+     * Actualités
+     * Agenda
+     * Espace donateur
+
+   Rechercher
+   (BUTTON) fr
+     * Anglais
+     * Français
+
+   (BUTTON) Faire un don (BUTTON) Menu
+   Institut du Cerveau
+
+     * (BUTTON) Institut
+       (BUTTON) Retour
+       Institut
+       Tout ce qu'il faut savoir de notre institut et son organisation
+          + Qui sommes-nous ?
+            (BUTTON) Retour
+            Qui sommes-nous ?
+               o Notre histoire
+               o Notre raison d'être et nos missions
+               o Nos engagements
+               o Notre modèle
+               o Nos chiffres-clés
+               o Notre approche qualité
+               o Comité des amis de l'Institut du Cerveau
+          + Notre organisation
+            (BUTTON) Retour
+            Notre organisation
+               o Conseil d'administration et ses comités
+               o Comité de direction et ses comités
+          + International
+          + Nos publications officielles
+          + Nos événements
+            (BUTTON) Retour
+            Nos événements
+               o Conférences Les matinales de l'Institut du Cerveau
+               o Conférences Sciences, art et culture
+               o Rencontres Open Brain Bar
+               o Semaine du Cerveau
+               o Symposium du Gender Equity Movement
+               o Marathon vidéoludique Interglitches
+               o Défi connecté Les Foulées du Cortex
+     * (BUTTON) Recherche
+       (BUTTON) Retour
+       Recherche
+       Equipes, domaines, etc. Tout ce qu'il faut savoir sur
+       l'organisation de la recherche
+          + La recherche à l'Institut du Cerveau
+            (BUTTON) Retour
+            La recherche à l'Institut du Cerveau
+               o Organisation de la recherche
+               o Grands projets transversaux
+               o Programme d'appel d'offre Big Brain Theory (BBT)
+               o Qu'est-ce que la recherche fondamentale ?
+               o Qu'est-ce que la recherche translationnelle ?
+          + Domaines
+            (BUTTON) Retour
+            Domaines
+               o Neurobiologie cellulaire et moléculaire
+               o Neurophysiologie intégrative
+               o Neurosciences cognitives
+               o Neurosciences cliniques et translationnelles
+               o Modélisation computationnelle en neurosciences
+          + Equipes
+            (BUTTON) Retour
+            Equipes
+               o Les équipes de recherche de l'Institut du Cerveau
+               o ALZHEIMER-PRIONS : Maladie d'Alzheimer et maladies �
+                 prion (Haïk / Potier)
+               o Aramis : Apprentissage automatique et science des données
+                 pour les maladies du cerveau (Burgos / Colliot )
+               o BEND team : Croyance et prise de decision (Fossati /
+                 Schmidt)
+               o BrainDev : Développement du cerveau (Hassan)
+               o BRIGHT : Hétérogénéité, immunité et thérapie des tumeurs
+                 cérébrales (Bielle / Touat)
+               o CENSOR : Mécanismes cellulaires des processus sensoriels
+                 (Rebola)
+               o CircuitLab : Physiologie cellulaire des microcircuits
+                 corticaux (Bacci)
+               o DecodALS : Causes de la SLA et mécanismes de la
+                 dégénérescence motoneuronale (Boillée)
+               o DreamTeam : Sommeil, rêves et cognition​ (Arnulf /
+                 Oudiette)
+               o EpiC : Épilepsie clinique et expérimentale (Navarro /
+                 Poncer)
+               o FrontLab : le cortex préfrontal au centre des fonctions
+                 cognitives supérieures : de la santé à la maladie (Lévy /
+                 Volle)
+               o GENOVASC team : Maladie cérébrale des petits vaisseaux et
+                 neurodégénérescence (Chabriat / Debette)
+               o GutSense : Physiologie et communication de l’axe
+                 intestin-cerveau (Hadjieconomou)
+               o MBB : Motivation, cerveau et comportement (Daunizeau /
+                 Pessiglione)
+               o MIND : Métabolisme, Immunité et Neurodégénérescence​
+                 (Mochel / Zujovic)
+               o MOSAIC team : Mosaïcisme Génétique dans l'Épilepsie et
+                 les Troubles Neurodéveloppementaux (Baulac)
+               o MOV'IT : Du mouvement à la cognition : études des
+                 troubles moteurs​ (Flamand-Roze / Pouget)
+               o MPP+ : Physiopathologie moléculaire de la maladie de
+                 Parkinson (Corvol / Ravassard)
+               o NeuroCircuits : Circuits neuronaux et dynamique cérébrale
+                 (Karalis)
+               o NeuroGen : Développement et dysfonctionnement cérébral
+                 dans les maladies neurogénétiques (Durr / Humbert)
+               o NERV : Neuroingénierie des systèmes pour modéliser et
+                 interfacer les réseaux cérébraux​ (De Vico Fallani)
+               o NEURXP : Neurochirurgie expérimentale (Karachi / Lau)
+               o NOVA : Interfaces neurovasculaires dans les tumeurs et
+                 malformations vasculaires cérébrales (Huillard / Peyre)
+               o PICNIC Lab : neuropsychologie et neuroimagerie
+                 fonctionnelle (Bartolomeo / Naccache / Sitt)
+               o PreSyn : Physiologie moléculaire de la fonction
+                 présynaptique (Chaire Diane Barrière) (De Juan-Sanz)
+               o Plastic : Laboratoire de Plasticité Cérébrale (Renier)
+               o REGAIN-MS : La réparation dans les pathologies
+                 démyélinisantes : de la biologie à l'application clinique
+                 (Stankoff)
+               o SIBBIL : Navigation, intégration sensori-motrice et
+                 interactions corps cerveau (Wyart)
+               o SocialNeuro : Neurophysiologie de la cognition sociale​
+                 (Sliwa)
+          + Recherche clinique et recherche en santé humaine
+            (BUTTON) Retour
+            Recherche clinique et recherche en santé humaine
+               o Qu'est-ce que la recherche clinique ?
+               o Centre d'Investigation Clinique Neurosciences CIC
+               o Infrastructures de recherche clinique iCRIN
+               o Unité de développement clinique précoce Neurotrials
+               o Plateforme PRISME dédiée à l'étude de la cognition et du
+                 comportement humain
+               o Etudes cliniques - Utilisation de vos données à des fins
+                 de recherche
+     * (BUTTON) Plateformes
+       (BUTTON) Retour
+       Plateformes
+       Au service des équipes de recherche académiques et privées
+          + Les plateformes technologiques de l'Institut du Cerveau
+          + Plateforme de séquençage génomique IGenSeq
+          + Plateforme de neuroimagerie CENIR
+          + Plateforme d'électrophysiologie ePHYS
+          + Plateforme d'études histologique HISTOMICS
+          + Plateforme d'imagerie cellulaire et moléculaire quantitative
+            ICM.QUANT
+          + Plateforme d'ingénierie cellulaire et vectorologie ICV
+          + Plateforme d'informatique biomédicale Data Analysis Core DAC
+          + Plateforme de développement préclinique PhénoParc
+          + Plateforme PRISME dédiée à l'étude de la cognition et du
+            comportement humain
+          + Plateforme de prototypage RnD Unit F.P.Journe Charity Fund
+          + Plateforme de ressources biologiques Banque ADN & cellules
+          + Plateforme Protéomique de l’Institut du Cerveau
+     * (BUTTON) Innovation
+       (BUTTON) Retour
+       Innovation
+       Apporter des innovations aux patientes et patients
+          + L'innovation à l'Institut du Cerveau
+          + Unités d'innovation
+            (BUTTON) Retour
+            Unités d'innovation
+               o Le living lab de l'Institut du Cerveau Care Lab
+               o Développement de nouveaux médicaments Sleeping Beauties
+               o Unité d’innovation en thérapie génique et cellulaire
+                 GENOV
+          + Entrepreneuriat
+            (BUTTON) Retour
+            Entrepreneuriat
+               o Accélérateur de start-up iPEPS
+               o Programme Start-up studio
+               o Fonds de philanthropie NeurAL
+          + Business Unit
+            (BUTTON) Retour
+            Business Unit
+               o Business development
+               o Propriété intellectuelle
+               o Alliances stratégiques
+     * (BUTTON) Education
+       (BUTTON) Retour
+       Education
+       Les formations de l'Institut du Cerveau : un révélateur et vivier
+       de talents
+          + L'enseignement et la formation à l'Institut du Cerveau
+          + Formation continue
+            (BUTTON) Retour
+            Formation continue
+               o Programme de formation pour l'innovation en santé Summer
+                 School Brain to Market
+               o Formations en ligne à l'entreprenariat en santé
+               o Masterclass Cognition
+          + Formation initiale
+          + Olympiades France Brain Bee
+     * (BUTTON) Ressources
+       (BUTTON) Retour
+       Ressources
+       Fiches, vidéos, podcasts... : tout ce qu'il faut savoir sur le
+       cerveau, son fonctionnement, etc.
+          + Fiches maladies
+          + Fonctionnement du cerveau
+            (BUTTON) Retour
+            Fonctionnement du cerveau
+               o Comprendre le cerveau
+               o Fiches fonctions du cerveau
+               o Maladies neurologiques
+               o Troubles psychiatriques
+               o Méthodes d'exploration du cerveau
+          + Lexique
+          + Vidéos
+          + Podcasts
+          + Espace Juniors
+     * (BUTTON) Soutenir
+       (BUTTON) Retour
+       Soutenir
+       Et devenir partenaire des avancées de l'Institut du Cerveau
+          + Pourquoi soutenir l'Institut du Cerveau ?
+            (BUTTON) Retour
+            Pourquoi soutenir l'Institut du Cerveau ?
+               o Dix raisons de soutenir l'Institut du Cerveau
+               o Donner en confiance
+          + Faire un don à l'Institut du Cerveau
+            (BUTTON) Retour
+            Faire un don à l'Institut du Cerveau
+               o Faire un don ponctuel
+               o Faire un don mensuel
+               o Faire un don IFI
+               o Faire un don depuis l'étranger
+               o Accéder à mon espace donateur
+          + Transmettre à l'Institut du Cerveau
+            (BUTTON) Retour
+            Transmettre à l'Institut du Cerveau
+               o Transmettre tout ou partie de son patrimoine
+               o Le legs
+               o L'assurance-vie
+               o La donation
+          + Devenir partenaire ou mécène entreprise
+          + Collecter pour l'Institut du Cerveau
+          + Courir pour l’Institut du Cerveau
+          + Faire une collecte in memoriam
+          + Rejoindre le Cercle des Amis
+          + Ils et elles nous soutiennent
+          + Rester informé
+            (BUTTON) Retour
+            Rester informé
+               o Inscription à la Newsletter
+               o Le magazine de l'Institut du Cerveau Synapse
+     * Actualités
+     * Agenda
+     * Espace donateur
+
+   (BUTTON) Faire un don
+   Rechercher
+   (BUTTON) fr
+     * Anglais
+     * Français
+
+   ( ) 50 €
+   (*) 100 €
+   ( ) 150 €
+   ( ) 220 €
+   ( ) Autre montant ____________________ €
+
+   Soit 34,00€ après déduction fiscale de 66%
+   (BUTTON) Je donne
+   Je fais un don mensuel Je fais un don IFI (BUTTON) Fermer la pop-up de
+   don
+
+   Recherche, Science & Santé
+
+Au coeur du rêve
+
+   Publié le : 01/12/2019 Temps de lecture : 1 min
+   attrape-rêves
+
+    1. Accueil
+    2. Actualités
+    3. Au coeur du rêve
+
+   Retour à la recherche
+
+   Tout le monde rêve… Le Pr Isabelle Arnulf, chef de service du
+   département des pathologies du sommeil à la Pitié-Salpétrière l’a
+   démontré…. Mais à quoi servent les rêves et les cauchemars ? Que nous
+   apprennent-ils sur le cerveau ? Et peut-on les contrôler ?
+
+Quelles sont les fonctions du rêve ?
+
+   Je pense qu’il est impossible de dissocier les fonctions du rêve des
+   fonctions du sommeil.  Contrairement aux idées reçues, nous rêvons tout
+   le temps, même si on ne s’en souvient pas ! Notre pensée et nos images
+   mentales ne s’arrêtent jamais, le sommeil n’est pas un coma. Le rêve
+   est une activité cognitive produite par le cerveau endormi. Les
+   comprendre permettrait de comprendre une partie du travail qui se fait
+   dans nos têtes pendant le sommeil.
+
+   Deux tiers des rêves sont négatifs, une hypothèse est qu’ils nous
+   permettraient de digérer nos émotions négatives.
+
+
+Comment les rêves nous permettent-ils de digérer nos émotions négatives ?
+
+   Au cours du sommeil, il y a un dialogue entre trois zones du cerveau,
+   la région de la mémoire, l’hippocampe, la région des émotions,
+   l’amygdale et le cortex préfrontal médian. Des chercheurs ont mené une
+   expérience intéressante chez des sujets sains. Ils leur ont demandé de
+   regarder des images horribles avant de dormir et ont observé que ces
+   images entrainent l’activation de la région des émotions. Le lendemain
+   matin, les mêmes images leur sont présentées mais, cette fois, elles ne
+   provoquent plus l’activation de l’amygdale. Si la même expérience est
+   réalisée à 8h et à 18h, c’est à dire sans temps de sommeil entre les
+   deux, les régions liées aux émotions s’activent de la même façon.
+
+   Les émotions seraient donc « digérées » pendant la nuit. L’hypothèse
+   est que nous refaisons les expériences négatives pendant la nuit pour
+   les dégrader. Nous coupons en petits morceaux des ressentis émotionnels
+   et des souvenirs et nous associons des choses qui n’ont rien à voir
+   entre elles pour les assimiler. Par exemple, au lieu d’un monstre qui
+   me fait très peur, je vais rêver de ma sœur qui me fait un petit peu
+   peur… Tant que la boucle fonctionne, la désensibilisation à l’émotion
+   se fait. Mais si l’émotion est trop forte, elle vous réveille et c’est
+   à ce moment-là qu’on parle de cauchemar.
+
+   Le mauvais rêve aurait donc des bénéfices et le cauchemar est un échec
+   de ce processus, l’émotion est tellement forte qu’elle réveille la
+   personne et elle ne peut pas être digérée et tant qu’elle n’est pas
+   digérée le cauchemar revient.
+
+
+Les cauchemars récurrents, quelles solutions ?
+
+   Il existe des techniques cognitives très simples pour faire disparaître
+   les cauchemars récurrents. Pour cela, la personne reprend le scénario
+   du cauchemar, imagine une autre fin au moment où le cauchemar dégénère,
+   la visualise et la répète deux fois par jour pendant dix minutes. Au
+   bout de quelques jours, le cauchemar a disparu. Comme si on apprenait
+   au cerveau de ne plus être en « bug », à prendre un autre chemin, grâce
+   à cette propriété qu’à le cerveau de répéter ce qu’il vient
+   d’apprendre. Cette technique de répétition d’images mentales fonctionne
+   en 4 séances.
+
+
+Que peut-on apprendre des rêveurs lucides ?
+
+   Les rêveurs lucides peuvent diriger leurs rêves et nous en informer par
+   un code oculaire, car la seule chose qui peut bouger en sommeil
+   paradoxal, dernière phase du sommeil au cours de laquelle se produisent
+   les rêves dont on se souvient, ce sont les yeux.
+
+   Nous cherchons à élucider l’apprentissage moteur, quand nous apprenons
+   une séquence au piano, au début nous sommes obligés d’y penser pour la
+   réaliser puis au bout d’un certain temps, nous la réalisons de façon
+   automatique, sans y penser, nous automatisons la tâche. Si cette
+   séquence est répétée avant de dormir, le lendemain matin elle est déj�
+   beaucoup plus automatisé que la veille. Quand vous rêvez que vous jouez
+   du piano, la région du cerveau qui bouge les mains est activée et
+   s’allume sur l’IRM. Pendant le sommeil, un certain nombre de circuits
+   se mettent en place pour faire passer les informations d’une zone
+   consciente à une zone automatique.
+
+   Nous avons des patients qui sont des rêveurs lucides professionnels.
+   Ils vont nous aider à comprendre comment le cerveau automatise une
+   séquence gestuelle en la reproduisant pendant le sommeil. Comme ces
+   personnes sont capables de refaire la séquence en rêve, nous pouvons
+   visualiser ce qui se passe dans un cerveau en train d’apprendre une
+   nouvelle chose, et donc nous allons visualiser ce qui se passe dans le
+   cerveau quand une tâche apprise devient automatique. Nous allons suivre
+   dans le cerveau, le mouvement des doigts et les régions activées puis �
+   quel moment cette activité quitte le cortex pour être stockée dans une
+   zone qui gère les actions automatisées. En effet tous les
+   apprentissages moteurs se font pendant le sommeil. Ces rêveurs vont
+   nous permettre de décrypter les mécanismes mis en place par le cerveau.
+
+   D'autres actualités qui pourraient vous intéresser
+   Ne plus penser à rien : vers une signature cérébrale du blanc mental Ne
+   plus penser à rien : vers une signature cérébrale du blanc mental
+   Et si le flux de nos pensées s’interrompait parfois ? Esteban
+   Munoz-Musat, Lionel Naccache, Thomas Andrillon et leurs collègues �
+   l’Institut du Cerveau et à l’Université Monash, à Melbourne, montrent
+   que la sensation de ne penser à rien est bel et...
+   26.12.2025 Recherche, Science & Santé
+   Deux nouvelles certifications pour les plateformes de l’Institut du
+   Cerveau Deux nouvelles certifications pour les plateformes de
+   l’Institut du Cerveau
+   Les plateformes de l’Institut du Cerveau viennent de recevoir deux
+   nouvelles certifications : la certification ISO 9001 pour la plateforme
+   ICM Quant et la certification ISO 20387 pour la Banque ADN & Cellules.
+   14.11.2025 Institutionnel
+   La dépression résistante possède une signature moléculaire spécifique
+   La dépression résistante possède une signature moléculaire spécifique
+   Une étude internationale publiée dans Brain, Behavior, and Immunity
+   révèle que les patients atteints de dépression résistante aux
+   traitements (DRT) présentent un profil biologique nettement distinct de
+   ceux qui répondent aux antidépresseurs. Plus de...
+   31.10.2025 Recherche, Science & Santé
+   La qualité des mitochondries durant le neurodéveloppement est cruciale
+   pour la santé cérébrale La qualité des mitochondries durant le
+   neurodéveloppement est cruciale pour la santé cérébrale
+   Les anomalies à l’origine des maladies neurodégénératives pourraient
+   surgir au cours du développement, c’est-à-dire des décennies avant
+   l’apparition des premiers symptômes… Cette hypothèse gagne du terrain
+   grâce à une nouvelle étude publiée dans...
+   18.10.2025 Recherche, Science & Santé
+   La bibliothèque de Babel Voyager dans le temps par la pensée : un
+   nouveau cas d’hypermnésie autobiographique
+   Se souvenir des événements passés dans leurs moindres détails, les
+   revisiter de manière méthodique et revivre des émotions passées : voil�
+   la particularité des personnes qui présentent une mémoire
+   exceptionnelle de leur propre vie – l’hypermnésie...
+   28.08.2025 Recherche, Science & Santé
+   Troubles du Développement Intellectuel Troubles du Développement
+   Intellectuel (TDI) : le projet « RNU-Splice » reçoit le soutien du
+   mécénat santé des Mutuelles AXA
+   Les Troubles du Développement Intellectuel (TDI) touchent 2 à 3 % de la
+   population et sont caractérisés par des altérations des fonctions
+   cognitives, impactant les apprentissages. Les TDI ont ainsi des
+   conséquences sur les capacités d’adaptation avec...
+   30.01.2025 Soutien
+   (BUTTON) Précédent (BUTTON) Suivant
+   / 6
+   Voir toutes nos actualités
+
+
+    [icm-logo-fr.png]
+    Institut du Cerveau
+    Hôpital Pitié-Salpêtrière
+    47 bd de l'Hôpital, 75013 Paris
+
+     * facebook
+     * linkedin
+     * instagram
+     * youtube
+     * threads
+     * bluesky
+
+   Inscription à la newsletter
+
+   Recevez les dernières avancées scientifiques, découvertes passionnantes
+   et actualités exclusives de l'Institut du Cerveau.
+   Inscription
+
+   Nous soutenir Faire un don
+
+     * Informations pratiques
+          + Comment venir à l'Institut du Cerveau ?
+          + Comment nous contacter ?
+          + Foire aux questions
+     * Carrières
+          + Rejoindre l'Institut du Cerveau
+          + Opportunités d’accueil pour les scientifiques étrangers
+          + Rejoindre la communauté des Alumni de l'Institut du Cerveau
+          + Offres d'emploi
+     * Espaces professionnels
+          + Espace presse
+          + Location de salles
+
+     * Nos partenaires publics
+          + Assistance Publique des Hopitaux de Paris
+            assistance publique des hopitaux de Paris
+          + CNRS
+            Logo CNRS
+          + Inserm
+            Logo Inserm
+          + Sorbonne université
+            Logo Sorbonne Université
+     * Nos soutiens institutionnels
+          + Agence national de la recherche
+            Logo ANR
+          + France 2030
+            Logo France 2030
+          + Investissements d'avenir
+            Logo investissements d'avenir
+     * Nos réseaux
+          + IHU France
+            Logo IHU France
+          + Réseau des Instituts Carnot
+            Logo Instituts Carnot
+
+     * Consultations médicales
+     * Mentions légales
+     * Politique de confidentialité
+     * Plan du site

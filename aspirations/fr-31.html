@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.4",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://institut-sommeil-vigilance.org/xmlrpc.php" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>A quoi servent les rêves ? - INSV Institut National du Sommeil et de la Vigilance</title>
+<link data-rocket-preload as="style" data-wpr-hosted-gf-parameters="family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&ver=1.0.0&family=Roboto%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500&ver=1.0.0&display=swap" href="https://institut-sommeil-vigilance.org/wp-content/cache/fonts/1/google-fonts/css/d/4/4/d3fb17c7652b62034e04b58904fe4.css" rel="preload">
+<link data-wpr-hosted-gf-parameters="family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&ver=1.0.0&family=Roboto%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500&ver=1.0.0&display=swap" href="https://institut-sommeil-vigilance.org/wp-content/cache/fonts/1/google-fonts/css/d/4/4/d3fb17c7652b62034e04b58904fe4.css" media="print" onload="this.media=&#039;all&#039;" rel="stylesheet">
+<noscript data-wpr-hosted-gf-parameters=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&#038;ver=1.0.0&#038;family=Roboto%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500&#038;ver=1.0.0&#038;display=swap"></noscript>
+	<meta name="description" content="Nous rêvons 1h30 toutes les nuits en sommeil paradoxal. Notre souvenir du rêve dépend essentiellement du fait que l&#039;on se soit réveillé pendant ou juste après." />
+	<link rel="canonical" href="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="A quoi servent les rêves ? - INSV Institut National du Sommeil et de la Vigilance" />
+	<meta property="og:description" content="Nous rêvons 1h30 toutes les nuits en sommeil paradoxal. Notre souvenir du rêve dépend essentiellement du fait que l&#039;on se soit réveillé pendant ou juste après." />
+	<meta property="og:url" content="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" />
+	<meta property="og:site_name" content="INSV Institut National du Sommeil et de la Vigilance" />
+	<meta property="article:modified_time" content="2022-06-20T08:41:50+00:00" />
+	<meta property="og:image" content="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1708" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Durée de lecture estimée" />
+	<meta name="twitter:data1" content="6 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/","url":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/","name":"A quoi servent les rêves ? - INSV Institut National du Sommeil et de la Vigilance","isPartOf":{"@id":"https://institut-sommeil-vigilance.org/#website"},"primaryImageOfPage":{"@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/#primaryimage"},"image":{"@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/#primaryimage"},"thumbnailUrl":"https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled.jpg","datePublished":"2022-06-14T12:56:16+00:00","dateModified":"2022-06-20T08:41:50+00:00","description":"Nous rêvons 1h30 toutes les nuits en sommeil paradoxal. Notre souvenir du rêve dépend essentiellement du fait que l'on se soit réveillé pendant ou juste après.","breadcrumb":{"@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/#primaryimage","url":"https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled.jpg","contentUrl":"https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled.jpg","width":2560,"height":1708,"caption":"Little boy with aerostat in the field"},{"@type":"BreadcrumbList","@id":"https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://institut-sommeil-vigilance.org/"},{"@type":"ListItem","position":2,"name":"A quoi servent les rêves ?"}]},{"@type":"WebSite","@id":"https://institut-sommeil-vigilance.org/#website","url":"https://institut-sommeil-vigilance.org/","name":"INSV Institut National du Sommeil et de la Vigilance","description":"Institut National du Sommeil et de la Vigilance","publisher":{"@id":"https://institut-sommeil-vigilance.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://institut-sommeil-vigilance.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://institut-sommeil-vigilance.org/#organization","name":"INSV Institut National du Sommeil et de la Vigilance","url":"https://institut-sommeil-vigilance.org/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://institut-sommeil-vigilance.org/#/schema/logo/image/","url":"https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg","contentUrl":"https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg","width":500,"height":201,"caption":"INSV Institut National du Sommeil et de la Vigilance"},"image":{"@id":"https://institut-sommeil-vigilance.org/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="INSV Institut National du Sommeil et de la Vigilance &raquo; Flux" href="https://institut-sommeil-vigilance.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="INSV Institut National du Sommeil et de la Vigilance &raquo; Flux des commentaires" href="https://institut-sommeil-vigilance.org/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://institut-sommeil-vigilance.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finstitut-sommeil-vigilance.org%2Fa-quoi-servent-les-reves%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://institut-sommeil-vigilance.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finstitut-sommeil-vigilance.org%2Fa-quoi-servent-les-reves%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link data-minify="1" rel='stylesheet' id='mega-submenu-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/mega-submenu/public/css/style.css?ver=1766421864' media='all' />
+<link data-minify="1" rel='stylesheet' id='mega-submenu-woocommerce-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/mega-submenu/public/css/woocommerce.css?ver=1766421864' media='all' />
+<link rel='stylesheet' id='wpuf-layout1-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/frontend-form/layout1.css?ver=4.2.3' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpuf-frontend-forms-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/background-css/1/institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/css/frontend-forms.css?ver=1766421864&wpr_t=1767377276' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpuf-sweetalert2-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/vendor/sweetalert2/sweetalert2.css?ver=1766421864' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpuf-jquery-ui-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/background-css/1/institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/css/jquery-ui-1.9.1.custom.css?ver=1766421864&wpr_t=1767377276' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://institut-sommeil-vigilance.org/wp-content/themes/katen/css/bootstrap.min.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='font-awesome-6-css' href='https://institut-sommeil-vigilance.org/wp-content/themes/katen/css/fontawesome.min.css?ver=6.9' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-brands-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/css/brands.min.css?ver=1766421864' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-solid-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/css/solid.min.css?ver=1766421864' media='all' />
+<link data-minify="1" rel='stylesheet' id='simple-line-icons-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/css/simple-line-icons.css?ver=1766421864' media='all' />
+<link data-minify="1" rel='stylesheet' id='slick-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/background-css/1/institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/css/slick.css?ver=1766421864&wpr_t=1767377276' media='all' />
+<link data-minify="1" rel='stylesheet' id='katen-default-style-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/css/style.css?ver=1766421864' media='all' />
+<link rel='stylesheet' id='katen-style-css' href='https://institut-sommeil-vigilance.org/wp-content/themes/katen/style.css?ver=6.9' media='all' />
+
+
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1766421903' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='elementor-post-2407-css' href='https://institut-sommeil-vigilance.org/wp-content/uploads/elementor/css/post-2407.css?ver=1766413298' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-5-all-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1766421903' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-blockquote-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1766421903' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-share-buttons-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.33.2' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1766421903' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-posts-css' href='https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='elementor-post-9775-css' href='https://institut-sommeil-vigilance.org/wp-content/uploads/elementor/css/post-9775.css?ver=1766413706' media='all' />
+<link rel='stylesheet' id='katen-theme-color-css' href='https://institut-sommeil-vigilance.org/wp-content/themes/katen/css/custom_script.css?ver=6.9' media='all' />
+<style id='katen-theme-color-inline-css'>
+
+            ::selection {
+              color: #FFF;
+              background: #77b61b;
+              /* WebKit/Blink Browsers */
+            }
+            
+            ::-moz-selection {
+              color: #FFF;
+              background: #77b61b;
+              /* Gecko Browsers */
+            }
+            .slick-prev:hover,
+            .slick-next:hover
+            {
+              background: #77b61b;
+            }
+
+            .navbar-nav li .nav-link.active,
+            .contact-item .icon,
+            .slick-dots li.slick-active button:before,
+            .woocommerce ul.products li.product .onsale,
+            .woocommerce span.onsale,
+            .reading-bar
+            {
+              background: #77b61b;
+              background: -webkit-linear-gradient(left, #77b61b 0%, #008394 100%);
+              background: linear-gradient(to right, #77b61b 0%, #008394 100%);
+            }
+
+            .wc-block-grid .wc-block-grid__product-onsale
+            {
+              background: #77b61b !important;
+              background: -webkit-linear-gradient(left, #77b61b 0%, #008394 100%) !important;
+              background: linear-gradient(to right, #77b61b 0%, #008394 100%) !important;
+            }
+
+            .post .category-badge,
+            .btn-default, .wp-block-search button[type=submit], 
+            .widget .searchform input[type=submit], 
+            .comment-reply-link, 
+            .post-password-form input[type=submit], 
+            input[type=submit],
+            .nav-pills .nav-link.active, 
+            .nav-pills .show > .nav-link,
+            .woocommerce #respond input#submit, 
+            .woocommerce a.button, 
+            .woocommerce button.button, 
+            .woocommerce input.button,
+            .woocommerce #respond input#submit:hover, 
+            .woocommerce a.button:hover, 
+            .woocommerce button.button:hover, 
+            .woocommerce input.button:hover,
+            .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+            .wc-block-components-form .wc-block-components-text-input input:-webkit-autofill + label,
+            .wc-block-components-form .wc-block-components-text-input.is-active label,
+            .wc-block-components-text-input input:-webkit-autofill + label,
+            .wc-block-components-text-input.is-active label,
+            body:not(.woocommerce-block-theme-has-button-styles) .wc-block-components-button:not(.is-link),
+            .wp-block-button__link 
+            {
+              background: #77b61b;
+              background: -webkit-linear-gradient(left, #77b61b 0%, #008394 51%, #77b61b 100%);
+              background: linear-gradient(to right, #77b61b 0%, #008394 51%, #77b61b 100%);
+              background-size: 200% auto;
+            }
+
+            .icon-button,
+            .page-item .page-numbers.current,
+            .page-numbers:hover,
+            .comments-pagination .page-numbers.current,
+            .page-links li,
+            .page-links li:hover,
+            .page-links a li:hover,
+            .woocommerce nav.woocommerce-pagination ul li a:focus, 
+            .woocommerce nav.woocommerce-pagination ul li a:hover, 
+            .woocommerce nav.woocommerce-pagination ul li span.current,
+            .woocommerce .widget_product_search button.wp-element-button,
+            .woocommerce .woocommerce-product-search button[type=submit]:not(:disabled),
+            .woocommerce .woocommerce-product-search button:not(:disabled)
+            {
+              background: #008394;
+              background: -webkit-linear-gradient(bottom, #008394 0%, #77b61b 51%, #008394 100%);
+              background: linear-gradient(to top, #008394 0%, #77b61b 51%, #008394 100%);
+              background-size: auto 200%;
+            }
+
+            .post .post-format,
+            .post .post-format-sm,
+            .post.post-list-sm .thumb .number,
+            .post.post-list-sm.counter:before
+            {
+              background: #77b61b;
+              background: -webkit-linear-gradient(bottom, #77b61b 0%, #008394 100%);
+              background: linear-gradient(to top, #77b61b 0%, #008394 100%);
+            }
+
+            .book {
+              --color: #77b61b;
+            }
+
+            a,
+            header.dark .social-icons li a:hover,
+            .text-logo .dot,
+            .dropdown-item:focus, .dropdown-item:hover,
+            .dropdown-item.active, .dropdown-item:active,
+            .canvas-menu .vertical-menu li.current-menu-item a,
+            .canvas-menu .vertical-menu li .switch,
+            .post .post-title a:hover,
+            .post .meta a:hover,
+            .post .post-bottom .more-button a:hover,
+            .about-author .details h4.name a:hover,
+            .comments li.comment .details h4.name a:hover,
+            .comments li.trackback .details h4.name a:hover,
+            .comments li.pingback .details h4.name a:hover,
+            .widget ul.list li a:before,
+            .widget ul.list li a:hover,
+            .tags a:hover,
+            .tagcloud a:hover,
+            .wp-block-tag-cloud a:hover,
+            .btn-simple:hover,
+            .btn-light:hover,
+            .breadcrumb li a:hover,
+            #return-to-top:hover,
+            .social-icons a:hover,
+            .slick-custom-buttons:hover,
+            .widget ul li a:hover,
+            .widget_categories ul li a:before,
+            .widget_archive ul li a:before,
+            .widget_meta ul li a:before,
+            .widget_pages ul li a:before,
+            .widget_recent_entries ul li a:before,
+            .widget_nav_menu ul li a:before,
+            .widget_block ul li a:before,
+            .wp-block-calendar tfoot a,
+            .wp-block-archives-list li a:hover,
+            .wp-block-archives-list li a:before,
+            .woocommerce div.product p.price, 
+            .woocommerce div.product span.price,
+            .woocommerce-info::before,
+            .woocommerce .woocommerce-MyAccount-navigation ul li a:hover,
+            body.dark .post .post-title a:hover,
+            body.dark .widget ul li a:hover,
+            body.dark .social-icons a:hover
+            {
+                color: #77b61b;
+            }
+
+            {
+                color: #77b61b !important;
+            }
+
+            .post .meta li:after,
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-handle
+            {
+              background-color: #77b61b;
+            }
+
+            .tags a:hover,
+            .tagcloud a:hover,
+            .wp-block-tag-cloud a:hover,
+            .btn-simple:hover,
+            .form-control:focus, 
+            .wp-block-search input[type=search]:focus, 
+            .widget .searchform input[type=text]:focus, 
+            .post-password-form input[type=password]:focus, 
+            .comment-form-url input:focus,
+            .comment-form-email input:focus,
+            .comment-form-author input:focus,
+            .comment-form-comment textarea:focus,
+            #return-to-top:hover,
+            .slick-custom-buttons:hover,
+            body.dark #return-to-top:hover,
+            body.dark .btn-simple:hover,
+            body.dark .tags a:hover, 
+            body.dark .tagcloud a:hover, 
+            body.dark .wp-block-tag-cloud a:hover,
+            body.dark .slick-custom-buttons:hover
+            {
+              border-color: #77b61b;
+            }
+            
+            blockquote,
+            .wp-block-quote,
+            .wp-block-quote.is-large, .wp-block-quote.is-style-large
+            {
+              border-left-color: #77b61b;
+            }
+
+            .wp-block-quote.has-text-align-right 
+            {
+              border-right-color: #77b61b;
+            }
+
+            .woocommerce-error, .woocommerce-info, .woocommerce-message
+            {
+              border-top-color: #77b61b;
+            }
+
+            .lds-dual-ring:after {
+              border-color: #77b61b transparent #77b61b transparent;
+            }
+            
+
+            .slick-next:hover:before, .slick-next:focus:before, .slick-prev:hover:before, .slick-prev:focus:before {
+                color: #008394;
+            }
+          
+/*# sourceURL=katen-theme-color-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1766421903' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1766421903' media='all' />
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
+<script id="mega-submenu-js-extra">
+var msm_mega_submenu = {"data":{"submenu_items_position_relative":0,"mobile_menu_trigger_click_bellow":767}};
+//# sourceURL=mega-submenu-js-extra
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/mega-submenu/public/js/msm-main.min.js?ver=1.3.2" id="mega-submenu-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" id="jquery-ui-datepicker-js-after">window.addEventListener('DOMContentLoaded', function() {
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+});</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend-pro/assets/js/jquery-ui-timepicker-addon.js?ver=1766421864" id="jquery-ui-timepicker-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/plupload/moxie.min.js?ver=1.3.5.1" id="moxiejs-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/plupload/plupload.min.js?ver=2.1.9" id="plupload-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="rocketlazyloadscript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script type="rocketlazyloadscript" id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-12-10 11:15:06+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js" data-rocket-defer defer></script>
+<script id="plupload-handlers-js-extra">
+var pluploadL10n = {"queue_limit_exceeded":"Vous avez tent\u00e9 de t\u00e9l\u00e9verser trop de fichiers \u00e0 la fois.","file_exceeds_size_limit":"%s d\u00e9passe la limite de t\u00e9l\u00e9versement de ce site.","zero_byte_file":"Le fichier est vide. Veuillez en essayer un autre.","invalid_filetype":"Ce fichier ne peut pas \u00eatre trait\u00e9 par le serveur web.","not_an_image":"Ce fichier n\u2019est pas une image. Veuillez en t\u00e9l\u00e9verser un autre.","image_memory_exceeded":"M\u00e9moire d\u00e9pass\u00e9e. Veuillez r\u00e9essayer avec un fichier plus petit.","image_dimensions_exceeded":"Ce fichier est plus grand que la taille maximale. Veuillez en t\u00e9l\u00e9verser un autre.","default_error":"Une erreur s\u2019est produite lors du t\u00e9l\u00e9versement. Veuillez r\u00e9essayer ult\u00e9rieurement.","missing_upload_url":"Il y a une erreur de configuration. Veuillez contacter l\u2019administrateur ou l\u2019administratrice de votre serveur.","upload_limit_exceeded":"Vous ne pouvez t\u00e9l\u00e9verser qu\u2019un fichier.","http_error":"Le serveur a renvoy\u00e9 une r\u00e9ponse inattendue. Cependant, le fichier a peut-\u00eatre \u00e9t\u00e9 bien t\u00e9l\u00e9vers\u00e9. Veuillez v\u00e9rifier dans la m\u00e9diath\u00e8que ou actualiser la page.","http_error_image":"Le serveur ne peut pas traiter l\u2019image. Cela peut se produire si le serveur est occup\u00e9 ou ne dispose pas de suffisamment de ressources pour terminer la t\u00e2che. T\u00e9l\u00e9verser une image plus petite peut aider. La taille maximale sugg\u00e9r\u00e9e est de 2560 pixels.","upload_failed":"Le t\u00e9l\u00e9versement a \u00e9chou\u00e9.","big_upload_failed":"Veuillez essayer de t\u00e9l\u00e9verser ce fichier \u00e0 l\u2019aide de l\u2019%1$soutil de t\u00e9l\u00e9versement%2$s.","big_upload_queued":"%s d\u00e9passe la limite de t\u00e9l\u00e9versement pour l\u2019outil de t\u00e9l\u00e9versement multiple utilis\u00e9 avec votre navigateur.","io_error":"Erreur I/O (entr\u00e9es-sorties).","security_error":"Erreur de s\u00e9curit\u00e9.","file_cancelled":"Fichier annul\u00e9.","upload_stopped":"T\u00e9l\u00e9versement stopp\u00e9.","dismiss":"Ignorer","crunching":"En cours de traitement\u2026","deleted":"d\u00e9plac\u00e9 dans la corbeille.","error_uploading":"\u00ab\u00a0%s\u00a0\u00bb n\u2019a pas pu \u00eatre t\u00e9l\u00e9vers\u00e9.","unsupported_image":"Cette image ne peut pas \u00eatre affich\u00e9e dans un navigateur. Pour un meilleur r\u00e9sultat, convertissez-la en JPEG avant de la t\u00e9l\u00e9verser.","noneditable_image":"Le serveur web ne peut pas g\u00e9n\u00e9rer de tailles d\u2018image responsive pour cette image. Convertissez-la en JPEG ou PNG avant de la t\u00e9l\u00e9verser.","file_url_copied":"L\u2019URL du fichier a \u00e9t\u00e9 copi\u00e9e dans votre presse-papier"};
+//# sourceURL=plupload-handlers-js-extra
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/plupload/handlers.min.js?ver=6.9" id="plupload-handlers-js" data-rocket-defer defer></script>
+
+<!-- Extrait de code de la balise Google (gtag.js) ajouté par Site Kit -->
+<!-- Extrait Google Analytics ajouté par Site Kit -->
+<script type="rocketlazyloadscript" data-rocket-src="https://www.googletagmanager.com/gtag/js?id=GT-T9WGRPP" id="google_gtagjs-js" async></script>
+<script type="rocketlazyloadscript" id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["institut-sommeil-vigilance.org"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-T9WGRPP");
+//# sourceURL=google_gtagjs-js-after
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.33.2" id="font-awesome-4-shim-js" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://institut-sommeil-vigilance.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://institut-sommeil-vigilance.org/wp-json/wp/v2/pages/9775" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://institut-sommeil-vigilance.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://institut-sommeil-vigilance.org/?p=9775' />
+<meta name="generator" content="Redux 4.5.9" />
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script type="rocketlazyloadscript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-12648785-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+	<meta name="generator" content="Site Kit by Google 1.166.0" />        <style>
+
+        </style>
+        
+<!-- Balises Meta Google AdSense ajoutées par Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Fin des balises Meta End Google AdSense ajoutées par Site Kit -->
+<meta name="generator" content="Elementor 3.33.2; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/cropped-LOGO-INSV-SOMMEIL-FB-32x32.webp" sizes="32x32" />
+<link rel="icon" href="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/cropped-LOGO-INSV-SOMMEIL-FB-192x192.webp" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/cropped-LOGO-INSV-SOMMEIL-FB-180x180.webp" />
+<meta name="msapplication-TileImage" content="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/cropped-LOGO-INSV-SOMMEIL-FB-270x270.webp" />
+<style id="kirki-inline-styles">header{background:#FFF;background-color:#FFF;background-repeat:repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}header:after{background-color:rgba(255, 255, 255, 0);}.single-post .main-content{margin-top:60px;}.single-cover:after{background-color:rgba(32, 54, 86, 0.6);}.main-content{margin-top:60px;}.author-page.about-author{margin-top:0px;margin-bottom:0px;}.page-header{background:#F1F8FF;background-color:#F1F8FF;background-repeat:repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-header:after{background-color:rgba(255, 255, 255, 0);}.page-header h1{color:#203656;}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://institut-sommeil-vigilance.org/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='wp-block-social-links-inline-css'>
+.wp-block-social-links{background:none;box-sizing:border-box;margin-left:0;padding-left:0;padding-right:0;text-indent:0}.wp-block-social-links .wp-social-link a,.wp-block-social-links .wp-social-link a:hover{border-bottom:0;box-shadow:none;text-decoration:none}.wp-block-social-links .wp-social-link svg{height:1em;width:1em}.wp-block-social-links .wp-social-link span:not(.screen-reader-text){font-size:.65em;margin-left:.5em;margin-right:.5em}.wp-block-social-links.has-small-icon-size{font-size:16px}.wp-block-social-links,.wp-block-social-links.has-normal-icon-size{font-size:24px}.wp-block-social-links.has-large-icon-size{font-size:36px}.wp-block-social-links.has-huge-icon-size{font-size:48px}.wp-block-social-links.aligncenter{display:flex;justify-content:center}.wp-block-social-links.alignright{justify-content:flex-end}.wp-block-social-link{border-radius:9999px;display:block}@media not (prefers-reduced-motion){.wp-block-social-link{transition:transform .1s ease}}.wp-block-social-link{height:auto}.wp-block-social-link a{align-items:center;display:flex;line-height:0}.wp-block-social-link:hover{transform:scale(1.1)}.wp-block-social-links .wp-block-social-link.wp-social-link{display:inline-block;margin:0;padding:0}.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor svg,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:active,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:hover,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:visited{color:currentColor;fill:currentColor}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link{background-color:#f0f0f0;color:#444}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-amazon{background-color:#f90;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-bandcamp{background-color:#1ea0c3;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-behance{background-color:#0757fe;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-bluesky{background-color:#0a7aff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-codepen{background-color:#1e1f26;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-deviantart{background-color:#02e49b;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-discord{background-color:#5865f2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-dribbble{background-color:#e94c89;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-dropbox{background-color:#4280ff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-etsy{background-color:#f45800;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-facebook{background-color:#0866ff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-fivehundredpx{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-flickr{background-color:#0461dd;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-foursquare{background-color:#e65678;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-github{background-color:#24292d;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-goodreads{background-color:#eceadd;color:#382110}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-google{background-color:#ea4434;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-gravatar{background-color:#1d4fc4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-instagram{background-color:#f00075;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-lastfm{background-color:#e21b24;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-linkedin{background-color:#0d66c2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-mastodon{background-color:#3288d4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-medium{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-meetup{background-color:#f6405f;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-patreon{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-pinterest{background-color:#e60122;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-pocket{background-color:#ef4155;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-reddit{background-color:#ff4500;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-skype{background-color:#0478d7;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-snapchat{background-color:#fefc00;color:#fff;stroke:#000}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-soundcloud{background-color:#ff5600;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-spotify{background-color:#1bd760;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-telegram{background-color:#2aabee;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-threads{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-tiktok{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-tumblr{background-color:#011835;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-twitch{background-color:#6440a4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-twitter{background-color:#1da1f2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-vimeo{background-color:#1eb7ea;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-vk{background-color:#4680c2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-wordpress{background-color:#3499cd;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-whatsapp{background-color:#25d366;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-x{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-yelp{background-color:#d32422;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-youtube{background-color:red;color:#fff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link{background:none}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link svg{height:1.25em;width:1.25em}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-amazon{color:#f90}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-bandcamp{color:#1ea0c3}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-behance{color:#0757fe}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-bluesky{color:#0a7aff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-codepen{color:#1e1f26}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-deviantart{color:#02e49b}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-discord{color:#5865f2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-dribbble{color:#e94c89}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-dropbox{color:#4280ff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-etsy{color:#f45800}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-facebook{color:#0866ff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-fivehundredpx{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-flickr{color:#0461dd}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-foursquare{color:#e65678}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-github{color:#24292d}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-goodreads{color:#382110}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-google{color:#ea4434}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-gravatar{color:#1d4fc4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-instagram{color:#f00075}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-lastfm{color:#e21b24}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-linkedin{color:#0d66c2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-mastodon{color:#3288d4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-medium{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-meetup{color:#f6405f}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-patreon{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-pinterest{color:#e60122}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-pocket{color:#ef4155}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-reddit{color:#ff4500}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-skype{color:#0478d7}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-snapchat{color:#fff;stroke:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-soundcloud{color:#ff5600}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-spotify{color:#1bd760}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-telegram{color:#2aabee}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-threads{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-tiktok{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-tumblr{color:#011835}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-twitch{color:#6440a4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-twitter{color:#1da1f2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-vimeo{color:#1eb7ea}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-vk{color:#4680c2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-whatsapp{color:#25d366}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-wordpress{color:#3499cd}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-x{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-yelp{color:#d32422}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-youtube{color:red}.wp-block-social-links.is-style-pill-shape .wp-social-link{width:auto}:root :where(.wp-block-social-links .wp-social-link a){padding:.25em}:root :where(.wp-block-social-links.is-style-logos-only .wp-social-link a){padding:0}:root :where(.wp-block-social-links.is-style-pill-shape .wp-social-link a){padding-left:.6666666667em;padding-right:.6666666667em}.wp-block-social-links:not(.has-icon-color):not(.has-icon-background-color) .wp-social-link-snapchat .wp-block-social-link-label{color:#000}
+/*# sourceURL=https://institut-sommeil-vigilance.org/wp-includes/blocks/social-links/style.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-container-core-social-links-is-layout-16018d1d{justify-content:center;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<link rel='stylesheet' id='redux-custom-fonts-css' href='//institut-sommeil-vigilance.org/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1737388860' media='all' />
+<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">body .wpuf-loading{--wpr-bg-7a476b5a-da0e-4df0-8fd6-0f58e35249bd: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif');}body .wpuf-coupon-info-wrap .wpuf-coupon-field-spinner{--wpr-bg-e8be0f9f-9025-4c2a-bcf9-96cec744f97c: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif');}.ui-widget-content{--wpr-bg-62e130ee-f16e-4a52-b25c-b0b8976bd64a: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_flat_75_ffffff_40x100.png');}.ui-widget-header{--wpr-bg-aba47eae-182e-4369-85c3-a32650bf33a7: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_diagonals-small_75_cccccc_40x40.png');}.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{--wpr-bg-8c7ad043-be0f-4a3e-8b70-6721bc2ec502: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_glass_75_e6e6e6_1x400.png');}.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{--wpr-bg-c4a3d045-5c5d-42d4-8e66-28fac44647d5: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_glass_75_dadada_1x400.png');}.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{--wpr-bg-7c018812-9861-4ba1-875e-a0366b0cf8e7: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_glass_65_ffffff_1x400.png');}.ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight{--wpr-bg-260f9d16-4a0f-490a-8f13-6a53273395c1: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_glass_55_fbf9ee_1x400.png');}.ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error{--wpr-bg-7bc2ee4c-41cc-4170-8e18-5466377ac4d2: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_glass_95_fef1ec_1x400.png');}.ui-widget-overlay{--wpr-bg-ef88fc4f-ffac-45a8-953e-f83e106e2e3d: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_flat_0_ffffff_40x100.png');}.ui-widget-shadow{--wpr-bg-1d3d0f9c-d4e6-4e47-8943-aeb7e54f35b2: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-bg_flat_0_aaaaaa_40x100.png');}.ui-icon{--wpr-bg-7178644e-3aa4-41de-ad12-141f33b3c0ec: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_222222_256x240.png');}.ui-widget-content .ui-icon{--wpr-bg-70333c51-fc0f-4e6f-9dab-b02857c4cae5: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_222222_256x240.png');}.ui-widget-header .ui-icon{--wpr-bg-ecd3cf14-706e-4bf3-9d3a-60035f331ae9: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_222222_256x240.png');}.ui-state-default .ui-icon{--wpr-bg-69abf0c6-e829-4745-badd-0b8c561fd4bd: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_888888_256x240.png');}.ui-state-hover .ui-icon,.ui-state-focus .ui-icon{--wpr-bg-b8de58b7-ed7d-46c1-b2eb-1e643e7f4b53: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_454545_256x240.png');}.ui-state-active .ui-icon{--wpr-bg-00f708a7-c1b2-4826-9fa6-02afdceb1d26: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_454545_256x240.png');}.ui-state-highlight .ui-icon{--wpr-bg-50191baa-1e5f-40c3-94b1-0d800029810f: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_2e83ff_256x240.png');}.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{--wpr-bg-b8b7a56a-b344-4a7e-a694-ac35ab2f4316: url('https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/css/images/ui-icons_cd0a0a_256x240.png');}.slick-loading .slick-list{--wpr-bg-b6d2780b-aea5-45ff-aee6-a1b5c03e10c8: url('https://institut-sommeil-vigilance.org/wp-content/themes/katen/images/ajax-loader.gif');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":"body .wpuf-loading","style":"body .wpuf-loading{--wpr-bg-7a476b5a-da0e-4df0-8fd6-0f58e35249bd: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/images\/wpspin_light.gif');}","hash":"7a476b5a-da0e-4df0-8fd6-0f58e35249bd","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/images\/wpspin_light.gif"},{"selector":"body .wpuf-coupon-info-wrap .wpuf-coupon-field-spinner","style":"body .wpuf-coupon-info-wrap .wpuf-coupon-field-spinner{--wpr-bg-e8be0f9f-9025-4c2a-bcf9-96cec744f97c: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/images\/wpspin_light.gif');}","hash":"e8be0f9f-9025-4c2a-bcf9-96cec744f97c","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/images\/wpspin_light.gif"},{"selector":".ui-widget-content","style":".ui-widget-content{--wpr-bg-62e130ee-f16e-4a52-b25c-b0b8976bd64a: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_75_ffffff_40x100.png');}","hash":"62e130ee-f16e-4a52-b25c-b0b8976bd64a","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_75_ffffff_40x100.png"},{"selector":".ui-widget-header","style":".ui-widget-header{--wpr-bg-aba47eae-182e-4369-85c3-a32650bf33a7: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_diagonals-small_75_cccccc_40x40.png');}","hash":"aba47eae-182e-4369-85c3-a32650bf33a7","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_diagonals-small_75_cccccc_40x40.png"},{"selector":".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default","style":".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{--wpr-bg-8c7ad043-be0f-4a3e-8b70-6721bc2ec502: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_75_e6e6e6_1x400.png');}","hash":"8c7ad043-be0f-4a3e-8b70-6721bc2ec502","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_75_e6e6e6_1x400.png"},{"selector":".ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus","style":".ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{--wpr-bg-c4a3d045-5c5d-42d4-8e66-28fac44647d5: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_75_dadada_1x400.png');}","hash":"c4a3d045-5c5d-42d4-8e66-28fac44647d5","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_75_dadada_1x400.png"},{"selector":".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active","style":".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{--wpr-bg-7c018812-9861-4ba1-875e-a0366b0cf8e7: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_65_ffffff_1x400.png');}","hash":"7c018812-9861-4ba1-875e-a0366b0cf8e7","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_65_ffffff_1x400.png"},{"selector":".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight","style":".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight{--wpr-bg-260f9d16-4a0f-490a-8f13-6a53273395c1: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_55_fbf9ee_1x400.png');}","hash":"260f9d16-4a0f-490a-8f13-6a53273395c1","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_55_fbf9ee_1x400.png"},{"selector":".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error","style":".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error{--wpr-bg-7bc2ee4c-41cc-4170-8e18-5466377ac4d2: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_95_fef1ec_1x400.png');}","hash":"7bc2ee4c-41cc-4170-8e18-5466377ac4d2","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_glass_95_fef1ec_1x400.png"},{"selector":".ui-widget-overlay","style":".ui-widget-overlay{--wpr-bg-ef88fc4f-ffac-45a8-953e-f83e106e2e3d: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_0_ffffff_40x100.png');}","hash":"ef88fc4f-ffac-45a8-953e-f83e106e2e3d","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_0_ffffff_40x100.png"},{"selector":".ui-widget-shadow","style":".ui-widget-shadow{--wpr-bg-1d3d0f9c-d4e6-4e47-8943-aeb7e54f35b2: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_0_aaaaaa_40x100.png');}","hash":"1d3d0f9c-d4e6-4e47-8943-aeb7e54f35b2","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-bg_flat_0_aaaaaa_40x100.png"},{"selector":".ui-icon","style":".ui-icon{--wpr-bg-7178644e-3aa4-41de-ad12-141f33b3c0ec: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png');}","hash":"7178644e-3aa4-41de-ad12-141f33b3c0ec","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png"},{"selector":".ui-widget-content .ui-icon","style":".ui-widget-content .ui-icon{--wpr-bg-70333c51-fc0f-4e6f-9dab-b02857c4cae5: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png');}","hash":"70333c51-fc0f-4e6f-9dab-b02857c4cae5","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png"},{"selector":".ui-widget-header .ui-icon","style":".ui-widget-header .ui-icon{--wpr-bg-ecd3cf14-706e-4bf3-9d3a-60035f331ae9: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png');}","hash":"ecd3cf14-706e-4bf3-9d3a-60035f331ae9","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_222222_256x240.png"},{"selector":".ui-state-default .ui-icon","style":".ui-state-default .ui-icon{--wpr-bg-69abf0c6-e829-4745-badd-0b8c561fd4bd: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_888888_256x240.png');}","hash":"69abf0c6-e829-4745-badd-0b8c561fd4bd","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_888888_256x240.png"},{"selector":".ui-state-hover .ui-icon,.ui-state-focus .ui-icon","style":".ui-state-hover .ui-icon,.ui-state-focus .ui-icon{--wpr-bg-b8de58b7-ed7d-46c1-b2eb-1e643e7f4b53: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_454545_256x240.png');}","hash":"b8de58b7-ed7d-46c1-b2eb-1e643e7f4b53","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_454545_256x240.png"},{"selector":".ui-state-active .ui-icon","style":".ui-state-active .ui-icon{--wpr-bg-00f708a7-c1b2-4826-9fa6-02afdceb1d26: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_454545_256x240.png');}","hash":"00f708a7-c1b2-4826-9fa6-02afdceb1d26","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_454545_256x240.png"},{"selector":".ui-state-highlight .ui-icon","style":".ui-state-highlight .ui-icon{--wpr-bg-50191baa-1e5f-40c3-94b1-0d800029810f: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_2e83ff_256x240.png');}","hash":"50191baa-1e5f-40c3-94b1-0d800029810f","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_2e83ff_256x240.png"},{"selector":".ui-state-error .ui-icon,.ui-state-error-text .ui-icon","style":".ui-state-error .ui-icon,.ui-state-error-text .ui-icon{--wpr-bg-b8b7a56a-b344-4a7e-a694-ac35ab2f4316: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_cd0a0a_256x240.png');}","hash":"b8b7a56a-b344-4a7e-a694-ac35ab2f4316","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/wp-user-frontend\/assets\/css\/images\/ui-icons_cd0a0a_256x240.png"},{"selector":".slick-loading .slick-list","style":".slick-loading .slick-list{--wpr-bg-b6d2780b-aea5-45ff-aee6-a1b5c03e10c8: url('https:\/\/institut-sommeil-vigilance.org\/wp-content\/themes\/katen\/images\/ajax-loader.gif');}","hash":"b6d2780b-aea5-45ff-aee6-a1b5c03e10c8","url":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/themes\/katen\/images\/ajax-loader.gif"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.2" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_minify_css wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
+
+<body class="wp-singular page-template-default page page-id-9775 wp-custom-logo wp-theme-katen eio-default elementor-default elementor-kit-2407 elementor-page elementor-page-9775">
+
+
+<div data-rocket-location-hash="5e93e1449a9d50081d1ebe98cd3151e7" class="reading-bar-wrapper">
+	<div data-rocket-location-hash="6d9140064976dd989b9c7e1c7a690194" class="reading-bar"></div>
+</div>
+
+<!-- search popup area -->
+<div data-rocket-location-hash="413f5e12f00a386df918f2f3aed0e0f3" class="search-popup">
+	<!-- close button -->
+	<button type="button" class="btn-close " aria-label="Close"></button>
+	<!-- content -->
+	<div data-rocket-location-hash="7945db2d7d9eed5691fd780e98a5f403" class="search-content">
+		<div data-rocket-location-hash="6e32fd787cfa429ab8bd000441ff8f34" class="text-center">
+			<h3 class="mb-4 mt-0">Appuyez sur la croix en haut à droite pour sortir</h3>
+		</div>
+		<!-- form -->
+		<form class="d-flex search-form" method="get" action="https://institut-sommeil-vigilance.org/">
+			<input class="form-control me-2" placeholder="Rechercher ..." type="text" name="s" id="search" value="" aria-label="Search">
+			<button class="btn btn-default btn-lg" type="submit"><i class="icon-magnifier"></i></button>
+		</form>
+	</div>
+</div>
+
+<!-- canvas menu -->
+<div data-rocket-location-hash="8717528a0b4b63db1b110149ff0f5827" class="canvas-menu d-flex align-items-end flex-column ">
+	<!-- close button -->
+	<button type="button" class="btn-close " aria-label="Close"></button>
+
+	<!-- logo -->
+	<div data-rocket-location-hash="7d887536bc483550bbf2d414dca8b65c" class="logo ">
+		<a href="https://institut-sommeil-vigilance.org/" class="navbar-brand logo-dark"><img fetchpriority="high" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20100'%3E%3C/svg%3E" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2021/01/Logo-4.jpg" /><noscript><img fetchpriority="high" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2021/01/Logo-4.jpg" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" /></noscript></a><a href="https://institut-sommeil-vigilance.org/" class="navbar-brand logo-light"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20100'%3E%3C/svg%3E" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg" /><noscript><img src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" /></noscript></a>	</div>
+
+	<!-- menu -->
+	<nav>
+		<div class="menu-main-menu-container"><ul id="primary-menu" class="vertical-menu"><li id="menu-item-3124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3124 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/qui-sommes-nous/">INSV</a>
+<ul class="sub-menu">
+	<li id="menu-item-3183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3183"><a href="https://institut-sommeil-vigilance.org/qui-sommes-nous/">Qui sommes-nous ?</a></li>
+	<li id="menu-item-15966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15966"><a href="https://institut-sommeil-vigilance.org/devenez-mecene-du-sommeil/">Devenir mécène ou partenaire de l&#8217;INSV</a></li>
+	<li id="menu-item-7441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7441"><a href="https://institut-sommeil-vigilance.org/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-3181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3181 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/notre-offre-de-services/">Nos Actions</a>
+<ul class="sub-menu">
+	<li id="menu-item-4917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4917"><a href="https://institut-sommeil-vigilance.org/nos-campagnes-de-prevention-sommeil/">Nos campagnes de prévention Sommeil</a></li>
+	<li id="menu-item-15604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15604"><a href="https://institut-sommeil-vigilance.org/15eme-rencontre-du-sommeil/">15ème Rencontre du Sommeil</a></li>
+	<li id="menu-item-4918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4918"><a href="https://institut-sommeil-vigilance.org/boutique-de-documentations/">Boutique de documents</a></li>
+</ul>
+</li>
+<li id="menu-item-3135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3135 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/archives/">Journée du Sommeil®</a>
+<ul class="sub-menu">
+	<li id="menu-item-14646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14646"><a href="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil/">Le programme</a></li>
+	<li id="menu-item-14647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14647"><a href="https://institut-sommeil-vigilance.org/les-partenaires-de-la-journee-du-sommeil/">Les partenaires de la journée du sommeil®</a></li>
+	<li id="menu-item-15953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15953"><a href="https://institut-sommeil-vigilance.org/connexion-acteur-journee-du-sommeil/">Connexion acteur Journée du sommeil®</a></li>
+	<li id="menu-item-14645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14645"><a href="https://institut-sommeil-vigilance.org/espace-presse-journee-du-sommeil/">Espace Presse</a></li>
+	<li id="menu-item-14644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14644"><a href="https://institut-sommeil-vigilance.org/archives/">Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-9885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9885 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/les-troubles-du-sommeil/">Troubles du sommeil</a>
+<ul class="sub-menu">
+	<li id="menu-item-14407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14407"><a href="https://institut-sommeil-vigilance.org/ou-consulter-reseau-sommeil-france/">Où consulter : le réseau du Sommeil en France</a></li>
+	<li id="menu-item-14408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14408"><a href="https://institut-sommeil-vigilance.org/insomnie/">L’insomnie</a></li>
+	<li id="menu-item-15670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15670"><a href="https://institut-sommeil-vigilance.org/lapnee-du-sommeil/">L’apnée du sommeil</a></li>
+	<li id="menu-item-14406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14406"><a href="https://institut-sommeil-vigilance.org/narcolepsie/">Narcolepsie</a></li>
+	<li id="menu-item-14409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14409"><a href="https://institut-sommeil-vigilance.org/jambes-sans-repos/">Jambes sans repos</a></li>
+</ul>
+</li>
+<li id="menu-item-12664" class="menu-item menu-item-type-post_type menu-item-object-msm_mega_menu current-menu-ancestor menu-item-has-children menu-item-12664 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/msm_mega_menu/comprendre-le-sommeil/">Comprendre le sommeil</a>
+<ul class="sub-menu">
+	<li id="menu-item-15336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15336"><a href="https://institut-sommeil-vigilance.org/evolution-du-sommeil-selon-lage/">Évolution du sommeil selon l’âge</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15351"><a href="https://institut-sommeil-vigilance.org/comment-le-sommeil-evolue-avec-lage/">Comment le sommeil évolue avec l’âge ?</a></li>
+		<li id="menu-item-15341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15341"><a href="https://institut-sommeil-vigilance.org/sommeil-de-lenfant/">Sommeil de l’enfant</a></li>
+		<li id="menu-item-15338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15338"><a href="https://institut-sommeil-vigilance.org/le-sommeil-de-lenfant/">Le sommeil de l’enfant</a></li>
+		<li id="menu-item-15339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15339"><a href="https://institut-sommeil-vigilance.org/le-sommeil-des-adolescents/">Le sommeil des adolescents</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-15333"><a href="https://institut-sommeil-vigilance.org/comprendre-les-mecanismes-du-sommeil/">Comprendre les mécanismes du sommeil</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15347"><a href="https://institut-sommeil-vigilance.org/tout-savoir-sur-le-sommeil/">Tout savoir sur le sommeil</a></li>
+		<li id="menu-item-15354" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9775 current_page_item menu-item-15354"><a href="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" aria-current="page">A quoi servent les rêves ?</a></li>
+		<li id="menu-item-15348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15348"><a href="https://institut-sommeil-vigilance.org/les-troubles-de-la-vigilance/">Trouble de la vigilance : Fatigué, somnolent ou hypersomniaque ?</a></li>
+		<li id="menu-item-15965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15965"><a href="https://institut-sommeil-vigilance.org/livres-grand-public-sur-le-sommeil/">Livres grand public sur le sommeil</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15335"><a href="https://institut-sommeil-vigilance.org/environnement-du-sommeil/">Environnement du sommeil</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15343"><a href="https://institut-sommeil-vigilance.org/sommeil-et-chaleur/">Sommeil et chaleur</a></li>
+		<li id="menu-item-15349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15349"><a href="https://institut-sommeil-vigilance.org/une-chambre-ideale-pour-bien-dormir-les-6-erreurs-a-eviter/">Une chambre idéale pour bien dormir : jeu des 6 erreurs</a></li>
+		<li id="menu-item-15350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15350"><a href="https://institut-sommeil-vigilance.org/les-capteurs-de-sommeil/">Les capteurs de sommeil</a></li>
+		<li id="menu-item-15344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15344"><a href="https://institut-sommeil-vigilance.org/sommeil-et-nouvelles-technologies/">Sommeil et écrans</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15334"><a href="https://institut-sommeil-vigilance.org/mode-de-vie-et-hygiene-du-sommeil/">Mode de vie et hygiène du sommeil</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15342"><a href="https://institut-sommeil-vigilance.org/sommeil-et-alimentation/">Sommeil et alimentation</a></li>
+		<li id="menu-item-15352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15352"><a href="https://institut-sommeil-vigilance.org/dormez-bougez/">Dormez Bougez</a></li>
+		<li id="menu-item-15337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15337"><a href="https://institut-sommeil-vigilance.org/la-sieste-une-alliee-de-votre-vigilance/">La sieste, une alliée de votre vigilance</a></li>
+		<li id="menu-item-15340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15340"><a href="https://institut-sommeil-vigilance.org/lutter-contre-le-stress-chronique-et-consequences-sur-notre-sommeil/">Lutter contre un stress chronique et ses conséquences sur le sommeil</a></li>
+		<li id="menu-item-15346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15346"><a href="https://institut-sommeil-vigilance.org/sommeil-et-travail/">Sommeil et travail</a></li>
+		<li id="menu-item-15345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15345"><a href="https://institut-sommeil-vigilance.org/sommeil-et-tabac/">Sommeil et tabac</a></li>
+		<li id="menu-item-15355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="https://institut-sommeil-vigilance.org/adaptation-au-nouveau-fuseau-horaire-guide-anti-jet-lag/">Adaptation au Nouveau Fuseau Horaire : Guide Anti-Jet Lag</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-14019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14019 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/bibliotheque-de-supports/">Brochures</a></li>
+</ul></div>	</nav>
+
+	<!-- social icons -->
+	
+		<ul class="social-icons list-unstyled list-inline mb-0 mt-auto w-100">
+		    		        <li class="list-inline-item">
+		            <a href="https://www.facebook.com/InstitutNationalSommeiletVigilance/" target="_blank">
+		                <i class="fa-brands fa-facebook-f"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://twitter.com/INSV_Sommeil" target="_blank">
+		                <i class="fa-brands fa-twitter"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://fr.linkedin.com/company/insv-institut-national-du-sommeil-et-de-la-vigilance" target="_blank">
+		                <i class="fa-brands fa-linkedin"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://www.youtube.com/c/INSV-Institut-National-Sommeil-Vigilance" target="_blank">
+		                <i class="fa-brands fa-youtube"></i>
+		            </a>
+		        </li>
+		    		</ul>
+
+</div>
+
+<!-- site wrapper -->
+<div data-rocket-location-hash="b76a6645c5a9dbf26f02bfc13872842a" class="site-wrapper">
+
+	<div data-rocket-location-hash="e309280ead6dbb231ffadd09eeb5d6e8" class="main-overlay"></div>
+
+		<!-- header -->
+	<header data-rocket-location-hash="01c2ffce2dd40dd22b6765965aebd64b" class="header-personal ">
+        <div data-rocket-location-hash="067a6a858dfe41122faab0ffeb7abe7d" class="container-xl header-top">
+			<div class="row align-items-center">
+
+				<div class="col-4 d-none d-md-block d-lg-block">
+					<!-- social icons -->
+					
+		<ul class="social-icons list-unstyled list-inline mb-0 ">
+		    		        <li class="list-inline-item">
+		            <a href="https://www.facebook.com/InstitutNationalSommeiletVigilance/" target="_blank">
+		                <i class="fa-brands fa-facebook-f"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://twitter.com/INSV_Sommeil" target="_blank">
+		                <i class="fa-brands fa-twitter"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://fr.linkedin.com/company/insv-institut-national-du-sommeil-et-de-la-vigilance" target="_blank">
+		                <i class="fa-brands fa-linkedin"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://www.youtube.com/c/INSV-Institut-National-Sommeil-Vigilance" target="_blank">
+		                <i class="fa-brands fa-youtube"></i>
+		            </a>
+		        </li>
+		    		</ul>
+
+				</div>
+
+				<div class="col-md-4 col-sm-12 col-xs-12 text-center">
+				<!-- site logo -->
+					<a href="https://institut-sommeil-vigilance.org/" class="navbar-brand logo-dark"><img fetchpriority="high" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20100'%3E%3C/svg%3E" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2021/01/Logo-4.jpg" /><noscript><img fetchpriority="high" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2021/01/Logo-4.jpg" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" /></noscript></a><a href="https://institut-sommeil-vigilance.org/" class="navbar-brand logo-light"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20100'%3E%3C/svg%3E" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg" /><noscript><img src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg" alt="INSV Institut National du Sommeil et de la Vigilance" width="800" height="100" /></noscript></a>											<a href="https://institut-sommeil-vigilance.org/" class="d-block text-logo">INSV Institut National du Sommeil et de la Vigilance<span class="dot">.</span></a>
+														</div>
+
+				<div class="col-md-4 col-sm-12 col-xs-12">
+					<!-- header buttons -->
+					<div class="header-buttons float-md-end mt-4 mt-md-0">
+													<button class="search icon-button">
+								<i class="icon-magnifier"></i>
+							</button>
+												<button class="burger-menu icon-button ms-2 float-end float-md-none ">
+							<span class="burger-icon"></span>
+						</button>
+					</div>
+				</div>
+
+			</div>
+        </div>
+
+		<nav class="navbar navbar-expand-lg">
+			<div data-rocket-location-hash="78f21d1dba33aaced1ac74e7a26792eb" class="container-xl">
+				
+				<div class="collapse navbar-collapse justify-content-center centered-nav">
+					<ul id="menu-main-menu" class="navbar-nav "><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-3124 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/qui-sommes-nous/" class="nav-link "  aria-haspopup="true" aria-expanded="false">INSV</a>
+<ul class="dropdown-menu  depth_0">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-3183"><a href="https://institut-sommeil-vigilance.org/qui-sommes-nous/" class="dropdown-item ">Qui sommes-nous ?</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15966"><a href="https://institut-sommeil-vigilance.org/devenez-mecene-du-sommeil/" class="dropdown-item ">Devenir mécène ou partenaire de l&#8217;INSV</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-7441"><a href="https://institut-sommeil-vigilance.org/contact/" class="dropdown-item ">Contact</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-3181 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/notre-offre-de-services/" class="nav-link "  aria-haspopup="true" aria-expanded="false">Nos Actions</a>
+<ul class="dropdown-menu  depth_0">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-4917"><a href="https://institut-sommeil-vigilance.org/nos-campagnes-de-prevention-sommeil/" class="dropdown-item ">Nos campagnes de prévention Sommeil</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-15604"><a href="https://institut-sommeil-vigilance.org/15eme-rencontre-du-sommeil/" class="dropdown-item ">15ème Rencontre du Sommeil</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-4918"><a href="https://institut-sommeil-vigilance.org/boutique-de-documentations/" class="dropdown-item ">Boutique de documents</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-3135 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/archives/" class="nav-link "  aria-haspopup="true" aria-expanded="false">Journée du Sommeil®</a>
+<ul class="dropdown-menu  depth_0">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14646"><a href="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil/" class="dropdown-item ">Le programme</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14647"><a href="https://institut-sommeil-vigilance.org/les-partenaires-de-la-journee-du-sommeil/" class="dropdown-item ">Les partenaires de la journée du sommeil®</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15953"><a href="https://institut-sommeil-vigilance.org/connexion-acteur-journee-du-sommeil/" class="dropdown-item ">Connexion acteur Journée du sommeil®</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14645"><a href="https://institut-sommeil-vigilance.org/espace-presse-journee-du-sommeil/" class="dropdown-item ">Espace Presse</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14644"><a href="https://institut-sommeil-vigilance.org/archives/" class="dropdown-item ">Archives</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-9885 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/les-troubles-du-sommeil/" class="nav-link "  aria-haspopup="true" aria-expanded="false">Troubles du sommeil</a>
+<ul class="dropdown-menu  depth_0">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14407"><a href="https://institut-sommeil-vigilance.org/ou-consulter-reseau-sommeil-france/" class="dropdown-item ">Où consulter : le réseau du Sommeil en France</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14408"><a href="https://institut-sommeil-vigilance.org/insomnie/" class="dropdown-item ">L’insomnie</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15670"><a href="https://institut-sommeil-vigilance.org/lapnee-du-sommeil/" class="dropdown-item ">L’apnée du sommeil</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14406"><a href="https://institut-sommeil-vigilance.org/narcolepsie/" class="dropdown-item ">Narcolepsie</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14409"><a href="https://institut-sommeil-vigilance.org/jambes-sans-repos/" class="dropdown-item ">Jambes sans repos</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-msm_mega_menu current-menu-ancestor menu-item-has-children dropdown nav-item nav-item-12664 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/msm_mega_menu/comprendre-le-sommeil/" class="nav-link active"  aria-haspopup="true" aria-expanded="false">Comprendre le sommeil</a>
+<ul class="dropdown-menu  depth_0">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-15336 dropdown-menu dropdown-menu-end"><a href="https://institut-sommeil-vigilance.org/evolution-du-sommeil-selon-lage/" class="dropdown-item "  aria-haspopup="true" aria-expanded="false">Évolution du sommeil selon l’âge</a>
+	<ul class="dropdown-menu sub-menu  depth_1">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15351"><a href="https://institut-sommeil-vigilance.org/comment-le-sommeil-evolue-avec-lage/" class="dropdown-item ">Comment le sommeil évolue avec l’âge ?</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15341"><a href="https://institut-sommeil-vigilance.org/sommeil-de-lenfant/" class="dropdown-item ">Sommeil de l’enfant</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15338"><a href="https://institut-sommeil-vigilance.org/le-sommeil-de-lenfant/" class="dropdown-item ">Le sommeil de l’enfant</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15339"><a href="https://institut-sommeil-vigilance.org/le-sommeil-des-adolescents/" class="dropdown-item ">Le sommeil des adolescents</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown nav-item nav-item-15333 dropdown-menu dropdown-menu-end"><a href="https://institut-sommeil-vigilance.org/comprendre-les-mecanismes-du-sommeil/" class="dropdown-item active"  aria-haspopup="true" aria-expanded="false">Comprendre les mécanismes du sommeil</a>
+	<ul class="dropdown-menu sub-menu  depth_1">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15347"><a href="https://institut-sommeil-vigilance.org/tout-savoir-sur-le-sommeil/" class="dropdown-item ">Tout savoir sur le sommeil</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9775 current_page_item nav-item nav-item-15354"><a href="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" class="dropdown-item active">A quoi servent les rêves ?</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15348"><a href="https://institut-sommeil-vigilance.org/les-troubles-de-la-vigilance/" class="dropdown-item ">Trouble de la vigilance : Fatigué, somnolent ou hypersomniaque ?</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15965"><a href="https://institut-sommeil-vigilance.org/livres-grand-public-sur-le-sommeil/" class="dropdown-item ">Livres grand public sur le sommeil</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-15335 dropdown-menu dropdown-menu-end"><a href="https://institut-sommeil-vigilance.org/environnement-du-sommeil/" class="dropdown-item "  aria-haspopup="true" aria-expanded="false">Environnement du sommeil</a>
+	<ul class="dropdown-menu sub-menu  depth_1">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15343"><a href="https://institut-sommeil-vigilance.org/sommeil-et-chaleur/" class="dropdown-item ">Sommeil et chaleur</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15349"><a href="https://institut-sommeil-vigilance.org/une-chambre-ideale-pour-bien-dormir-les-6-erreurs-a-eviter/" class="dropdown-item ">Une chambre idéale pour bien dormir : jeu des 6 erreurs</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15350"><a href="https://institut-sommeil-vigilance.org/les-capteurs-de-sommeil/" class="dropdown-item ">Les capteurs de sommeil</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15344"><a href="https://institut-sommeil-vigilance.org/sommeil-et-nouvelles-technologies/" class="dropdown-item ">Sommeil et écrans</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-15334 dropdown-menu dropdown-menu-end"><a href="https://institut-sommeil-vigilance.org/mode-de-vie-et-hygiene-du-sommeil/" class="dropdown-item "  aria-haspopup="true" aria-expanded="false">Mode de vie et hygiène du sommeil</a>
+	<ul class="dropdown-menu sub-menu  depth_1">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15342"><a href="https://institut-sommeil-vigilance.org/sommeil-et-alimentation/" class="dropdown-item ">Sommeil et alimentation</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15352"><a href="https://institut-sommeil-vigilance.org/dormez-bougez/" class="dropdown-item ">Dormez Bougez</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15337"><a href="https://institut-sommeil-vigilance.org/la-sieste-une-alliee-de-votre-vigilance/" class="dropdown-item ">La sieste, une alliée de votre vigilance</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15340"><a href="https://institut-sommeil-vigilance.org/lutter-contre-le-stress-chronique-et-consequences-sur-notre-sommeil/" class="dropdown-item ">Lutter contre un stress chronique et ses conséquences sur le sommeil</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15346"><a href="https://institut-sommeil-vigilance.org/sommeil-et-travail/" class="dropdown-item ">Sommeil et travail</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15345"><a href="https://institut-sommeil-vigilance.org/sommeil-et-tabac/" class="dropdown-item ">Sommeil et tabac</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-15355"><a href="https://institut-sommeil-vigilance.org/adaptation-au-nouveau-fuseau-horaire-guide-anti-jet-lag/" class="dropdown-item ">Adaptation au Nouveau Fuseau Horaire : Guide Anti-Jet Lag</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-14019 msm-top-level-item"><a href="https://institut-sommeil-vigilance.org/bibliotheque-de-supports/" class="nav-link ">Brochures</a></li>
+</ul>				</div>
+
+			</div>
+		</nav>
+	</header>
+
+<section data-rocket-location-hash="4cc900c510ba87301c5a77a5861064de" class="page-header">
+	<div data-rocket-location-hash="3456d952a1ed750d92a945681eb2efd9" class="container-xl">
+		<div class="text-center">
+			<h1 class="mt-0 mb-0">A quoi servent les rêves ?</h1>
+					</div>
+	</div>
+</section>
+
+<!-- section main content -->
+<section data-rocket-location-hash="164276e0090c21d1c9a1717f50fada7d" class="main-content">
+	
+	<div data-rocket-location-hash="207ff540d1a03e407e24b43eef4d2e54" class="container-xl">
+
+	<div class="row gy-4"><div class="col-lg-8"><div class="page-content">		<div data-elementor-type="wp-page" data-elementor-id="9775" class="elementor elementor-9775" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-2963cac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2963cac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-464400b" data-id="464400b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f5e31f4 elementor-widget elementor-widget-heading" data-id="f5e31f4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">À quoi servent les rêves ?</h1>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-28a8bbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28a8bbf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1ff194d" data-id="1ff194d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-147dc0a elementor-widget elementor-widget-text-editor" data-id="147dc0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Qu’est-ce qu’un rêve ?</h2><p>Le rêve est une production mentale plus ou moins complexe parfois très pauvre (rêves vides) parfois très riche souvent caractérisée par des images très détaillées associées à un ou plusieurs scénarios, comportant des scènes, des personnages, des dialogues, des émotions. Le contenu est plus ou moins ordonné et logique et parfois profondément bizarre. Ceci a été rapporté à un fonctionnement différent du cerveau: les zones actives et inactives ne sont pas les mêmes que pendant la veille.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a4d56dc elementor-widget elementor-widget-text-editor" data-id="a4d56dc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Rêve-t-on toute la nuit ?</h2><p>Les rêves sont rares et peu élaborés en sommeil lent alors qu&#8217;ils sont nombreux et riches en émotions au cours du sommeil paradoxal. Lorsqu’on réveille quelqu’un, on a plus de chance d’obtenir un récit de rêve si le dormeur est en sommeil paradoxal. Son contenu est également plus riche en émotions et en personnages. C’est pourquoi on a pris rapidement l’habitude d’associer sommeil paradoxal et rêves. Toutefois, on rêve aussi pendant le sommeil lent, mais de manière moins importante : 40 % des réveils en sommeil lent léger donneront lieu à un rappel de rêve.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5cb4b22 elementor-blockquote--skin-boxed elementor-widget elementor-widget-blockquote" data-id="5cb4b22" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+							<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				Nous passons 1h30 toutes les nuits en sommeil paradoxal et nos rêves sont probablement plus abondants. Notre souvenir du rêve dépend essentiellement du fait que l'on se soit réveillé pendant ou juste après.			</p>
+					</blockquote>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ae6b833" data-id="ae6b833" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a49d53f elementor-widget elementor-widget-image" data-id="a49d53f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="683" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E" class="attachment-large size-large wp-image-9779" alt="" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-683x1024.jpg 683w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-200x300.jpg 200w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-1024x1536.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-1366x2048.jpg 1366w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-100x150.jpg 100w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled.jpg 1707w" data-lazy-sizes="(max-width: 683px) 100vw, 683px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-683x1024.jpg" /><noscript><img decoding="async" width="683" height="1024" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-683x1024.jpg" class="attachment-large size-large wp-image-9779" alt="" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-683x1024.jpg 683w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-200x300.jpg 200w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-1024x1536.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-1366x2048.jpg 1366w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled-100x150.jpg 100w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/the-hunter-of-dreams-2021-08-26-15-36-46-utc-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-2e8f068 elementor-widget elementor-widget-text-editor" data-id="2e8f068" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Quelles sont les fonctions des rêves ?</h2><p>La fonction que l’on attribue aux rêves préoccupe les hommes depuis bien longtemps. Avertissement des dieux dans l’Antiquité ou <b>messages prémonitoires</b> dans de nombreuses civilisations, les rêves exprimeraient pour les psychanalystes l’équivalent de l’accomplissement d’un <b>désir refoulé</b>, traduit de façon symbolique. Les cliniciens du sommeil accordent peu de valeur aux contenus des rêves. Ils se sont plus focalisés sur les fonctions du sommeil paradoxal qui joue un rôle important dans la <strong>consolidation de la mémoire</strong> en particulier procédurale (mémoire des habiletés motrices) et dans la <strong>gestion des émotions</strong>.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f7725e2 elementor-widget elementor-widget-image" data-id="f7725e2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="683" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E" class="attachment-large size-large wp-image-9778" alt="" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1536x1025.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-150x100.jpg 150w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1024x683.jpg" /><noscript><img loading="lazy" decoding="async" width="1024" height="683" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1024x683.jpg" class="attachment-large size-large wp-image-9778" alt="" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-1536x1025.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/dreaming-child-2021-08-26-15-47-25-utc-scaled-150x100.jpg 150w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>															</div>
+				</div>
+				<div class="elementor-element elementor-element-a61448e elementor-widget elementor-widget-text-editor" data-id="a61448e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2><strong>Qu’est-ce qu’un cauchemar ?</strong></h2><p>Le cauchemar est un rêve dont le contenu est désagréable, voire terrifiant, il est également associé à des modifications physiologiques plus exacerbées que dans le rêve classique notamment une accélération du rythme cardiaque et de la respiration. Il provoque une anxiété intense et survient en sommeil paradoxal vers la fin de la nuit. Il se différencie des terreurs nocturnes qui sont des accès brefs de panique survenant en sommeil profond, au début de la nuit et qui sont courants chez l’enfant entre 3 et 6 ans. Les terreurs nocturnes existent aussi chez l’adulte, débutant entre 20 et 30 ans, souvent associées alors à un somnambulisme. C’est beaucoup moins fréquent.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5caac86 elementor-widget elementor-widget-text-editor" data-id="5caac86" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2><strong>Toute activité mentale au cours du sommeil est-elle un rêve ?</strong></h2><p>Il existe d’autres états au cours desquels le cerveau exprime une activité perçue par le dormeur comme du rêve. Au réveil ou à l’endormissement apparaît parfois une imagerie très détaillée, mais sans scénario, à la différence du rêve. On les appelle des <b>hallucinations hypnagogiques</b> (à l’endormissement) ou <b>hypnopompiques </b>(au réveil). Ces hallucinations sont de courte durée et se produisent alors que le cerveau est entre l&#8217;éveil et le sommeil. </p><p>Certains dormeurs peuvent aussi avoir des <b>rêves lucides</b>, au cours desquels ils ont conscience de rêver et parfois même peuvent diriger le déroulement du rêve. </p><h4><strong>Les mouvements des yeux observés pendant le sommeil paradoxal signifient-ils que le dormeur regarde son rêve, comme un spectacle ?</strong></h4><p>On a pu le penser, mais, en fait, les mouvements des yeux et les images du rêve ne sont pas toujours liés puisqu’ils se produisent chez les aveugles de naissance qui ne rêvent pas en image. Parfois, ils sont liés, comme cela a pu être démontré chez des patients présentant un trouble du comportement en sommeil paradoxal: le sujet agit son rêve et oriente son regard et sa tête en direction de l’action qu’il est en train de réaliser. Les mouvements oculaires seraient également liés au contenu émotionnel du rêve et à sa richesse en mouvements.</p>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-081dc5f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="081dc5f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-23f5a1f" data-id="23f5a1f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2783943 elementor-widget elementor-widget-text-editor" data-id="2783943" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Partager sur :</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5794daf" data-id="5794daf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c5b6915 elementor-share-buttons--view-icon elementor-share-buttons--shape-circle elementor-share-buttons--skin-gradient elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="c5b6915" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid" role="list">
+								<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0" aria-label="Partager sur facebook">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_twitter" role="button" tabindex="0" aria-label="Partager sur twitter">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_linkedin" role="button" tabindex="0" aria-label="Partager sur linkedin">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-linkedin" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_whatsapp" role="button" tabindex="0" aria-label="Partager sur whatsapp">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-whatsapp" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_pinterest" role="button" tabindex="0" aria-label="Partager sur pinterest">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-pinterest" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_email" role="button" tabindex="0" aria-label="Partager sur email">
+															<span class="elementor-share-btn__icon">
+								<i class="fas fa-envelope" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_print" role="button" tabindex="0" aria-label="Partager sur print">
+															<span class="elementor-share-btn__icon">
+								<i class="fas fa-print" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-8341a6e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8341a6e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-41dc1bb elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="41dc1bb" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;3&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid" role="list">
+				<article class="elementor-post elementor-grid-item post-9736 page type-page status-publish has-post-thumbnail hentry" role="listitem">
+				<a class="elementor-post__thumbnail__link" href="https://institut-sommeil-vigilance.org/comment-le-sommeil-evolue-avec-lage/" tabindex="-1" >
+			<div class="elementor-post__thumbnail"><img decoding="async" width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-9737" alt="" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-1024x684.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-1536x1025.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-2048x1367.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-768x510.jpg 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-300x200.jpg" /><noscript><img loading="lazy" decoding="async" width="300" height="200" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-300x200.jpg" class="attachment-medium size-medium wp-image-9737" alt="" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-1024x684.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-1536x1025.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-2048x1367.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/elderly-caucasian-woman-sleeping-on-the-bed-2021-08-26-23-56-54-utc-scaled-768x510.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://institut-sommeil-vigilance.org/comment-le-sommeil-evolue-avec-lage/" >
+				Comment le sommeil évolue avec l&#8217;âge ?			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Comment le sommeil évolue avec l&#8217;âge ? Le sommeil évolue sans cesse depuis la naissance jusqu’au grand âge. La quantité de sommeil Le nouveau-né dort</p>
+		</div>
+		
+		<a class="elementor-post__read-more" href="https://institut-sommeil-vigilance.org/comment-le-sommeil-evolue-avec-lage/" aria-label="En savoir plus sur Comment le sommeil évolue avec l&#8217;âge ?" tabindex="-1" >
+			Lire la suite »		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-3757 page type-page status-publish has-post-thumbnail hentry" role="listitem">
+				<a class="elementor-post__thumbnail__link" href="https://institut-sommeil-vigilance.org/sommeil-de-lenfant/" tabindex="-1" >
+			<div class="elementor-post__thumbnail"><img decoding="async" width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-8878" alt="" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-1536x1024.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-768x510.jpg 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-300x200.jpg" /><noscript><img loading="lazy" decoding="async" width="300" height="200" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-300x200.jpg" class="attachment-medium size-medium wp-image-8878" alt="" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-1536x1024.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/mother-reading-book-to-son-before-bedtime-2021-12-09-13-54-01-utc-scaled-768x510.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://institut-sommeil-vigilance.org/sommeil-de-lenfant/" >
+				Sommeil de l&#8217;enfant			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Le sommeil de l&#8217;enfant Le sommeil joue un rôle essentiel dans la croissance, le développement cérébral, la mémoire et toutes les fonctions cognitives. Un sommeil</p>
+		</div>
+		
+		<a class="elementor-post__read-more" href="https://institut-sommeil-vigilance.org/sommeil-de-lenfant/" aria-label="En savoir plus sur Sommeil de l&#8217;enfant" tabindex="-1" >
+			Lire la suite »		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-320 page type-page status-publish has-post-thumbnail hentry" role="listitem">
+				<a class="elementor-post__thumbnail__link" href="https://institut-sommeil-vigilance.org/les-troubles-de-la-vigilance/" tabindex="-1" >
+			<div class="elementor-post__thumbnail"><img decoding="async" width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-6552" alt="" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-391x260.jpg 391w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-1536x1024.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-768x510.jpg 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-300x200.jpg" /><noscript><img loading="lazy" decoding="async" width="300" height="200" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-300x200.jpg" class="attachment-medium size-medium wp-image-6552" alt="" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-300x200.jpg 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-1024x683.jpg 1024w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-391x260.jpg 391w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-1536x1024.jpg 1536w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-2048x1366.jpg 2048w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-150x100.jpg 150w, https://institut-sommeil-vigilance.org/wp-content/uploads/2020/02/sleepy-cup-of-hot-coffee-E2WYJQX-scaled-768x510.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://institut-sommeil-vigilance.org/les-troubles-de-la-vigilance/" >
+				Trouble de la vigilance : Fatigué, somnolent ou hypersomniaque ?			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Trouble de la vigilance : Fatigué, somnolent ou hypersomniaque ? Comment définir la vigilance ? Un peu de vocabulaire : La veille est l’état de</p>
+		</div>
+		
+		<a class="elementor-post__read-more" href="https://institut-sommeil-vigilance.org/les-troubles-de-la-vigilance/" aria-label="En savoir plus sur Trouble de la vigilance : Fatigué, somnolent ou hypersomniaque ?" tabindex="-1" >
+			Lire la suite »		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div></div><div class="col-lg-4"><div class="sidebar">
+    <div id="block-9" class="widget rounded widget_block widget_text">
+<p class="has-text-align-center"><img decoding="async" width="100" height="150" class="wp-image-31" style="width: 100px;" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20150'%3E%3C/svg%3E" alt="" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo-3.jpg"><noscript><img loading="lazy" decoding="async" width="100" height="150" class="wp-image-31" style="width: 100px;" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo-3.jpg" alt=""></noscript></p>
+
+
+<p class="has-text-align-center"><strong>INSV : <br>Institut National du Sommeil<br>et de la Vigilance</strong></p>
+</div><div id="block-3" class="widget rounded widget_block widget_text">
+<p class="has-text-align-center"><b>Adresse </b>: 18 rue Armand Moisant, <br>75015 – PARIS<br><b>Mail </b>: contact[@]insv.org</p>
+</div><div id="block-4" class="widget rounded widget_block widget_text">
+<p class="has-text-align-center"><em>Nous ne sommes pas un centre de soin, nos locaux ne sont pas ouverts au public.</em><br><em>Pour toute commande de brochures, merci de passer par <a href="https://institut-sommeil-vigilance.org/boutique-de-documentations/">la boutique de documents</a>.</em></p>
+</div><div id="block-7" class="widget rounded widget_block">
+<ul class="wp-block-social-links is-style-default is-content-justification-center is-layout-flex wp-container-core-social-links-is-layout-16018d1d wp-block-social-links-is-layout-flex"><li class="wp-social-link wp-social-link-facebook  wp-block-social-link"><a href="https://www.facebook.com/InstitutNationalSommeiletVigilance/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li class="wp-social-link wp-social-link-linkedin  wp-block-social-link"><a href="https://fr.linkedin.com/company/insv-institut-national-du-sommeil-et-de-la-vigilance" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19.7,3H4.3C3.582,3,3,3.582,3,4.3v15.4C3,20.418,3.582,21,4.3,21h15.4c0.718,0,1.3-0.582,1.3-1.3V4.3 C21,3.582,20.418,3,19.7,3z M8.339,18.338H5.667v-8.59h2.672V18.338z M7.004,8.574c-0.857,0-1.549-0.694-1.549-1.548 c0-0.855,0.691-1.548,1.549-1.548c0.854,0,1.547,0.694,1.547,1.548C8.551,7.881,7.858,8.574,7.004,8.574z M18.339,18.338h-2.669 v-4.177c0-0.996-0.017-2.278-1.387-2.278c-1.389,0-1.601,1.086-1.601,2.206v4.249h-2.667v-8.59h2.559v1.174h0.037 c0.356-0.675,1.227-1.387,2.526-1.387c2.703,0,3.203,1.779,3.203,4.092V18.338z"></path></svg><span class="wp-block-social-link-label screen-reader-text">LinkedIn</span></a></li>
+
+<li class="wp-social-link wp-social-link-twitter  wp-block-social-link"><a href="https://twitter.com/INSV_Sommeil" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Twitter</span></a></li>
+
+<li class="wp-social-link wp-social-link-youtube  wp-block-social-link"><a href="https://www.youtube.com/c/INSV-Institut-National-Sommeil-Vigilance" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li></ul>
+</div><div id="custom_html-13" class="widget_text widget rounded widget_custom_html"><div class="textwidget custom-html-widget"><div class="widget-about data-bg-image text-center" data-bg-image="https://themeger.shop/wordpress/katen/classic/wp-content/uploads/sites/4/2022/09/map-bg.png">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20130%2050'%3E%3C/svg%3E" alt="logo" class="mb-4" width="130" height="50" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg"><noscript><img src="https://institut-sommeil-vigilance.org/wp-content/uploads/2018/10/Logo_INSV-500-1.jpg" alt="logo" class="mb-4" width="130" height="50"></noscript>
+								<p class="mb-4">Association loi 1901, fondée en 2000 sous l’impulsion de <a href="https://www.sfrms-sommeil.org/">la Société Française de Recherche et Médecine du Sommeil (SFRMS)</a>, l’Institut National du Sommeil et de la Vigilance (INSV) regroupe des personnes physiques et morales œuvrant dans le registre de la prévention, sensibilisation, éducation à la santé, sommeil, vigilance.
+
+<br>Interface de communication et de prévention sur le sommeil en France, l’INSV s’investit pour que le sommeil soit reconnu comme un facteur essentiel de la santé de chacun.</p>
+								<ul class="social-icons list-unstyled list-inline mb-0">
+									<li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin"></i></a></li>
+									<li class="list-inline-item"><a href="#"><i class="fab fa-youtube"></i></a></li>
+	</ul>
+</div></div></div><div id="media_image-3" class="widget rounded widget_media_image"><a href="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil"><img width="300" height="240" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20240'%3E%3C/svg%3E" class="image wp-image-14141  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" data-lazy-srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-300x240.gif 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-1024x819.gif 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-300x240.gif" /><noscript><img width="300" height="240" src="https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-300x240.gif" class="image wp-image-14141  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-300x240.gif 300w, https://institut-sommeil-vigilance.org/wp-content/uploads/2025/01/FB-post-JS2025-INSV-1024x819.gif 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></div><div id="block-18" class="widget rounded widget_block"><blockquote class="wp-embedded-content" data-secret="v0mrsOb2wy"><a href="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil/">Le programme</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="« Le programme » &#8212; INSV Institut National du Sommeil et de la Vigilance" src="about:blank" data-secret="v0mrsOb2wy" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil/embed/#?secret=4t4fyFVpMM#?secret=v0mrsOb2wy"></iframe><noscript><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="« Le programme » &#8212; INSV Institut National du Sommeil et de la Vigilance" src="https://institut-sommeil-vigilance.org/programme-journee-du-sommeil/embed/#?secret=4t4fyFVpMM#?secret=v0mrsOb2wy" data-secret="v0mrsOb2wy" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript></div><div id="categories-1" class="widget rounded widget_categories"><div class="widget-header text-center"><h3 class="widget-title">Thématiques</h3>
+    <svg width="33" height="6" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#77b61b"></stop>
+                <stop offset="100%" stop-color="#008394"></stop>
+            </linearGradient>
+            </defs>
+        <path d="M33 1c-3.3 0-3.3 4-6.598 4C23.1 5 23.1 1 19.8 1c-3.3 0-3.3 4-6.599 4-3.3 0-3.3-4-6.6-4S3.303 5 0 5" stroke="url(#gradient)" stroke-width="2" fill="none"></path>
+    </svg></div>
+			<ul>
+					<li class="cat-item cat-item-85"><a href="https://institut-sommeil-vigilance.org/category/action-js-2022/">Action JS 2022</a><span class="widget-count">(47)</span>
+</li>
+	<li class="cat-item cat-item-115"><a href="https://institut-sommeil-vigilance.org/category/action-js-2023/">Action JS 2023</a><span class="widget-count">(62)</span>
+</li>
+	<li class="cat-item cat-item-116"><a href="https://institut-sommeil-vigilance.org/category/action-js-2024/">Action JS 2024</a><span class="widget-count">(67)</span>
+</li>
+	<li class="cat-item cat-item-119"><a href="https://institut-sommeil-vigilance.org/category/action-js2025/">Action JS 2025</a><span class="widget-count">(39)</span>
+</li>
+	<li class="cat-item cat-item-82"><a href="https://institut-sommeil-vigilance.org/category/actions-2021/">Actions JS 2021</a><span class="widget-count">(26)</span>
+</li>
+	<li class="cat-item cat-item-141"><a href="https://institut-sommeil-vigilance.org/category/actions-js-2026/">Actions JS 2026</a><span class="widget-count">(1)</span>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://institut-sommeil-vigilance.org/category/actualites/">Actualités</a><span class="widget-count">(13)</span>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://institut-sommeil-vigilance.org/category/archives-journee-du-sommeil/">Archives Journée du Sommeil</a><span class="widget-count">(16)</span>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://institut-sommeil-vigilance.org/category/non-classe/">Non classé</a><span class="widget-count">(21)</span>
+</li>
+	<li class="cat-item cat-item-46"><a href="https://institut-sommeil-vigilance.org/category/rencontre-sommeil/">Rencontre du Sommeil</a><span class="widget-count">(3)</span>
+</li>
+			</ul>
+
+			</div></div></div></div>
+	</div> 
+	<!-- end container -->
+	
+</section>
+<!-- end main content -->
+
+		  <!-- footer -->
+	<footer data-rocket-location-hash="a556cd627f745e4a27d3bdaa08ba311e" class="footer">
+				<div class="container-xl">
+			<div class="footer-inner">
+				<div class="row d-flex align-items-center gy-4">
+					<!-- copyright text -->
+					<div class="col-md-4">
+						<span class="copyright">
+							© Institut National du Sommeil et de la Vigilance.						</span>
+					</div>
+
+					<!-- social icons -->
+					<div class="col-md-4 text-center">
+						
+		<ul class="social-icons list-unstyled list-inline mb-0 ">
+		    		        <li class="list-inline-item">
+		            <a href="https://www.facebook.com/InstitutNationalSommeiletVigilance/" target="_blank">
+		                <i class="fa-brands fa-facebook-f"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://twitter.com/INSV_Sommeil" target="_blank">
+		                <i class="fa-brands fa-twitter"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://fr.linkedin.com/company/insv-institut-national-du-sommeil-et-de-la-vigilance" target="_blank">
+		                <i class="fa-brands fa-linkedin"></i>
+		            </a>
+		        </li>
+		    		        <li class="list-inline-item">
+		            <a href="https://www.youtube.com/c/INSV-Institut-National-Sommeil-Vigilance" target="_blank">
+		                <i class="fa-brands fa-youtube"></i>
+		            </a>
+		        </li>
+		    		</ul>
+
+					</div>
+
+					<!-- go to top button -->
+					<div class="col-md-4">
+													<a href="#" id="return-to-top" class="float-md-end"><i class="icon-arrow-up"></i>Back to Top</a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+</div><!-- end site wrapper -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/katen/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+jQuery(document).ready(function($) {
+   jQuery.getJSON("https://institut-sommeil-vigilance.org/wp-json/wp/v2/posts",function(result){
+      var region = {"FR-GES":0, "FR-IDF":0, "FR-HDF":0, "FR-NAQ":0, "FR-NOR":0, "FR-PAC":0};
+      for(i=0;i<result.length;i++){
+         if (result[i].d_partement == "57_-_moselle" ||  result[i].d_partement == "54_-_meurthe-et-moselle" ||  result[i].d_partement == "88_-_vosges" ||  result[i].d_partement == "10_-_aube"){
+            region["FR-GES"]++;
+         }
+         if (result[i].d_partement == "75_-_paris"){
+            region["FR-IDF"]++;
+         }
+         if (result[i].d_partement == "59_-_nord"){
+            region["FR-HDF"]++; 
+         }
+         if (result[i].d_partement == "86_-_vienne"){
+            region["FR-NAQ"]++; 
+         }
+         if (result[i].d_partement == "27_-_eure"){
+            region["FR-NOR"]++; 
+         }
+         if (result[i].d_partement == "83_-_var"){
+            region["FR-PAC"]++; 
+         }
+
+      console.log(result[i].d_partement);
+      }
+      setInterval(function(){ 
+         jQuery( "#actions-FR-GES" ).html(region["FR-GES"].toString()+" action.s"); 
+         jQuery( "#actions-FR-IDF" ).html(region["FR-IDF"].toString()+" action.s");
+         jQuery( "#actions-FR-HDF" ).html(region["FR-HDF"].toString()+" action.s");
+         jQuery( "#actions-FR-NAQ" ).html(region["FR-NAQ"].toString()+" action.s");
+         jQuery( "#actions-FR-NOR" ).html(region["FR-NOR"].toString()+" action.s");
+         jQuery( "#actions-FR-PAC" ).html(region["FR-PAC"].toString()+" action.s");
+      }, 300);
+   });
+})
+});</script>			<script type="rocketlazyloadscript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="rocketlazyloadscript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/|/acheter-viagra-generique-sildenafil-sur-internet-en-france/|/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://institut-sommeil-vigilance.org","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script type="rocketlazyloadscript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="rocket_lazyload_css-js-extra">
+var rocket_lazyload_css_data = {"threshold":"300"};
+//# sourceURL=rocket_lazyload_css-js-extra
+</script>
+<script id="rocket_lazyload_css-js-after">
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+//# sourceURL=rocket_lazyload_css-js-after
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113" id="suggest-js" data-rocket-defer defer></script>
+<script id="wpuf-billing-address-js-extra">
+var ajax_object = {"ajaxurl":"https://institut-sommeil-vigilance.org/wp-admin/admin-ajax.php","fill_notice":"Some Required Fields are not filled!"};
+//# sourceURL=wpuf-billing-address-js-extra
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/js/billing-address.js?ver=1766421864" id="wpuf-billing-address-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js" data-rocket-defer defer></script>
+<script id="wpuf-upload-js-extra">
+var wpuf_upload = {"confirmMsg":"Confirmez-vous\u00a0?","delete_it":"Oui, le supprimer","cancel_it":"Non, annuler\u00a0cela","ajaxurl":"https://institut-sommeil-vigilance.org/wp-admin/admin-ajax.php","nonce":"b4d8545cc7","plupload":{"url":"https://institut-sommeil-vigilance.org/wp-admin/admin-ajax.php?nonce=e3783f4e3c","flash_swf_url":"https://institut-sommeil-vigilance.org/wp-includes/js/plupload/plupload.flash.swf","filters":[{"title":"Fichiers autoris\u00e9s","extensions":"*"}],"multipart":true,"urlstream_upload":true,"warning":"Nombre maximum de fichiers atteint\u00a0!","size_error":"Le fichier que vous avez t\u00e9l\u00e9vers\u00e9 d\u00e9passe la taille maximale autoris\u00e9e. Veuillez r\u00e9essayer.","type_error":"Vous avez t\u00e9l\u00e9vers\u00e9 un type de fichier incorrect. Veuillez r\u00e9essayer."}};
+//# sourceURL=wpuf-upload-js-extra
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/js/upload.min.js?ver=4.2.3" id="wpuf-upload-js" data-rocket-defer defer></script>
+<script id="wpuf-frontend-form-js-extra">
+var wpuf_frontend = {"asset_url":"https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets","ajaxurl":"https://institut-sommeil-vigilance.org/wp-admin/admin-ajax.php","error_message":"Veuillez corriger les erreurs pour continuer","nonce":"b4d8545cc7","word_limit":"Limite de mots atteinte","cancelSubMsg":"Confirmez-vous vouloir annuler votre adh\u00e9sion actuelle\u00a0?","delete_it":"Oui","cancel_it":"Non","word_max_title":"Maximum word limit reached. Please shorten your texts.","word_max_details":"This field supports a maximum of %number% words, and the limit is reached. Remove a few words to reach the acceptable limit of the field.","word_min_title":"Minimum word required.","word_min_details":"This field requires minimum %number% words. Please add some more text.","char_max_title":"Maximum character limit reached. Please shorten your texts.","char_max_details":"This field supports a maximum of %number% characters, and the limit is reached. Remove a few characters to reach the acceptable limit of the field.","char_min_title":"Minimum character required.","char_min_details":"This field requires minimum %number% characters. Please add some more character.","protected_shortcodes":["wpuf-registration"],"protected_shortcodes_message":"Using %shortcode% is restricted","password_warning_weak":"Your password should be at least weak in strength","password_warning_medium":"Your password needs to be medium strength for better protection","password_warning_strong":"Create a strong password for maximum security","pro_asset_url":"https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend-pro/assets"};
+var error_str_obj = {"required":"est n\u00e9cessaire","mismatch":"ne correspond pas","validation":"est invalide"};
+//# sourceURL=wpuf-frontend-form-js-extra
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/wp-user-frontend/assets/js/frontend-form.min.js?ver=4.2.3" id="wpuf-frontend-form-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/vendor/sweetalert2/sweetalert2.js?ver=1766421864" id="wpuf-sweetalert2-js" data-rocket-defer defer></script>
+<script id="wpuf-subscriptions-js-extra">
+var wpuf_subscription = {"pack_notice":"Veuillez d\u2019abord annuler votre forfait actuellement actif\u00a0!"};
+//# sourceURL=wpuf-subscriptions-js-extra
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/plugins/wp-user-frontend/assets/js/subscriptions-old.js?ver=1766421864" id="wpuf-subscriptions-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/themes/katen/js/popper.min.js?ver=6.9" id="popper-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/themes/katen/js/bootstrap.min.js?ver=6.9" id="bootstrap-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/themes/katen/js/infinite-scroll.min.js?ver=6.9" id="infinite-scroll-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/themes/katen/js/slick.min.js?ver=6.9" id="slick-slider-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/cache/min/1/wp-content/themes/katen/js/custom.js?ver=1766421864" id="katen-custom-js-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.2" id="elementor-webpack-runtime-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.2" id="elementor-frontend-modules-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"3.33.2","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"theme_builder_v2":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/institut-sommeil-vigilance.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"9b85df322d"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":9775,"title":"A%20quoi%20servent%20les%20r%C3%AAves%20%3F%20-%20INSV%20Institut%20National%20du%20Sommeil%20et%20de%20la%20Vigilance","excerpt":"","featuredImage":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/uploads\/2020\/02\/dreaming-child-2021-08-26-15-47-25-utc-scaled-1024x683.jpg"}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.2" id="elementor-frontend-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js" data-rocket-defer defer></script>
+<script src="https://institut-sommeil-vigilance.org/wp-includes/js/wp-embed.min.js?ver=6.9" id="wp-embed-js" defer data-wp-strategy="defer"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.33.2" id="elementor-pro-webpack-runtime-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/institut-sommeil-vigilance.org\/wp-admin\/admin-ajax.php","nonce":"7f2a83a7d7","urls":{"assets":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/institut-sommeil-vigilance.org\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/institut-sommeil-vigilance.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.33.2" id="elementor-pro-frontend-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://institut-sommeil-vigilance.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.33.2" id="pro-elements-handlers-js" data-rocket-defer defer></script>
+    <script type="rocketlazyloadscript" data-rocket-type="text/javascript">window.addEventListener('DOMContentLoaded', function() {
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="XlbZPEzhMrfB_yI" value="sWeVQUoH" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="ZCBfLj" value="*5TUHKhlj" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="fRyV-pjWKGnoHNg" value="YK[CG]TQwkp_" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="XlbZPEzhMrfB_yI" value="sWeVQUoH" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="ZCBfLj" value="*5TUHKhlj" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="fRyV-pjWKGnoHNg" value="YK[CG]TQwkp_" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("XlbZPEzhMrfB_yI", "sWeVQUoH");
+data.data.append("ZCBfLj", "*5TUHKhlj");
+data.data.append("fRyV-pjWKGnoHNg", "YK[CG]TQwkp_");
+                    }
+                    else {
+                        data.data = data.data + '&XlbZPEzhMrfB_yI=sWeVQUoH&ZCBfLj=*5TUHKhlj&fRyV-pjWKGnoHNg=YK[CG]TQwkp_';
+                    }
+                }
+            });
+
+        });
+    });</script>
+	<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://institut-sommeil-vigilance.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/institut-sommeil-vigilance.org\/wp-admin\/admin-ajax.php","nonce":"68c1074d29","url":"https:\/\/institut-sommeil-vigilance.org\/a-quoi-servent-les-reves","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://institut-sommeil-vigilance.org/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script><script>(()=>{class RocketElementorPreload{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}t(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this.i(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach((t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this.o(t)}catch(t){}}))}o(t){const e=JSON.parse(t.dataset.settings),i=e.m||e.animation_delay||0,n=e[this.animationSettingKeys.find((t=>e[t]))];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let o=setTimeout((()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this.l(t,e)}),i);window.addEventListener("rocket-startLoading",(function(){clearTimeout(o)}))}i(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach((t=>{e.forEach((e=>{i.push(t+e)}))})),i}l(t,e){this.i().forEach((t=>delete e[t])),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorPreload;requestAnimationFrame(t.t.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorPreload.run)})();</script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767373676 -->

@@ -1,0 +1,786 @@
+Dreams and Dreaming
+   Dreams and dreaming have been discussed in diverse areas of philosophy
+   overview of major themes in the philosophy of sleep and dreaming, with
+     * 1. Dreams and epistemology
+          + 1.1 Cartesian dream skepticism
+          + 1.2 Earlier discussions of dream skepticism and why Descartes’
+          + 1.3 Dreaming and other skeptical scenarios
+          + 1.4 Descartes’ solution to the dream problem and real-world
+            dreams
+     * 2. The ontology of dreams
+          + 2.1 Are dreams experiences?
+          + 2.2 Dreams as instantaneous memory insertions
+          + 2.3 Empirical evidence on the question of dream experience
+          + 2.4 Dreams and hallucinations
+          + 2.5 Dreams and illusions
+          + 2.6 Dreams as imaginative experiences
+          + 2.7 Dreaming and waking mind wandering
+          + 2.8 The problem of dream belief
+     * 3. Dreaming and theories of consciousness
+          + 3.1 Dreaming as a model system and test case for consciousness
+          + 3.2 Dreams, psychosis, and delusions
+          + 3.3 Beyond dreams: Dreamless sleep experience and the concepts
+     * 4. Dreaming and the self
+     * 5. Immorality and moral responsibility in dreams
+     * 6. The meaning of dreams and the functions of dreaming
+          + 6.1 The meaning of dreams
+          + 6.2 The functions of dreaming
+1. Dreams and epistemology
+1.1 Cartesian dream skepticism
+   Dream skepticism has traditionally been the most famous and widely
+   discussed philosophical problem raised by dreaming (see Williams 1978;
+   Stroud 1984). In the Meditations, Descartes uses dreams to motivate
+   deception. By contrast, dreams suggest that even in a seemingly
+   dream.
+   There are different ways of construing the dream argument. A strong
+   reading is that Descartes is trapped in a lifelong dream and none of
+   Dreaming Doubt; see Newman 2019). A weaker reading is that he is just
+   sometimes dreaming but cannot rule out at any given moment that he is
+   dreaming right now (the Now Dreaming Doubt; see Newman 2019). This is
+   are unless he can rule out that he is dreaming. Doubt is thus cast on
+   If we apply this to the case of dreaming, we get:
+    2. If I were now dreaming, this would be a genuine ground for doubting
+       that I am sitting dressed by the fire: in dreams, I have often had
+   Importantly, both strong and weak versions of the dream argument cast
+   sides is knowable even if he is now dreaming:
+     although, in truth, I should be dreaming, the rule still holds that
+   By Descartes’ lights, dreams do not undermine our ability to engage in
+1.2 Earlier discussions of dream skepticism and why Descartes’ version is
+   Dream arguments have been a staple of philosophical skepticism since
+   Earlier versions tended to touch upon dreams just briefly and discuss
+     dreams and diseases, including insanity, and everything else that is
+   Dreams also appear in the canon of standard skeptical arguments used by
+   the Pyrrhonists. Again, dreams and sleep are just one of several
+   Augustine (Against the Academics; Confessions) thought the dream
+   distinguish both dreams and illusions from actual perception (Matthew
+   dreams.
+   Descartes devoted much more space to the discussion of dreaming and
+   that he has often been deceived by his dreams implies he also saw
+   dreaming as a real-world (rather than merely hypothetical) threat.
+   claims (Frankfurt 1970). For example, Descartes builds up towards dream
+   then deceptively realistic dreams.
+   Finally, much attention has been devoted to several dreams Descartes
+   reportedly had as a young man. Some believe these dreams embodied
+   (2001:252) suggests that for Descartes, dream skepticism was not just a
+   some discussion about the dream reports’ authenticity (Freud 1940; Cole
+1.3 Dreaming and other skeptical scenarios
+   In the Meditations, after discussing the dream argument, Descartes
+   deceive us even in our most basic beliefs. Contrary to dream deception,
+   Still, it radicalizes the dream doubt in two respects. One, where the
+   dream argument left the knowability of certain general truths intact,
+   dream argument, at least on the weaker reading, involves just temporary
+   Unlike dream deception, which is often cast as a regularly recurring
+   psychological force by capitalizing on the analogy with dreams. Clark
+   shifts that are the hallmark of dreams.
+1.4 Descartes’ solution to the dream problem and real-world dreams
+   the dream problem that is tied to a reassessment of what it is like to
+   dream. Contrary to his remarks in the First Meditation, he notes that
+   dreams are only rarely connected to waking memories and are often
+   discontinuous, as when dream characters suddenly appear or disappear.
+   For all practical purposes, he has now found a mark by which dreaming
+   coherence test is not fail-safe, the threat of dream deception has been
+   dreams are backed up by empirical work on dream bizarreness (see Hobson
+   revised phenomenological description characterizes most dreams, one
+   might occasionally merely dream of successfully performing the test
+   (Hobbes 1641), and in some dreams, one might seem to have a clear and
+   How considerations of empirical plausibility impact the dream argument
+   scientific dream research to introduce an introspective criterion: when
+   dreaming. However, this assumes critical reasoning to be uniformly
+   absent in dreams. If attempts at critical reasoning do occur in dreams
+   which even after awakening, people mistake what was in fact a dream for
+   some people, dream deception might be a genuine cause of concern (Windt
+2. The ontology of dreams
+   etc. in dreams (cf. Dennett 1976). These are all phenomenal states:
+   experience (cf. Nagel 1974). To ask about dream experience is to ask
+   whether it is like something to dream while dreaming, and whether what
+2.1 Are dreams experiences?
+   Cartesian dream skepticism depends on a seemingly innocent background
+   assumption: that dreams are conscious experiences. If this is false,
+   then dreams are not deceptive experiences during sleep and we cannot be
+   deceived, while dreaming, about anything at all. Whether dreams are
+   experiences is a major question for the ontology of dreams and closely
+   bound up with dream skepticism.
+   The most famous argument denying that dreams are experiences was
+   analysis of dreaming as a target phenomenon for philosophy of mind.
+   For Malcolm, the denial of dream experience followed from the
+     the concept of dreaming is derived, not from dreaming, but from
+     descriptions of dreams, i.e., from the familiar phenomenon that we
+     call “telling a dream”. (Malcolm 1959:55)
+   Malcolm argued that retrospective dream reports are the sole criterion
+   for determining whether a dream occurred and there is no independent
+   way of verifying dream reports. While first-person, past-tense
+   1961; Siegler 1967; Schröder 1997), he argued dream reports (such as
+   “in my dream, I felt afraid”) are governed by different grammars and
+   dream reports imply the occurrence of experiences (such as thoughts,
+     If a man had certain thoughts and feelings in a dream it no more
+     it follows from his having climbed a mountain in a dream that he
+   and it is senseless to apply them to sleep and dreams (Malcolm 1959:
+   Malcolm’s analysis of dreaming has been criticized as assuming an
+   of dreams in sleep aside from dream reports. This includes behavioral
+   the person was partially awake; as he also thought dreams occur in
+   investigation of dreaming proper. He also claimed adopting a
+   physiological criterion of dreaming (such as EEG measures of brain
+   activity during sleep) would change the concept of dreaming, which he
+   argued was tied exclusively to dream reporting. This claim was
+   sleep and its association with dreaming (Dement & Kleitman 1957), which
+   dreaming. Malcolm’s position was that the very project of a science of
+   dreaming was misguided.
+   physiological evidence can be used to verify dream reports (Ayer 1960)
+   and the alleged principled difference between dream reports and other
+   Putnam noted that Malcolm’s analysis of the concept of dreaming relies
+     connection between dreams and waking impressions. […] this “depth
+   of dreaming,
+     does not imply that nothing goes on in our minds while we dream.
+   Whether dream thoughts, feelings or beliefs should count as real
+   experiences while asleep and dreaming.
+2.2 Dreams as instantaneous memory insertions
+   To ask about dream experience is also to ask whether there is something
+   it is like to dream during sleep as opposed to there just being
+   something it is like to remember dreaming after awakening. Dennett’s
+   (1976, 1979) cassette theory says dreams are the product of
+   cassette with pre-scripted dreams had been inserted into memory, ready
+   for replay. Dennett claims the cassette theory and the view that dreams
+   instance on the relationship between dreaming and REM sleep. The
+   only an unconscious dream composition process rather than an additional
+   theories based on dream recall; the question of dream experience should
+   While Dennett shares Malcolm’s skepticism about dream experience, this
+   science of dreaming. For Dennett, the unreliability of dream recall
+   to Maury’s (1861) description of a long and complex dream about the
+   fallen on his neck. Because the dream seemed to systematically build up
+   Similarly, Gregory (1916) described dreams are psychical explosions
+   The trustworthiness of dream reports continues to be contentious. Rosen
+   (2013) argues that dream reports are often fabricated and fail to
+   Windt (2013, 2015a) argues that dream reports can at least under
+   certain conditions (such as in laboratory studies, when dreams are
+2.3 Empirical evidence on the question of dream experience
+   Unlike Malcolm, many believe that whether dreams are experiences is an
+   A first reason for thinking that dreams are experiences during sleep is
+   the relationship between dreaming and REM (rapid eye movement) sleep.
+   seem to support the experiential status of dreams as well as explain
+   dreaming are in fact much more frequent following REM (81.9%) than NREM
+   objective marker of dreaming (Dement & Kleitman 1957; Hobson 1988:
+   Attempts to identify dreaming with mental activity during REM sleep
+   have not, however, been successful, and many now hold that dreams can
+   has been renewed interest in NREM sleep for the study of dreaming
+   dreaming is not straightforward.
+   A second line of evidence comes from lucid dreams, or dreams in which
+   one knows one is dreaming and often has some level of dream control
+   lucid dreaming was coined by van Eeden (1913), but Aristotle (On
+   Dreams) already noted that one can sometimes be aware while dreaming
+   that one is dreaming.
+   Scientific evidence that lucid dreaming is real and a genuine sleep
+   1981) showing lucid dreamers can use specific, pre-arranged patterns of
+   they are now lucid and engaging in dream experiments. These signals are
+   dream-eye movements and real-eye movements (as predicted by the
+   dreamer really was lucid and signalled lucidity (Dresler et al. 2012;
+   Signal-verified lucid dreams have been used to study muscular activity
+   accompanying body movements in dreams (Erlacher et al. 2003; Dresler et
+   dreaming (Voss et al. 2009), and imaging studies (Dresler et al. 2011,
+   different activities performed in lucid dreams; contrary to the
+   cassette theory, lucid dreams have temporal extension and certain dream
+   Voss et al. 2014). The combination of signal-verified lucid dreaming
+   with volitional control over dream content, retrospective report, and
+   A third line of evidence (Revonsuo 2006: 77) comes from dream-enactment
+   or fighting off an attacker during REM sleep. Retrospective dream
+   act out their dreams during sleep.
+   about dream experience. They might worry that results from lucid
+   dreaming and dream enactment do not generalize to ordinary, non-lucid
+   dreams; they might also construe alternative explanations that do not
+   dream experience. A key issue is that to support the experiential
+   status of dreams, evidence from sleep polysomnography, signal verified
+   lucid dreams, or sleep behavior requires convergence with retrospective
+   dream reports. This means trusting dream reports is built into any
+   attempt to empirically resolve the question of dream experience – which
+   the convergence of dream reports and objective polysomnographic or
+   behavioral observations is best explained by the assumption that dreams
+   further incoming findings. This strategy places dream reports at the
+   center of scientific dream research while avoiding the contentious
+   of dreams, can be demonstrated conclusively by independent empirical
+2.4 Dreams and hallucinations
+   Even where philosophers agree dreams are experiences, they often
+   disagree on how exactly to characterize dreaming relative to wake-state
+   psychological terms. Often, questions about the ontology of dreaming
+   The standard view is that dreams have the same phenomenal character as
+   perceived. This means dreams count as hallucinations in the
+   a particularly realistic dream, my visual experience was exactly as it
+   dreams should be regarded as hallucinations. Some believe the term
+   The view that dreams involve hallucinations is implicit in Descartes’
+   assumption that even when dreaming,
+   It also lies at the heart of Aristotle’s (On Dreams) assumption that
+   dreams result from the movements of the sensory organs that continue
+   The assumption of phenomenological equivalence between dream and waking
+   Russell defended sense-data theory by noting that in dreams,
+     dreaming. (Russell 1948: 149–150)
+   Elsewhere, he argued dreams and waking life
+     merely sensible that dreams can be condemned. (Russell 1914: 69)
+   Hume was less clear on this matter, proposing that dreams occupy an
+   creatures of the mind, Hume wanted to categorize dreams as ideas. On
+   the vivacity of sensory impressions” (Hume 1739: 1.1.1.1). Dreams do
+   Phenomenologists often focus not so much on the quality of dream
+   imagery as on the overall character of experience, noting that dreams
+   present in a world. This also sets dreams apart from waking fantasy and
+   daydreams (Husserl 1904/1905; Uslar 1964; Conrad 1968; Globus 1987: 89.
+   At its strongest, the hallucination view claims that dreaming and
+   consciousness itself is dreamlike and waking perception a kind of
+   dreams is paralleled by high activation of the corresponding brain
+   cognitive deficits often thought to characterize dreams such as the
+   of dreaming results from the fact that in REM sleep, the visual and
+   sole difference being dreams’ dependence on internal signal generation.
+   they took to support the perceptual equivalence between dreaming and
+   Generally, versions of the hallucination view that suggest dreams
+   visual search), we might not know enough about dream phenomenology to
+   view. Dreams are heterogeneous, and some might be more perception-like
+   which tend to be rare in dreams (Hobson 1988). Visual dream imagery
+   Classifying dreams as either hallucinatory or imaginative is further
+   between, say, visual dream imagery and visual perception does not
+   necessarily set dreaming apart from waking imagination.
+   This is also true for evidence on eye movements in dreams. LaBerge and
+   smooth in lucid dreaming and perceiving, but not in imagining. Drawing
+   from this evidence, Rosen (forthcoming) suggests many dreams mimic the
+   movements and visual search. Others argue we should not analogize dream
+   might instead be implicated in the generation of dream imagery (Windt
+2.5 Dreams and illusions
+   Another way to make sense of the claim that dreaming has the same
+   phenomenal character as waking perception is to say some kinds of dream
+   hallucination view on whether dreams have a contemporaneous external
+   Ancients believed dreams have bodily sources. This idea underlies the
+   practice of using dreams to diagnose illness, as practiced in the
+   shrines at Epidaurus (Galen On Diagnosis in Dreams; van de Castle
+   1994). Aristotle (On Dreams) thought some dreams are caused by
+   dreams could be traced to different bodily sensations. For instance,
+   “lying cold breedeth Dreams of Feare, and raiseth the thought and Image
+   Appeals to the bodily sources of dreaming became especially popular in
+   the 19^th and early 20^th centuries. Many believed specific dream
+   There were also attempts to explain the phenomenology of dreaming by
+   dreams of being unable to move (Bradley 1894) or of trying but failing
+   of dreaming attempted to go beyond anecdotal observations to conduct
+   stimulation during sleep on dream content (see Schredl 2010 for
+   in dreams can inform claims on the ontology of dreaming: If dreams are
+   frequency of dreams in nearby sleepers as well as the frequency of
+   sound in their dreams, and it should decrease the range of quality and
+   intensity of these dreams, making them overall more similar and
+   stimuli in dreams, including light flashes, sounds, sprays of water
+   Muscular activity also often leaves its mark on dreams. It occurs
+   2016). The relation between outward and dream movements is complex: in
+   some cases, outward movements might mirror dream movements, while in
+   others, sensory feedback might prompt dream imagery (Windt 2018).
+   varying degrees to dream and sleep onset imagery (Nielsen 2017; Windt
+   a dream, as a siren, or when blood pressure cuff inflation on the leg
+   leads to dreams of wearing strange shoes (Windt 2018; for these and
+   blood pressure cuff stimulation on the leg prompts a dream of seeing
+   Saying that dreams can be prompted by external stimuli and that in some
+   somatic-stimulus theory, that dreams generally are caused by external
+     ideas which arise in dreams come, at least to a great extent, from
+   external or bodily stimuli on their own cannot fully explain dream
+   dreams. Sensory incorporation in dreams is often hard to predict and
+   explanation of dream content additionally has to take the cognitive and
+   memory sources of dreaming into account (Windt 2018; Nielsen 2017; cf.
+2.6 Dreams as imaginative experiences
+   The most important rival to the hallucination view is that dreams are
+   mean dream imagery involves imaginings rather than percepts (including
+   hallucinations or illusions; McGinn 2004), that dream beliefs are
+   2009). An important advantage is that by assimilating dreams to
+   commonplace mental states such as waking fantasy and daydreaming,
+   are diverse, and dreams have been proposed to resemble imaginings and
+   One way is to deny dreams involve presence or the feeling of being in a
+   theorists compare the sense in which we feel present in our dreams to
+   daydream (Sartre 1940; McGinn 2004; but see Hering 1947; Globus 1987).
+   dreams) interrupts cognitive absorption and terminates the ongoing
+   dream (Sartre 1940), essentially denying lucid dreams are possible.
+   Another issue is whether dreams are subject to the will (Ichikawa
+   Because dreams just seem to happen to us without being under voluntary
+   Ichikawa (2009) argues lucid control dreams show dreams are generally
+   Dreams are widely described as more indeterminate than waking
+   perception (James 1890: 47; Stone 1984). In scientific dream research,
+   (Hobson 1988; Revonsuo & Salmivalli 1995). An example are dream
+   just knowing (Kahn et al. 2000, 2002; Revonsuo & Tarkko 2002). Dreams
+   (Thompson 2014); while it is tempting to construe the dream world as
+   rich in detail, there is no more to dreams than meets the eye, and many
+   think dream experience is exhausted by what is the focus of selective
+   Indeterminacy is also related to the question of whether we dream in
+   theories on dream color that coincides with the rise first of
+   that dreams themselves changed from colored to black and white and back
+   explanation. Maybe dreams were either black and white or colored all
+   main point is that reports of colored dreaming are unreliable and our
+   opinions about dreams can be mistaken (but see Windt 2013, 2015a). This
+   The issue of dream color has led to a number of follow-up studies
+   al. 2008; Hoss 2010). They suggest most people dream in color and a
+   small percentage describe grayscale or even mixed dreams (Murzyn 2008)
+   or dreams involving moderate color saturation (Rechtschaffen and
+   The imagination view has consequences for Cartesian dream skepticism.
+   If dream pain does not feel like real pain, there is a fail-safe way to
+   determine whether one is now dreaming: one need only pinch oneself
+     if our dreamer pleases to try, whether the glowing heat of a glass
+   If dreaming feels different from waking, this raises the question why
+   we tend to describe dreams in the same terms as waking perception.
+     it is just because we all know that dreams are throughout unlike
+   Some authors classify dreams as imaginings while acknowledging they
+   feel like perceiving. For example, Hobbes describes dreams as “the
+   appearance to us is Fancy, the same waking, that dreaming” (Hobbes
+   cognitive theories. Foulkes (1978: 5) describes dreaming as a form of
+   thinking with its own grammar and syntax, but allows that dream imagery
+   model of dreaming (2001, 2003) emphasizes the dependence of dreaming on
+   cessation of dreaming following brain lesions (cf. Solms 1997, 2000),
+   evidence that dreaming develops gradually and in tandem with
+   et al. 1994), and results from dream content analysis supporting the
+   continuity of dreaming with waking concerns and memories (the so-called
+2.7 Dreaming and waking mind wandering
+   A number of researchers have begun to consider dreaming in the context
+   on phenomenological and neurophysiological similarities, dreams have
+   that the spontaneous formation of visions in dreams surpasses the
+   The analogy between dreams and waking mind wandering has been discussed
+   dreams and waking mind wandering as involving a cyclically recurring
+   conscious thought processes. Dreams and waking mind wandering are not
+   subpersonal processes such as breathing or heartbeat. Because dreaming
+   This raises the question of how to make sense of lucid control dreams,
+   dreams and instances of waking mind wandering can be both spontaneous
+   the ontology of dreaming. In this debate, a common assumption is that
+   dreams can be categorized as either hallucinatory or imaginative. Yet
+   the application of these terms to dreams quickly runs into
+   option is pluralism (Rosen 2018b), in which some aspects of dreaming
+   Another is that dreams are sui generis, combining aspects associated
+   particularly suitable for the characterization of dreaming precisely
+   phenomenology of dreaming, allowing for variation in control,
+   describing what is unique about dreaming while also acknowledging
+2.8 The problem of dream belief
+   The second strand of the imagination view argues that dream beliefs are
+   combined with the claim that dream imagery is imaginative rather than
+   Denying that dream beliefs have the status of real beliefs only makes
+   of belief, dream beliefs fall short of real beliefs. He claims dream
+   real beliefs. Moreover, we cannot ascribe dream beliefs to a person by
+   observing them lying asleep in bed. Dream beliefs are often
+   This analysis of dream beliefs has consequences for skepticism. If
+   dream beliefs are propositional imaginings, then we do not falsely
+   believe while dreaming that we are now awake, but only imagine that we
+   deception. If dream beliefs fall short of real beliefs, this might even
+   make the specter of dream deception more worrisome: in mistaking dream
+     in fact believe or realize in the course of a dream that he was
+     dreaming, and even if we said that, in such case, he only dreamt
+     that he was dreaming, this still leaves it possible for someone who
+   The debate about dream beliefs is paralleled by a debate about whether
+   especially as dreams are sometimes proposed to be delusional (Hobson
+3. Dreaming and theories of consciousness
+3.1 Dreaming as a model system and test case for consciousness research
+   Dreams are a global state of consciousness in which experience arises
+   states (such as psychosis or neurological syndromes), dreams occur
+   regard dreams as a test case for theories of consciousness or even an
+   Existing proposals differ on the phenomenology of dreaming: referring
+   to dream bizarreness, Churchland describes dream experience as robustly
+   different from waking, whereas Revonsuo argues dreaming is similar to
+     the dreaming brain brings out the phenomenal level of organization
+     in a clear and distinct form. Dreaming is phenomenality pure and
+   Revonsuo argues dreaming reveals the basic, state-independent structure
+   of consciousness to be immersive: “dreaming depicts consciousness first
+   simulational and dreamlike. This is taken to support internalism about
+   phenomenological differences between dreaming and waking (such as
+   greater instability of visual dream imagery) result from the lack of
+   dynamic interaction with the environment in dreams. He proposes this
+   shows that neural states are sufficient for dreaming but denies they
+   assumptions about the phenomenology of dreaming and its disconnection
+   argues both internalism and externalism mistakenly assume dreams to be
+   believes both the phenomenology of dreaming and its correlation with
+   dreaming does not clearly support either side in the debate on
+   absence of a well worked out theory of dreaming and its sleep-stage and
+   neural correlates, proposals for using dreaming as a model system or
+   perception, imagination, and dreaming. In these accounts, different
+     this is correct, are inevitably potential dreamers and imaginers
+     too. Moreover, they are beings who, in dreaming and imagining, are
+   features of dreaming. Bizarreness has been associated with the
+   comparative lack of external stimulus processing, implying dream
+   suggests a predictive processing account of dream imagery generation
+   & Plumeau 2016). She argues that movement sensations in dreams, in
+   Dreams have also been suggested as a test case for whether phenomenal
+   but see Cohen & Dennett 2011). Sebastián (2014a) argues that dreams
+   REM-sleep dreams, the dorsolateral prefrontal cortex (dlPFC) as the
+3.2 Dreams, psychosis, and delusions
+   Dreaming has been suggested as a model system not just of waking
+   particular. The analogy between dreaming and madness has a long
+   “dreaming is not a model of a psychosis. It is a psychosis. It’s just a
+   healthy one” (Hobson 1999: 44). Gottesmann (2006) proposes dreaming as
+   on the theoretical and methodological implications of dream research
+   and a number of studies have investigated differences in dream reports
+   Rather than likening dreaming to waking in general or specific wake
+   specific dream phenomena to wake-state delusions. Gerrans (2012, 2013,
+   2014) focuses on character misidentification in dreams and delusions of
+   agency in dreams as compared to waking.
+3.3 Beyond dreams: Dreamless sleep experience and the concepts of sleep,
+   Philosophers have focused almost exclusively on dreaming, largely
+   leaving to the side questions about dreamless sleep including whether
+   interest in the possibility of dreamless sleep experience and
+   been paralleled by growing interest in dreaming in NREM sleep.
+   Conceptually, interest in dreamless sleep experience has been
+   facilitated by the precise definition of dreaming offered by simulation
+   views (Revonsuo et al. 2015). If dreams are immersive sleep experiences
+   contrast, if dreaming is broadly identified with any conscious
+   for dreamless sleep experience.
+   Following Thompson's (2014, 2015) discussion of dreamless sleep in
+   Windt 2015b) introduce a framework for different kinds of dreamless
+   in sleep are white dreams, where people report having had experiences
+   white dream reports might describe experiences that lack reportable
+   content (Windt 2015b); others might describe forgotten dreams or dreams
+   reports of witnessing dreamless sleep, as described in certain
+   in Buddhist philosophy explain claims of deep and dreamless sleep by
+   Empirically, interest in dreamless sleep experience is paralleled by
+   Most researchers now accept that dreaming is not confined to REM sleep,
+   proportions of dreaming, unconscious sleep, and white dreams (Noreika
+   correlates of dreaming vs unconscious dreamless sleep, this makes
+   involved in comparing presumably dreamful REM sleep with presumably
+   dreamless NREM sleep. Findings suggest that activity in the same
+   parietal hot zone underlies dreaming in both NREM and REM sleep
+   Where sleep and dream research have traditionally tried to identify the
+   sleep stage correlates of dreaming, newer research suggests local
+   2019). While sleep and dream research are often considered as separate
+   conception of dreaming and its empirical investigation.
+   Historically, discoveries about dreaming have precipitated changing
+   and dreaming, see Kroker 2007). Following Aristotle (On Sleeping and
+   empirically implausible. At the same time dreaming, which had
+   narrowed to REM sleep. Today, the framework for describing dreams and
+   other sleep-related experiences is more precise, but dreaming has also
+   this potential need not be actualized. By contrast, dreaming is an
+   dreams, the epistemic and agentive profile of waking is at least partly
+   waking than nonlucid dreams.
+   imagination model of dreaming and dream skepticism (Soteriou 2017). As
+   in the imagination model, dreaming would be passive and action,
+   including cognitive agency, would be tied to waking. If dreaming
+   active, one would be unable to tell that one were dreaming and
+   The sceptical consequence would be that when dreaming, one would lose
+   conceptions of sleep and dreaming. As dreaming went from a state whose
+   defined contrastively as that which disappears in deep, dreamless sleep
+   and reappears in waking and dreaming (Searle 2000; Tononi 2008). In
+   light of dreamless sleep experience, such definitions are problematic
+   (Thompson 2014, 2015; Windt 2015b; Windt et al. 2016). Dreamless sleep
+   The investigation of dreamless sleep might thus shed light on the
+4. Dreaming and the self
+   We almost always have a self in dreams, though this self can sometimes
+   self or even a different person entirely. Dreams therefore raise
+   interesting questions about the identity between the dream and waking
+   dreams and the idea that we dream throughout sleep, remembering only a
+   small proportion of our dreams (Locke 1689: II.I.19).
+   Valberg distinguishes between the subject of the dream (i.e., the dream
+   self) and the sleeping person who is the dreamer of the dream and
+   a dream involves crossing a chasm between discrete worlds with discrete
+   (Valberg 2007: 69). According to Valberg, this is relevant to dream
+   that it is I who emerge from a dream or that I was the victim of dream
+   Vicarious dreams, or dreams in which the protagonist of the dream seems
+   to be a different person from the dreamer, are particularly puzzling
+   the dream self has an independent existence (Rosen & Sutton 2013:
+   1047). Such dreams are superficially similar to cases in which we
+   a different explanation: in the case of dreaming, the imagined person’s
+   nonlucid dreams, only the perspective of the dream’s protagonist is
+   The dream self is also at the center of simulation views of dreaming,
+   which define dreaming via its immersive, here and now character as the
+   the phenomenology of self-experience in dreams and how it is different
+   focus on different aspects of self- and world experience in dreams,
+   features of selfhood in dreams (Revonsuo 2005, 2006, Metzinger 2003,
+   dreams and what this tells us about minimal phenomenal selfhood in
+   about the definition of dreaming. They also integrate the philosophy of
+   dreaming and scientific dream research.
+   As so often in debates about dreaming, there is disagreement about
+   self-experience including bodily experience in dreams as identical to
+   dreams. He argues this is due to the cognitive and mnemonic deficit
+   that characterizes nonlucid dreams (cf. Hobson et al. 2000). Windt
+   dreams, both of which she describes as variable. She argues that in a
+   majority of cases, dreams are weakly phenomenally embodied states in
+   experience in dreams is largely indeterminate (for an attempt to test
+   is because dreams are also weakly functionally embodied states, in
+   analyzes instances of bodiless dreams, in which dreamers say they
+5. Immorality and moral responsibility in dreams
+   How the phenomenology of dreaming compares to waking and what to say
+   about how the dream self relates to the waking self bears on questions
+   about the moral status of dreams. For Augustine (Confessions) dreams
+   from waking life. What particularly worried him about dreams of sexual
+   seeming acquiescence or consent on the part of the dreamer. He
+   involves a radical chasm, enabling the dreamer to awaken with a clear
+   dream actions.
+   What exactly Augustine thought the chasm between dreaming and waking
+   Firstly, if the dream and waking self are not identical, then waking
+   Augustine is not morally responsible for dream-Augustine’s actions.
+   Secondly, actions performed in dreams might be morally irrelevant
+   responsibility requires the ability to act otherwise, dreams provide no
+   types of dreams.
+   The issue of dream immorality may also present a choice point between
+   dream immorality itself should count against purely internalist
+   feature of dreams.
+   Central to the question of dream immorality is the status of dreams as
+   don’t have full control over our dreams, they are not completely
+   required to attain control over our dreams and in some cases they can
+   even be considered as actions. That lucid dream control is, to some
+6. The meaning of dreams and the functions of dreaming
+6.1 The meaning of dreams
+   Philosophical discussions of dreaming tend to focus on (a) dream
+   deception and (b) questions about the ontology of dreaming, its moral
+   status, etc., that tend to intersect with dream skepticism. By
+   contrast, the main source of interest in dreams outside of philosophy
+   traditionally has been dream interpretation and whether dreams are a
+   dreams and the use of prophetic and diagnostic dreams was not just a
+   dreams were distinguished by their putative epistemic value.
+   Artemidorus, for instance, used the term enhypnion to refer to dreams
+   term oneiron for meaningful and symbolic dreams of divine origin.
+   The practice of dream interpretation was famously attacked by Aristotle
+   in On Prophecy in Sleep. He denied that dreams are of divine origin,
+   are perceptible in the quiet of sleep. He also believed such dreams
+   desert – an assessment that was not apt to encourage interest in dreams
+   philosophers who believed dreams were often the source of superstitious
+   In Freudian dream theory, dream interpretation once more assumed a
+   was associated with claims about the psychic sources of dreaming. Freud
+   In the neuroscience of dreaming, Hobson famously argued that dreams are
+   illustrates the lack of design underlying the production of dream
+   Even if we grant that dreams are not messages from a hidden entity in
+   need of decoding, this does not imply that dream interpretation cannot
+   methods, dream interpretation can lead to personally significant
+   Finally, throughout history, views on the epistemic status of dreams
+   and the type of knowledge to be gained from dream interpretation (e.g.,
+   origin and sources of dreaming, which gradually moved from divine
+6.2 The functions of dreaming
+   Different theories on the functions of dreaming have been proposed and
+   functions of sleep stages and the functions of dreaming.
+   functions are obviously linked to dreaming. An exception is
+   studies have investigated the relationship between dream content and
+   2005). Dreams rarely involve episodic replay of waking memories (Fosse
+   novel, complex, and dreamlike images at sleep onset; he proposes these
+   microdreams shed light on the formation and sources of more complex
+   dreams. There is also some evidence that dream imagery might be
+   Prominent theories on the function of dreaming focus on bad dreams and
+   nightmares. It has long been thought that dreaming contributes to
+   dreams of nightmare sufferers or in dreams following traumatic
+   high prevalence of negative emotions and threatening dream content,
+   dreaming lies in the simulation of ancestral threats and the rehearsal
+   of threatening events and avoidance skills in dreams has an adaptive
+   in which social imagery in dreams supports social cognition, bonds, and
+   aspects of dream phenomenology. According to the vigilance hypothesis,
+   Dream sounds, but also smells or pains might distract attention from
+   vigilance hypothesis predicts that they only rarely occur in dreams
+   thus can occur in dreams without endangering the sleeping subject.
+   Focusing on the stuff dreams are not made of might then be at least as
+   important for understanding the function of dreaming as developing a
+   Finally, even if dreaming in general and specific types of dream
+   specific cognitive functions, it would still be possible that dreams
+   2000). It is also possible that the function of dreams is not knowable
+   A particular problem for any theory on the function of dreaming is to
+   explain why a majority of dreams are forgotten and how dreams can
+   enhanced dream recall is counterproductive. Another problem is that
+   dreaming can be lost selectively and independently of other cognitive
+   dreaming can be avoided if we do not assume that dreaming has a
+   states. This depends on the broader taxonomy of dreaming in relation to
+   wakeful states. For example, if dreaming is continuous with waking mind
+   should we expect dreams to have a single function; the functions of
+   dreaming might be as varied and complex as those of consciousness, and
+   Questions about dreaming in different areas of philosophy such as
+   dream research can meaningfully inform the philosophical discussion and
+   has often done so in the past. The discussion of dreaming has also
+   philosophy of dreaming and of sleep is central to important
+       Eye Movements, Visual Imagery, and Dreaming”, in Sleep and
+     * Aristotle, On Dreams, in Aristotle: On the Soul. Parva Naturalia.
+     * Artemidorus, The Interpretation of Dreams, R.J. White (ed.), New
+     * Ayer, A.J., 1960, “Professor Malcolm on Dreams”, Journal of
+       neuroscience of lucid dreaming”, Neuroscience & Biobehavioral
+     * Baldridge, B.J., 1966, “Physical Concomittants of Dreaming and the
+       Effect of Stimulation on Dreams”, Ohio State Medical Journal, 62:
+     * Barbera, J., 2008, “Sleep and Dreaming in Greek and Roman
+       Dreaming, Volume 1: Biological Aspects, Westport: Praeger
+     * ––– (eds.), 2007b, The New Science of Dreaming, Volume 2: Content,
+     * ––– (eds.), 2007c, The New Science of Dreaming, Volume 3: Cultural
+     * Berger, R.J., 1963, “Experimental Modification of Dream Content by
+     * Bergson, H., 1914, Dreams, E.E. Slosson (ed. and trans.), New York:
+     * Blumberg, M., 2010, “Beyond dreams: do sleep-related movements
+     * Blumberg, M., and A. Plumeau, 2016, “A new view of ‘dream
+     * Bradley, F.H., 1894, “The Failure of Movement in Dream”, Mind,
+       Dreams, New York: International Universities Press.
+     * Browne, A., 1977, “Descartes’s Dreams”, Journal of the Warburg and
+     * Bucci, A., and M. Grasso, 2017, “Sleep and dreaming in the
+       Sleep and Dreaming in our Emotional Lives, Oxford: Oxford
+     * Chihara, C.S., 1965, “What Dreams Are Made On”, Theoria, 31:
+     * Clark, A., 2005, “The Twisted Matrix: Dream, Simulation, or
+     * –––, 2013a, “Dreaming the Whole Cat: Generative Models, Predictive
+     * Cole, J.R., 1992, The Olympian Dreams and Youthful Rebellion of
+     * Crick, F. and G. Mitchinson, 1983, “The Function of Dream Sleep”,
+     * Crowther, T., 2018, “Experience, dreaming, and the phenomenology of
+     * D’Agostino, A., A. Castelnovo, and S. Scarone, 2013, “Dreaming and
+       2007, “Neuroimaging of Sleep and Dreaming”, in Barrett and McNamara
+       during Sleep to Dream Activity: An Objective Method for the Study
+       of Dreaming”, Journal of Experimental Psychology, 53: 89–97.
+       Body Motility, and External Stimuli to Dream Content”, Journal of
+     * Dennett, D.C., 1976, “Are dreams experiences?”, The Philosophical
+       “Cognitive and Emotional Processes during Dreaming: A Neuroimaging
+     * Domhoff, G.W., 2001, “A New Neurocognitive Theory of Dreams”,
+       Dreaming, 11: 13–33.
+     * –––, 2003, The Scientific Study of Dreams: Neural Networks,
+     * –––, 2011, “The Neural Substrate for Dreaming: Is It a Subsystem of
+     * Dreisbach, C., 2000, “Dreams in the History of Philosophy”,
+       Dreaming, 10(1): 31–41.
+       Steiger, P. Sämann, H. Obrig, and M. Czisch, 2011, “Dreamed
+       Correlates of Dream Lucidity Obtained from Contrasting Lucid versus
+     * Driver, J., 2007, “Dream immorality”, Philosophy, 82(1): 5–22.
+     * Dunlop, C.E.M. (ed.), 1977, Philosophical Essays on Dreaming.
+       Blagrove, 2013, “Dreaming and Insight”, Frontiers in Psychology, 4,
+     * Ellis, H., 1911, The World of Dreams, London: Constable & Company
+       Activation during Dreamed Hand Clenching: A Pilot Study on EEG
+       “Time for Actions in Lucid Dreams: Effects of Task Modality,
+     * Fazekas, P., and G. Nemeth, 2018, “Dream experiences and the neural
+     * Fazekas, P., G. Nemeth, and M. Overgaard, 2019, “White dreams are
+       made of colours: What studying contentless dreams can teach about
+       the neural basis of dreaming and conscious experiences”, Sleep
+     * Flanagan, O., 1995, “Deconstructing Dreams: The Spandrels of
+     * –––, 2000, Dreaming Souls: Sleep, Dreams, and the Evolution of the
+       “Dreaming and Episodic Memory: A Functional Dissociation?”, Journal
+     * Foulkes, D., 1978, A Grammar of Dreams, New York: Basic Books.
+     * –––, 1993a, “Children’s Dreaming”, in Dreaming as Cognition, C.
+     * –––, 1993b, “Dreaming and REM Sleep”, Journal of Sleep Research,
+     * –––, 1999, Children’s Dreaming and the Development of
+       Christoff, 2013, “Dreaming as Mind Wandering: Evidence from
+     * Frankfurt, H.G., 1970, Demons, Dreamers, and Madmen: The Defense of
+     * Galen, On Diagnosis in Dreams, L. Pearcy (ed.), <available online>.
+     * Gerrans, P., 2012, “Dream Experience and a Revisionist Account of
+     * –––, 2014, “Pathologies of Hyperfamiliarity in Dreams, Delusions
+     * Globus, G.G., 1987, Dream Life, Wake Life: The Human Condition
+       Through Dreams, New York: State University of New York Press.
+     * Gottesmann, C., 2006, “The Dreaming Sleep Stage: A New
+     * Gregory, J.C., 1916, “Dreams as Psychical Explosions”, Mind,
+     * –––, 1918, “The Dream of ‘Frustrated Effort’: A Suggested
+     * Hacking, I., 2001, “Dreams in Place”, Journal of Aesthetics and Art
+     * Hall, C.S., 1981, “Do We Dream during Sleep? Evidence for the
+     * Hartmann, E., 1998, Dreams and Nightmares: The New Theory on the
+       Origin and Meaning of Dreams, Cambridge: Perseus Books.
+     * Hearne, K., 1978, Lucid Dreams: An Electro-Physiological and
+     * Hering, J., 1947, “Concerning Image, Idea, and Dream”, Philosophy
+     * Hobson, J.A., 1988, The Dreaming Brain, New York: Basic Books.
+     * –––, 1999, Dreaming as Delirium. How the Brain Goes Out of Its
+     * –––, 2009, “REM Sleep and Dreaming: Towards a Theory of
+     * Hobson, J. and K. Friston, 2012, “Waking and Dreaming
+     * Hobson, J., E.F. Pace-Schott, and R. Stickgold, 2000, “Dreaming and
+       New Science of Dreaming, Parma: Mattioli 1885.
+     * Hodges, M. and W.R. Carter, 1969, “Nelson on Dreaming a Pain”,
+       of Concern- and Nonconcern-related Verbal Stimuli into Dream
+       of Color in Dreams: A Preliminary Investigation”, International
+       Journal of Dream Research, 3(1): 80–90.
+     * Hunter, J. F. M., 1983, “The difference between dreaming and being
+       Dreaming”, The Philosophical Quarterly, 58(232): 519–527.
+     * –––, 2009, “Dreaming and Imagination”, Mind & Language, 24(1):
+     * Jouvet, M., 1999, The Paradox of Sleep: The Story of Dreaming, L.
+       Cognition: Feeling and Character Identification in Dreaming”,
+       “Dreaming and Waking Consciousness: A Character Recognition Study”,
+     * Kantor, J., 1970, “Pinching and Dreaming”, Philosophical Studies,
+     * Keefer, M.H., 1996, “The Dreamer’s Path: Descartes and the
+       2016, “A template model of embodiment while dreaming: Proposal of a
+     * Koulack, D., 1969, “Effects of Somatosensory Stimulation on Dream
+     * Kramer, M., 2007, The Dream Experience: A Systematic Exploration,
+     * LaBerge, S., 2007, “Lucid Dreaming”, in Barrett and McNamara 2007a:
+       “Lucid Dreaming Verified by Volitional Communication during REM
+       visual targets distinguishes lucid REM sleep dreaming and waking
+       and I. Arnulf, 2010, “Do the Eyes Scan Dream Images during Rapid
+     * Levin, R. and T.A. Nielsen, 2009, “Nightmares, Bad Dreams, and
+       Dreaming”, Current Directions in Psychological Science, 18(2):
+       “The Dreaming Brain/Mind, Consciousness and Psychosis”,
+     * –––, 2011b, “Bizarreness in Dream Reports and Waking Fantasies of
+     * Llinás, R. and D. Paré, 1991, “Of Dreaming and Wakefulness”,
+     * Malcolm, N., 1956, “Dreaming and Skepticism”, The Philosophical
+     * –––, 1959, Dreaming, London: Routledge & Kegan Paul.
+     * Matthews, G.B., 1981, “On Being Immoral in a Dream”, Philosophy,
+     * McGinn, C., 2004, Mindsight: Image, Dream, Meaning, Cambridge, MA &
+     * –––, 2005a, “The Matrix of Dreams”, in Grau 2005: 62–70.
+     * –––, 2013b, “Why Are Dreams Interesting for Philosophers? The
+     * Mullane, H., 1965, “Moral Responsibility for Dreams”, Dialogue,
+     * –––, 1966, “Dreaming as an Action”, Dialogue, 5(02): 239–242.
+     * Murzyn, E., 2008, “Do We Only Dream in Colour? A Comparison of
+       Reported Dream Colour in Younger and Older Adults with Different
+     * Nagel, T., 1959, “Dreaming”, Analysis, 19(5): 112–116.
+       A Multidimensional Approach to Understanding Dreaming”, Journal of
+     * –––, 2010, “Dream Analysis and Classification: The Reality
+     * –––, 2017, “Microdream neurophenomenology”, Neuroscience of
+     * Nielsen, T.A. and J. Lara-Carrasco, 2007, “Nightmares, Dreaming,
+       of Dreaming?”, Nature, 437(7063): 1286–1289.
+       Stimulation during REM Sleep Alters Dream Limb Activity and Body
+     * Nielsen, T.A., C. Svob, and D. Kuiken, 2009, “Dream-Enacting
+     * Nir, Y. and G. Tononi, 2010, “Dreaming and the Brain: From
+       serial awakenings as a new paradigm for studies on NREM dreaming”,
+     * O’Shaughnessy, B., 2002, “Dreaming”, Inquiry, 45: 399–432.
+     * Pace-Schott, E.F., 2007, “The Frontal Lobes and Dreaming”, in
+     * –––, 2013, “Dreaming as a Story-Telling Instinct”, Frontiers in
+       White, 2001, “Definitions of Dream: A Paradigm for Comparing Field
+       Descriptive Specific Studies of Dream”, Dreaming, 11: 195–202.
+       dreaming: bridging phenomenology and neuroscience”, Phenomenology
+       “Sleep and Dreaming Are for Important Matters”, Frontiers in
+     * Prasad, H.S., 2000, “Dreamless Sleep and Soul: a controversy
+     * –––, 1962 [1986], “Dreaming and ‘Depth Grammar’”, in Analytical
+       of Dreams”, in The Neuropsychology of Sleep and Dreaming, J.S.
+     * Reed, T.M., 1979, “Dreams, Scepticism and Waking Life”, in Body,
+       “Self-Representation and Bizarreness in Children’s Dream Reports
+     * Revonsuo, A., 2000, “The Reinterpretation of Dreams: An
+       Evolutionary Hypothesis of the Function of Dreaming”, Behavioral
+     * –––, 2005, “The Self in Dreams”, in The Lost Self. Pathologies of
+       Bizarre Elements in Dreams”, Dreaming, 5:169–187.
+     * Revonsuo, A. and K. Tarkko, 2002, “Binding in Dreams. The
+       Bizarreness of Dream Images and the Unity of Consciousness”,
+       Machine – Dreaming as a Simulation of Social Reality”, in T.
+       Views and Narrative Fabrication of Dreams”, Frontiers in
+       agency and ownership over dream thought”, Psychology of
+     * –––, 2018a, “Enactive or inactive? Cranially envatted dream
+     * –––, 2018b, “How bizarre? A pluralist approach to dream content”,
+     * –––, forthcoming, “Dreaming of a stable world: vision and action in
+       Perspectives in Dreams”, Philosophy Compass, 8(11): 1041–1053.
+       Somatosensory Stimulation on Dream Content in Gymnasts and Control
+       Dreaming, 8: 125–134.
+       D’Agostino, and J.A. Hobson, 2007, “The Dream as a Model for
+       Sleep and Dreams, Minneapolis: Extreme Nights, LLC.
+       and Dreaming: Emotional Intensity and Emotional Tone of the
+     * –––, 2010, “History of Dream Research: The Dissertation ‘Entstehung
+       der Träume (Origin of Dreams)’ of Wilhelm Weygandt Published in
+       1893”, International Journal of Dream Research, 3(1): 95–97.
+       Activities and Dream Activities”, Consciousness and Cognition, 12:
+       We Think Dreams Are in Black and White Due to Memory Problems?”,
+       Dreaming, 18(3): 175–180.
+     * Schröder, S., 1997, “The Concept of Dreaming: On Three Theses by
+     * Schwitzgebel, E., 2002, “Why Did We Think We Dreamed in Black and
+     * –––, 2003, “Do People Still Report Dreaming in Black and White? An
+     * Schwitzgebel, E., C. Huang, and Y. Zhou, 2006, “Do We Dream in
+       Color? Cultural Variations and Skepticism”, Dreaming, 16(1): 36–42.
+     * Sebastián, M., 2014a, “Dreams: An Empirical Way to Settle the
+     * –––, 2014b, “Not a HOT dream”, In Consciousness inside and out:
+       correlates of dreaming”, Nature Neuroscience, 20(6): 872.
+     * Siegler, F.A., 1967, “Remembering Dreams”, The Philosophical
+     * Singer, E.A., 1924, “On Pain in Dreams”, The Journal of Philosophy,
+     * Solms, M., 1997, The Neuropsychology of Dreams: A
+     * –––, 2000, “Dreaming and REM Sleep Are Controlled by Different
+     * Soteriou, M., forthcoming, “Dreams, agency, and judgement”,
+       dreaming?”, Dreaming, 29(3): 220.
+     * Stone, J., 1984, “Dreaming and Certainty”, Philosophical Studies,
+       involvement of the prefrontal cortex in lucid dreaming: a tDCS
+       “The Phenomenology of Lucid Dreaming: An Online Survey”, American
+     * Symons, D., 1993, “The Stuff that Dreams Aren’t Made of: Why
+       Wake-State and Dream-State Sensory Experiences Differ”, Cognition,
+       Images, dreams, hallucinations, and active, imaginative
+     * Thompson, E., 2014, Waking, dreaming, being: Self and consciousness
+     * –––, 2015, “Dreamless Sleep, the Embodied Mind, and Consciousness –
+     * Valberg, J.J., 2007, Dream, Death, and the Self, Princeton &
+     * Valli, K., 2008, Threat Simulation: The Function of Dreaming?,
+     * van de Castle, R.L., 1994, Our Dreaming Mind, New York: Ballantine
+     * van Eeden, F., 1913, “A Study of Dreams”, Proceedings of the
+       Dreaming: A State of Consciousness with Features of Both Waking and
+       Non-Lucid Dreaming”, Sleep, 32(9): 1191–1200.
+       Hobson, 2013, “Measuring consciousness in dreams: the lucidity and
+       consciousness in dreams scale”, Consciousness and Cognition, 22(1):
+       lucid dreaming? – Recent advances and questions for future
+       dreams through frontal low current stimulation of gamma activity”,
+     * Wamsley, E.J., 2013, “Dreaming, Waking Conscious Experience, and
+       Events into Dreams”, in Stickgold and Walker 2009: 330–336.
+     * –––, 2010, “Dreaming and Offline Memory Processing”, Current
+       Stickgold, 2010, “Dreaming of a Learning Task Is Associated with
+       Stickgold, 2014, “Delusional confusion of dreaming and reality in
+       Model of Dreaming”, Phenomenology and the Cognitive Sciences, 9:
+     * –––, 2013, “Reporting Dream Experience: Why (Not) to Be Skeptical
+       about Dream Reports”, Frontiers in Human Neuroscience, 7,
+     * –––, 2015a, Dreaming: A Conceptual Framework for Philosophy of Mind
+     * –––, 2015b, “Just in time – dreamless sleep experience as pure
+     * –––, 2018, “Predictive brains, dreaming selves, sleeping bodies:
+       how the analysis of dream movement can inform a theory of self-and
+       world-simulation in dreams”, Synthese, 195(6): 2577–2625.
+     * Windt, J.M. and T. Metzinger, 2007, “The Philosophy of Dreaming and
+       the Dream State?”, in Barrett and McNamara 2007c: 193–248.
+     * Windt, J.M. and V. Noreika, 2011, “How to Integrate Dreaming into a
+       control in lucid dreams”, in The Oxford Handbook of Spontaneous
+       Thought: Mind-Wandering, Creativity, and Dreaming, Oxford: Oxford
+       disappear in dreamless sleep?”, Trends in cognitive sciences,
+       in R.L. Woods and H.B. Greenhouse (eds.), The New World of Dreams,
+     * Philosophy of Dreaming, entry in the Internet Encyclopedia of
+     * Dreams, PhilPapers collection.
+     * Dreams and Skepticism, PhilPapers collection.

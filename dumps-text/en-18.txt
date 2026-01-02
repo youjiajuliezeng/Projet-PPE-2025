@@ -1,0 +1,524 @@
+   #Feed
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NMH55ND
+
+   (BUTTON)
+
+   Subtotal: $0.00
+   (BUTTON) Proceed to Checkout (BUTTON) Continue Shopping
+
+   Muse
+     *
+     * ____________________ Search
+     * Shop
+     * How It Works
+     * Benefits
+     * Science
+     * App
+       App Premium Subscription
+     * Press + Reviews
+
+   (BUTTON) search at our store... (BUTTON) view cart
+   Muse US Store
+   Shop (BUTTON)
+   ____________________ Search
+
+   Go Back
+
+The science of dreams: what happens in the brain when we dream
+
+   Muse Team
+   November 03, 2020
+
+   ||Dreaming|||||||||||||||dreams, meditation, sleep|dreams, meditation,
+   sleep|dreams, meditation, sleep||||
+
+TL;DR:
+
+   What happens when we dream may still feel mysterious, but research is
+   beginning to uncover what’s happening in the brain. During REM sleep,
+   brain activity increases—especially in the regions that regulate memory
+   and emotion. While the science behind dreams is still unfolding,
+   experts believe dreaming helps us process emotions, store key memories,
+   and prepare for challenges we face when awake.
+
+   dreams, meditation, sleep
+
+   Let’s be real - dreams are dreamy. There’s so much we don’t know about
+   them, and yet they can reveal so much. From flying through clouds to
+   seeing people from your past, our dreams are full of mystery and
+   meaning.
+
+   For centuries, humans believed dreams were messages from the gods or
+   windows into the subconscious(1).Today, science is beginning to unpack
+   what really happens in the brain while we sleep—and why dreams might
+   serve a deeper purpose than we once thought.
+
+   In this article, we’ll explore the science behind dreaming: how dreams
+   are formed in the brain, what REM sleep really does, and why you often
+   can’t remember a single thing by morning.
+
+How do dreams work?
+
+   Dreaming has fascinated humans for centuries. When you look at ancient
+   civilizations, they believed dreams were prophecies or divine messages
+   (2), and Freud later proposed they revealed repressed desires (2).
+   While the exact purpose of dreaming remains unclear, modern science has
+   shifted the conversation from symbolism to brain function, offering new
+   insights into what happens when we sleep(3).
+
+REM sleep
+
+   REM sleep, known as the stage where dreams are most vivid—activates
+   areas like the amygdala, hippocampus, and visual cortex, while
+   deactivating the prefrontal cortex, which explains why dreams often
+   feel illogical (3). These neural patterns support theories that dreams
+   help process emotions, consolidate memory, and simulate real-life
+   scenarios. REM sleep also supports neuroplasticity, as it can
+   strengthen and organize neural connections tied to learning and memory.
+
+   To activate REM sleep, one needs to get sufficient sleep, which is 7-9
+   hours per night,(4), and studies show that REM periods lengthen and
+   intensify in the final sleep cycles (5). REM sleep has been linked to
+   emotional regulation, creative insight, and next-day problem-solving
+   (6;3).
+
+Alternative function of dreaming
+
+   Some researchers believe dreams serve practical functions beyond
+   storytelling. The threat simulation theory suggests dreaming evolved to
+   help us mentally rehearse danger in a safe, low-risk setting (15).
+
+   Others argue dreams act as neural housekeeping, clearing out irrelevant
+   memories to make space for more useful ones (16). While no single
+   theory has been proven, most agree that dreaming reflects coordinated
+   brain activity tied to memory, emotion, and adaptation.
+
+   Read more about harnessing your subconscious mind through sleep >
+
+What part of the brain controls dreams?
+
+   Dreams aren’t driven by a single control center—they emerge from a
+   network of brain regions working together. Research shows that the
+   default mode network (DMN), a system linked to spontaneous thought and
+   imagination, remains active during REM sleep and may help construct the
+   narrative flow of dreams (9).
+
+   The parietal lobes, which help the brain understand space and where
+   things are, are thought to support the immersive, scene-like quality of
+   dreams—like walking through a room or flying over a city (10). The
+   temporo-parietal junction (TPJ), where the temporal and parietal lobes
+   meet, has been linked to self-awareness during dreaming, and may play a
+   key role in lucid dreaming, which is when someone realizes they’re
+   dreaming while it’s happening (11).
+   Despite advances in neuroscience, there’s still no single, proven
+   theory that explains exactly why we dream or how dreams are generated
+   in one definite way. Crazy, right?
+
+Dreams & what’s happening in the brain
+
+   Dreaming is such a fascinating topic because everyone dreams (even if
+   you don’t remember them), but the experience of dreaming can vary from
+   person to person. We do know that most dreams last about 5-20 minutes,
+   and you can have multiple dreams in a night. The variability is in the
+   experience of dreaming, recollection, and intensity (12).
+
+   Some people remember their dreams vividly, and others do not. Some have
+   the same dream over and over while others rarely repeat a dream. Some
+   remember only a handful of dreams in their lifetime but others can
+   recall dreams nightly. Some are lucid dreamers, and most of us are not.
+   Others dream in color, while some dream in black and white (13).
+
+   dreams, meditation, sleep
+
+
+Muse’s EEG Spectogram image above shows the intensity of brainwave activity
+over time. High-intensity regions are indicated by tones of red, yellow,
+green, and low-intensity regions are indicated by tones of blue.
+
+   Up until the advent of the electroencephalogram (EEG), researchers were
+   unable to access or measure electrical activity that occurs in the
+   brain during all states of consciousness. It was once assumed that the
+   brain simply “shut off” at night—but we now know that’s far from true.
+   In fact there are varying levels of brain activity that occur during
+   different stages of sleep. As we cycle through different sleep stages,
+   the brain shifts between distinct brainwave frequencies like alpha,
+   theta, delta, and beta—each linked to different levels of awareness,
+   rest, and recovery.
+
+A deeper look: dreams in REM
+
+   You can dream in any stage, but most dreaming appears to occur during
+   the REM stage. During REM sleep, brain activity most closely resembles
+   that of a wakeful state (14). People also tend to remember most of
+   their dreams in a REM state, compared to other states, and after REM
+   sleep, i.e. a restful, nourishing night of sleep, cognitive function
+   improves. This is something you can measure with the Muse headband.
+
+   Interestingly, a study conducted by J. Allan Hobson at the Division of
+   Sleep Medicine at Harvard Medical School proposed that “REM sleep
+   dreaming can be viewed as a virtual reality created from our brain’s
+   devise.” In other words, “we sense, we act and we feel” what we dream
+   (15). The theory inspired a team of sleep engineers at MIT’s Sleep &
+   Neurophysiology Lab to investigate if receiving sensory stimuli while
+   sleeping could shape our dreams.
+
+dreams, meditation, sleep Muse’s sleep stages graph (hypnogram) above shows
+the different stages of sleep of participants during their session.
+
+
+   To do this, they recorded a group of participant’s body and brainwave
+   patterns while sleeping and computed their sleep stages and sleep
+   scores using Muse. While asleep, participants underwent sensory dream
+   engineering techniques using Dormio, the first interactive interface
+   for sleep. These techniques include; receiving a burst of scent or
+   placing a heated eye mask over their eyes (16). So, what did the study
+   uncover?
+    1. Ameliorated Dream Valence – After introducing pleasurable or
+       familiar scents and temperatures, participants showed positive
+       affective responses (17) while dreaming that are associated with
+       patterns of respiration, heart rate, and muscular activity
+       (particularly during REM sleep), improved sleep quality, and mood.
+    2. Alleviated Nightmares – Participants showed fewer biomarkers
+       associated with nightmares, such as increased and elevated heart
+       rate, increased eye movements, increased respiration rate, and the
+       interference of REM sleep.
+
+   When you dream, your whole brain is active at some level. However,
+   during REM sleep, your prefrontal cortex is less active. This is the
+   part of the brain that is responsible for planning and logic. Since
+   activity in the prefrontal cortex is lower during REM sleep, we often
+   don’t recognize the strangeness or implausibility of a dream until we
+   wake up (2). This is why your ability to fly or the appearance of
+   monsters seems so realistic until you wake up from that dream (or
+   nightmare).
+
+Modern theories on dreams
+
+   While the science behind sleep and sleep tracking continues to evolve,
+   some modern theories suggest that dreams may not carry deep symbolic
+   meaning at all. Instead, they may be the brain’s way of stitching
+   together fragments of recent memories, thoughts, or emotional
+   residue—often from the things we’ve been thinking about most.
+
+   Still, other researchers argue that dreaming serves a deeper
+   function—one that plays a vital role in cognitive health and emotional
+   resilience. As we better understand the relationship between sleep and
+   mental fitness, tools like Muse allow us to track brain activity in
+   real time, revealing how quality sleep can impact focus, stress, and
+   recovery.
+
+   Here are three leading theories on why we dream:
+
+1. Memory Consolidation
+
+   Sleep is essential for memory formation. Without enough rest, the brain
+   struggles to retain and recall information. Some researchers believe
+   that REM sleep—and the dreaming that occurs during it—helps sort,
+   store, or even discard memories. In this view, dreaming is like a
+   nightly cleanup: clearing space for more relevant information to take
+   hold (1).
+
+2. Evolutionary Purpose
+
+   Because dreaming is present in other mammals, some believe it serves an
+   evolutionary function. One theory suggests dreams allow us to mentally
+   rehearse difficult or threatening situations, helping us become more
+   adaptive in waking life. Others propose that dreaming supports
+   problem-solving in a safe, altered state—essentially a sandbox for the
+   subconscious (2).
+
+3. Emotional Processing
+
+   REM sleep may play a vital role in helping the brain regulate emotions.
+   A  study from the Sleep and Neuroimaging Laboratory at Berkeley found
+   that during REM sleep, the limbic system—which processes fear and
+   emotion—becomes highly active while also working to block negative
+   emotions such as fear and anger (18). This process may help reset
+   emotional sensitivity, which explains why people who get less REM sleep
+   (and therefore dream less) often show more difficulty managing emotions
+   in their waking hours.
+
+   So while the exact purpose of dreaming isn’t fully proven, the evidence
+   suggests it may serve multiple roles across memory, survival, and
+   emotional balance—all essential components of mental fitness.
+
+   Even though we may not fully understand why we dream, or how the brain
+   pulls it off so vividly, what we do know is this: dreams aren’t just
+   stories we sleep through. They’re a sign that the brain is working,
+   adapting, and healing in the background. And thanks to tools like Muse
+   and digital sleeping pills, we don’t have to leave that mystery
+   entirely in the dark.
+
+   Start tracking today, and start improving your mental fitness by
+   starting with your sleep!
+
+Frequently asked questions about dreams & the brain
+
+   What happens in the brain when we dream?
+
+   When we dream, especially during REM sleep, brain activity increases in
+   regions like the amygdala (emotion), hippocampus (memory), and visual
+   cortex (imagery), while the prefrontal cortex (logic) quiets down. This
+   combination allows dreams to be vivid, emotional, and often surreal.
+
+   What part of the brain controls dreaming?
+
+   Dreams are shaped by a network of brain regions, including the default
+   mode network (DMN), parietal lobes (spatial awareness), and the
+   temporo-parietal junction (linked to self-awareness and lucid
+   dreaming). There is no single "dream center."
+
+   How long do dreams last?
+
+   Most dreams last between 5 to 20 minutes, and you can have several
+   dreams throughout the night, especially during longer REM sleep cycles
+   in the second half of your sleep.
+
+   Can you control your dreams?
+
+   Yes—this is called lucid dreaming. It happens when the dreamer becomes
+   aware they’re dreaming and may even influence the dream’s direction.
+   Lucid dreaming is often linked to activity in the temporo-parietal
+   junction (TPJ).
+
+   Why don’t we remember our dreams?
+
+   You’re more likely to remember a dream if you wake up during or right
+   after REM sleep. Low activity in the prefrontal cortex during REM may
+   also limit the brain’s ability to encode dream content into long-term
+   memory.
+
+   Does dreaming serve a purpose?
+
+   While still debated, current research suggests dreaming may support
+   emotional regulation, memory consolidation, and problem-solving. Some
+   scientists also believe it helps the brain "reset" emotional responses
+   after stressful experiences.
+
+References:
+
+    1. Bulkeley, K. (2016). Big dreams: The science of dreaming and the
+       origins of religion. Oxford University Press.
+       https://books.google.ca/books?hl=en&lr=&id=_zh2CwAAQBAJ
+    2. Big Dreams: The Science of Dreaming and the Origins of Religion,
+       https://books.google.ca/books?hl=en&lr=&id=_zh2CwAAQBAJ&oi=fnd&pg=P
+       P1&dq=science+of+dreaming+scholarly+articles&ots=XhMok2QgJ1&sig=_Rv
+       Nr2wjkwpQyug3LnoN8Z3I3mg#v=snippet&q=gods&f=false
+    3. Walker, M. P. (2017). Why we sleep: Unlocking the power of sleep
+       and dreams. Scribner.
+    4. Hirshkowitz, M., Whiton, K., Albert, S. M., Alessi, C., Bruni, O.,
+       DonCarlos, L., ... & Croft, J. B. (2015). National Sleep
+       Foundation’s sleep time duration recommendations: Methodology and
+       results summary. Sleep Health, 1(1), 40–43.
+       https://doi.org/10.1016/j.sleh.2014.12.010
+    5. Feinberg, I., & Floyd, T. C. (1979). Systematic trends across the
+       night in human sleep cycles. Psychophysiology, 16(3), 283–291.
+       https://doi.org/10.1111/j.1469-8986.1979.tb02991.x
+    6. Gujar N, McDonald S, Nishida M, Walker M. A Role for REM sleep in
+       Recalibrating the Sensitivity of the Human Brain to Specific
+       Emotions. Cerebral Cortex January 2011; 21:115-123.
+       https://walkerlab.berkeley.edu/reprints/Gujar-Walker_CC_2011.pdf
+    7. Revonsuo, 2000
+       Revonsuo, A. (2000). The reinterpretation of dreams: An
+       evolutionary hypothesis of the function of dreaming. Behavioral and
+       Brain Sciences, 23(6), 877–901.
+       https://doi.org/10.1017/S0140525X00003976
+    8. Izawa et al. REM sleep-active MCH neurons are involved in
+       forgetting hippocampus-dependent memories. Science, September 20,
+       2019 DOI: 10.1126/science.aax9238
+       https://science.sciencemag.org/content/365/6459/1308.abstract
+    9. Domhoff, G. W. (2011). Dreams are embodied simulations that
+       dramatize conceptions and concerns: The continuity hypothesis in
+       empirical, theoretical, and historical context. International
+       Journal of Dream Research, 4(2), 50–62.
+       https://doi.org/10.11588/ijodr.2011.2.9137
+   10. Fox, K. C. R., Nijeboer, S., Solomonova, E., Domhoff, G. W., &
+       Christoff, K. (2013). Dreaming as mind wandering: Evidence from
+       functional neuroimaging and first-person content reports. Frontiers
+       in Human Neuroscience, 7, 412.
+       https://doi.org/10.3389/fnhum.2013.00412
+   11. Boly, M., Balteau, E., Schnakers, C., Degueldre, C., Moonen, G.,
+       Luxen, A., & Laureys, S. (2008). Baseline brain activity
+       fluctuations predict somatosensory perception in humans.
+       Proceedings of the National Academy of Sciences, 104(29),
+       12187–12192. https://doi.org/10.1073/pnas.0611404104
+   12. National Institute of Neurological Disorders and Stroke. (2020).
+       Brain basics: Understanding sleep. National Institutes of Health.
+       https://www.ninds.nih.gov/health-information/public-education/brain
+       -basics/brain-basics-understanding-sleep
+   13. Harvard University: Natural Patterns of Sleep.
+       http://healthysleep.med.harvard.edu/healthy/science/what/sleep-patt
+       erns-rem-nrem
+   14. Bulkeley, K. (2016). Big dreams: The science of dreaming and the
+       origins of religion. Oxford University Press.
+       https://books.google.ca/books?id=_zh2CwAAQBAJ
+   15. Carr, Michelle, Adam Haar, Judith Amores, Pedro Lopes, Guillermo
+       Bernal, Tomás Vega, Oscar Rosello, Abhinandan Jain, and Pattie
+       Maes. “Dream engineering: Simulating worlds through sensory
+       stimulation.” Consciousness and cognition 83 (2020):
+       https://dam-prod.media.mit.edu/x/2020/10/06/1-s2.0-S105381002030032
+       5-main.pdf
+   16. Horowitz H., A., Grover, I., Reynolds-Cuéllar, P., Breazeal, C.,
+       Maes, P., “Dormio: Interfacing with Dreams” Association for
+       Computing Machinery (2018):
+       https://dl.acm.org/doi/10.1145/3170427.3188403
+   17. Shuman, V., Sander, D., and Scherer, K., R., “Levels of Valence”
+       Frontiers in Psychology 4 (2013):
+       https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00261/full
+   18.  Bulkeley, K. (2016). Big dreams: The science of dreaming and the
+       origins of religion. Oxford University Press.
+       https://books.google.ca/books?id=_zh2CwAAQBAJ
+
+
+   Muse Team
+
+Muse Team
+
+   The Muse Team is made up of neuroscientists, technologists, and
+   wellness experts dedicated to advancing brain health through wearable
+   innovation and mindfulness education.
+     * Website
+
+   Share this with a friend
+
+Get Ready to Experience More Calm & Focus in Your Life With Muse
+
+   Get Muse Now
+
+Related Articles
+
+   See All Articles
+   Sleep_Apnea_Facts October 2025
+
+Sleep apnea facts you need to know and how Muse is advancing early detection
+research
+
+   The 2025 Muse wrapped December 2025
+
+Muse Wrapped 2025
+
+   How Daylight saving time impacts your sleep: Muse user insights
+   November 2025
+
+How Daylight saving time impacts your sleep: Muse user insights
+
+   (BUTTON)
+
+   Muse
+
+   muse family
+   Muse meditation studio Muse research Muse professional Muse community
+   © Muse 2026. All rights reserved.
+
+
+    InteraXon Inc.
+    22 St. Clair Avenue East, Suite 200
+    Toronto ON, Canada M4T 2S5
+
+   *30 Day Money Back Guarantee
+
+   We accept
+   Payment
+
+   support
+     * Contact
+     * Starter Guides
+     * FAQ
+     * Referral Program
+
+   expanded-shop
+     * Shop Accessories
+     * Shop Muse in Bulk
+
+   muse-universe
+     * Blog
+     * Untangle Podcast
+     * Brain Health
+     * Muse Labs
+     * Explore Muse Apps
+
+   resources
+     * Guided Meditation
+     * Sleep Meditation
+     * Accessibility Statement
+     * Military Discount
+
+   company
+     * Careers
+     * Team
+     * Partnerships
+     * Developers
+     * Business
+     * Legal
+     * Press Kit
+     * Corporate Wellness
+
+   resources
+     * Guided Meditation
+     * Sleep Meditation
+     * Accessibility Statement
+     * Military Discount
+
+   Meditate without hardware on the app!
+   get it on google play download on the app store
+   get it on google play download on the app store
+   follow us on facebook follow us on instagram check our linkedin profile
+   follow us on twitter checkout our youtube channel
+   © Muse 2026. All Rights Reserved
+
+   Muse: the brain sensing headband
+
+Select your store
+
+   Please select your country below so we can display the correct prices,
+   delivery times, and delivery costs for your location.
+   (BUTTON) Most Popular (BUTTON) North America (BUTTON) Latin America &
+   Caribbean (BUTTON) Middle East (BUTTON) Asia and Oceania (BUTTON)
+   Europe
+   (BUTTON) Most Popular
+   (BUTTON) United States United States
+   (BUTTON) Canada Canada
+   (BUTTON) United Kingdom United Kingdom
+   (BUTTON) Australia Australia
+   (BUTTON) Thailand Thailand
+   (BUTTON) France France
+   (BUTTON) Spain Spain
+   (BUTTON) Germany Germany
+   (BUTTON) North America
+   (BUTTON) United States United States
+   (BUTTON) Canada Canada
+   (BUTTON) Latin America & Caribbean
+   (BUTTON) Argentina Argentina
+   (BUTTON) Chile Chile
+   (BUTTON) Rest of Latin America and Caribbean
+   (BUTTON) Middle East
+   (BUTTON) Israel Israel
+   (BUTTON) United Arab Emirates United Arab Emirates
+   (BUTTON) Rest of Middle East
+   (BUTTON) Asia and Oceania
+   (BUTTON) Thailand Thailand
+   (BUTTON) Japan Japan
+   (BUTTON) Singapore Singapore
+   (BUTTON) Australia Australia
+   (BUTTON) New Zealand New Zealand
+   (BUTTON) Rest of Asia and Oceana
+   (BUTTON) Europe
+   (BUTTON) United Kingdom United Kingdom
+   (BUTTON) Germany Germany
+   (BUTTON) France France
+   (BUTTON) Spain Spain
+   (BUTTON) Italy Italy
+   (BUTTON) Switzerland Switzerland
+   (BUTTON) Rest of Europe
+
+Hello! You're visiting Muse from somewhere outside of the US.
+
+   Please select your country below so we can display the correct prices,
+   delivery times, and delivery costs for your location.
+     * US Site
+     * CA Site
+     * EU Site
+     * Intl. Site
+
+   (BUTTON) Take me to the US store

@@ -1,0 +1,749 @@
+     * Aller au menu principal
+     * Aller au contenu principal
+     * Aller au pied de page
+
+     * Soumettre un article
+     * La rédaction publie
+     * Qui sommes-nous?
+     * Tous les articles
+     * Réseaux ▾
+          + Bluesky
+          + Mastodon
+          + Twitter/X
+          + Threads
+          + Instagram
+          + Facebook
+          + Youtube
+          + Linkedin
+          + SeenThis
+
+   Books & Ideas
+   La Vie des idées
+   [ ]
+     * Rechercher : _________________________ 
+     * Politique
+     * Société
+     * Économie
+     * Arts
+     * International
+     * Philosophie
+     * Histoire
+     * Sciences
+     * Essais
+     * Recensions
+     * Entretiens
+     * Books & Ideas
+
+   Rechercher : _________________________ 
+     * Politique
+     * Société
+     * Économie
+     * Arts
+     * International
+     * Philosophie
+     * Histoire
+     * Sciences
+     * Essais
+     * Recensions
+     * Entretiens
+     * Books & Ideas
+
+   Recension Société
+
+   Une nouvelle science des rêves ?
+
+   À propos de : Bernard Lahire, L’interprétation sociologique des rêves,
+   La Découverte
+     __________________________________________________________________
+
+   par Andreas Mayer , le 7 septembre 2018
+
+   Télécharger l'article : PDF EPUB MOBI
+   psychanalyse , sociologie , épistémologie , enquête
+
+   Depuis l’ouvrage de Sigmund Freud, le rêve a longtemps été considéré
+   comme le monopole de la psychanalyse. Le sociologue Bernard Lahire le
+   théorise comme un objet éminemment social. Compte rendu suivi d’une
+   réponse de l’auteur.
+
+   Le rêve se présente comme un phénomène susceptible d’attirer et de
+   troubler le sociologue : l’activité de rêver est à la fois universelle
+   et individuelle, largement dérobée au contrôle du dormeur et
+   inaccessible à l’observation pour autrui. Toute enquête portant sur les
+   rêves n’aura donc accès qu’aux récits recueillis à partir de la mémoire
+   de sujets. Un chercheur habitué à travailler en sciences sociales qui
+   ose s’approcher de cet objet « à la fois très séduisant et très
+   inquiétant » (p. 9), doit en outre confronter un pan de littérature
+   savante et d’études expérimentales qui a émergé depuis le début du
+   XIX^e siècle consacré à la psychophysiologie du sommeil et les rêves.
+   Et, si ce n’était déjà un programme de travail immense, il ne pourra
+   pas éviter de rendre compte du fait que, dans le monde occidental
+   contemporain du moins, l’interprétation des rêves est inextricablement
+   liée à la psychanalyse : nouvelle démarche thérapeutique forgée par
+   Freud dont la vocation a été aussi d’en faire une nouvelle science
+   traitant de ce qui était longtemps exclu du domaine de la
+   scientificité, à savoir des processus et des productions psychiques
+   inconscientes relevant de l’imaginaire, de l’irrationnel, du non-sens
+   apparent.
+
+Vers une grande synthèse théorique
+
+   Renouer avec cette ambition scientifique de Freud, en réécrivant en
+   quelque sorte son ouvrage célèbre pour y intégrer les acquis majeurs
+   des recherches sur le sommeil et les rêves d’un siècle entier, tel est
+   le projet du sociologue Bernard Lahire qui livre ici le premier volet
+   critique et théorique de sa recherche. Dans son introduction, l’auteur
+   annonce un second volume destiné à « l’exploration systématique » des
+   « corpus empiriques déterminés » (p. 14) qui devrait paraître l’année
+   prochaine. Ne faisant pas référence à ces corpus précis, ce premier
+   ouvrage est entièrement conçu comme l’esquisse d’une théorie
+   sociologique s’efforçant de résoudre le problème de « l’objet-rêve »
+   par une « formule générale d’interprétation des rêves » permettant de
+   penser les « processus de fabrication du rêve » (p. 11). Selon cette
+   théorie, le rêve n’est nullement un « mystère insondable », mais une
+   « expression symbolique » des problèmes qui occupent le rêveur
+   également pendant la veille : une « réalité sociale » supposant « des
+   capacités symboliques socialement constituées » et révélant les
+   « schèmes et les dispositions » qui forment le « passé incorporé » des
+   individus socialisés (p. 100).
+
+   À la célèbre formule freudienne affirmant que le rêve est
+   accomplissement d’un désir refoulé ou réprimé, le sociologue oppose
+   donc une autre, selon laquelle le rêve résulte d’une dialectique
+   agissant sur l’homme endormi entre son « passé incorporé » (une sorte
+   d’« inconscient social » où l’on retrouve une version de la notion
+   d’« habitus » de Pierre Bourdieu [1]) et un contexte présent plus ou
+   moins contraignant. Il est évident qu’une telle formulation doit
+   récuser les hypothèses majeures formulées par Freud, à savoir celles
+   d’un inconscient refoulé et d’une censure défigurant et déguisant les
+   pensées choquantes se trouvant à la base du « travail du rêve ». Si le
+   rêve est souvent incompréhensible après le réveil, c’est parce qu’il
+   est produit de façon involontaire et quasi mécanique sous les
+   contraintes de ce que l’auteur nomme « le cadre de sommeil »,
+   caractérisé à la fois par des propriétés sociales, sémiotiques,
+   psychiques et cérébrales (p. 279-296). Forme la plus pure d’une
+   « communication de soi à soi », exprimée dans « un langage intérieur ou
+   privé, sans audience » (p. 284), le rêve ne serait donc qu’une forme
+   d’expression parmi d’autres, une « variation expressive » (p. 363) sur
+   un continuum allant de la rêverie éveillée à l’œuvre littéraire, et
+   créé par un « besoin » ou une « pulsion expressive » biologique qui
+   serait propre à l’homme (p. 359). Malgré cet effort de désenchanter le
+   rêve, le sociologue lui accorde d’être, contrairement à d’autres formes
+   d’expression comme la littérature, une « vérité transhistorique » (p.
+   380) en lui réservant une place à part :
+
+     Le rêve, lui, fait apparaître, plus que toute autre expression
+     symbolique, les analogies pratiques, inintentionnelles qui,
+     structurées par nos expériences sociales passées, nous guident en
+     permanence et structurent nos rapports au monde et à autrui. Et
+     c’est in fine toute la sociologie qui peut être transformée par la
+     prise en compte des rêves dans sa théorie de l’acteur et de
+     l’action. (p. 432-433)
+
+Éloge de Freud savant
+
+   Voilà un programme d’une grande ambition théorique et plein de
+   promesses, notamment celle d’une transformation radicale de la
+   sociologie par un objet insolite et déroutant. On saluera donc le
+   courage du sociologue qui s’est résolu à se risquer sur un terrain
+   aussi mouvant et miné que celui de la psychanalyse, d’autant plus que
+   celui-ci paraît souvent comme un monde fermé dont les discours et
+   pratiques semblent largement inaccessibles [2]. C’est assurément l’un
+   des mérites du livre d’entrer dans une confrontation avec la théorie
+   freudienne du rêve et avec plusieurs de ses critiques que l’auteur
+   cherche d’ailleurs pour la plupart à réfuter. Contre toute une
+   littérature qui a déconsidéré la psychanalyse en la brandissant comme
+   une pseudoscience, le sociologue a certainement raison d’insister sur
+   le fait que « Freud a malgré tout agi en savant » (p. 34) et que
+   l’interprétation ne s’inscrit pas en faux contre une démarche
+   scientifique. Contrairement aux critiques venant des neurosciences ou
+   de la psychologie expérimentale, Lahire ne rejette pas tout de la
+   psychanalyse, mais cherche à articuler quelques-uns de ses éléments
+   théoriques avec sa propre variante de la théorie sociologique.
+
+   Une première remarque s’impose alors : au lieu de commencer par la
+   construction d’une théorie générale à partir de lectures critiques, une
+   telle opération ne devrait-elle pas prendre son départ plutôt dans une
+   recherche empirique sur des terrains précis où les psychanalystes, les
+   sociologues ou d’autres chercheurs rencontrent très concrètement les
+   rêves sous des formes diverses ? En lisant l’ouvrage, on a l’impression
+   qu’une énorme machine théorique est fabriquée où plusieurs pièces
+   maîtresses provenant de Freud sont remplacées par d’autres
+   (« l’inconscient » par « le passé incorporé », les « mécanismes » du
+   « travail du rêve » comme la condensation des images de rêves par les
+   « opérations oniriques » fonctionnant sans censure) sans que sa valeur
+   pour la constitution des rêves en tant qu’ « objets pleinement
+   sociaux » (p. 73) soit démontrée. Entendons-nous bien : il ne s’agit
+   nullement de contester la légitimité d’une révision théorique. Or tout
+   chercheur entreprenant une telle tâche ne pourra éviter de fournir aux
+   lecteurs une réponse à la question de savoir par quelle démarche il est
+   précisément arrivé à ses conclusions.
+
+   Lahire défend visiblement une conception de la recherche qui consiste �
+   commencer par la construction d’une théorie capable de résoudre « une
+   série de micro-problèmes attachés à son objet » qui est censé devenir
+   « une théorie générale encore plus puissante » si elle arrive à classer
+   le « rêve-objet » dans un panorama plus vaste d’autres activités
+   humaines (p. 26). Une telle approche présume l’existence en quelque
+   sorte virtuelle d’un objet social « rêve » dont l’actualisation semble
+   liée au fonctionnement de l’esprit humain même. Suivant une conception
+   qu’il emprunte à la fois à la psychologie cognitiviste et à la
+   psychologie historique d’Ignace Meyerson (qui, ironie de l’histoire,
+   fut en 1926 le premier traducteur de la Traumdeutung sous le titre La
+   Science des rêves), Lahire attribue donc l’existence du rêve �
+   « l’analogie pratique », « involontaire et non consciente » qui guide
+   l’être humain dans tous ses actes et qui le marquent comme un « être
+   historique » (p. 298). On pourrait se demander ce que l’on a gagné par
+   une telle reformulation qui insère l’interprétation des rêves dans une
+   anthropologie tellement générale en déclarant qu’elle devient « la voie
+   royale menant à la connaissance des processus de rapprochements
+   analogiques développés sans le savoir par le rêveur » donnant « accès
+   aux problèmes de la vie du rêveur » (p. 302). D’autant plus que Lahire
+   s’inscrit avec ce geste dans une longue généalogie qui commence avec
+   les premiers psychanalystes dissidents comme Alfred Adler ou Alphonse
+   Maeder, mais à certains égards aussi avec C.G. Jung, qui, étant
+   insatisfaits de la théorie freudienne, cherchaient d’autres formules
+   d’interprétation afin d’échapper au « pansexualisme » décrié du maître
+   de Vienne [3]. Pourquoi donc commencer par une reprise théorique et
+   largement décontextualisée de ces révisions historiques et non pas par
+   la mise en évidence de ces « micro-problèmes » très pratiques qui
+   semblent travailler sans cesse les rêveurs de nos jours ?
+
+En quoi le rêve est-il un objet social ?
+
+   Le doute sur le bienfondé d’une telle démarche s’installe encore plus
+   quand on constate que les exemples empiriques sélectionnés par Lahire
+   pour illustrer son propos proviennent de sources fort hétérogènes
+   reprises pour l’essentiel des travaux d’autres chercheurs (des récits
+   d’auto-observation de savants-rêveurs, des histoires des patients, des
+   statistiques issues de recherches expérimentales, ou même de « banques
+   des rêves » publiées sur internet) alors que les méthodes de recueil de
+   récits de rêve de ces mêmes chercheurs se trouvent à d’autres moment
+   sévèrement critiquées. On se demande aussi quels peuvent être les
+   critères légitimes d’une telle critique qui cible en plus un champ très
+   vaste et interdisciplinaire que le sociologue se propose de
+   reconfigurer. Pour ne donner qu’un exemple, est-ce qu’il suffit de
+   juger les études neurophysiologiques de Michel Jouvet et de son équipe,
+   qui, selon Lahire, se réduisent à un pur jeu de distinction face à la
+   psychanalyse (p. 55), à partir de quelques livres de vulgarisation ? Ne
+   fallait-il s’intéresser aux procédés concrets de laboratoire et aux
+   aspérités de la recherche telle qu’elle se fait avant d’entrer dans une
+   discussion critique ? Et ceci semble notamment pertinent pour un
+   chercheur travaillant en sciences sociales, donc avec des outils
+   sensiblement différents de la neurophysiologie, et d’autant plus pour
+   un chercheur qui ne cesse d’afficher l’ambition d’un projet réellement
+   interdisciplinaire tout en déplorant les obstacles sociaux qui
+   s’opposeraient à tel effort, en premier lieu « la concurrence entre
+   programmes et entre chercheurs » (p. 441).
+
+   On remarque d’ailleurs que c’est du côté de sciences sociales que les
+   « effets de concurrence au sein du champ scientifique » (p. 446) se
+   font sentir sur la théorie lahirienne. Car si le sociologue n’aborde �
+   aucun moment les pratiques très concrètes qui font exister les rêves
+   dans le monde social, ce refus est le résultat d’un découpage de son
+   objet qui correspond à une division de travail de son cru. En inventant
+   une opposition toute artificielle entre une « science de la production
+   onirique » et une « science des usages des rêves » (p. 69), Lahire
+   cherche surtout à se distinguer de travaux existants en sciences
+   sociales ou en histoire des sciences (qui lui ont pourtant fourni en
+   grande partie les corpus dont il se sert [4]). Cette manière de
+   départager l’objet est malheureuse car elle suggère que les formes très
+   concrètes sous lesquelles les rêves se présentent à un moment donné et
+   qui mobilisent forcément des médiations multiples et donc un travail
+   considérable de la part des acteurs seraient en quelque sorte des
+   processus supplémentaires ou accessoires. En faisant un mauvais procès
+   à ces historiens, anthropologues ou sociologues qui travaillent sur ces
+   formes concrètes que les rêves prennent dans des contextes et époques
+   différents (ils seraient des « relativistes » ou « constructivistes »
+   et empêcheraient ainsi le « progrès » de la science), le sociologue ne
+   cherche-t-il pas encore une fois à s’assurer d’une position de surplomb
+   d’où il serait capable de « saisir les rêves comme des objets
+   pleinement sociaux » (p. 73) ?
+
+Un objet manqué
+
+   Après avoir suivi le démontage de la théorie psychanalytique du rêve et
+   son remontage en termes de sa propre sociologie, on peut se demander
+   pourquoi Bernard Lahire tient tant à insister sur les convergences
+   entre les deux projets qui ne semblent pas faire bon ménage. Car le
+   sociologue, tout en contournant la réalité clinique qu’il n’aborde que
+   sous forme de raccourcis schématiques (p. 390-392), insiste à plusieurs
+   reprises sur la proximité entre la thérapie psychanalytique et
+   l’entretien sociologique : ce dernier visant à reconstituer la
+   « biographie sociologique » du rêveur permettrait de rendre celui-ci
+   conscient de ses problèmes et aurait ainsi un effet libérateur sur lui
+   (p. 259-261). N’aperçoit-on pas ici un écho lointain de la
+   « socioanalyse » de Pierre Bourdieu [5], exercice réflexif destiné �
+   objectiver sa propre place dans le champ social qui s’avère finalement
+   aussi inachevable que la célèbre auto-analyse de Freud ? Mais si le
+   fondateur de la psychanalyse avait pris un certain risque en exposant
+   sa théorie à partir d’une analyse de ses propres rêves, rencontre
+   indispensable avec l’objet où la subjectivité du chercheur entre en
+   jeu, le sociologue des rêves qu’est Lahire n’est pas enclin à le
+   suivre. [6] Car, on l’aura compris, l’opération théorique engagée par
+   ce dernier vise à mettre son objet tellement à distance qu’il risque de
+   le perdre de vue. L’interprétation sociologique des rêves nous
+   renseigne donc surtout sur les limites contre lesquelles peut buter un
+   chercheur en sciences sociales quand il cherche à s’emparer d’un objet
+   aussi déroutant et relevant de la vie intime comme le rêve sans aller �
+   la rencontre de celui-ci.
+   La réponse de Bernard Lahire
+
+   Historien des sciences humaines, et notamment de la psychanalyse, A.
+   Mayer (A.M.) n’a pas trouvé grand intérêt à mon ouvrage dont il réduit
+   in fine la fonction à révéler « les limites contre lesquelles peut
+   buter un chercheur en sciences sociales quand il cherche à s’emparer
+   d’un objet aussi déroutant et relevant de la vie intime comme le rêve
+   sans aller à la rencontre de celui-ci ».
+   Sa première grande critique concerne la « théorie ». A. M. me reproche
+   de « commencer par la construction d’une théorie générale à partir de
+   lectures critiques » au lieu de « prendre [mon] départ […] dans une
+   recherche empirique sur des terrains précis ». Il critique un peu plus
+   loin ma « conception de la recherche qui consiste à commencer par la
+   construction d’une théorie ».
+   Outre le fait que cet ouvrage est explicitement présenté comme la
+   première partie d’un travail théorico-empirique qui a commencé avant
+   l’écriture du livre et se poursuit depuis, A. M. voit exclusivement de
+   la théorie là où il n’y a d’emblée que du théorico-empirique. Je
+   l’avais signalé dans l’introduction par crainte de l’erreur possible de
+   lecture, mais cela n’a visiblement pas suffi à l’éviter. S’il commet
+   une grave erreur de lecture, c’est qu’il oublie tous les travaux ayant
+   précédé cet ouvrage – les miens [7] comme tous ceux des sociologues
+   dispositionnalistes – et qui apportent depuis plusieurs décennies des
+   fondements empiriques à une grande partie de ce que je « théorise ».
+   Sous la plume d’A. M., cette théorie semble tomber du ciel – je suis
+   censé commencer par elle – alors qu’elle est le produit d’une longue
+   histoire qui précède de loin mon propre travail. A. M. tombe ainsi dans
+   le faux problème habituel de l’opposition théorie/empirie. Les théories
+   scientifiques du passé sont toujours grosses des recherches empiriques
+   et des faits qui les soutiennent. Et « ma théorie » ne constitue pas un
+   acte inaugural purement arbitraire qui viendrait, tel un général
+   d’infanterie commandant ses troupes, mettre de l’ordre dans le réel. La
+   sociologie est une science à « double niveau » (Elias),
+   indissociablement théorique et empirique.
+
+   A. M. ne voit dans les « lectures critiques » que je fais des auteurs
+   du passé ayant travaillé sur les rêves qu’un travail purement
+   théorique, alors que chacun de ces auteurs est convoqué pour les
+   avancées théorico-empiriques qu’il a permises ou pour les erreurs qu’il
+   a commises. En empruntant les mots de Darwin, je pourrais dire que
+   « j’ai beaucoup utilisé de faits observés par d’autres », car la
+   science est un travail collectif et chaque nouveau livre est une façon
+   de s’appuyer sur ce travail collectif (de la part de celles et ceux qui
+   se donnent la peine de se l’approprier) pour tenter d’avancer.
+
+   En déplorant le fait que je n’aille pas directement au matériau
+   onirique, A. M. cède ainsi à un empirisme qui n’a aucun fondement
+   scientifique. Aucun fait scientifique n’a jamais eu de sens sans
+   théorie, aucune observation n’est possible sans point de vue qui la
+   dirige. Et quand le problème est complexe, comme dans le cas du rêve,
+   il est tout particulièrement impossible de faire comme si plonger
+   directement dans des récits de rêves (avec la bonne conscience d’une
+   apparente impeccabilité méthodologique), permettrait inductivement de
+   forger une théorie. Ce n’est pas à A. M. que j’apprendrai que Freud est
+   arrivé au rêve avec une forte armature théorique constituée à partir de
+   ses travaux antérieurs (notamment sur l’hystérie) et des nombreux
+   travaux de ceux qui l’ont précédé. Persuadé que ma construction
+   théorique sort du néant, A. M. se pose « la question de savoir par
+   quelle démarche [je suis] précisément arrivé à [mes] conclusions ». La
+   réponse est tout entière dans le livre, et dans les travaux auxquels il
+   renvoie, mais il ne veut pas la voir.
+   Toujours dans la même idée d’un excès de théorisation abstraite, A.
+   M. me reproche de « présumer l’existence en quelque sorte virtuelle
+   d’un objet social “rêve” dont l’actualisation semble liée au
+   fonctionnement de l’esprit humain même ». Je ne présume qu’une seule
+   chose : l’existence d’un invariant anthropologique. Les humains sont
+   des êtres rêvant, de même qu’ils sont des êtres de langage. L’un n’est
+   d’ailleurs pas sans lien avec l’autre puisque, comme je le montre (en
+   m’appuyant sur les travaux de P. A. Kilroe), c’est le langage qui
+   permet à l’homme d’organiser narrativement ces images oniriques. Quant
+   au « fonctionnement de l’esprit humain » et l’« analogie pratique », A.
+   M. ne voit pas que c’est toute la théorie du sens pratique (Bourdieu)
+   qui repose sur ce mécanisme cognitif et qu’il a été magistralement mis
+   en évidence par D. Hofstadter et E. Sander [8]. Les sciences ont
+   toujours progressé en découvrant des mécanismes profonds à l’œuvre dans
+   des faits très singuliers. A. M. juge mon « anthropologie » trop
+   « générale » et doute de son utilité en faisant fi de ce que la
+   sociologie la plus robuste et les travaux des sciences cognitives ont
+   permis d’établir. Pourtant, même quand on est historien, il ne me
+   semble pas inutile de tenir compte du fait qu’Homo sapiens a un cerveau
+   et des mécanismes cognitifs qui le distinguent des autres espèces. Il
+   se trouve même que ces mécanismes cognitifs sont indissociables de la
+   nature historique des êtres humains (cf. mon chapitre 10).
+
+   Le second grand point de critique est sans doute à l’origine de
+   l’agacement de l’auteur et de la charge de sa recension. Il me reproche
+   d’« inventer une opposition tout artificielle entre une “science de la
+   production onirique” et une “science des usages des rêves” » en me
+   prêtant des intentions distinctives par rapport aux « travaux existants
+   en sciences sociales ou en histoire des sciences » qui m’ont pourtant
+   aidé à constituer le corpus des auteurs que je discute. Voilà donc
+   l’origine du courroux, et de l’aveuglement qui s’en suit. Pourtant, la
+   séparation que j’opère est purement constative et a pour objectif, non
+   de me distinguer, mais de clarifier la nature de l’objet que j’étudie.
+   À aucun moment je ne dénie, ni ne dénigre la possibilité de faire une
+   science des usages des rêves. Mais étudier la manière dont on partage
+   son rêve avec autrui (et qui précisément ?), la manière dont le groupe
+   s’empare ou pas, et si oui comment, de ces rêves, la manière dont on
+   interprète diversement ces rêves, ce n’est pas étudier la fabrication
+   même du rêve, c’est-à-dire les processus par lesquels on rêve de ce
+   dont on rêve et pas d’autres choses, et dans des formes si
+   particulières. Il n’y a aucun jugement de valeur de ma part et je ne
+   prétends pas faire mieux que ceux qui traitent des usages sociaux des
+   rêves. Je fais simplement autre chose et je le dis.
+
+   Comme il le rappelle lui-même, je cite abondamment et positivement (ce
+   qu’il ne dit pas) les travaux des historiens des sciences qui ont porté
+   sur les savants ayant étudié les rêves, ceux de J. Carroy, mais aussi
+   les siens. Je m’y prendrais autrement si je voulais absolument me
+   distinguer d’eux. Mais A. M. n’a visiblement pas apprécié le fait que
+   je puisse pointer (une seule fois dans un ouvrage de près de 500 pages)
+   un risque de relativisme présent dans les travaux d’histoire des
+   sciences. Tout savant qui entend expliquer la production des rêves et
+   les interpréter est obligé de trier entre le « vrai », le
+   « vraisemblable » et le « faux », dans une production savante qui, vue
+   depuis l’histoire des sciences, sera souvent contextualisée et
+   historicisée sans jugement sur sa pertinence scientifique. Je
+   comprends, par exemple, que les propos spiritualistes de K. A. Scherner
+   puissent être traités comme des productions savantes de son temps, de
+   son milieu, etc., mais cela ne doit pas empêcher ceux qui sont à la
+   recherche de « vérités » sur la vie psychique de les considérer comme
+   des délires théoriques dont il a fallu se débarrasser pour avancer.
+
+   En faisant comme si j’intentais « un mauvais procès à ces historiens,
+   anthropologues ou sociologues qui travaillent sur ces formes concrètes
+   que les rêves prennent dans des contextes et époques différents », A.
+   M. se trompe donc doublement. D’une part, il mélange des travaux que je
+   ne mélangeais pas (ma minuscule pointe critique ne portait que sur un
+   effet possible des travaux d’histoire des sciences) et, d’autre part,
+   il fait comme si je méprisais ou prenais de haut (« s’assurer d’une
+   position de surplomb ») tous ces travaux, ce qui est absolument faux et
+   vérifiable par tout lecteur de bonne foi.
+
+   L’irritation d’A. M. le conduit, du même coup, à commettre des erreurs
+   de lecture ou des raccourcis surprenants. Je me contenterais de les
+   pointer :
+   1) A. M. écrit : « Pourquoi donc commencer par une reprise théorique et
+   largement décontextualisée de ces révisions historiques et non pas par
+   la mise en évidence de ces “micro-problèmes” très pratiques qui
+   semblent travailler sans cesse les rêveurs de nos jours ? » A.
+   M. confond ici a) ma discussion scientifique sur le rêve comme
+   « problème » incluant de nombreux « micro-problèmes » secondaires �
+   résoudre et b) ma définition du rêve comme espace où travaillent les
+   problèmes (existentiels ceux-là) du rêveur. Une lecture plus sérieuse
+   du livre aurait évité une confusion si manifeste.
+
+   2) A. M. me reproche de « juger les études neurophysiologiques de
+   Michel Jouvet et de son équipe, qui […] se réduisent à un pur jeu de
+   distinction face à la psychanalyse, à partir de quelques livres de
+   vulgarisation ». Cela est faux. Je montre a) que Jouvet a persisté �
+   assimiler le temps du sommeil paradoxal avec le temps du rêve alors
+   même que des études neurobiologiques montraient que les rêves n’étaient
+   pas absents des autres temps du sommeil ; et b) qu’il n’a pas
+   essentiellement étudié les rêves, mais le sommeil, et qu’il est pour
+   cela difficile de voir en lui un « onirologue ». Je ne m’appesantirai
+   pas ici sur la pointe acerbe concernant l’usage des « livres de
+   vulgarisation », qui condamne d’emblée toute la production d’Odile
+   Jacob et interdit aux chercheurs la lecture de textes écrits par les
+   plus grands savants. A. M. fait quant à lui référence à un article de
+   Libération, qui est, comme on le sait, une revue scientifique de
+   référence.
+
+   3) A. M. feint de « se demander pourquoi [je tiens] tant à insister sur
+   les convergences » entre psychanalyse et sociologie, alors que je la
+   critique par ailleurs. Or, c’est tout l’objectif de l’ouvrage que de
+   rapatrier la psychanalyse (ses concepts, ses raisonnements ou arguments
+   et ses techniques) dans le champ des sciences sociales et de montrer �
+   la fois les proximités et les différences entre mon propre programme et
+   le sien.
+
+   Enfin, A. M. déplore le fait que je n’ai pas pris le risque
+   d’interpréter mes propres rêves, « rencontre indispensable avec l’objet
+   où la subjectivité du chercheur entre en jeu », et de mettre, de ce
+   fait, mon objet « tellement à distance » que je risque de le « perdre
+   de vue ». Cette remarque mérite quelques commentaires finaux.
+
+   Tout d’abord, citer l’extrait d’un article de journal pour me prendre
+   en flagrant délit de non-intérêt pour mes propres rêves est plutôt
+   déroutant. Je suis désolé de le décevoir, mais ce qu’il voyait comme un
+   point de confirmation de sa lecture est basé sur une information très
+   incomplète. Ce que j’ai dit publiquement à plusieurs reprises, c’est
+   que je me rappelle assez peu mes rêves (pour des raisons explicables
+   par les résultats des études sur les conditions de remémoration des
+   rêves citées dans mon livre). La vérité – qu’A. M. aurait pu connaître
+   en prenant la peine de m’interroger – est que je les note au réveil
+   quand je m’en souviens et que je me suis déjà efforcé de tester mes
+   hypothèses sur eux. Mais j’estime que c’est plutôt en recueillant des
+   récits de rêves auprès d’une série de rêveurs et de rêveuses que je
+   peux le mieux avancer dans mon travail d’administration de la preuve.
+   Je suis conforté dans cette idée par les limites, maintes fois
+   soulignées, de l’entreprise freudienne quand elle était conduite sur
+   ses propres rêves (manque de lucidité, pudeur, etc.).
+
+   Selon A. M., ne pas travailler sur ses propres rêves constituerait une
+   faute majeure. Une telle remarque, pour le moins surprenante, contribue
+   à faire du rêve 1) un mystère, alors que je m’efforce d’en faire un
+   objet étudiable comme un autre, et 2) une réalité expressive à part, l�
+   où je la pense comme une modalité particulière dans un continuum
+   expressif, au même titre que la rêverie éveillée, le jeu, etc. À le
+   lire, le rêve ne pourrait s’étudier aussi objectivement que d’autres
+   réalités, avec les méthodes propres aux sciences sociales de
+   terrain [9], et exigerait un commerce particulier avec ses propres
+   rêves. Je fais le pari inverse : celui qu’une véritable science des
+   rêves est possible.
+   La réponse à la réponse
+
+   À lire sa réponse, Bernard Lahire se sent incompris et mal lu. Selon
+   lui, ma « grave erreur de lecture » a été « d’oublier » tous les livres
+   qu’il a publiés ces dernières années sur d’autres sujets (pour la
+   plupart d’ailleurs dans la collection qu’il dirige lui-même aux
+   Éditions de la Découverte). Il n’en reste pas moins que le point de
+   départ de son livre tel qu’il a été écrit et tel qu’il se présente au
+   lecteur est résolument théorique et que sa « formule générale
+   d’interprétation » de ses théorisations antérieures est ici appliquée
+   au rêve, comme il le concède lui-même.
+
+   Les difficultés que BL rencontre en lisant mes critiques révèlent, me
+   semble-t-il, une différence, voire une opposition, entre deux
+   conceptions pour mener une recherche en sciences sociales, notamment
+   quand elles portent sur des phénomènes insolites ou récalcitrants comme
+   les rêves. Cette différence ne relève pas d’une opposition entre
+   théorie et empirie, mais entre une vision idéaliste de « la Science »
+   défendue par BL et la réalité beaucoup plus complexe des sciences,
+   savoirs et des techniques mise en évidence par les travaux d’historiens
+   et sociologues des sciences, dont relèvent mes propres recherches.
+   BL insiste sur le fait d’avoir construit son ouvrage entièrement �
+   partir de « faits » (je dirais plutôt d’observations) recueillis par
+   d’autres auteurs « convoqués » selon son expression pour leurs
+   « avancées » ou pour leurs « erreurs ». Cette manière de procéder est
+   tributaire d’une conception de l’histoire des sciences purement
+   cumulative qui semble, du moins pour un historien et sociologue des
+   sciences, d’un autre temps. Elle a été abandonnée, depuis plusieurs
+   décennies, par les chercheurs qui étudient les sciences « telles
+   qu’elles se font » en mettant en évidence leurs pratiques épistémiques,
+   matérielles et sociales dans toute leur diversité. Son attachement
+   inconditionnel aux idéaux de La Science explique pourquoi BL ne peut
+   concevoir la concurrence et les controverses (ou même une critique
+   plutôt sobre comme celle-ci) que comme des entraves au progrès de
+   ladite science et non pas (comme jadis Pierre Bourdieu dans un article
+   classique) comme un élément propre au champ scientifique. Il a beau
+   invoquer le « travail collectif », sa propre démarche qui consiste �
+   reprendre des observations recueillies par d’autres rappelle plutôt
+   celle des savants de la fin du XIX^e siècle qui ne quittaient pas leur
+   cabinet.
+
+   Selon une telle vision idéaliste et édifiante, les passions ne peuvent
+   que vicier la vraie science. Opposition classique qui organise sa
+   propre réponse où il ne cesse de m’attribuer de mauvaises passions
+   (« agacement », « courroux », « irritation ») pour disqualifier les
+   critiques que j’ai formulées plutôt sobrement. Il n’en reste pas moins
+   que la distinction entre la « fabrication » du rêve en soi et les
+   « usages » ou les pratiques qui font exister des rêves socialement et
+   culturellement est dénuée de sens : car sur un rêve particulier, tel
+   qu’il s’est formé dans le cerveau d’un dormeur, nous ne savons très peu
+   de choses en dehors des pratiques qui le font exister et qui sont
+   observables par les chercheurs en sciences sociales. Ces pratiques, en
+   outre, montrent une très grande variété historique et culturelle et
+   nécessitent donc, comme toute recherche sur un « invariant
+   anthropologique », un travail comparatif de longue haleine. Avec sa
+   décision méthodologique de laisser de côté l’étude comparative des
+   pratiques qui font exister les rêves socialement et culturellement, BL
+   signe donc son départ du champ des sciences sociales. Car, à l’instar
+   des psychanalystes à l’époque de Freud et de certains neurobiologistes,
+   cognitivistes et psychologues de nos jours il veut trouver une
+   « formule générale » pour mettre au jour la « vérité transhistorique »
+   du rêve.
+   Contrairement à BL, il ne me semble pas urgent de se consacrer à une
+   théorie concurrente à la théorie freudienne du rêve, mais plutôt de
+   comprendre le sens et la portée d’une telle théorie, en étudiant, avec
+   les outils des sciences sociales, son émergence et ses transformations,
+   ses modalités de fonctionnement spécifiques et ses limites. Une telle
+   mise en lumière historique et sociologique de ce que peut une théorie a
+   un sens positif si elle est susceptible de contribuer à une réflexivité
+   portant aussi in fine sur nos propres pratiques au sein des sciences
+   sociales. Cela étant dit, il me semble que nous ne sommes qu’au début
+   d’une meilleure compréhension des enjeux théoriques et méthodologiques
+   des sciences de la subjectivité et de ses objets récalcitrants. A. M.
+   Bernard Lahire, L’interprétation sociologique des rêves, La Découverte,
+   2018, 490 p., 25 €.
+
+   par Andreas Mayer, le 7 septembre 2018
+     __________________________________________________________________
+
+Partagez cet article
+     __________________________________________________________________
+
+Gardons le contact
+
+   Mastodon Twitter Facebook Instagram Youtube Linkedin
+     __________________________________________________________________
+
+Aller plus loin
+
+   • Peter Burke, « L’histoire sociale des rêves », Annales ESC, vol. 28,
+   no. 2, 1973, p. 329-342.
+   • Jacqueline Carroy, Nuits savantes. Une histoire des rêves
+   (1800-1945), Paris, Editions de l’EHESS, 2012.
+   • Jacqueline Carroy et Juliette Lancel, Clés des songes et sciences des
+   rêves. De l’Antiquité à Freud, Paris, les Belles Lettres, 2016.
+   • Giordana Charuty, « Destins anthropologiques du rêve », Terrain, vol.
+   26, 1996, p. 5-18.
+   • Jacques Le Goff, « Le Christianisme et les rêves (II^e-VII^e
+   siècle) ». In : L’Imaginaire médiéval, Paris, Gallimard, 1985, p.
+   265-316.
+   • Lydia Marinelli et Andreas Mayer, Rêver avec Freud. L’histoire
+   collective de ‘L’interprétation des rêves’, Paris, Aubier-Flammarion,
+   2009.
+   • Jean-Claude Schmitt, Le Corps, les rites, les rêves, le temps. Essais
+   d’anthropologie médiévale, Paris, Gallimard, 2001.
+
+   Abonnez-vous gratuitement à notre newsletter hebdomadaire :
+   S'abonner
+
+Pour citer cet article :
+
+   Andreas Mayer, « Une nouvelle science des rêves ? », La Vie des idées ,
+   7 septembre 2018. ISSN : 2105-3030.
+   URL : https://laviedesidees.fr/Une-nouvelle-science-des-reves
+
+Nota bene :
+
+   Si vous souhaitez critiquer ou développer cet article, vous êtes invité
+   à proposer un texte au comité de rédaction (redaction chez
+   laviedesidees.fr). Nous vous répondrons dans les meilleurs délais.
+
+À lire aussi
+
+     * Entretien
+
+Le pouvoir est de plus en plus savant
+       Entretien avec Luc Boltanski
+       Entretien avec Luc Boltanski
+     * Recension
+
+L’explication expliquée aux sociologues
+       par Matthieu de Castelbajac, le 29 août 2012
+       La qualité d’une explication dépend beaucoup du genre de rapports
+       que le sociologue essaie d’avoir avec ses enquêtés. Les situations
+       les plus inégales tendent vers les (…)
+     * Recension
+
+La clef sociale des songes
+       par Claire Pagès, le 24 septembre 2021
+       L’inconscient, selon B. Lahire, est “socialement structuré”. Ce
+       principe permet la mise en oeuvre d’une sociologie individuelle du
+       rêve qui exige, tout comme l’interprétation (…)
+     * Recension
+
+Vies de cadres
+       par Igor Martinache, le 6 février 2008
+       Les transformations survenues dans l’organisation des entreprises
+       depuis vingt ans ont ébranlé l’identité du groupe des cadres. Le
+       sociologue Eric Roussel révèle de manière (…)
+
+Notes
+
+   [1] Dans une série de travaux, Lahire a apporté des révisions
+   importantes de la théorie bourdieusienne afin de la rendre compatible
+   avec des approches de psychologie sociale. Cf. notamment Bernard Lahire
+   (dir), Le travail sociologique de Pierre Bourdieu. Dettes et critiques,
+   Paris, La Découverte, 1999. Aujourd’hui il qualifie son approche de
+   «  sociologie dispositionnaliste  ». On remarque qu’il reste fidèle �
+   Bourdieu dans le présent ouvrage quand il identifie «  l’inconscient  »
+   avec un «  non-conscient  » qui est «  composé de l’ensemble des
+   expériences antérieures constitutives de l’individu, mais dont il ne
+   peut en permanence garder le souvenir conscient  » (p. 204).
+
+   [2] Parmi ceux qui ont essayé d’y pénétrer de façon critique, il faut
+   citer en premier lieu Robert Castel, Le psychanalysme, Paris, Maspéro,
+   1973, et Ernest Gellner, The Psychoanalytic Movement : The Cunning of
+   Unreason, London, Fontana, 1985. Pour une sociologie historique de
+   l’émergence de la psychanalyse, cf. Andreas Mayer, Sites of the
+   Unconscious. Hypnosis and the Emergence of the Psychoanalytic Setting,
+   trad. par C. Barber, revue et augmentée par l’auteur, Chicago, Chicago
+   University Press, [2002] 2013, et pour une formulation plus
+   programmatique : «  Écrire l’histoire de la psychanalyse : le problème
+   du contexte  », Revue d’Histoire des Sciences Humaines no. 30, 2017, p.
+   71-91.
+
+   [3] Sur les enjeux théoriques et politiques de ces révisions qui
+   disparaissent de façon systématique dans les résumés qu’en donne Lahire
+   (p. 129-130, p. 140-143, p. 256), cf. Lydia Marinelli et Andreas Mayer,
+   Rêver avec Freud. L’histoire collective de ‘L’interprétation des
+   rêves’, Paris, Aubier-Flammarion, 2009, p. 85-155.
+
+   [4] Cf. surtout les travaux de Jacqueline Carroy, Nuits savantes. Une
+   histoire des rêves (1800-1945), Paris, Editions de l’EHESS, 2012, mais
+   aussi les études de Jacques Le Goff, Jean-Claude Schmitt ou Peter Burke
+   qualifiés à un moment comme des «  chercheurs courageux ou
+   téméraires  » (p. 61), mais plus tard critiqués pour leur approche trop
+   étroite d’une «  écologie sociale du rêve  » (p. 73).
+
+   [5] Pierre Bourdieu, «  Introduction à la socioanalyse  », Actes de la
+   Recherche en Sciences Sociales, vol. 90, 1991, p. 3-5  ; Esquisse pour
+   une auto-analyse, Éditions Raisons d’agir, 2004.
+
+   [6] On n’est donc pas surpris d’apprendre que Lahire se dit «  mauvais
+   rêveur  » et ne se intéresse pas à ses rêves : Philippe Douroux,
+   «  Lahire, la sociologie à l’assaut de Freud  », Libération 3 janvier
+   2018. Il n’évoque d’ailleurs sa propre méthode d’entretien qu’à la fin
+   de son ouvrage sur quelques pages sans donner un seul exemple tiré de
+   ses «  études de cas  » dont il annonce la publication dans son second
+   volume (p. 414-419).
+
+   [7] S’il avait lu ne serait-ce que Portraits sociologiques, Paris,
+   Nathan, 2002 ou Franz Kafka, Paris, La Découverte, 2010, il aurait vu
+   que j’ai adapté-complexifié des problèmes théoriques empiriquement
+   fondés pour comprendre les rêves.
+
+   [8] D. Hofstadter et E. Sander, L’Analogie. Cœur de la pensée, Paris,
+   Odile Jacob, 2013.
+
+   [9] Cf. le chapitre 13 de l’ouvrage qui explicite la méthodologie mise
+   en œuvre depuis plus de deux ans maintenant.
+
+Partenaires
+
+   casbs afsp Cairn.info
+
+Thématiques
+          + Politique
+          + Société
+          + Économie
+          + Arts
+          + International
+          + Philosophie
+          + Histoire
+          + Sciences
+
+Catégories
+          + Essais
+          + Recensions
+          + Entretiens
+          + Dossiers
+
+À propos
+          + Qui sommes-nous ?
+          + Contact
+          + Soumettre un article
+          + Contributeurs
+          + Liens
+          + Plan du site
+
+Réseaux
+          + Newsletter
+          + Bluesky
+          + Mastodon
+          + Threads
+          + Instagram
+          + Twitter/X
+
+
+          + Facebook
+          + Youtube
+          + Linkedin
+          + SeenThis
+          + Fil RSS
+
+   © laviedesidees.fr - Toute reproduction interdite sans autorisation
+   explicite de la rédaction - Mentions légales - webdesign : Abel Poucet

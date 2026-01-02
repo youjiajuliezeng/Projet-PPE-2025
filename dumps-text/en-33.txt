@@ -1,0 +1,479 @@
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-WSDBJPS&gtm_auth=g18Kst
+   QIuISFV7R8jqLFKQ&gtm_preview=env-1&gtm_cookies_win=x
+
+   Skip to main content
+
+   An official website of the United States government
+
+   Here's how you know
+   (BUTTON) Here's how you know
+
+   Official websites use .gov
+   A .gov website belongs to an official government organization in the
+   United States.
+
+   Secure .gov websites use HTTPS.
+   A lock (Locked padlock
+   ) or https:// means you've safely connected to the .gov website. Share
+   sensitive information only on official, secure websites.
+   NSF - U.S. National Science Foundation - Home
+   (BUTTON) Search (BUTTON) Menu
+   (BUTTON) Close navigation
+   Search ____________________ (BUTTON) search
+     * (BUTTON) Find Funding
+          +
+               o Funding Search
+               o Award Search
+               o NSF-wide Initiatives
+               o Research Experiences for Undergraduates
+          + Where to Start
+               o For Everyone
+               o For Early-Career Researchers
+               o For Postdoctoral Fellows
+               o For Graduate Students
+               o For Undergraduates
+               o For Industry
+               o For Entrepreneurs
+     * (BUTTON) How to Apply
+          +
+               o Preparing Your Proposal
+               o Submitting Your Proposal
+               o Proposal & Award Policies & Procedures Guide (PAPPG)
+          + Additional Resources
+               o Research.gov
+               o Grants.gov
+               o How We Make Funding Decisions
+     * (BUTTON) Manage Your Award
+          +
+               o Getting Started
+               o Request a Change to Your Award
+               o Report Your Outcomes
+               o Proposal & Award Policies & Procedures Guide (PAPPG)
+          + Additional Resources
+               o Research.gov
+               o NSF Public Access Repository
+               o Who to Contact With Questions
+     * (BUTTON) Focus Areas
+          + Major Initiatives
+               o Artificial Intelligence
+               o Biotechnology
+               o Quantum
+               o STEM Workforce
+          + Focus Areas
+               o Explore All Focus Areas
+               o Arctic and Antarctic
+               o Astronomy and Space
+               o Biology
+               o Chemistry
+               o Computing
+               o Earth and Environment
+               o Education and Training
+               o Engineering
+               o Facilities and Infrastructure
+               o Materials Research
+               o Mathematics
+               o People and Society
+               o Physics
+               o Research Partnerships
+               o Technology
+     * (BUTTON) News & Events
+          +
+               o News & Announcements
+               o NSF Impacts
+               o Science Matters Blog
+          +
+               o Upcoming Events
+               o NSF 75th Anniversary
+               o For the Press
+     * (BUTTON) About
+          + About NSF
+               o Updates on NSF Priorities
+               o Contact Us
+          + Our Directorates & Offices
+               o How NSF Is Organized
+               o Biological Sciences (BIO)
+               o Computer & Information Science & Engineering (CISE)
+               o Engineering (ENG)
+               o Geosciences (GEO)
+               o Integrative Activities (OIA)
+               o International Science & Engineering (OISE)
+               o Mathematical & Physical Sciences (MPS)
+               o Social, Behavioral & Economic Sciences (SBE)
+               o STEM Education (EDU)
+               o Technology, Innovation & Partnerships (TIP)
+               o National Center for Science & Engineering Statistics
+                 (NCSES)
+               o National Science Board (NSB)
+
+    1. Home
+    2. Science Matters
+    3. Scientists break through the wall of sleep to the untapped world of
+       dreams
+
+   Image:
+   illustration of a woman in a lab coat standing on a mountain looking at
+   a dark sky lit by swirling lightbulbs
+   View image credit
+
+Scientists break through the wall of sleep to the untapped world of dreams
+
+   NSF-supported researchers achieve two-way communication with lucidly
+   dreaming people, creating a new method for studying the human mind that
+   might lead to innovative ways of learning and problem-solving.
+   By Jason Stoughton
+   February 18, 2021
+     __________________________________________________________________
+
+   "Eight minus six … two"
+
+   It's not exactly "one small step for man," but that humble mathematical
+   message is extraordinary in its own way. The first part — "eight minus
+   six" — was transmitted by a scientist to a place just as exotic as the
+   moon yet frequented by each of us. The response — "two" — came from the
+   mind of a sleeping research subject as he snoozed in a neuroscience
+   laboratory outside Chicago.
+
+   You see, "eight minus six... two" is a dialogue between two people —
+   one of whom was asleep and dreaming.
+
+   "It's authentic communication," says cognitive neuroscientist Ken
+   Paller, who oversees the laboratory where this groundbreaking
+   communication took place. "It can be done."
+
+   Researchers at Paller's lab at Northwestern University in Illinois,
+   along with researchers in France, Germany and the Netherlands, have
+   independently demonstrated two-way communication with people as they
+   are lucidly dreaming during REM (rapid eye movement) sleep. Supported
+   by the U.S. National Science Foundation, the breakthrough was achieved
+   in the U.S. by Karen Konkoly, Paller's doctoral student, and
+   Christopher Mazurek, a volunteer research participant at the time of
+   the study — and one of the first people to ever engage in a real-time
+   dialogue from within a dream.
+
+   This discovery holds tantalizing possibilities for expanding our
+   understanding of how our minds work. It may even lead to methods that
+   could improve our ability to learn difficult skills or solve complex
+   problems.
+
+   And, with the help of a new smartphone app from Paller's lab, you could
+   even try it at home.
+
+The windows to the soul (and dreams)
+
+   Research into the fundamental nature of dreams, and what the human mind
+   can do while dreaming, has been limited by a seemingly unsolvable
+   problem: you can't get much information about someone's dream while
+   they're actually having the dream. "All we have are the stories people
+   tell when they wake up," says Paller. That deficiency has left an
+   entire state of consciousness largely unexplored.
+
+   The novel methods pioneered by Konkoly, Paller and their colleagues are
+   designed to solve this problem and open entirely new areas of research
+   focused on the dreaming mind. Konkoly describes the possibilities:
+   "Right now, we conduct psychology experiments with people who are
+   awake. With two-way communication [during dreams], we could conduct
+   some of the same experiments while people are sleeping. It could really
+   expand our view of consciousness and what the mind is capable of."
+
+   But, how can a dreaming research subject communicate if they can't even
+   move, let alone speak, while sleeping? The answer requires some
+   explanation about what happens in our mind during sleep.
+
+   a man in a mask reclines on a pillow and an image of an eeg readout
+   Credit: K. Konkoly
+   Mazurek (left) sleeps in the lab as electrical signals from his brain
+   and eyes are displayed on a computer monitor.
+
+   Scientists have identified the different stages of sleep by monitoring
+   electrical signals from the brain using electroencephalography, or EEG,
+   and from other places in the body. When the electrical signals are
+   recorded and plotted, they chart the course our mind takes as we
+   progress through the stages of sleep.
+
+   As you sleep, your mind transitions through several different stages,
+   from light sleep to deep sleep and eventually to REM sleep. REM sleep
+   is notable not just for what's moving — our eyes — but what isn't.
+   Although our mind is active and dreams often occur during REM sleep,
+   our bodies are almost completely paralyzed. That presents an obvious
+   challenge for communications since we can't move the body parts we
+   typically use to communicate. As the name "rapid eye movement"
+   suggests, however, there is an exception.
+
+   During REM sleep, our eyes move around behind our eyelids in a
+   seemingly random fashion, which often corresponds to the sleeper
+   "looking" at various imagined things in their dream. If you dream that
+   you're looking at something, your closed eyes move correspondingly as
+   if you were looking at something while awake.
+
+   That phenomenon led researchers to a key insight: If eye movement were
+   consciously controlled, the dreamer's eyes could become a vehicle for
+   getting a message to the waking world.
+
+   Scientist Selfie: Meet Karen Konkoly
+   Go inside Northwestern's Sleep Lab with researcher Karen Konkoly
+
+He's lucid! Let's do math
+
+   Who among us hasn't wished we could fly like a bird? Or walk on another
+   planet? So-called lucid dreamers can do these things and more from the
+   comfort of their own bed. Accomplished lucid dreamers have reported
+   being able to regularly achieve awareness in their dreams and even
+   "programming" themselves to have dreams about specific activities or
+   locations.
+
+   Christopher Mazurek was not one of those people.
+
+   "I had no experience with lucid dreaming," says Mazurek, an
+   undergraduate student at Northwestern University and now research
+   assistant in Paller's sleep lab. At the time, he was a volunteer
+   research participant. "Before I entered the lab, I never had anything
+   near a lucid dream."
+
+   To prepare Mazurek and the other U.S. volunteers, Konkoly wired each
+   participant with electrodes that sense brain activity through the
+   scalp, behind the ears, on the chin and — critically — near the eyes.
+   Those would allow the researchers to monitor and record even slight eye
+   movements. "When your eyes move in their sockets, it creates an
+   electrical current which is detected by the electrodes and recorded,"
+   says Konkoly.
+
+   A man looks at the camera while wearing a red cap fitted with white
+   electrodes
+   Credit: C. Mazurek
+   Mazurek in a full EEG rig just before a sleep session in the lab. The
+   electrodes on his face will detect the movement of his eyes as he
+   sleeps.
+
+   Konkoly also trained each research participant to help them achieve
+   lucidity and instructed them on what to do if they succeeded. That
+   included learning to recognize the specific sound she would play when
+   they entered REM sleep, prompting the participants to realize they're
+   dreaming and thus become lucid. The participants also learned the
+   distinct response signal they should produce from within their dream:
+   moving their eyes from left to right multiple times.
+
+   "Repeatedly looking from left to right is a very distinctive eye
+   movement and it stands out from other eye movements during REM sleep,"
+   says Konkoly. As she carefully watched the EEG and saw Mazurek
+   progressing through the stages of sleep and into REM sleep, she spotted
+   the repeating left-right signal on the monitor as Mazurek signaled his
+   awareness.
+
+   "He's lucid!" remembers Konkoly. "Let's do math."
+
+   Konkoly played a randomly selected audio recording: "eight minus six."
+   Mazurek knew he would be presented with simple math problems but did
+   not know which problems would be selected. Some of the international
+   labs in the study used different methods to send messages to their
+   dreaming subjects, such as flashing lights in Morse code which the
+   sleepers could perceive through their closed eyelids and manifest in
+   their dream. In most of the labs, the research participants were
+   trained to move their "dream eyes" to signal their answer.
+
+   A few seconds later, Konkoly saw Mazurek's response written among the
+   peaks and valleys of his eyes' electrical signals: "Two." Konkoly sent
+   another randomly selected math problem and once again received a
+   correct response. And what was Mazurek dreaming about during this
+   groundbreaking exchange between two worlds?
+
+   "I dreamed I was sleeping in the lab when I heard her question," he
+   says. Despite that rather mundane dreamscape, "It still blew me away
+   how different and intense and odd it all felt. It was different than
+   anything I could have imagined."
+
+   EEG while communicating in a dream
+   Credit: K. Konkoly
+   The EEG of Mazurek’s sleeping mind and eyes as he communicated with
+   Konkoly from his dream. The red shows the distinctive repeating
+   left-to-right motion of his eyes as he signals his lucidity twice
+   followed by his answer to the math problem: “Two".
+
+   To obtain independent verification of their results, Konkoly sent the
+   recorded data to an expert "sleep scorer." Like an astrophysicist who
+   can tell you what elements are in a distant star by deciphering the
+   colored light recorded in a spectrograph, a sleep scorer is trained to
+   "read" the recorded electrical signals and analyze their complex
+   patterns. The sleep scorer confirmed that Mazurek was indeed in REM
+   sleep during the exchange.
+
+   While Mazurek was the first in Paller's lab to achieve two-way
+   communication in a dream, two more participants later accomplished that
+   same feat. Meanwhile, researchers in France, Germany and the
+   Netherlands were independently testing methods for two-way
+   communication in dreams and reported that three additional individuals
+   were able to provide correct responses while dreaming. The collective
+   results from all the laboratories are now published in the journal
+   Current Biology.
+
+Sleep on it
+
+   "Why would you want to do math in your sleep?" quips Konkoly. "I get
+   that comment sometimes."
+
+   Joking aside, researchers have a number of ideas for how this discovery
+   could be expanded and applied. "There's evidence that lucid dreaming is
+   a great place to practice skills compared to when you're awake," says
+   Konkoly. "For example, you could slow down time so you could practice a
+   skill in more detail or practice something without having any fear of
+   the repercussions of failing."
+
+   Imagine a surgeon attempting to perfect a technique used in open heart
+   surgery — in a dream.
+
+   "There are many unexplored neurobiological aspects to learning and
+   training during REM sleep. But without two-way communication, you can't
+   conduct a proper controlled experiment to understand it," she adds.
+
+   "People say 'sleep on it,' when grappling with a hard problem," says
+   Paller, in reference to his research published in 2019, which showed
+   people who were cued to think about puzzles during sleep exhibited
+   substantial improvement in finding solutions. "There's some sense that
+   sleep can help you find an answer to a problem that's vexing you. Our
+   two-way communication method provides hope for improving that. If
+   you're working on a problem, can you be reminded of that problem during
+   a dream and come up with a creative answer more easily?
+
+   "From run of the mill personal problems to complex global problems, we
+   need creative solutions. If we can help people come up with the answers
+   more easily, we should do that," he says.
+
+   Paller's lab has also developed a smartphone app that aims to make it
+   easier for people to achieve lucidity, which could enable anyone to
+   phone home from the world of dreams without visiting a sleep
+   laboratory. You can learn how to get the app and give it a try through
+   Paller's cognitive neuroscience website.
+
+   Credit: K. Konkoly
+   Konkoly watches brain signals from a sleeping participant in the lab.
+   Researchers are working to expand and refine two-way communications
+   with sleeping people so more complex conversations may one day be
+   possible.
+
+Our full potential
+
+   Although many aspects of the sleeping mind remain a mystery,
+   researchers across a variety of scientific disciplines are utilizing
+   new techniques and analytical methods to better understand it. "Sleep
+   is valuable for our health in ways we've yet to come to grips with,"
+   says Paller. For example, neuroscientists at the University of
+   California, Berkeley, recently uncovered evidence showing that sleep
+   plays a critical role in how our brains flush out beta-amyloid, a toxic
+   substance that contributes to the onset of Alzheimer's disease.
+
+   "REM sleep is a unique state of consciousness," adds Konkoly. "We spend
+   a lot of time in it and yet no one really understands its full
+   potential. We want to know how it works."
+
+   The pioneering work of Konkoly, Paller and their colleagues provides an
+   entirely new method that scientists can use to investigate how sleep
+   and dreams affect health and mental abilities.
+
+   And who knows? Perhaps the idea of conversing with someone from within
+   a dream may one day be as routine as sending a text message on your
+   phone:
+
+   "Can I snooze five more minutes? I've almost figured out this
+   problem..."
+
+   [[Other contributors to this discovery include researchers at Osnabrück
+   University in Germany, Sorbonne University in Paris, and Radboud
+   University Medical Center in the Netherlands. NSF supported the
+   researchers at Northwestern University in the U.S.]]
+
+About the Author
+
+   Jason Stoughton
+   Jason Stoughton
+   Staff Associate for Strategic Communications
+
+   Jason is a science writer and communications specialist for social,
+   behavioral and economic sciences at the National Science Foundation. In
+   addition to being a science communicator — and unabashed science fanboy
+   — Jason is also a photographer and video producer. Before coming to
+   NSF, he worked in public affairs at the National Institute of Standards
+   and Technology and also in the television and video production industry
+   in a variety of roles from creative director to chief coffee fetcher.
+
+
+Topics
+
+     * People & Society
+
+     * Newer Blog Post NSF 101: The Mid-Career Advancement program
+     * Older Blog Post NSF 101: Funding opportunities for
+       early career researchers
+
+Share
+
+   Share on Facebook Share on X (formerly known as Twitter) Share on
+   LinkedIn Email
+
+Related Stories
+
+   Two computer screens showing images of hearts.
+
+HeartFlow's AI-powered medical technology debuts on Nasdaq
+
+   Wearable anthropomorphically driven prosthesis with built in haptic
+   feedback system playing with colorful blocks
+
+NSF M3X: Integrating human expertise and AI to transform health care
+
+   NSF Impacts: Lyme's Disease
+
+Fighting the spread of Lyme disease
+
+   Top
+   NSF - U.S. National Science Foundation - Home
+
+
+   2415 Eisenhower Ave Alexandria, VA 22314
+   (703) 292-5111
+
+   Sign up for email updates
+     * Facebook
+     * Twitter
+     * Instagram
+     * YouTube
+     * LinkedIn
+     * RSS
+
+Footer
+
+     * About Us
+          + About NSF
+          + Careers
+          + Our Directorates & Offices
+          + National Science Board
+          + Contact Us
+     * What's New
+          + News & Announcements
+          + Events
+          + Science Matters Blog
+     * Information For
+          + Funding Seekers
+          + NSF Awardees
+          + Congress
+          + Media
+          + Educators
+          + Panelists
+     * Resources
+          + Documents & Reports
+          + Budget, Performance & Financial Reporting
+          + Public Access
+          + Stopping Harassment
+          + Research Security
+          + Scientific Integrity
+          + Research.gov
+
+Required Policy Links
+
+     * Vulnerability disclosure
+     * Inspector General
+     * Privacy
+     * FOIA
+     * No FEAR Act
+     * USA.gov
+     * Accessibility
+     * Plain language
