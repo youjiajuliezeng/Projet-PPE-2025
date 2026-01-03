@@ -50,6 +50,7 @@ if [ "$LANG" = "en" ]; then
 
     python3 ./programmes/cooccurrents.py --target "[Dd]ream(s|ed|ing|t)?" "$INPUT_FILE" \
         -N 200 \
+        --context-length 5 \
         --min-cofrequency 5 \
         --min-frequency 10 \
         --match-mode regex \
@@ -65,6 +66,7 @@ elif [ "$LANG" = "fr" ]; then
 
     python3 ./programmes/cooccurrents.py --target "[Rr]êv(e|es|er|ant|a|ait|ée|ées|é|és)" "$INPUT_FILE" \
         -N 200 \
+        --context-length 5 \
         --min-cofrequency 5 \
         --min-frequency 10 \
         --match-mode regex \
@@ -80,6 +82,7 @@ elif [ "$LANG" = "zh" ]; then
 
     python3 ./programmes/cooccurrents.py --target "梦" "$INPUT_FILE" \
         -N 200 \
+        --context-length 5 \
         --min-cofrequency 5 \
         --min-frequency 10 \
         --match-mode regex \
