@@ -369,6 +369,7 @@ nul
 néanmoins
 nôtre
 nôtres
+nos
 o
 oh
 ohé
@@ -684,3 +685,15 @@ qu'il
 c'est
 no
 non
+rêver
+rêve
+rêves
+rêvent
+rêvont
+rêvez
+rêvait
+rêvé
+rêvée
+rêvés
+rêvées
+rêvant
