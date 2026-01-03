@@ -85,17 +85,25 @@ for fichier in "${DOSSIER}/${LANG}"-*.txt; do
     else
         # Français/Anglais : traitement standard
         while IFS= read -r ligne; do
-            # Nettoyer et séparer les mots
+            # 1. Convertir en minuscules
+            # 2. Ajouter des espaces autour de la ponctuation
+            # 3. Remplacer les espaces par des sauts de ligne
             echo "$ligne" | \
-                sed 's/[.,!?;:()]/ /g' | \
-                tr '[:upper:]' '[:lower:]' | \
-                tr ' ' '\n' | \
-                grep -v '^$' >> "$OUTPUT_FILE"
+            tr '[:upper:]' '[:lower:]' | \
+            sed "s/\([.,!?;:()'’]\)/ \1 /g" | \
+            tr ' ' '\n' | \
+            grep -v '^$' >> "$OUTPUT_FILE"
+
+            # Ajouter une ligne vide si la phrase se termine par .!?
+            if echo "$ligne" | grep -q '[.!?][[:space:]]*$'; then
+                echo "" >> "$OUTPUT_FILE"
+            fi
         done < "$fichier"
     fi
 
     # Ajouter une ligne vide entre les fichiers
     echo "" >> "$OUTPUT_FILE"
+    iconv -f UTF-8 -t UTF-8 -c "$OUTPUT_FILE" > "$OUTPUT_FILE.tmp" && mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 done
 
 # Vérifier si des fichiers ont été traités

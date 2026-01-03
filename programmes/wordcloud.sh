@@ -15,21 +15,21 @@ LANG="$1"
 
 case $LANG in
     fr)
-        STOPWORDS="$BASE_DIR/stopwords_français.txt"
-        OUTPUT="$BASE_DIR/wordcloud_français.png"
-        FILES_PATTERN="fr-*.txt"  # 法语文件
-        FONT="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+        STOPWORDS="$BASE_DIR/stopwords/stopwords_fr.txt"
+        OUTPUT="$BASE_DIR/images/wordcloud_fr.png"
+        FILES_PATTERN="fr-*.txt"
+        FONT="/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf"
         ;;
     en)
-        STOPWORDS="$BASE_DIR/stopwords_anglais.txt"
-        OUTPUT="$BASE_DIR/wordcloud_anglais.png"
-        FILES_PATTERN="en-*.txt"   # 英语文件
-        FONT="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+        STOPWORDS="$BASE_DIR/stopwords/stopwords_en.txt"
+        OUTPUT="$BASE_DIR/images/wordcloud_en.png"
+        FILES_PATTERN="en-*.txt"
+        FONT="/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf"
         ;;
     zh)
-        STOPWORDS="$BASE_DIR/stopwords_chinois.txt"
-        OUTPUT="$BASE_DIR/wordcloud_chinois.png"
-        FILES_PATTERN="zh-*.txt"   # 中文文件
+        STOPWORDS="$BASE_DIR/stopwords/stopwords_zh.txt"
+        OUTPUT="$BASE_DIR/images/wordcloud_zh.png"
+        FILES_PATTERN="zh-*.txt"
         FONT="/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
         ;;
     *)
@@ -70,7 +70,7 @@ if [ "$LANG" = "zh" ]; then
         INPUT="$TEMP_TOKENIZED"
     else
         # Fallback simple
-        sed 's/[。，；：！？、,.!?;:]/\n/g' "$TEMP_COMBINED" | grep -v '^$' > "$TEMP_TOKENIZED"
+        sed "s/[。，；：！？、,.!?;:'’]/\n/g" "$TEMP_COMBINED" | grep -v '^$' > "$TEMP_TOKENIZED"
         INPUT="$TEMP_TOKENIZED"
     fi
 
@@ -82,36 +82,44 @@ if [ "$LANG" = "zh" ]; then
         --background white \
         --width 1200 \
         --height 800 \
-        --max_words 200 \
+        --contour_width 2 \
+        --contour_color "#87CEEB" \
+        --mask ../wordcloud/mask.png \
+        --margin 0 \
         --fontfile "$FONT" \
-        --colormap "viridis"
+        --colormap "plasma"\
+        --max_font_size 150 \
+        --max_words 200 \
+        --min_font_size 10
+
 
     rm -f "$TEMP_COMBINED" "$TEMP_TOKENIZED"
 
 else
     # Français/Anglais : traitement simple
-    TEMP_PROCESSED="/tmp/${LANG}_processed_$$.txt"
-
-    # 使用对应语言的文件
-    cat "$TEXTS_DIR"/$FILES_PATTERN | \
-        sed 's/[.,!?;:()]/ /g' | \
+    TEXT_CONTENT=$(cat "$TEXTS_DIR"/$FILES_PATTERN | \
+        sed "s/[.,!?;:()'’]/ /g" | \
         tr '[:upper:]' '[:lower:]' | \
         tr ' ' '\n' | \
-        grep -v '^$' > "$TEMP_PROCESSED"
+        grep -v '^$')
 
-    # Génération
-    wordcloud_cli \
-        --text "$TEMP_PROCESSED" \
+    # 通过标准输入传递
+    echo "$TEXT_CONTENT" | wordcloud_cli \
+        --text - \
         --imagefile "$OUTPUT" \
         --stopwords "$STOPWORDS" \
         --background white \
         --width 1200 \
         --height 800 \
-        --max_words 150 \
+        --contour_width 2 \
+        --contour_color "#87CEEB" \
+        --mask ../wordcloud/mask.png \
+        --margin 0 \
         --fontfile "$FONT" \
-        --colormap "plasma"
-
-    rm -f "$TEMP_PROCESSED"
+        --colormap "plasma"\
+        --max_font_size 150 \
+        --max_words 200 \
+        --min_font_size 10
 fi
 
 if [ -f "$OUTPUT" ]; then
