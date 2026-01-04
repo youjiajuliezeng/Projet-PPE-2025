@@ -260,6 +260,7 @@ while read -r line; do
     if [[ -f "$aspiration" ]]; then
       lynx -dump -nolist -assume_charset=UTF-8 -display_charset=UTF-8 "$aspiration" 2>/dev/null > "$dump" || true
     fi
+     [[ -f "$dump" ]] && iconv -c -f UTF-8 -t UTF-8 "$dump" > "${dump}.tmp" 2>/dev/null && mv "${dump}.tmp" "$dump"
   fi
 
   # Nombre de mots - vérifier si le fichier existe
