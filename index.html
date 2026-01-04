@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projet Encadré | Rêve</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preload" href="reverie.jpg" as="image">
+</head>
+
+<body>
+
+<nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item">
+        <strong>✨ LA RÊVERIE</strong>
+      </a>
+      <!-- Burger menu amélioré -->
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBasic" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="index.html" title="Page d'accueil">Accueil</a>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="tableaux/fr.html" title="Tableau français">Français</a>
+            <a class="navbar-item" href="tableaux/en.html" title="Tableau anglais">Anglais</a>
+            <a class="navbar-item" href="tableaux/zh.html" title="Tableau chinois">Chinois</a>
+          </div>
+        </div>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Analyses par langue">Analyses</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="analyse-fr.html" title="Analyse française">Français</a>
+            <a class="navbar-item" href="analyse-en.html" title="Analyse anglaise">Anglais</a>
+            <a class="navbar-item" href="analyse-zh.html" title="Analyse chinoise">Chinois</a>
+          </div>
+        </div>
+        
+        <a class="navbar-item" href="presentation.html" title="À propos du projet">À propos</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<header class="hero is-dream" role="banner">
+    <div class="container">
+    </div>
+  <div class="container has-text-centered">
+    <h1 class="title is-1">Bienvenue à la RÊVERIE</h1>
+    <h2 class="subtitle is-4">Analyse comparative multilingue du mot "Rêve"</h2>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    
+    <div class="columns is-multiline">
+        <div class="column is-12">
+            <h3 class="title is-3 mb-5">Le Projet</h3>
+            <div class="notification">
+                <div class="content">
+                    <p>Dans le cadre du cours <strong>« Projet de programmation encadré 1 »</strong>, nous explorons comment la notion de rêve s'exprime et se structure à travers trois langues : le français, l'anglais (<em lang="en">dream</em>) et le chinois (<span lang="zh">梦</span>).</p>
+                    <p class="mt-3">Le travail repose sur une démarche progressive combinant collecte automatique de données, traitement linguistique, et visualisation des résultats.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column is-12">
+            <h3 class="title is-4">Méthodologie</h3>
+            <div class="notification" style="background-color: var(--rose-bonbon);">
+                <div class="content">
+                    <h4 class="title is-4">Méthode</h4>
+                        <p>
+                            À partir de fichiers d’URLs sélectionnées pour chaque langue, le script (<code>script_multi.sh</code>) permet :  
+                        <ul>
+                        <li>L’aspiration automatique des pages web</li>
+                        <li>La récupération des codes HTTP et des informations d’encodage</li>
+                        <li>La sauvegarde des pages HTML originales</li>
+                        <li>L’extraction du contenu textuel sous forme de dumps nettoyés</li>
+                        </ul>
+                        <p>Cette étape permet de constituer un corpus exploitable et comparable entre les différentes langues.  </p>
+                        <p>
+                            Par la suite, le mot étudié (rêve / dream / 梦) est recherché à l’aide d’expressions régulières adaptées aux spécificités de chaque langue : </p>
+                            <ul>
+                                <li>Variations morphologiques en français et en anglais (genre (masculin / féminin),  nombre (singulier / pluriel), forme verbale (infinitif, participe))</li>
+                                <li>Absence de frontière de mot en chinois.</li>
+                            </ul>
+                            <p>Pour chaque page, le programme calcule :  </p>
+                            <ul>
+                                <li>Le nombre d’occurrences du mot cible</li>
+                                <li>des extraits de contexte dans une fenêtre définie autour de chaque occurrence.</li>
+                            </ul>
+                            <p>À partir de ces contextes, une concordance de type KWIC (contexte gauche / cible / contexte droit) est générée automatiquement, facilitant l'analyse qualitative suivante</p>
+                        </p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-7">
+            <h3 class="title is-5">Hypothèses de recherche</h3>
+            <div class="notification">
+                <div class="content">
+                    <h3 class="title is-4">Hypothèses</h4>
+                    <p>À partir de ces observations, nous formulons l’hypothèse que les usages du mot rêve / dream / 梦 varient selon les langues et les contextes culturels : </p>
+                    <p><span class="tag is-info tag-lang">Chinois</span> Dans les corpus chinois, le terme tendrait à être employé dans des contextes collectifs, macrosociaux ou nationaux.  </p>
+                    <p><span class="tag is-primary tag-lang">Anglais</span> Dans les corpus anglophones, il serait plus fréquemment associé à des projets individuels, à la réussite personnelle et à la réalisation de soi.</p>
+                    <p><span class="tag is-link tag-lang">Français</span> Dans les corpus francophones, le mot rêve apparaîtrait davantage dans des contextes réflexifs, philosophiques ou littéraires, liés à l’imaginaire, à la subjectivité et à la pensée abstraite.  </p>
+                </div>
+            </div>
+        </div>
+        <div class="column is-5">
+            <h3 class="title is-4">Analyse quantitative & Visualisation</h3>
+            <div class="notification">
+                <div class="content">
+                    <h3 class="title is-4">Analyse</h4>
+                    <p>
+                        Dans une étape ultérieure, le projet intègre une analyse PALS par le script (<code>make_pals_corpus.sh</code>) afin de regrouper et aligner les différentes formes morphologiques du mot, en considérant la segmentation des caractères en mots pour le chinois, ainsi que la normalisation (minuscules) et isolation de la ponctuation pout le français et l'anglais. Le script (<code>analyse_pals.sh</code>) regroupe ensuite les formes morphologiques, identifie les cooccurrences significatives et calcule les fréquences et spécificités.  
+                    </p>
+                    <p>À partir des données de fréquence et de cooccurrence, des nuages de mots (word clouds) sont générés pour chaque langue par le script (<code>wordcloud.sh</code>). Ces visualisations offrent une synthèse graphique des environnements lexicaux du mot étudié et facilitent la comparaison entre les corpus. </p>
+                </div>
+            </div>
+        </div>   
+        
+    </div>
+
+    <!-- Section supplémentaire pour plus de contenu -->
+    <div class="columns is-multiline mt-6">
+      <div class="column is-12">
+        <h3 class="title is-4">Nuages de mots</h3>
+      </div>
+      <div class="column is-4">
+        <div class="notification">
+          <h4 class="title is-5 has-text-centered">Français</h4>
+          <img src="wordcloud/images/wordcloud_fr.png">
+        </div>
+      </div>
+      <div class="column is-4">
+        <div class="notification">
+          <h4 class="title is-5 has-text-centered">Anglais</h4>
+          <img src="wordcloud/images/wordcloud_en.png">
+        </div>
+      </div>
+      <div class="column is-4">
+        <div class="notification">
+          <h4 class="title is-5 has-text-centered">Chinois</h4>
+          <img src="wordcloud/images/wordcloud_zh.png">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<footer class="footer" role="contentinfo">
+  <div class="container has-text-centered">
+    <p>Projet encadré - La vie multilingue des mots sur le web</p>
+    <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+    <p class="is-size-7 mt-1">
+      <a href="mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+      <a href="contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+  // Script amélioré pour le menu burger avec accessibilité
+  document.addEventListener('DOMContentLoaded', () => {
+    const navbarBurgers = document.querySelectorAll('.navbar-burger');
+    
+    navbarBurgers.forEach(burger => {
+      burger.addEventListener('click', () => {
+        const targetId = burger.dataset.target;
+        const target = document.getElementById(targetId);
+        
+        // Toggle classes
+        burger.classList.toggle('is-active');
+        target.classList.toggle('is-active');
+        
+        // Mise à jour ARIA pour accessibilité
+        const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+        burger.setAttribute('aria-expanded', !isExpanded);
+        
+        // Optionnel: empêcher le scroll du body quand le menu est ouvert
+        if (!isExpanded) {
+          document.body.style.overflow = 'hidden';
+        } else {
+          document.body.style.overflow = '';
+        }
+      });
+    });
+    
+    // Fermer le menu burger en cliquant à l'extérieur (sur mobile)
+    document.addEventListener('click', (event) => {
+      const navbarMenu = document.getElementById('navbarBasic');
+      const navbarBurger = document.querySelector('.navbar-burger');
+      
+      if (navbarMenu && navbarMenu.classList.contains('is-active') &&
+          !navbarMenu.contains(event.target) && 
+          !navbarBurger.contains(event.target)) {
+        navbarMenu.classList.remove('is-active');
+        navbarBurger.classList.remove('is-active');
+        navbarBurger.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      }
+    });
+    
+    // Animation au défilement
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: '0px 0px -50px 0px'
+    };
+    
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, observerOptions);
+    
+    // Observer les notifications
+    document.querySelectorAll('.notification').forEach(el => {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(20px)';
+      el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+      observer.observe(el);
+    });
+  });
+</script>
+
+</body>
+</html>

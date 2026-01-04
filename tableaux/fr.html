@@ -1,631 +1,984 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="../style.css">
   <title>Tableau fr</title>
 </head>
 <body>
+
+<nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
   <div class="container">
-    <h1 class="title">Tableau — fr</h1>
-    <p>Mot (regex) : <code>(rêve|rêves|rêvé|rêvée|rêver|rêvant)</code> — Contexte : 100 caractères</p>
-    <div class="table-container">
-      <table class="table is-bordered is-hoverable is-striped is-fullwidth">
-        <tr>
-          <th>Numero</th>
-          <th>URL</th>
-          <th>Code HTTP</th>
-          <th>Encodage</th>
-          <th>Nb mots</th>
-          <th>Occurrences</th>
-          <th>Aspiration</th>
-          <th>Dump</th>
-          <th>Contexte</th>
-          <th>Concordance</th>
-        </tr>
-        <tr>
-          <td>1</td>
-          <td><a href="https://fr.wikipedia.org/wiki/R%C3%AAve" target="_blank">https://fr.wikipedia.org/wiki/R%C3%AAve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>14479</td>
-          <td>473</td>
-          <td><a href="../aspirations/fr-1.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-1.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-1.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-1.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td><a href="https://www.polytechnique-insights.com/tribunes/neurosciences/que-sait-on-vraiment-de-nos-reves/" target="_blank">https://www.polytechnique-insights.com/tribunes/neurosciences/que-sait-on-vraiment-de-nos-reves/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2565</td>
-          <td>50</td>
-          <td><a href="../aspirations/fr-2.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-2.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-2.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-2.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td><a href="https://www.santemagazine.fr/actualites/actualites-sante/reve-que-se-passe-t-il-vraiment-dans-notre-cerveau-pendant-le-sommeil-1142030" target="_blank">https://www.santemagazine.fr/actualites/actualites-sante/reve-que-se-passe-t-il-vraiment-dans-notre-cerveau-pendant-le-sommeil-1142030</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>973</td>
-          <td>11</td>
-          <td><a href="../aspirations/fr-3.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-3.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-3.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-3.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td><a href="https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Le-reve" target="_blank">https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Le-reve</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>2120</td>
-          <td>65</td>
-          <td><a href="../aspirations/fr-4.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-4.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-4.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-4.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>5</td>
-          <td><a href="https://www.vogue.fr/article/interpretations-reves-analyse" target="_blank">https://www.vogue.fr/article/interpretations-reves-analyse</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>3798</td>
-          <td>97</td>
-          <td><a href="../aspirations/fr-5.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-5.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-5.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-5.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>6</td>
-          <td><a href="https://www.inserm.fr/actualite/preuve-tout-monde-reve/" target="_blank">https://www.inserm.fr/actualite/preuve-tout-monde-reve/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1081</td>
-          <td>24</td>
-          <td><a href="../aspirations/fr-6.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-6.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-6.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-6.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>7</td>
-          <td><a href="https://dormezladessuscanada.ca/tout-sur-le-sommeil/le-pourquoi-et-le-comment-des-reves/" target="_blank">https://dormezladessuscanada.ca/tout-sur-le-sommeil/le-pourquoi-et-le-comment-des-reves/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>3147</td>
-          <td>95</td>
-          <td><a href="../aspirations/fr-7.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-7.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-7.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-7.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>8</td>
-          <td><a href="https://disney.fandom.com/fr/wiki/Moi_j%27ai_un_r%C3%AAve" target="_blank">https://disney.fandom.com/fr/wiki/Moi_j%27ai_un_r%C3%AAve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2748</td>
-          <td>65</td>
-          <td><a href="../aspirations/fr-8.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-8.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-8.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-8.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>9</td>
-          <td><a href="https://jai-un-reve.com/" target="_blank">https://jai-un-reve.com/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>636</td>
-          <td>9</td>
-          <td><a href="../aspirations/fr-9.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-9.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-9.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-9.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>10</td>
-          <td><a href="https://www.areion24.news/2025/12/01/les-robots-humanoides-le-reve-demiurgique-realise/" target="_blank">https://www.areion24.news/2025/12/01/les-robots-humanoides-le-reve-demiurgique-realise/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1390</td>
-          <td>3</td>
-          <td><a href="../aspirations/fr-10.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-10.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-10.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-10.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>11</td>
-          <td><a href="https://www.bibamagazine.fr/lifestyle/psycho/pourquoi-est-ce-quon-reve-24072.html" target="_blank">https://www.bibamagazine.fr/lifestyle/psycho/pourquoi-est-ce-quon-reve-24072.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1834</td>
-          <td>12</td>
-          <td><a href="../aspirations/fr-11.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-11.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-11.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-11.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>12</td>
-          <td><a href="https://www.lepoint.fr/afrique/simandou-le-vieux-reve-minier-de-la-guinee-se-concretise-30-11-2025-2604347_3826.php" target="_blank">https://www.lepoint.fr/afrique/simandou-le-vieux-reve-minier-de-la-guinee-se-concretise-30-11-2025-2604347_3826.php</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>1925</td>
-          <td>4</td>
-          <td><a href="../aspirations/fr-12.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-12.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-12.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-12.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>13</td>
-          <td><a href="https://www.leparisien.fr/environnement/un-reve-fou-devenu-realite-la-marine-marchande-remet-les-voiles-28-11-2025-EHIV2QM5YREMPPYVPNQU3CH5QM.php" target="_blank">https://www.leparisien.fr/environnement/un-reve-fou-devenu-realite-la-marine-marchande-remet-les-voiles-28-11-2025-EHIV2QM5YREMPPYVPNQU3CH5QM.php</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>1371</td>
-          <td>1</td>
-          <td><a href="../aspirations/fr-13.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-13.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-13.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-13.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>14</td>
-          <td><a href="https://www.midilibre.fr/2025/12/03/il-reve-de-travailler-pour-decathlon-letonnante-strategie-de-ce-candidat-vraiment-pret-a-tout-pour-taper-dans-loeil-des-recruteurs-13087605.php" target="_blank">https://www.midilibre.fr/2025/12/03/il-reve-de-travailler-pour-decathlon-letonnante-strategie-de-ce-candidat-vraiment-pret-a-tout-pour-taper-dans-loeil-des-recruteurs-13087605.php</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1253</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-14.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-14.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-14.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-14.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>15</td>
-          <td><a href="https://www.europe1.fr/emissions/la-revue-de-presse2/les-secrets-de-lendormissement-et-le-reve-politique-de-gabriel-attal-873366" target="_blank">https://www.europe1.fr/emissions/la-revue-de-presse2/les-secrets-de-lendormissement-et-le-reve-politique-de-gabriel-attal-873366</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1672</td>
-          <td>3</td>
-          <td><a href="../aspirations/fr-15.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-15.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-15.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-15.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>16</td>
-          <td><a href="https://www.diverto.tv/actualites/tele/j-ai-un-fantasme-anne-elisabeth-lemoine-realise-son-reve-en-direct-sous-les-yeux-de-jean-pierre-foucault" target="_blank">https://www.diverto.tv/actualites/tele/j-ai-un-fantasme-anne-elisabeth-lemoine-realise-son-reve-en-direct-sous-les-yeux-de-jean-pierre-foucault</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1925</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-16.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-16.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-16.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-16.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>17</td>
-          <td><a href="https://www.lyonmag.com/article/148593/fin-d-un-reve-lyonnais-liquidation-judiciaire-de-seabubbles-et-ses-bateaux-qui-volent" target="_blank">https://www.lyonmag.com/article/148593/fin-d-un-reve-lyonnais-liquidation-judiciaire-de-seabubbles-et-ses-bateaux-qui-volent</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2135</td>
-          <td>4</td>
-          <td><a href="../aspirations/fr-17.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-17.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-17.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-17.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>18</td>
-          <td><a href="https://fr.wikipedia.org/wiki/L%27Interpr%C3%A9tation_du_r%C3%AAve" target="_blank">https://fr.wikipedia.org/wiki/L%27Interpr%C3%A9tation_du_r%C3%AAve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>9526</td>
-          <td>267</td>
-          <td><a href="../aspirations/fr-18.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-18.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-18.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-18.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>19</td>
-          <td><a href="https://www.ladepeche.fr/2025/11/27/ces-locaux-sont-pourris-la-chambre-dagriculture-du-gers-reve-dun-nouveau-quartier-general-a-auch-13076042.php" target="_blank">https://www.ladepeche.fr/2025/11/27/ces-locaux-sont-pourris-la-chambre-dagriculture-du-gers-reve-dun-nouveau-quartier-general-a-auch-13076042.php</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1662</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-19.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-19.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-19.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-19.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>20</td>
-          <td><a href="https://www.leparisien.fr/faits-divers/son-reve-sest-effondre-elle-voulait-faire-une-surprise-a-ses-parents-pour-thanksgiving-elle-se-retrouve-expulsee-au-honduras-29-11-2025-MXCF6DZ43FGK3C37BEQO7HWBL4.php" target="_blank">https://www.leparisien.fr/faits-divers/son-reve-sest-effondre-elle-voulait-faire-une-surprise-a-ses-parents-pour-thanksgiving-elle-se-retrouve-expulsee-au-honduras-29-11-2025-MXCF6DZ43FGK3C37BEQO7HWBL4.php</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>1534</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-20.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-20.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-20.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-20.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>21</td>
-          <td><a href="https://fr.wikipedia.org/wiki/Temps_du_r%C3%AAve" target="_blank">https://fr.wikipedia.org/wiki/Temps_du_r%C3%AAve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1782</td>
-          <td>28</td>
-          <td><a href="../aspirations/fr-21.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-21.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-21.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-21.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>22</td>
-          <td><a href="https://www.ladepeche.fr/2025/12/02/javais-envie-de-comprendre-mes-reves-elle-cree-un-jeu-de-societe-pour-comprendre-la-paralysie-du-sommeil-13056299.php" target="_blank">https://www.ladepeche.fr/2025/12/02/javais-envie-de-comprendre-mes-reves-elle-cree-un-jeu-de-societe-pour-comprendre-la-paralysie-du-sommeil-13056299.php</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1767</td>
-          <td>8</td>
-          <td><a href="../aspirations/fr-22.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-22.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-22.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-22.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>23</td>
-          <td><a href="https://fr.wikipedia.org/wiki/R%C3%AAverie" target="_blank">https://fr.wikipedia.org/wiki/R%C3%AAverie</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>3449</td>
-          <td>44</td>
-          <td><a href="../aspirations/fr-23.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-23.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-23.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-23.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>24</td>
-          <td><a href="https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-un-reve-devenu-realite-desire-doue-revient-sur-la-finale-de-ligue-des-champions-et-devoile-son-but-prefere-20251201" target="_blank">https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-un-reve-devenu-realite-desire-doue-revient-sur-la-finale-de-ligue-des-champions-et-devoile-son-but-prefere-20251201</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>3580</td>
-          <td>6</td>
-          <td><a href="../aspirations/fr-24.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-24.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-24.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-24.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>25</td>
-          <td><a href="https://fr.wikipedia.org/wiki/Contr%C3%A9es_du_R%C3%AAve" target="_blank">https://fr.wikipedia.org/wiki/Contr%C3%A9es_du_R%C3%AAve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1726</td>
-          <td>37</td>
-          <td><a href="../aspirations/fr-25.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-25.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-25.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-25.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>26</td>
-          <td><a href="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html" target="_blank">https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1413</td>
-          <td>33</td>
-          <td><a href="../aspirations/fr-26.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-26.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-26.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-26.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>27</td>
-          <td><a href="https://celis.uca.fr/archives/anciens-programmes-du-celis-2015-2020/lintimite-le-reve-et-la-creation-litteraire" target="_blank">https://celis.uca.fr/archives/anciens-programmes-du-celis-2015-2020/lintimite-le-reve-et-la-creation-litteraire</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>3925</td>
-          <td>58</td>
-          <td><a href="../aspirations/fr-27.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-27.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-27.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-27.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>28</td>
-          <td><a href="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration" target="_blank">https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>916</td>
-          <td>23</td>
-          <td><a href="../aspirations/fr-28.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-28.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-28.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-28.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>29</td>
-          <td><a href="https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-reves/" target="_blank">https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-reves/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2610</td>
-          <td>90</td>
-          <td><a href="../aspirations/fr-29.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-29.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-29.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-29.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>30</td>
-          <td><a href="https://bultex.fr/sommeillab/sommeil-sante-bien-etre/5-informations-passionnantes-a-propos-des-reves" target="_blank">https://bultex.fr/sommeillab/sommeil-sante-bien-etre/5-informations-passionnantes-a-propos-des-reves</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2825</td>
-          <td>102</td>
-          <td><a href="../aspirations/fr-30.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-30.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-30.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-30.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>31</td>
-          <td><a href="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" target="_blank">https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1578</td>
-          <td>31</td>
-          <td><a href="../aspirations/fr-31.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-31.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-31.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-31.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>32</td>
-          <td><a href="https://sleepdoctor.fr/blog/les-reves" target="_blank">https://sleepdoctor.fr/blog/les-reves</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1612</td>
-          <td>44</td>
-          <td><a href="../aspirations/fr-32.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-32.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-32.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-32.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>33</td>
-          <td><a href="https://institutducerveau.org/actualites/au-coeur-reve" target="_blank">https://institutducerveau.org/actualites/au-coeur-reve</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2671</td>
-          <td>16</td>
-          <td><a href="../aspirations/fr-33.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-33.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-33.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-33.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>34</td>
-          <td><a href="https://www.causefreudienne.org/archives-jecf/le-reve-traumatique-le-reel-pour-envers/" target="_blank">https://www.causefreudienne.org/archives-jecf/le-reve-traumatique-le-reel-pour-envers/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1679</td>
-          <td>23</td>
-          <td><a href="../aspirations/fr-34.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-34.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-34.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-34.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>35</td>
-          <td><a href="https://sciencepost.fr/ce-quil-se-passe-vraiment-quand-vous-revez-et-ce-nest-pas-ce-que-vous-imaginez/" target="_blank">https://sciencepost.fr/ce-quil-se-passe-vraiment-quand-vous-revez-et-ce-nest-pas-ce-que-vous-imaginez/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1129</td>
-          <td>20</td>
-          <td><a href="../aspirations/fr-35.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-35.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-35.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-35.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>36</td>
-          <td><a href="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html" target="_blank">https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1413</td>
-          <td>33</td>
-          <td><a href="../aspirations/fr-36.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-36.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-36.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-36.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>37</td>
-          <td><a href="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration" target="_blank">https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>916</td>
-          <td>23</td>
-          <td><a href="../aspirations/fr-37.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-37.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-37.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-37.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>38</td>
-          <td><a href="https://www.huffingtonpost.fr/life/article/sommeil-la-science-avance-mais-les-mysteres-des-reves-demeurent_214737.html" target="_blank">https://www.huffingtonpost.fr/life/article/sommeil-la-science-avance-mais-les-mysteres-des-reves-demeurent_214737.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>1668</td>
-          <td>42</td>
-          <td><a href="../aspirations/fr-38.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-38.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-38.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-38.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>39</td>
-          <td><a href="https://www.freud-lacan.com/documents-ged/reve-et-usage-du-reve/" target="_blank">https://www.freud-lacan.com/documents-ged/reve-et-usage-du-reve/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>9805</td>
-          <td>165</td>
-          <td><a href="../aspirations/fr-39.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-39.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-39.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-39.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>40</td>
-          <td><a href="https://laviedesidees.fr/Une-nouvelle-science-des-reves" target="_blank">https://laviedesidees.fr/Une-nouvelle-science-des-reves</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>6257</td>
-          <td>104</td>
-          <td><a href="../aspirations/fr-40.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-40.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-40.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-40.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>41</td>
-          <td><a href="https://books.openedition.org/pupo/3259?lang=fr" target="_blank">https://books.openedition.org/pupo/3259?lang=fr</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>13766</td>
-          <td>101</td>
-          <td><a href="../aspirations/fr-41.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-41.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-41.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-41.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>42</td>
-          <td><a href="https://journals.openedition.org/terrain/3071" target="_blank">https://journals.openedition.org/terrain/3071</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>7864</td>
-          <td>127</td>
-          <td><a href="../aspirations/fr-42.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-42.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-42.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-42.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>43</td>
-          <td><a href="https://www.persee.fr/doc/colan_1268-7251_1963_num_7_1_4840" target="_blank">https://www.persee.fr/doc/colan_1268-7251_1963_num_7_1_4840</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>371</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-43.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-43.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-43.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-43.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>44</td>
-          <td><a href="https://www.air-journal.fr/2024-10-24-le-syndicat-rejette-laccord-la-greve-sur-poursuit-chez-boeing-5258745.html" target="_blank">https://www.air-journal.fr/2024-10-24-le-syndicat-rejette-laccord-la-greve-sur-poursuit-chez-boeing-5258745.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>4374</td>
-          <td>1</td>
-          <td><a href="../aspirations/fr-44.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-44.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-44.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-44.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>45</td>
-          <td><a href="https://forum.jerecuperemonex.com/topic/1196-silence-radio-ferme/" target="_blank">https://forum.jerecuperemonex.com/topic/1196-silence-radio-ferme/</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2714</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-45.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-45.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-45.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-45.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>46</td>
-          <td><a href="https://www.neoprofs.org/t91192p50-college-remaniee-la-circulaire-d-application-de-la-reforme-va-plus-loin-cafe-pedagogique" target="_blank">https://www.neoprofs.org/t91192p50-college-remaniee-la-circulaire-d-application-de-la-reforme-va-plus-loin-cafe-pedagogique</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>4979</td>
-          <td>2</td>
-          <td><a href="../aspirations/fr-46.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-46.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-46.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-46.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>47</td>
-          <td><a href="https://www.athled.net/forum/objectif-1408241.html" target="_blank">https://www.athled.net/forum/objectif-1408241.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>4136</td>
-          <td>15</td>
-          <td><a href="../aspirations/fr-47.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-47.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-47.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-47.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>48</td>
-          <td><a href="http://www.bulle-immobiliere.org/forum/viewtopic.php?t=94278" target="_blank">http://www.bulle-immobiliere.org/forum/viewtopic.php?t=94278</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>8153</td>
-          <td>5</td>
-          <td><a href="../aspirations/fr-48.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-48.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-48.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-48.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>49</td>
-          <td><a href="https://forumfreemobile.fr/viewtopic.php?t=1304&start=20" target="_blank">https://forumfreemobile.fr/viewtopic.php?t=1304&start=20</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>3830</td>
-          <td>1</td>
-          <td><a href="../aspirations/fr-49.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-49.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-49.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-49.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>50</td>
-          <td><a href="https://www.forum-depression.com/viewtopic.php?t=5102" target="_blank">https://www.forum-depression.com/viewtopic.php?t=5102</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>2452</td>
-          <td>36</td>
-          <td><a href="../aspirations/fr-50.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/fr-50.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/fr-50.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/fr-50.html" target="_blank">kwic</a></td>
-        </tr>
-      </table>
+    <div class="navbar-brand">
+      <a class="navbar-item" href="../index.html">
+        <strong>✨ LA RÊVERIE</strong>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarTable">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarTable" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="../index.html" title="Page d'accueil">Accueil</a>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="fr.html" title="Tableau français">Français</a>
+            <a class="navbar-item" href="en.html" title="Tableau anglais">Anglais</a>
+            <a class="navbar-item" href="zh.html" title="Tableau chinois">Chinois</a>
+          </div>
+        </div>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Analyses par langue">Analyses</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="../analyse-fr.html" title="Analyse française">Français</a>
+            <a class="navbar-item" href="../analyse-en.html" title="Analyse anglaise">Anglais</a>
+            <a class="navbar-item" href="../analyse-zh.html" title="Analyse chinoise">Chinois</a>
+          </div>
+        </div>
+        
+        <a class="navbar-item" href="../presentation.html" title="À propos du projet">À propos</a>
+      </div>
     </div>
   </div>
+</nav>
+<div>
+</div>
+<header class="hero is-table" role="banner">
+</header>
+
+<main class="section">
+  <div class="container fade-in">
+    
+    <div class="columns is-multiline mb-5">
+      
+      <div class="column is-5">
+        <div class="stats-box">
+          <div class="stats-title">Langue :</div>
+          <div class="stats-value">
+Français
+</div>
+        </div>
+      </div>
+    
+      <div class="column is-5">
+        <div class="stats-box">
+          <div class="stats-title">Mot recherché :</div>
+          <div class="stats-value">[Rr][êe]ve(s|r)?</div>
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="table-container">
+      <table class="table is-bordered is-hoverable is-striped is-fullwidth">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>URL</th>
+            <th>Code HTTP</th>
+            <th>Encodage</th>
+            <th>Nb mots</th>
+            <th>Occurrences</th>
+            <th>Aspiration</th>
+            <th>Dump texte</th>
+            <th>Contexte</th>
+            <th>Concordance</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td><strong>1</strong></td>
+          <td>
+            <a href="https://fr.wikipedia.org/wiki/R%C3%AAve" target="_blank" title="https://fr.wikipedia.org/wiki/R%C3%AAve">
+              <span class="code-url">https://fr.wikipedia.org/wiki/R%C3%AAve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">14479</span></td>
+          <td><span class="tag tag-success">460</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-1.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-1.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-1.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-1.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>2</strong></td>
+          <td>
+            <a href="https://www.polytechnique-insights.com/tribunes/neurosciences/que-sait-on-vraiment-de-nos-reves/" target="_blank" title="https://www.polytechnique-insights.com/tribunes/neurosciences/que-sait-on-vraiment-de-nos-reves/">
+              <span class="code-url">https://www.polytechnique-insights.com/tribunes/neurosciences/que-sait-on-vraiment-de-nos-reves/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2560</span></td>
+          <td><span class="tag tag-success">48</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-2.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-2.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-2.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-2.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>3</strong></td>
+          <td>
+            <a href="https://www.santemagazine.fr/actualites/actualites-sante/reve-que-se-passe-t-il-vraiment-dans-notre-cerveau-pendant-le-sommeil-1142030" target="_blank" title="https://www.santemagazine.fr/actualites/actualites-sante/reve-que-se-passe-t-il-vraiment-dans-notre-cerveau-pendant-le-sommeil-1142030">
+              <span class="code-url">https://www.santemagazine.fr/actualites/actualites-sante/reve-que-se-passe-t-il-vraiment-dans-notre-cerveau-pendant-le-sommeil-1142030</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">971</span></td>
+          <td><span class="tag tag-success">11</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-3.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-3.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-3.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-3.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>4</strong></td>
+          <td>
+            <a href="https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Le-reve" target="_blank" title="https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Le-reve">
+              <span class="code-url">https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Le-reve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">2120</span></td>
+          <td><span class="tag tag-success">65</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-4.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-4.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-4.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-4.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>5</strong></td>
+          <td>
+            <a href="https://www.vogue.fr/article/interpretations-reves-analyse" target="_blank" title="https://www.vogue.fr/article/interpretations-reves-analyse">
+              <span class="code-url">https://www.vogue.fr/article/interpretations-reves-analyse</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">3778</span></td>
+          <td><span class="tag tag-success">96</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-5.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-5.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-5.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-5.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>6</strong></td>
+          <td>
+            <a href="https://www.inserm.fr/actualite/preuve-tout-monde-reve/" target="_blank" title="https://www.inserm.fr/actualite/preuve-tout-monde-reve/">
+              <span class="code-url">https://www.inserm.fr/actualite/preuve-tout-monde-reve/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1081</span></td>
+          <td><span class="tag tag-success">22</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-6.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-6.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-6.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-6.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>7</strong></td>
+          <td>
+            <a href="https://dormezladessuscanada.ca/tout-sur-le-sommeil/le-pourquoi-et-le-comment-des-reves/" target="_blank" title="https://dormezladessuscanada.ca/tout-sur-le-sommeil/le-pourquoi-et-le-comment-des-reves/">
+              <span class="code-url">https://dormezladessuscanada.ca/tout-sur-le-sommeil/le-pourquoi-et-le-comment-des-reves/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">3147</span></td>
+          <td><span class="tag tag-success">95</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-7.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-7.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-7.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-7.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>8</strong></td>
+          <td>
+            <a href="https://disney.fandom.com/fr/wiki/Moi_j%27ai_un_r%C3%AAve" target="_blank" title="https://disney.fandom.com/fr/wiki/Moi_j%27ai_un_r%C3%AAve">
+              <span class="code-url">https://disney.fandom.com/fr/wiki/Moi_j%27ai_un_r%C3%AAve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2748</span></td>
+          <td><span class="tag tag-success">63</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-8.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-8.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-8.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-8.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>9</strong></td>
+          <td>
+            <a href="https://jai-un-reve.com/" target="_blank" title="https://jai-un-reve.com/">
+              <span class="code-url">https://jai-un-reve.com/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">636</span></td>
+          <td><span class="tag tag-info">10</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-9.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-9.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-9.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-9.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>10</strong></td>
+          <td>
+            <a href="https://www.areion24.news/2025/12/01/les-robots-humanoides-le-reve-demiurgique-realise/" target="_blank" title="https://www.areion24.news/2025/12/01/les-robots-humanoides-le-reve-demiurgique-realise/">
+              <span class="code-url">https://www.areion24.news/2025/12/01/les-robots-humanoides-le-reve-demiurgique-realise/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1390</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-10.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-10.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-10.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-10.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>11</strong></td>
+          <td>
+            <a href="https://www.bibamagazine.fr/lifestyle/psycho/pourquoi-est-ce-quon-reve-24072.html" target="_blank" title="https://www.bibamagazine.fr/lifestyle/psycho/pourquoi-est-ce-quon-reve-24072.html">
+              <span class="code-url">https://www.bibamagazine.fr/lifestyle/psycho/pourquoi-est-ce-quon-reve-24072.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1881</span></td>
+          <td><span class="tag tag-success">12</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-11.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-11.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-11.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-11.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>12</strong></td>
+          <td>
+            <a href="https://www.lepoint.fr/afrique/simandou-le-vieux-reve-minier-de-la-guinee-se-concretise-30-11-2025-2604347_3826.php" target="_blank" title="https://www.lepoint.fr/afrique/simandou-le-vieux-reve-minier-de-la-guinee-se-concretise-30-11-2025-2604347_3826.php">
+              <span class="code-url">https://www.lepoint.fr/afrique/simandou-le-vieux-reve-minier-de-la-guinee-se-concretise-30-11-2025-2604347_3826.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">1925</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-12.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-12.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-12.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-12.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>13</strong></td>
+          <td>
+            <a href="https://www.leparisien.fr/environnement/un-reve-fou-devenu-realite-la-marine-marchande-remet-les-voiles-28-11-2025-EHIV2QM5YREMPPYVPNQU3CH5QM.php" target="_blank" title="https://www.leparisien.fr/environnement/un-reve-fou-devenu-realite-la-marine-marchande-remet-les-voiles-28-11-2025-EHIV2QM5YREMPPYVPNQU3CH5QM.php">
+              <span class="code-url">https://www.leparisien.fr/environnement/un-reve-fou-devenu-realite-la-marine-marchande-remet-les-voiles-28-11-2025-EHIV2QM5YREMPPYVPNQU3CH5QM.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">1368</span></td>
+          <td><span class="tag tag-info">1</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-13.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-13.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-13.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-13.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>14</strong></td>
+          <td>
+            <a href="https://www.midilibre.fr/2025/12/03/il-reve-de-travailler-pour-decathlon-letonnante-strategie-de-ce-candidat-vraiment-pret-a-tout-pour-taper-dans-loeil-des-recruteurs-13087605.php" target="_blank" title="https://www.midilibre.fr/2025/12/03/il-reve-de-travailler-pour-decathlon-letonnante-strategie-de-ce-candidat-vraiment-pret-a-tout-pour-taper-dans-loeil-des-recruteurs-13087605.php">
+              <span class="code-url">https://www.midilibre.fr/2025/12/03/il-reve-de-travailler-pour-decathlon-letonnante-strategie-de-ce-candidat-vraiment-pret-a-tout-pour-taper-dans-loeil-des-recruteurs-13087605.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1349</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-14.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-14.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-14.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-14.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>15</strong></td>
+          <td>
+            <a href="https://www.europe1.fr/emissions/la-revue-de-presse2/les-secrets-de-lendormissement-et-le-reve-politique-de-gabriel-attal-873366" target="_blank" title="https://www.europe1.fr/emissions/la-revue-de-presse2/les-secrets-de-lendormissement-et-le-reve-politique-de-gabriel-attal-873366">
+              <span class="code-url">https://www.europe1.fr/emissions/la-revue-de-presse2/les-secrets-de-lendormissement-et-le-reve-politique-de-gabriel-attal-873366</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1720</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-15.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-15.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-15.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-15.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>16</strong></td>
+          <td>
+            <a href="https://www.diverto.tv/actualites/tele/j-ai-un-fantasme-anne-elisabeth-lemoine-realise-son-reve-en-direct-sous-les-yeux-de-jean-pierre-foucault" target="_blank" title="https://www.diverto.tv/actualites/tele/j-ai-un-fantasme-anne-elisabeth-lemoine-realise-son-reve-en-direct-sous-les-yeux-de-jean-pierre-foucault">
+              <span class="code-url">https://www.diverto.tv/actualites/tele/j-ai-un-fantasme-anne-elisabeth-lemoine-realise-son-reve-en-direct-sous-les-yeux-de-jean-pierre-foucault</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1939</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-16.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-16.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-16.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-16.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>17</strong></td>
+          <td>
+            <a href="https://www.lyonmag.com/article/148593/fin-d-un-reve-lyonnais-liquidation-judiciaire-de-seabubbles-et-ses-bateaux-qui-volent" target="_blank" title="https://www.lyonmag.com/article/148593/fin-d-un-reve-lyonnais-liquidation-judiciaire-de-seabubbles-et-ses-bateaux-qui-volent">
+              <span class="code-url">https://www.lyonmag.com/article/148593/fin-d-un-reve-lyonnais-liquidation-judiciaire-de-seabubbles-et-ses-bateaux-qui-volent</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2081</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-17.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-17.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-17.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-17.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>18</strong></td>
+          <td>
+            <a href="https://fr.wikipedia.org/wiki/L%27Interpr%C3%A9tation_du_r%C3%AAve" target="_blank" title="https://fr.wikipedia.org/wiki/L%27Interpr%C3%A9tation_du_r%C3%AAve">
+              <span class="code-url">https://fr.wikipedia.org/wiki/L%27Interpr%C3%A9tation_du_r%C3%AAve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">9526</span></td>
+          <td><span class="tag tag-success">267</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-18.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-18.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-18.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-18.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>19</strong></td>
+          <td>
+            <a href="https://www.ladepeche.fr/2025/11/27/ces-locaux-sont-pourris-la-chambre-dagriculture-du-gers-reve-dun-nouveau-quartier-general-a-auch-13076042.php" target="_blank" title="https://www.ladepeche.fr/2025/11/27/ces-locaux-sont-pourris-la-chambre-dagriculture-du-gers-reve-dun-nouveau-quartier-general-a-auch-13076042.php">
+              <span class="code-url">https://www.ladepeche.fr/2025/11/27/ces-locaux-sont-pourris-la-chambre-dagriculture-du-gers-reve-dun-nouveau-quartier-general-a-auch-13076042.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1686</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-19.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-19.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-19.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-19.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>20</strong></td>
+          <td>
+            <a href="https://www.leparisien.fr/faits-divers/son-reve-sest-effondre-elle-voulait-faire-une-surprise-a-ses-parents-pour-thanksgiving-elle-se-retrouve-expulsee-au-honduras-29-11-2025-MXCF6DZ43FGK3C37BEQO7HWBL4.php" target="_blank" title="https://www.leparisien.fr/faits-divers/son-reve-sest-effondre-elle-voulait-faire-une-surprise-a-ses-parents-pour-thanksgiving-elle-se-retrouve-expulsee-au-honduras-29-11-2025-MXCF6DZ43FGK3C37BEQO7HWBL4.php">
+              <span class="code-url">https://www.leparisien.fr/faits-divers/son-reve-sest-effondre-elle-voulait-faire-une-surprise-a-ses-parents-pour-thanksgiving-elle-se-retrouve-expulsee-au-honduras-29-11-2025-MXCF6DZ43FGK3C37BEQO7HWBL4.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">1521</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-20.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-20.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-20.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-20.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>21</strong></td>
+          <td>
+            <a href="https://fr.wikipedia.org/wiki/Temps_du_r%C3%AAve" target="_blank" title="https://fr.wikipedia.org/wiki/Temps_du_r%C3%AAve">
+              <span class="code-url">https://fr.wikipedia.org/wiki/Temps_du_r%C3%AAve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1782</span></td>
+          <td><span class="tag tag-success">27</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-21.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-21.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-21.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-21.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>22</strong></td>
+          <td>
+            <a href="https://www.ladepeche.fr/2025/12/02/javais-envie-de-comprendre-mes-reves-elle-cree-un-jeu-de-societe-pour-comprendre-la-paralysie-du-sommeil-13056299.php" target="_blank" title="https://www.ladepeche.fr/2025/12/02/javais-envie-de-comprendre-mes-reves-elle-cree-un-jeu-de-societe-pour-comprendre-la-paralysie-du-sommeil-13056299.php">
+              <span class="code-url">https://www.ladepeche.fr/2025/12/02/javais-envie-de-comprendre-mes-reves-elle-cree-un-jeu-de-societe-pour-comprendre-la-paralysie-du-sommeil-13056299.php</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1794</span></td>
+          <td><span class="tag tag-info">8</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-22.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-22.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-22.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-22.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>23</strong></td>
+          <td>
+            <a href="https://fr.wikipedia.org/wiki/R%C3%AAverie" target="_blank" title="https://fr.wikipedia.org/wiki/R%C3%AAverie">
+              <span class="code-url">https://fr.wikipedia.org/wiki/R%C3%AAverie</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">3449</span></td>
+          <td><span class="tag tag-success">44</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-23.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-23.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-23.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-23.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>24</strong></td>
+          <td>
+            <a href="https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-un-reve-devenu-realite-desire-doue-revient-sur-la-finale-de-ligue-des-champions-et-devoile-son-but-prefere-20251201" target="_blank" title="https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-un-reve-devenu-realite-desire-doue-revient-sur-la-finale-de-ligue-des-champions-et-devoile-son-but-prefere-20251201">
+              <span class="code-url">https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-un-reve-devenu-realite-desire-doue-revient-sur-la-finale-de-ligue-des-champions-et-devoile-son-but-prefere-20251201</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">3580</span></td>
+          <td><span class="tag tag-info">7</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-24.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-24.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-24.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-24.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>25</strong></td>
+          <td>
+            <a href="https://fr.wikipedia.org/wiki/Contr%C3%A9es_du_R%C3%AAve" target="_blank" title="https://fr.wikipedia.org/wiki/Contr%C3%A9es_du_R%C3%AAve">
+              <span class="code-url">https://fr.wikipedia.org/wiki/Contr%C3%A9es_du_R%C3%AAve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1726</span></td>
+          <td><span class="tag tag-success">37</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-25.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-25.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-25.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-25.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>26</strong></td>
+          <td>
+            <a href="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html" target="_blank" title="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html">
+              <span class="code-url">https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1413</span></td>
+          <td><span class="tag tag-success">33</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-26.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-26.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-26.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-26.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>27</strong></td>
+          <td>
+            <a href="https://celis.uca.fr/archives/anciens-programmes-du-celis-2015-2020/lintimite-le-reve-et-la-creation-litteraire" target="_blank" title="https://celis.uca.fr/archives/anciens-programmes-du-celis-2015-2020/lintimite-le-reve-et-la-creation-litteraire">
+              <span class="code-url">https://celis.uca.fr/archives/anciens-programmes-du-celis-2015-2020/lintimite-le-reve-et-la-creation-litteraire</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">3925</span></td>
+          <td><span class="tag tag-success">56</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-27.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-27.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-27.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-27.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>28</strong></td>
+          <td>
+            <a href="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration" target="_blank" title="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration">
+              <span class="code-url">https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">916</span></td>
+          <td><span class="tag tag-success">22</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-28.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-28.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-28.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-28.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>29</strong></td>
+          <td>
+            <a href="https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-reves/" target="_blank" title="https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-reves/">
+              <span class="code-url">https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-reves/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2610</span></td>
+          <td><span class="tag tag-success">89</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-29.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-29.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-29.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-29.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>30</strong></td>
+          <td>
+            <a href="https://bultex.fr/sommeillab/sommeil-sante-bien-etre/5-informations-passionnantes-a-propos-des-reves" target="_blank" title="https://bultex.fr/sommeillab/sommeil-sante-bien-etre/5-informations-passionnantes-a-propos-des-reves">
+              <span class="code-url">https://bultex.fr/sommeillab/sommeil-sante-bien-etre/5-informations-passionnantes-a-propos-des-reves</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2825</span></td>
+          <td><span class="tag tag-success">102</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-30.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-30.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-30.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-30.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>31</strong></td>
+          <td>
+            <a href="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/" target="_blank" title="https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/">
+              <span class="code-url">https://institut-sommeil-vigilance.org/a-quoi-servent-les-reves/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1578</span></td>
+          <td><span class="tag tag-success">31</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-31.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-31.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-31.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-31.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>32</strong></td>
+          <td>
+            <a href="https://sleepdoctor.fr/blog/les-reves" target="_blank" title="https://sleepdoctor.fr/blog/les-reves">
+              <span class="code-url">https://sleepdoctor.fr/blog/les-reves</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1612</span></td>
+          <td><span class="tag tag-success">45</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-32.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-32.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-32.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-32.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>33</strong></td>
+          <td>
+            <a href="https://institutducerveau.org/actualites/au-coeur-reve" target="_blank" title="https://institutducerveau.org/actualites/au-coeur-reve">
+              <span class="code-url">https://institutducerveau.org/actualites/au-coeur-reve</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2671</span></td>
+          <td><span class="tag tag-success">16</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-33.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-33.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-33.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-33.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>34</strong></td>
+          <td>
+            <a href="https://www.causefreudienne.org/archives-jecf/le-reve-traumatique-le-reel-pour-envers/" target="_blank" title="https://www.causefreudienne.org/archives-jecf/le-reve-traumatique-le-reel-pour-envers/">
+              <span class="code-url">https://www.causefreudienne.org/archives-jecf/le-reve-traumatique-le-reel-pour-envers/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1679</span></td>
+          <td><span class="tag tag-success">23</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-34.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-34.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-34.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-34.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>35</strong></td>
+          <td>
+            <a href="https://sciencepost.fr/ce-quil-se-passe-vraiment-quand-vous-revez-et-ce-nest-pas-ce-que-vous-imaginez/" target="_blank" title="https://sciencepost.fr/ce-quil-se-passe-vraiment-quand-vous-revez-et-ce-nest-pas-ce-que-vous-imaginez/">
+              <span class="code-url">https://sciencepost.fr/ce-quil-se-passe-vraiment-quand-vous-revez-et-ce-nest-pas-ce-que-vous-imaginez/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1132</span></td>
+          <td><span class="tag tag-success">20</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-35.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-35.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-35.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-35.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>36</strong></td>
+          <td>
+            <a href="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html" target="_blank" title="https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html">
+              <span class="code-url">https://www.fabula.org/actualites/107683/mise-en-oeuvre-du-reve-dans-la-litterature-et-les.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1413</span></td>
+          <td><span class="tag tag-success">33</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-36.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-36.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-36.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-36.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>37</strong></td>
+          <td>
+            <a href="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration" target="_blank" title="https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration">
+              <span class="code-url">https://www.blima-piotraut.fr/reve-et-litterature/articles/les-reves-une-source-d-inspiration</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">916</span></td>
+          <td><span class="tag tag-success">22</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-37.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-37.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-37.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-37.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>38</strong></td>
+          <td>
+            <a href="https://www.huffingtonpost.fr/life/article/sommeil-la-science-avance-mais-les-mysteres-des-reves-demeurent_214737.html" target="_blank" title="https://www.huffingtonpost.fr/life/article/sommeil-la-science-avance-mais-les-mysteres-des-reves-demeurent_214737.html">
+              <span class="code-url">https://www.huffingtonpost.fr/life/article/sommeil-la-science-avance-mais-les-mysteres-des-reves-demeurent_214737.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">1668</span></td>
+          <td><span class="tag tag-success">42</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-38.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-38.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-38.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-38.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>39</strong></td>
+          <td>
+            <a href="https://www.freud-lacan.com/documents-ged/reve-et-usage-du-reve/" target="_blank" title="https://www.freud-lacan.com/documents-ged/reve-et-usage-du-reve/">
+              <span class="code-url">https://www.freud-lacan.com/documents-ged/reve-et-usage-du-reve/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">9805</span></td>
+          <td><span class="tag tag-success">164</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-39.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-39.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-39.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-39.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>40</strong></td>
+          <td>
+            <a href="https://laviedesidees.fr/Une-nouvelle-science-des-reves" target="_blank" title="https://laviedesidees.fr/Une-nouvelle-science-des-reves">
+              <span class="code-url">https://laviedesidees.fr/Une-nouvelle-science-des-reves</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">6257</span></td>
+          <td><span class="tag tag-success">103</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-40.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-40.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-40.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-40.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>41</strong></td>
+          <td>
+            <a href="https://books.openedition.org/pupo/3259?lang=fr" target="_blank" title="https://books.openedition.org/pupo/3259?lang=fr">
+              <span class="code-url">https://books.openedition.org/pupo/3259?lang=fr</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">13766</span></td>
+          <td><span class="tag tag-success">102</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-41.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-41.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-41.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-41.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>42</strong></td>
+          <td>
+            <a href="https://journals.openedition.org/terrain/3071" target="_blank" title="https://journals.openedition.org/terrain/3071">
+              <span class="code-url">https://journals.openedition.org/terrain/3071</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">7864</span></td>
+          <td><span class="tag tag-success">124</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-42.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-42.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-42.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-42.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>43</strong></td>
+          <td>
+            <a href="https://www.persee.fr/doc/colan_1268-7251_1963_num_7_1_4840" target="_blank" title="https://www.persee.fr/doc/colan_1268-7251_1963_num_7_1_4840">
+              <span class="code-url">https://www.persee.fr/doc/colan_1268-7251_1963_num_7_1_4840</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">371</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-43.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-43.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-43.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-43.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>44</strong></td>
+          <td>
+            <a href="https://www.air-journal.fr/2024-10-24-le-syndicat-rejette-laccord-la-greve-sur-poursuit-chez-boeing-5258745.html" target="_blank" title="https://www.air-journal.fr/2024-10-24-le-syndicat-rejette-laccord-la-greve-sur-poursuit-chez-boeing-5258745.html">
+              <span class="code-url">https://www.air-journal.fr/2024-10-24-le-syndicat-rejette-laccord-la-greve-sur-poursuit-chez-boeing-5258745.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">4388</span></td>
+          <td><span class="tag tag-info">1</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-44.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-44.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-44.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-44.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>45</strong></td>
+          <td>
+            <a href="https://forum.jerecuperemonex.com/topic/1196-silence-radio-ferme/" target="_blank" title="https://forum.jerecuperemonex.com/topic/1196-silence-radio-ferme/">
+              <span class="code-url">https://forum.jerecuperemonex.com/topic/1196-silence-radio-ferme/</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2720</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-45.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-45.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-45.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-45.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>46</strong></td>
+          <td>
+            <a href="https://www.neoprofs.org/t91192p50-college-remaniee-la-circulaire-d-application-de-la-reforme-va-plus-loin-cafe-pedagogique" target="_blank" title="https://www.neoprofs.org/t91192p50-college-remaniee-la-circulaire-d-application-de-la-reforme-va-plus-loin-cafe-pedagogique">
+              <span class="code-url">https://www.neoprofs.org/t91192p50-college-remaniee-la-circulaire-d-application-de-la-reforme-va-plus-loin-cafe-pedagogique</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-success">4979</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-46.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-46.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-46.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-46.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>47</strong></td>
+          <td>
+            <a href="https://www.athled.net/forum/objectif-1408241.html" target="_blank" title="https://www.athled.net/forum/objectif-1408241.html">
+              <span class="code-url">https://www.athled.net/forum/objectif-1408241.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">4136</span></td>
+          <td><span class="tag tag-success">13</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-47.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-47.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-47.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-47.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>48</strong></td>
+          <td>
+            <a href="http://www.bulle-immobiliere.org/forum/viewtopic.php?t=94278" target="_blank" title="http://www.bulle-immobiliere.org/forum/viewtopic.php?t=94278">
+              <span class="code-url">http://www.bulle-immobiliere.org/forum/viewtopic.php?t=94278</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">8153</span></td>
+          <td><span class="tag tag-info">5</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-48.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-48.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-48.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-48.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>49</strong></td>
+          <td>
+            <a href="https://forumfreemobile.fr/viewtopic.php?t=1304&start=20" target="_blank" title="https://forumfreemobile.fr/viewtopic.php?t=1304&amp;start=20">
+              <span class="code-url">https://forumfreemobile.fr/viewtopic.php?t=1304&amp;start=20</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">3830</span></td>
+          <td><span class="tag tag-info">1</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-49.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-49.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-49.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-49.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>50</strong></td>
+          <td>
+            <a href="https://www.forum-depression.com/viewtopic.php?t=5102" target="_blank" title="https://www.forum-depression.com/viewtopic.php?t=5102">
+              <span class="code-url">https://www.forum-depression.com/viewtopic.php?t=5102</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-success">2452</span></td>
+          <td><span class="tag tag-success">44</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/fr-50.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/fr-50.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/fr-50.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/fr-50.html" target="_blank">KWIC</a></td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <div class="columns is-multiline mt-6">
+      <div class="column is-12">
+        <h3 class="title is-4">Résumé statistique</h3>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: var(--rose-bonbon);">
+          <h4 class="title is-5">URLs traitées</h4>
+          <p class="title is-2 has-text-centered">50</p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #e3f2fd;">
+          <h4 class="title is-5">Pages aspirées</h4>
+          <p class="title is-2 has-text-centered">50 <span class="subtitle is-6">(100%)</span></p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #f1f8e9;">
+          <h4 class="title is-5">Mots total</h4>
+          <p class="title is-2 has-text-centered">163316 <span class="subtitle is-6">(~3266/page)</span></p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #fff3e0;">
+          <h4 class="title is-5">Occurrences</h4>
+          <p class="title is-2 has-text-centered">2392 <span class="subtitle is-6">(~47/page)</span></p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="notification mt-5" style="background-color: var(--blanc-casse);">
+      <div class="content">
+        <h4 class="title is-5">Légende</h4>
+        <div class="tags">
+          <span class="tag tag-success">Code 200</span>
+          <span class="tag tag-warning">Code 3xx/autres</span>
+          <span class="tag tag-danger">Code 4xx/5xx</span>
+          <span class="tag tag-success">Occurrences > 10</span>
+          <span class="tag tag-info">Occurrences 1-10</span>
+          <span class="tag tag-warning">Aucune occurrence</span>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</main>
+
+<footer class="footer" role="contentinfo">
+  <div class="container has-text-centered">
+    <p>Projet encadré - La vie multilingue des mots sur le web</p>
+    <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+    <p class="is-size-7 mt-1">
+      <a href="../mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+      <a href="../contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+  // Script pour le menu burger
+  document.addEventListener('DOMContentLoaded', () => {
+    const navbarBurgers = document.querySelectorAll('.navbar-burger');
+    
+    navbarBurgers.forEach(burger => {
+      burger.addEventListener('click', () => {
+        const targetId = burger.dataset.target;
+        const target = document.getElementById(targetId);
+        
+        burger.classList.toggle('is-active');
+        target.classList.toggle('is-active');
+        
+        const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+        burger.setAttribute('aria-expanded', !isExpanded);
+      });
+    });
+  });
+</script>
+
 </body>
 </html>

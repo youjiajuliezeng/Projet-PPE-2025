@@ -1,631 +1,984 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="../style.css">
   <title>Tableau zh</title>
 </head>
 <body>
+
+<nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
   <div class="container">
-    <h1 class="title">Tableau — zh</h1>
-    <p>Mot (regex) : <code>梦</code> — Contexte : 60 caractères</p>
-    <div class="table-container">
-      <table class="table is-bordered is-hoverable is-striped is-fullwidth">
-        <tr>
-          <th>Numero</th>
-          <th>URL</th>
-          <th>Code HTTP</th>
-          <th>Encodage</th>
-          <th>Nb mots</th>
-          <th>Occurrences</th>
-          <th>Aspiration</th>
-          <th>Dump</th>
-          <th>Contexte</th>
-          <th>Concordance</th>
-        </tr>
-        <tr>
-          <td>1</td>
-          <td><a href="https://www.dxsbb.com/news/24918.html" target="_blank">https://www.dxsbb.com/news/24918.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>269</td>
-          <td>49</td>
-          <td><a href="../aspirations/zh-1.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-1.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-1.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-1.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td><a href="https://www.dxsbb.com/news/26490.html" target="_blank">https://www.dxsbb.com/news/26490.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>253</td>
-          <td>44</td>
-          <td><a href="../aspirations/zh-2.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-2.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-2.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-2.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td><a href="https://www.dxsbb.com/news/4789.html" target="_blank">https://www.dxsbb.com/news/4789.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>242</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-3.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-3.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-3.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-3.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td><a href="https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html" target="_blank">https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>78</td>
-          <td>42</td>
-          <td><a href="../aspirations/zh-4.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-4.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-4.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-4.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>5</td>
-          <td><a href="http://m.ccdi.gov.cn/content/04/cf/21722.html" target="_blank">http://m.ccdi.gov.cn/content/04/cf/21722.html</a></td>
-          <td>200</td>
-          <td>none</td>
-          <td>39</td>
-          <td>75</td>
-          <td><a href="../aspirations/zh-5.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-5.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-5.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-5.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>6</td>
-          <td><a href="https://baike.baidu.com/item/%E6%A2%A6/10558371" target="_blank">https://baike.baidu.com/item/%E6%A2%A6/10558371</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>136</td>
-          <td>50</td>
-          <td><a href="../aspirations/zh-6.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-6.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-6.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-6.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>7</td>
-          <td><a href="http://www.news.cn/local/20251203/5d8bf570d83643f9bb3769ef33ac0567/c.html" target="_blank">http://www.news.cn/local/20251203/5d8bf570d83643f9bb3769ef33ac0567/c.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>128</td>
-          <td>7</td>
-          <td><a href="../aspirations/zh-7.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-7.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-7.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-7.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>8</td>
-          <td><a href="http://edu.people.com.cn/n1/2025/0909/c1006-40560236.html" target="_blank">http://edu.people.com.cn/n1/2025/0909/c1006-40560236.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>507</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-8.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-8.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-8.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-8.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>9</td>
-          <td><a href="http://ent.people.com.cn/n1/2025/0619/c1012-40503807.html" target="_blank">http://ent.people.com.cn/n1/2025/0619/c1012-40503807.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>517</td>
-          <td>9</td>
-          <td><a href="../aspirations/zh-9.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-9.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-9.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-9.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>10</td>
-          <td><a href="http://ent.people.com.cn/n1/2025/0717/c1012-40523802.html" target="_blank">http://ent.people.com.cn/n1/2025/0717/c1012-40523802.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>508</td>
-          <td>5</td>
-          <td><a href="../aspirations/zh-10.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-10.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-10.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-10.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>11</td>
-          <td><a href="http://ln.people.com.cn/n2/2025/0920/c413165-41358305.html" target="_blank">http://ln.people.com.cn/n2/2025/0920/c413165-41358305.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>582</td>
-          <td>3</td>
-          <td><a href="../aspirations/zh-11.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-11.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-11.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-11.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>12</td>
-          <td><a href="https://world.people.com.cn/n1/2025/0922/c1002-40569435.html" target="_blank">https://world.people.com.cn/n1/2025/0922/c1002-40569435.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>519</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-12.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-12.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-12.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-12.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>13</td>
-          <td><a href="http://sh.people.com.cn/n2/2025/0723/c134768-41300356.html" target="_blank">http://sh.people.com.cn/n2/2025/0723/c134768-41300356.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>485</td>
-          <td>17</td>
-          <td><a href="../aspirations/zh-13.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-13.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-13.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-13.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>14</td>
-          <td><a href="http://gs.people.com.cn/n2/2025/0625/c183283-41270953.html" target="_blank">http://gs.people.com.cn/n2/2025/0625/c183283-41270953.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>510</td>
-          <td>5</td>
-          <td><a href="../aspirations/zh-14.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-14.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-14.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-14.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>15</td>
-          <td><a href="https://www.thepaper.cn/newsDetail_forward_22821231" target="_blank">https://www.thepaper.cn/newsDetail_forward_22821231</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>137</td>
-          <td>13</td>
-          <td><a href="../aspirations/zh-15.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-15.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-15.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-15.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>16</td>
-          <td><a href="https://www.thepaper.cn/newsDetail_forward_31939393" target="_blank">https://www.thepaper.cn/newsDetail_forward_31939393</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>111</td>
-          <td>3</td>
-          <td><a href="../aspirations/zh-16.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-16.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-16.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-16.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>17</td>
-          <td><a href="https://www.thepaper.cn/newsDetail_forward_32069188" target="_blank">https://www.thepaper.cn/newsDetail_forward_32069188</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>182</td>
-          <td>2</td>
-          <td><a href="../aspirations/zh-17.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-17.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-17.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-17.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>18</td>
-          <td><a href="https://www.thepaper.cn/newsDetail_forward_32103429" target="_blank">https://www.thepaper.cn/newsDetail_forward_32103429</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>280</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-18.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-18.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-18.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-18.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>19</td>
-          <td><a href="https://www.thepaper.cn/newsDetail_forward_32243487" target="_blank">https://www.thepaper.cn/newsDetail_forward_32243487</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>174</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-19.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-19.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-19.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-19.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>20</td>
-          <td><a href="https://www.qstheory.cn/qshyjx/2024-05/05/c_1130138156.htm" target="_blank">https://www.qstheory.cn/qshyjx/2024-05/05/c_1130138156.htm</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>51</td>
-          <td>7</td>
-          <td><a href="../aspirations/zh-20.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-20.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-20.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-20.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>21</td>
-          <td><a href="https://www.qstheory.cn/20250208/8d9e941e976f4236873dedb3cb54ec8c/c.html" target="_blank">https://www.qstheory.cn/20250208/8d9e941e976f4236873dedb3cb54ec8c/c.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>168</td>
-          <td>19</td>
-          <td><a href="../aspirations/zh-21.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-21.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-21.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-21.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>22</td>
-          <td><a href="https://www.qstheory.cn/20250110/f9672c46aba642e5afc7fcd1075c3087/c.html" target="_blank">https://www.qstheory.cn/20250110/f9672c46aba642e5afc7fcd1075c3087/c.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>63</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-22.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-22.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-22.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-22.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>23</td>
-          <td><a href="https://www.qstheory.cn/20250106/faee983509d14f4ba23e6e6a4f5395f2/c.html" target="_blank">https://www.qstheory.cn/20250106/faee983509d14f4ba23e6e6a4f5395f2/c.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>83</td>
-          <td>9</td>
-          <td><a href="../aspirations/zh-23.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-23.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-23.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-23.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>24</td>
-          <td><a href="https://www.qstheory.cn/20251012/28151d904e5d48a4acd51ceef9d5f1a7/c.html" target="_blank">https://www.qstheory.cn/20251012/28151d904e5d48a4acd51ceef9d5f1a7/c.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>198</td>
-          <td>12</td>
-          <td><a href="../aspirations/zh-24.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-24.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-24.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-24.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>25</td>
-          <td><a href="https://www.qstheory.cn/2018-12/14/c_1123854578.htm" target="_blank">https://www.qstheory.cn/2018-12/14/c_1123854578.htm</a></td>
-          <td>200</td>
-          <td>none</td>
-          <td>90</td>
-          <td>47</td>
-          <td><a href="../aspirations/zh-25.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-25.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-25.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-25.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>26</td>
-          <td><a href="https://learning.sohu.com/a/561470824_121106908" target="_blank">https://learning.sohu.com/a/561470824_121106908</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>125</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-26.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-26.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-26.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-26.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>27</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/803.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/803.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>290</td>
-          <td>27</td>
-          <td><a href="../aspirations/zh-27.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-27.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-27.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-27.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>28</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/792.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/792.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>316</td>
-          <td>18</td>
-          <td><a href="../aspirations/zh-28.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-28.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-28.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-28.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>29</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/1709.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/1709.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>308</td>
-          <td>8</td>
-          <td><a href="../aspirations/zh-29.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-29.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-29.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-29.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>30</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/950.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/950.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>335</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-30.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-30.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-30.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-30.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>31</td>
-          <td><a href="https://www.sanwen.org.cn/view/3329.html" target="_blank">https://www.sanwen.org.cn/view/3329.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>298</td>
-          <td>7</td>
-          <td><a href="../aspirations/zh-31.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-31.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-31.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-31.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>32</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/1730.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/1730.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>456</td>
-          <td>36</td>
-          <td><a href="../aspirations/zh-32.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-32.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-32.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-32.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>33</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/135.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/135.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>328</td>
-          <td>8</td>
-          <td><a href="../aspirations/zh-33.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-33.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-33.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-33.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>34</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/771.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/771.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>431</td>
-          <td>28</td>
-          <td><a href="../aspirations/zh-34.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-34.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-34.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-34.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>35</td>
-          <td><a href="https://www.sanwen.org.cn/sw/wenzhang/37059.html" target="_blank">https://www.sanwen.org.cn/sw/wenzhang/37059.html</a></td>
-          <td>200</td>
-          <td>gb2312</td>
-          <td>262</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-35.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-35.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-35.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-35.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>36</td>
-          <td><a href="https://www.douban.com/note/873479960/?_i=7265827wOxDGUQ" target="_blank">https://www.douban.com/note/873479960/?_i=7265827wOxDGUQ</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>178</td>
-          <td>3</td>
-          <td><a href="../aspirations/zh-36.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-36.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-36.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-36.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>37</td>
-          <td><a href="https://www.douban.com/note/873914460/?_i=7266010wOxDGUQ" target="_blank">https://www.douban.com/note/873914460/?_i=7266010wOxDGUQ</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>349</td>
-          <td>58</td>
-          <td><a href="../aspirations/zh-37.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-37.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-37.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-37.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>38</td>
-          <td><a href="https://www.douban.com/note/876048314/?_i=7266048wOxDGUQ" target="_blank">https://www.douban.com/note/876048314/?_i=7266048wOxDGUQ</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>214</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-38.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-38.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-38.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-38.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>39</td>
-          <td><a href="https://www.douban.com/note/869268709/?_i=7266090wOxDGUQ" target="_blank">https://www.douban.com/note/869268709/?_i=7266090wOxDGUQ</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>330</td>
-          <td>3</td>
-          <td><a href="../aspirations/zh-39.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-39.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-39.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-39.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>40</td>
-          <td><a href="https://www.bjnews.com.cn/detail/1765523595169819.html" target="_blank">https://www.bjnews.com.cn/detail/1765523595169819.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>277</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-40.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-40.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-40.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-40.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>41</td>
-          <td><a href="https://www.bjnews.com.cn/detail/1765974305129177.html" target="_blank">https://www.bjnews.com.cn/detail/1765974305129177.html</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>172</td>
-          <td>5</td>
-          <td><a href="../aspirations/zh-41.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-41.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-41.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-41.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>42</td>
-          <td><a href="https://culture.southcn.com/node_b02a77b893/5999f656a0.shtml" target="_blank">https://culture.southcn.com/node_b02a77b893/5999f656a0.shtml</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>385</td>
-          <td>2</td>
-          <td><a href="../aspirations/zh-42.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-42.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-42.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-42.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>43</td>
-          <td><a href="https://news.southcn.com/node_8e175e0ac5/e35d17a021.shtml" target="_blank">https://news.southcn.com/node_8e175e0ac5/e35d17a021.shtml</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>387</td>
-          <td>2</td>
-          <td><a href="../aspirations/zh-43.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-43.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-43.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-43.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>44</td>
-          <td><a href="https://www.southcn.com/node_07e973c1a3/ebbcbfd710.shtml" target="_blank">https://www.southcn.com/node_07e973c1a3/ebbcbfd710.shtml</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>359</td>
-          <td>2</td>
-          <td><a href="../aspirations/zh-44.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-44.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-44.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-44.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>45</td>
-          <td><a href="https://www.jiemian.com/article/13693160.html" target="_blank">https://www.jiemian.com/article/13693160.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>434</td>
-          <td>19</td>
-          <td><a href="../aspirations/zh-45.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-45.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-45.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-45.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>46</td>
-          <td><a href="https://www.jiemian.com/article/13688715.html" target="_blank">https://www.jiemian.com/article/13688715.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>406</td>
-          <td>10</td>
-          <td><a href="../aspirations/zh-46.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-46.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-46.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-46.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>47</td>
-          <td><a href="https://www.jiemian.com/article/13632403.html" target="_blank">https://www.jiemian.com/article/13632403.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>412</td>
-          <td>6</td>
-          <td><a href="../aspirations/zh-47.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-47.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-47.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-47.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>48</td>
-          <td><a href="https://mini.caixin.com/2024-10-13/102244857.html?originReferrer=caixinsearch_pc" target="_blank">https://mini.caixin.com/2024-10-13/102244857.html?originReferrer=caixinsearch_pc</a></td>
-          <td>200</td>
-          <td>UTF-8</td>
-          <td>276</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-48.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-48.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-48.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-48.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>49</td>
-          <td><a href="https://www.yicai.com/news/102947527.html" target="_blank">https://www.yicai.com/news/102947527.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>169</td>
-          <td>7</td>
-          <td><a href="../aspirations/zh-49.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-49.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-49.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-49.html" target="_blank">kwic</a></td>
-        </tr>
-        <tr>
-          <td>50</td>
-          <td><a href="https://www.yicai.com/news/102881751.html" target="_blank">https://www.yicai.com/news/102881751.html</a></td>
-          <td>200</td>
-          <td>utf-8</td>
-          <td>146</td>
-          <td>4</td>
-          <td><a href="../aspirations/zh-50.html" target="_blank">html</a></td>
-          <td><a href="../dumps-text/zh-50.txt" target="_blank">dump</a></td>
-          <td><a href="../contextes/zh-50.ctx.txt" target="_blank">ctx</a></td>
-          <td><a href="../concordances/zh-50.html" target="_blank">kwic</a></td>
-        </tr>
-      </table>
+    <div class="navbar-brand">
+      <a class="navbar-item" href="../index.html">
+        <strong>✨ LA RÊVERIE</strong>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarTable">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarTable" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="../index.html" title="Page d'accueil">Accueil</a>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="fr.html" title="Tableau français">Français</a>
+            <a class="navbar-item" href="en.html" title="Tableau anglais">Anglais</a>
+            <a class="navbar-item" href="zh.html" title="Tableau chinois">Chinois</a>
+          </div>
+        </div>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Analyses par langue">Analyses</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="../analyse-fr.html" title="Analyse française">Français</a>
+            <a class="navbar-item" href="../analyse-en.html" title="Analyse anglaise">Anglais</a>
+            <a class="navbar-item" href="../analyse-zh.html" title="Analyse chinoise">Chinois</a>
+          </div>
+        </div>
+        
+        <a class="navbar-item" href="../presentation.html" title="À propos du projet">À propos</a>
+      </div>
     </div>
   </div>
+</nav>
+<div>
+</div>
+<header class="hero is-table" role="banner">
+</header>
+
+<main class="section">
+  <div class="container fade-in">
+    
+    <div class="columns is-multiline mb-5">
+      
+      <div class="column is-5">
+        <div class="stats-box">
+          <div class="stats-title">Langue :</div>
+          <div class="stats-value">
+Chinois
+</div>
+        </div>
+      </div>
+    
+      <div class="column is-5">
+        <div class="stats-box">
+          <div class="stats-title">Mot recherché :</div>
+          <div class="stats-value">梦</div>
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="table-container">
+      <table class="table is-bordered is-hoverable is-striped is-fullwidth">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>URL</th>
+            <th>Code HTTP</th>
+            <th>Encodage</th>
+            <th>Nb mots</th>
+            <th>Occurrences</th>
+            <th>Aspiration</th>
+            <th>Dump texte</th>
+            <th>Contexte</th>
+            <th>Concordance</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td><strong>1</strong></td>
+          <td>
+            <a href="https://www.dxsbb.com/news/24918.html" target="_blank" title="https://www.dxsbb.com/news/24918.html">
+              <span class="code-url">https://www.dxsbb.com/news/24918.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">381</span></td>
+          <td><span class="tag tag-success">49</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-1.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-1.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-1.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-1.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>2</strong></td>
+          <td>
+            <a href="https://www.dxsbb.com/news/26490.html" target="_blank" title="https://www.dxsbb.com/news/26490.html">
+              <span class="code-url">https://www.dxsbb.com/news/26490.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">343</span></td>
+          <td><span class="tag tag-success">44</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-2.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-2.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-2.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-2.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>3</strong></td>
+          <td>
+            <a href="https://www.dxsbb.com/news/4789.html" target="_blank" title="https://www.dxsbb.com/news/4789.html">
+              <span class="code-url">https://www.dxsbb.com/news/4789.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">335</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-3.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-3.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-3.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-3.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>4</strong></td>
+          <td>
+            <a href="https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html" target="_blank" title="https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html">
+              <span class="code-url">https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202209/t20220916_2816743.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">143</span></td>
+          <td><span class="tag tag-success">42</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-4.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-4.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-4.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-4.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>5</strong></td>
+          <td>
+            <a href="http://m.ccdi.gov.cn/content/04/cf/21722.html" target="_blank" title="http://m.ccdi.gov.cn/content/04/cf/21722.html">
+              <span class="code-url">http://m.ccdi.gov.cn/content/04/cf/21722.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">none</span></td>
+          <td><span class="tag tag-warning">60</span></td>
+          <td><span class="tag tag-success">75</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-5.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-5.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-5.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-5.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>6</strong></td>
+          <td>
+            <a href="https://baike.baidu.com/item/%E6%A2%A6/10558371" target="_blank" title="https://baike.baidu.com/item/%E6%A2%A6/10558371">
+              <span class="code-url">https://baike.baidu.com/item/%E6%A2%A6/10558371</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">157</span></td>
+          <td><span class="tag tag-success">50</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-6.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-6.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-6.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-6.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>7</strong></td>
+          <td>
+            <a href="http://www.news.cn/local/20251203/5d8bf570d83643f9bb3769ef33ac0567/c.html" target="_blank" title="http://www.news.cn/local/20251203/5d8bf570d83643f9bb3769ef33ac0567/c.html">
+              <span class="code-url">http://www.news.cn/local/20251203/5d8bf570d83643f9bb3769ef33ac0567/c.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">162</span></td>
+          <td><span class="tag tag-info">7</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-7.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-7.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-7.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-7.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>8</strong></td>
+          <td>
+            <a href="http://edu.people.com.cn/n1/2025/0909/c1006-40560236.html" target="_blank" title="http://edu.people.com.cn/n1/2025/0909/c1006-40560236.html">
+              <span class="code-url">http://edu.people.com.cn/n1/2025/0909/c1006-40560236.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">569</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-8.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-8.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-8.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-8.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>9</strong></td>
+          <td>
+            <a href="http://ent.people.com.cn/n1/2025/0619/c1012-40503807.html" target="_blank" title="http://ent.people.com.cn/n1/2025/0619/c1012-40503807.html">
+              <span class="code-url">http://ent.people.com.cn/n1/2025/0619/c1012-40503807.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">572</span></td>
+          <td><span class="tag tag-info">9</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-9.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-9.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-9.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-9.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>10</strong></td>
+          <td>
+            <a href="http://ent.people.com.cn/n1/2025/0717/c1012-40523802.html" target="_blank" title="http://ent.people.com.cn/n1/2025/0717/c1012-40523802.html">
+              <span class="code-url">http://ent.people.com.cn/n1/2025/0717/c1012-40523802.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">561</span></td>
+          <td><span class="tag tag-info">5</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-10.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-10.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-10.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-10.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>11</strong></td>
+          <td>
+            <a href="http://ln.people.com.cn/n2/2025/0920/c413165-41358305.html" target="_blank" title="http://ln.people.com.cn/n2/2025/0920/c413165-41358305.html">
+              <span class="code-url">http://ln.people.com.cn/n2/2025/0920/c413165-41358305.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">658</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-11.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-11.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-11.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-11.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>12</strong></td>
+          <td>
+            <a href="https://world.people.com.cn/n1/2025/0922/c1002-40569435.html" target="_blank" title="https://world.people.com.cn/n1/2025/0922/c1002-40569435.html">
+              <span class="code-url">https://world.people.com.cn/n1/2025/0922/c1002-40569435.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">568</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-12.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-12.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-12.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-12.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>13</strong></td>
+          <td>
+            <a href="http://sh.people.com.cn/n2/2025/0723/c134768-41300356.html" target="_blank" title="http://sh.people.com.cn/n2/2025/0723/c134768-41300356.html">
+              <span class="code-url">http://sh.people.com.cn/n2/2025/0723/c134768-41300356.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">513</span></td>
+          <td><span class="tag tag-success">17</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-13.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-13.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-13.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-13.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>14</strong></td>
+          <td>
+            <a href="http://gs.people.com.cn/n2/2025/0625/c183283-41270953.html" target="_blank" title="http://gs.people.com.cn/n2/2025/0625/c183283-41270953.html">
+              <span class="code-url">http://gs.people.com.cn/n2/2025/0625/c183283-41270953.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">587</span></td>
+          <td><span class="tag tag-info">5</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-14.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-14.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-14.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-14.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>15</strong></td>
+          <td>
+            <a href="https://www.thepaper.cn/newsDetail_forward_22821231" target="_blank" title="https://www.thepaper.cn/newsDetail_forward_22821231">
+              <span class="code-url">https://www.thepaper.cn/newsDetail_forward_22821231</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">163</span></td>
+          <td><span class="tag tag-success">13</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-15.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-15.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-15.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-15.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>16</strong></td>
+          <td>
+            <a href="https://www.thepaper.cn/newsDetail_forward_31939393" target="_blank" title="https://www.thepaper.cn/newsDetail_forward_31939393">
+              <span class="code-url">https://www.thepaper.cn/newsDetail_forward_31939393</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">127</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-16.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-16.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-16.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-16.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>17</strong></td>
+          <td>
+            <a href="https://www.thepaper.cn/newsDetail_forward_32069188" target="_blank" title="https://www.thepaper.cn/newsDetail_forward_32069188">
+              <span class="code-url">https://www.thepaper.cn/newsDetail_forward_32069188</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">244</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-17.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-17.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-17.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-17.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>18</strong></td>
+          <td>
+            <a href="https://www.thepaper.cn/newsDetail_forward_32103429" target="_blank" title="https://www.thepaper.cn/newsDetail_forward_32103429">
+              <span class="code-url">https://www.thepaper.cn/newsDetail_forward_32103429</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">484</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-18.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-18.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-18.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-18.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>19</strong></td>
+          <td>
+            <a href="https://www.thepaper.cn/newsDetail_forward_32243487" target="_blank" title="https://www.thepaper.cn/newsDetail_forward_32243487">
+              <span class="code-url">https://www.thepaper.cn/newsDetail_forward_32243487</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">228</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-19.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-19.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-19.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-19.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>20</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/qshyjx/2024-05/05/c_1130138156.htm" target="_blank" title="https://www.qstheory.cn/qshyjx/2024-05/05/c_1130138156.htm">
+              <span class="code-url">https://www.qstheory.cn/qshyjx/2024-05/05/c_1130138156.htm</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-warning">81</span></td>
+          <td><span class="tag tag-info">7</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-20.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-20.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-20.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-20.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>21</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/20250208/8d9e941e976f4236873dedb3cb54ec8c/c.html" target="_blank" title="https://www.qstheory.cn/20250208/8d9e941e976f4236873dedb3cb54ec8c/c.html">
+              <span class="code-url">https://www.qstheory.cn/20250208/8d9e941e976f4236873dedb3cb54ec8c/c.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">212</span></td>
+          <td><span class="tag tag-success">19</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-21.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-21.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-21.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-21.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>22</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/20250110/f9672c46aba642e5afc7fcd1075c3087/c.html" target="_blank" title="https://www.qstheory.cn/20250110/f9672c46aba642e5afc7fcd1075c3087/c.html">
+              <span class="code-url">https://www.qstheory.cn/20250110/f9672c46aba642e5afc7fcd1075c3087/c.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-warning">84</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-22.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-22.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-22.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-22.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>23</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/20250106/faee983509d14f4ba23e6e6a4f5395f2/c.html" target="_blank" title="https://www.qstheory.cn/20250106/faee983509d14f4ba23e6e6a4f5395f2/c.html">
+              <span class="code-url">https://www.qstheory.cn/20250106/faee983509d14f4ba23e6e6a4f5395f2/c.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">139</span></td>
+          <td><span class="tag tag-info">9</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-23.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-23.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-23.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-23.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>24</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/20251012/28151d904e5d48a4acd51ceef9d5f1a7/c.html" target="_blank" title="https://www.qstheory.cn/20251012/28151d904e5d48a4acd51ceef9d5f1a7/c.html">
+              <span class="code-url">https://www.qstheory.cn/20251012/28151d904e5d48a4acd51ceef9d5f1a7/c.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">309</span></td>
+          <td><span class="tag tag-success">12</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-24.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-24.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-24.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-24.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>25</strong></td>
+          <td>
+            <a href="https://www.qstheory.cn/2018-12/14/c_1123854578.htm" target="_blank" title="https://www.qstheory.cn/2018-12/14/c_1123854578.htm">
+              <span class="code-url">https://www.qstheory.cn/2018-12/14/c_1123854578.htm</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">none</span></td>
+          <td><span class="tag tag-info">157</span></td>
+          <td><span class="tag tag-success">47</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-25.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-25.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-25.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-25.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>26</strong></td>
+          <td>
+            <a href="https://learning.sohu.com/a/561470824_121106908" target="_blank" title="https://learning.sohu.com/a/561470824_121106908">
+              <span class="code-url">https://learning.sohu.com/a/561470824_121106908</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">174</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-26.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-26.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-26.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-26.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>27</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/803.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/803.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/803.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">331</span></td>
+          <td><span class="tag tag-success">27</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-27.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-27.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-27.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-27.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>28</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/792.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/792.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/792.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">392</span></td>
+          <td><span class="tag tag-success">18</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-28.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-28.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-28.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-28.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>29</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/1709.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/1709.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/1709.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">370</span></td>
+          <td><span class="tag tag-info">8</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-29.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-29.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-29.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-29.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>30</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/950.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/950.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/950.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">445</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-30.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-30.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-30.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-30.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>31</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/view/3329.html" target="_blank" title="https://www.sanwen.org.cn/view/3329.html">
+              <span class="code-url">https://www.sanwen.org.cn/view/3329.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">345</span></td>
+          <td><span class="tag tag-info">7</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-31.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-31.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-31.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-31.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>32</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/1730.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/1730.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/1730.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">600</span></td>
+          <td><span class="tag tag-success">36</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-32.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-32.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-32.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-32.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>33</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/135.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/135.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/135.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">430</span></td>
+          <td><span class="tag tag-info">8</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-33.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-33.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-33.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-33.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>34</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/771.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/771.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/771.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">655</span></td>
+          <td><span class="tag tag-success">28</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-34.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-34.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-34.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-34.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>35</strong></td>
+          <td>
+            <a href="https://www.sanwen.org.cn/sw/wenzhang/37059.html" target="_blank" title="https://www.sanwen.org.cn/sw/wenzhang/37059.html">
+              <span class="code-url">https://www.sanwen.org.cn/sw/wenzhang/37059.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">gb2312</span></td>
+          <td><span class="tag tag-info">296</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-35.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-35.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-35.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-35.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>36</strong></td>
+          <td>
+            <a href="https://www.douban.com/note/873479960/?_i=7265827wOxDGUQ" target="_blank" title="https://www.douban.com/note/873479960/?_i=7265827wOxDGUQ">
+              <span class="code-url">https://www.douban.com/note/873479960/?_i=7265827wOxDGUQ</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">215</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-36.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-36.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-36.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-36.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>37</strong></td>
+          <td>
+            <a href="https://www.douban.com/note/873914460/?_i=7266010wOxDGUQ" target="_blank" title="https://www.douban.com/note/873914460/?_i=7266010wOxDGUQ">
+              <span class="code-url">https://www.douban.com/note/873914460/?_i=7266010wOxDGUQ</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">404</span></td>
+          <td><span class="tag tag-success">58</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-37.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-37.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-37.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-37.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>38</strong></td>
+          <td>
+            <a href="https://www.douban.com/note/876048314/?_i=7266048wOxDGUQ" target="_blank" title="https://www.douban.com/note/876048314/?_i=7266048wOxDGUQ">
+              <span class="code-url">https://www.douban.com/note/876048314/?_i=7266048wOxDGUQ</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">228</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-38.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-38.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-38.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-38.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>39</strong></td>
+          <td>
+            <a href="https://www.douban.com/note/869268709/?_i=7266090wOxDGUQ" target="_blank" title="https://www.douban.com/note/869268709/?_i=7266090wOxDGUQ">
+              <span class="code-url">https://www.douban.com/note/869268709/?_i=7266090wOxDGUQ</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">424</span></td>
+          <td><span class="tag tag-info">3</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-39.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-39.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-39.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-39.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>40</strong></td>
+          <td>
+            <a href="https://www.bjnews.com.cn/detail/1765523595169819.html" target="_blank" title="https://www.bjnews.com.cn/detail/1765523595169819.html">
+              <span class="code-url">https://www.bjnews.com.cn/detail/1765523595169819.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">372</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-40.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-40.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-40.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-40.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>41</strong></td>
+          <td>
+            <a href="https://www.bjnews.com.cn/detail/1765974305129177.html" target="_blank" title="https://www.bjnews.com.cn/detail/1765974305129177.html">
+              <span class="code-url">https://www.bjnews.com.cn/detail/1765974305129177.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">197</span></td>
+          <td><span class="tag tag-info">5</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-41.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-41.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-41.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-41.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>42</strong></td>
+          <td>
+            <a href="https://culture.southcn.com/node_b02a77b893/5999f656a0.shtml" target="_blank" title="https://culture.southcn.com/node_b02a77b893/5999f656a0.shtml">
+              <span class="code-url">https://culture.southcn.com/node_b02a77b893/5999f656a0.shtml</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">428</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-42.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-42.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-42.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-42.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>43</strong></td>
+          <td>
+            <a href="https://news.southcn.com/node_8e175e0ac5/e35d17a021.shtml" target="_blank" title="https://news.southcn.com/node_8e175e0ac5/e35d17a021.shtml">
+              <span class="code-url">https://news.southcn.com/node_8e175e0ac5/e35d17a021.shtml</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">439</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-43.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-43.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-43.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-43.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>44</strong></td>
+          <td>
+            <a href="https://www.southcn.com/node_07e973c1a3/ebbcbfd710.shtml" target="_blank" title="https://www.southcn.com/node_07e973c1a3/ebbcbfd710.shtml">
+              <span class="code-url">https://www.southcn.com/node_07e973c1a3/ebbcbfd710.shtml</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">400</span></td>
+          <td><span class="tag tag-info">2</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-44.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-44.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-44.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-44.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>45</strong></td>
+          <td>
+            <a href="https://www.jiemian.com/article/13693160.html" target="_blank" title="https://www.jiemian.com/article/13693160.html">
+              <span class="code-url">https://www.jiemian.com/article/13693160.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">556</span></td>
+          <td><span class="tag tag-success">19</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-45.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-45.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-45.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-45.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>46</strong></td>
+          <td>
+            <a href="https://www.jiemian.com/article/13688715.html" target="_blank" title="https://www.jiemian.com/article/13688715.html">
+              <span class="code-url">https://www.jiemian.com/article/13688715.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">493</span></td>
+          <td><span class="tag tag-info">10</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-46.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-46.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-46.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-46.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>47</strong></td>
+          <td>
+            <a href="https://www.jiemian.com/article/13632403.html" target="_blank" title="https://www.jiemian.com/article/13632403.html">
+              <span class="code-url">https://www.jiemian.com/article/13632403.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">465</span></td>
+          <td><span class="tag tag-info">6</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-47.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-47.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-47.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-47.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>48</strong></td>
+          <td>
+            <a href="https://mini.caixin.com/2024-10-13/102244857.html?originReferrer=caixinsearch_pc" target="_blank" title="https://mini.caixin.com/2024-10-13/102244857.html?originReferrer=caixinsearch_pc">
+              <span class="code-url">https://mini.caixin.com/2024-10-13/102244857.html?originReferrer=caixinsearch_pc</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">UTF-8</span></td>
+          <td><span class="tag tag-info">304</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-48.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-48.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-48.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-48.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>49</strong></td>
+          <td>
+            <a href="https://www.yicai.com/news/102947527.html" target="_blank" title="https://www.yicai.com/news/102947527.html">
+              <span class="code-url">https://www.yicai.com/news/102947527.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">287</span></td>
+          <td><span class="tag tag-info">7</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-49.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-49.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-49.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-49.html" target="_blank">KWIC</a></td>
+        </tr>
+        <tr>
+          <td><strong>50</strong></td>
+          <td>
+            <a href="https://www.yicai.com/news/102881751.html" target="_blank" title="https://www.yicai.com/news/102881751.html">
+              <span class="code-url">https://www.yicai.com/news/102881751.html</span>
+            </a>
+          </td>
+          <td><span class="tag tag-success">200</span></td>
+          <td><span class="tag tag-info">utf-8</span></td>
+          <td><span class="tag tag-info">192</span></td>
+          <td><span class="tag tag-info">4</span></td>
+          <td><a class="button is-small is-link is-outlined" href="../aspirations/zh-50.html" target="_blank">HTML</a></td>
+          <td><a class="button is-small is-info is-outlined" href="../dumps-text/zh-50.txt" target="_blank">TEXTE</a></td>
+          <td><a class="button is-small is-warning is-outlined" href="../contextes/zh-50.ctx.txt" target="_blank">CTX</a></td>
+          <td><a class="button is-small is-success is-outlined" href="../concordances/zh-50.html" target="_blank">KWIC</a></td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <div class="columns is-multiline mt-6">
+      <div class="column is-12">
+        <h3 class="title is-4">Résumé statistique</h3>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: var(--rose-bonbon);">
+          <h4 class="title is-5">URLs traitées</h4>
+          <p class="title is-2 has-text-centered">50</p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #e3f2fd;">
+          <h4 class="title is-5">Pages aspirées</h4>
+          <p class="title is-2 has-text-centered">50 <span class="subtitle is-6">(100%)</span></p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #f1f8e9;">
+          <h4 class="title is-5">Mots total</h4>
+          <p class="title is-2 has-text-centered">17279 <span class="subtitle is-6">(~345/page)</span></p>
+        </div>
+      </div>
+      
+      <div class="column is-3">
+        <div class="notification" style="background-color: #fff3e0;">
+          <h4 class="title is-5">Occurrences</h4>
+          <p class="title is-2 has-text-centered">733 <span class="subtitle is-6">(~14/page)</span></p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="notification mt-5" style="background-color: var(--blanc-casse);">
+      <div class="content">
+        <h4 class="title is-5">Légende</h4>
+        <div class="tags">
+          <span class="tag tag-success">Code 200</span>
+          <span class="tag tag-warning">Code 3xx/autres</span>
+          <span class="tag tag-danger">Code 4xx/5xx</span>
+          <span class="tag tag-success">Occurrences > 10</span>
+          <span class="tag tag-info">Occurrences 1-10</span>
+          <span class="tag tag-warning">Aucune occurrence</span>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</main>
+
+<footer class="footer" role="contentinfo">
+  <div class="container has-text-centered">
+    <p>Projet encadré - La vie multilingue des mots sur le web</p>
+    <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+    <p class="is-size-7 mt-1">
+      <a href="../mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+      <a href="../contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+  // Script pour le menu burger
+  document.addEventListener('DOMContentLoaded', () => {
+    const navbarBurgers = document.querySelectorAll('.navbar-burger');
+    
+    navbarBurgers.forEach(burger => {
+      burger.addEventListener('click', () => {
+        const targetId = burger.dataset.target;
+        const target = document.getElementById(targetId);
+        
+        burger.classList.toggle('is-active');
+        target.classList.toggle('is-active');
+        
+        const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+        burger.setAttribute('aria-expanded', !isExpanded);
+      });
+    });
+  });
+</script>
+
 </body>
 </html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Analyse des cooccurrences - Anglais</title>
+</head>
+<body>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong>✨ LA RÊVERIE</strong>
+                </a>
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div id="navbarBasic" class="navbar-menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="index.html" title="Page d'accueil">Accueil</a>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/fr.html" title="Tableau français">Français</a>
+                            <a class="navbar-item" href="tableaux/en.html" title="Tableau anglais">Anglais</a>
+                            <a class="navbar-item" href="tableaux/zh.html" title="Tableau chinois">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Analyses par langue">Analyses</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="analyse-fr.html" title="Analyse française">Français</a>
+                            <a class="navbar-item" href="analyse-en.html" title="Analyse anglaise">Anglais</a>
+                            <a class="navbar-item" href="analyse-zh.html" title="Analyse chinoise">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <a class="navbar-item" href="presentation.html" title="À propos du projet">À propos</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero is-dream">
+        <div class="container">
+        </div>
+        <div class="container has-text-centered">
+            <h1 class="title is-2">Analyse des cooccurrences</h1>
+            <p class="subtitle is-3">Exploration sémantique du corpus anglophone</p>
+        </div>
+    </section>
+
+    <main class="container is-fluid section">
+        
+        <div class="box fade-in">
+            <h2 class="title is-3 has-text-centered mb-6">Comparaison des Corpus</h2>
+            
+            <!-- Statistiques des corpus -->
+            <div class="columns is-centered mb-6">
+                <div class="column has-text-centered">
+                    <div class="notification is-info is-light">
+                        <p class="title is-4">Corpus dumps-text</p>
+                        <p class="subtitle is-5"><strong>185,581</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-success is-light">
+                        <p class="title is-4">Corpus contextes</p>
+                        <p class="subtitle is-5"><strong>43,960</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-warning is-light">
+                        <p class="title is-4">Mot-cible : Dream</p>
+                        <p class="subtitle is-5">Corpus 1: 310 | Corpus 2: 275</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="columns is-desktop">
+                <!-- Premier tableau - Corpus dumps-text -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus dumps-text</h3>
+                        <p class="is-size-5 has-text-centered">185,581 mots - all contexts: 16,168</p>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Token</th>
+                                    <th>Corpus size</th>
+                                    <th>All contexts</th>
+                                    <th>Frequency</th>
+                                    <th>Co-frequency</th>
+                                    <th>Specificity</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>lucid</td><td>185581</td><td>16168</td><td>310</td><td>275</td><td><strong class="has-text-danger">247.44</strong></td></tr>
+                                <tr><td>reports</td><td>185581</td><td>16168</td><td>75</td><td>54</td><td><strong class="has-text-danger">39.77</strong></td></tr>
+                                <tr><td>interpretation</td><td>185581</td><td>16168</td><td>75</td><td>51</td><td><strong class="has-text-danger">35.62</strong></td></tr>
+                                <tr><td>recall</td><td>185581</td><td>16168</td><td>57</td><td>31</td><td><strong class="has-text-warning">17.81</strong></td></tr>
+                                <tr><td>ian</td><td>185581</td><td>16168</td><td>72</td><td>34</td><td><strong class="has-text-warning">16.95</strong></td></tr>
+                                <tr><td>american</td><td>185581</td><td>16168</td><td>93</td><td>37</td><td><strong class="has-text-warning">15.37</strong></td></tr>
+                                <tr><td>function</td><td>185581</td><td>16168</td><td>73</td><td>32</td><td><strong class="has-text-warning">14.84</strong></td></tr>
+                                <tr><td>psychologist</td><td>185581</td><td>16168</td><td>45</td><td>25</td><td><strong class="has-text-warning">14.79</strong></td></tr>
+                                <tr><td>expert</td><td>185581</td><td>16168</td><td>32</td><td>21</td><td><strong class="has-text-warning">14.59</strong></td></tr>
+                                <tr><td>content</td><td>185581</td><td>16168</td><td>269</td><td>66</td><td><strong class="has-text-warning">14.17</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Deuxième tableau - Corpus contextes -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus contextes</h3>
+                        <p class="is-size-5 has-text-centered">43,960 mots - all contexts: 15,745</p>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Token</th>
+                                    <th>Corpus size</th>
+                                    <th>All contexts</th>
+                                    <th>Frequency</th>
+                                    <th>Co-frequency</th>
+                                    <th>Specificity</th>   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>lucid</td><td>43960</td><td>15745</td><td>275</td><td>250</td><td><strong class="has-text-danger">81.48</strong></td></tr>
+                                <tr><td>reports</td><td>43960</td><td>15745</td><td>54</td><td>51</td><td><strong class="has-text-warning">18.95</strong></td></tr>
+                                <tr><td>interpretation</td><td>43960</td><td>15745</td><td>49</td><td>44</td><td><strong class="has-text-warning">14.32</strong></td></tr>
+                                <tr><td>american</td><td>43960</td><td>15745</td><td>40</td><td>36</td><td><strong class="has-text-warning">11.87</strong></td></tr>
+                                <tr><td>recall</td><td>43960</td><td>15745</td><td>31</td><td>28</td><td><strong class="has-text-warning">9.42</strong></td></tr>
+                                <tr><td>expert</td><td>43960</td><td>15745</td><td>23</td><td>21</td><td><strong class="has-text-success">7.35</strong></td></tr>
+                                <tr><td>childhood</td><td>43960</td><td>15745</td><td>18</td><td>17</td><td><strong class="has-text-success">6.52</strong></td></tr>
+                                <tr><td>ian</td><td>43960</td><td>15745</td><td>45</td><td>31</td><td><strong class="has-text-success">5.30</strong></td></tr>
+                                <tr><td>recurring</td><td>43960</td><td>15745</td><td>23</td><td>19</td><td><strong class="has-text-success">5.30</strong></td></tr>
+                                <tr><td>bad</td><td>43960</td><td>15745</td><td>15</td><td>14</td><td><strong class="has-text-success">5.26</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Légende des couleurs -->
+            <div class="notification is-light mt-4">
+                <div class="columns is-mobile is-centered">
+                    <div class="column is-narrow">
+                        <span class="tag is-danger">Spécificité élevée (&gt;20)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-warning">Spécificité moyenne (5-20)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-success">Spécificité faible (&lt;5)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification analysis-module">
+                    <h2 class="title is-4 mb-4">Analyse des tableaux de cooccurrence</h2>
+                    <div class="content is-medium">
+                        <p>L'observation globale des tableaux de cooccurrence et de la graphe de nuage de mots révèle une structuration lexicale fortement orientée vers l'analyse du « dream », avec les unités qui présentant les niveaux de spécificité et de co-fréquence les plus élevés.</p>
+                        
+                        <p>Une première strate sémantique se dégage autour du noyau cognitif et psychologique du rêve. Les termes « lucid », « recall » et « interpretation » occupent une position centrale dans les tableaux, tant par leur spécificité que par leur forte cooccurrence avec « dream ». Ils construisent le rêve comme un phénomène mental accessible à la conscience, pouvant être remémoré et soumis à une interprétation. Le « dream » n'est donc pas envisagé comme une image opaque ou strictement symbolique, mais comme un processus psychique analysable, relevant de l'activité cognitive et de la vie mentale.</p>
+                        
+                        <p>Une seconde strate sémantique concerne les modalités d'accès au rêve et les dispositifs discursifs qui le rendent observable. Des unités telles que « reports » et « recall » renvoient aux pratiques par lesquelles le rêve est mis en discours : témoignages individuels, descriptions a posteriori et formes de restitution de l'expérience onirique. Cette couche méthodologique souligne que le rêve n'est pas appréhendé directement, mais à travers des médiations fondées sur l'expérience subjective.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification is-white">
+                    <h2 class="title is-4 has-text-centered">Analyse du nuage de mots</h2>
+                    <div class="has-text-centered mb-5">
+                        <!-- Remplacez par l'image réelle du wordcloud anglais -->
+                        <img src="./wordcloud/images/wordcloud_en.png" alt="Nuage de mots anglophone" class="wordcloud-img" style="max-height: 400px;">
+                    </div>
+                    <div class="content">
+                        <p>L'analyse du nuage de mots permet d'élargir cette observation en révélant d'autres éléments lexicaux saillants, tels que « experience », « individual », « life », « view » et « role ». Ces termes indiquent que le champ sémantique de « dream » dépasse la seule référence au rêve en tant qu'état onirique.</p>
+                        
+                        <p>Il inclut également des acceptions liées aux aspirations personnelles, aux attentes vis-à-vis de la vie et aux expériences individuelles. Le « dream » fonctionne ainsi comme un espace de projection subjective, où se croisent expérience vécue, trajectoires personnelles et interprétation du monde.</p>
+                        
+                        <p>La présence de termes comme « American » dans les tableaux suggère également une dimension culturelle spécifique, renvoyant peut-être au « rêve américain » comme cadre idéologique sous-jacent à certaines occurrences.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-8">
+                <div class="box has-background-link-light">
+                    <h2 class="title is-4">Conclusion</h2>
+                    <p class="is-italic">
+                        Dans l'ensemble, l'analyse montre que le « dream » est construit, dans le corpus anglophone, comme un phénomène à la fois analysable et vécu. Il s'inscrit dans un double mouvement : d'une part, une objectivation cognitive et psychologique fondée sur des opérations d'interprétation et de remémoration ; d'autre part, une subjectivation qui associe le rêve aux expériences de vie, aux aspirations personnelles et aux attentes individuelles. Cette configuration met en évidence une conception du rêve où l'analyse scientifique et l'expérience subjective coexistent et se renforcent mutuellement.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="footer">
+        <div class="container has-text-centered">
+            <p>Projet encadré - La vie multilingue des mots sur le web</p>
+            <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+            <p class="is-size-7 mt-1">
+                <a href="mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+                <a href="contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const navbarBurgers = document.querySelectorAll('.navbar-burger');
+            
+            navbarBurgers.forEach(burger => {
+                burger.addEventListener('click', () => {
+                    const targetId = burger.dataset.target;
+                    const target = document.getElementById(targetId);
+                    
+                    burger.classList.toggle('is-active');
+                    target.classList.toggle('is-active');
+                    
+                    const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+                    burger.setAttribute('aria-expanded', !isExpanded);
+                    
+                    if (!isExpanded) {
+                        document.body.style.overflow = 'hidden';
+                    } else {
+                        document.body.style.overflow = '';
+                    }
+                });
+            });
+            
+            document.addEventListener('click', (event) => {
+                const navbarMenu = document.getElementById('navbarBasic');
+                const navbarBurger = document.querySelector('.navbar-burger');
+                
+                if (navbarMenu && navbarMenu.classList.contains('is-active') &&
+                    !navbarMenu.contains(event.target) && 
+                    !navbarBurger.contains(event.target)) {
+                    navbarMenu.classList.remove('is-active');
+                    navbarBurger.classList.remove('is-active');
+                    navbarBurger.setAttribute('aria-expanded', 'false');
+                    document.body.style.overflow = '';
+                }
+            });
+            
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+            
+            document.querySelectorAll('.notification, .box').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+        });
+    </script>
+
+</body>
+</html>

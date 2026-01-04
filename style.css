@@ -1,0 +1,355 @@
+  :root {
+    --bleu-nuit: #1B263B;
+    --violet-onirique: #5E548E;
+    --lavande: #CDB4DB;
+    --blanc-casse: #F8F9FA;
+    --rose-bonbon: #F2E6F0;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: var(--blanc-casse);
+    color: var(--bleu-nuit);
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    padding-top: 3.25rem; /* Pour compenser la navbar fixe */
+  }
+
+  /* --- HEADER AVEC IMAGE EN FOND --- */
+  .hero.is-dream {
+    position: relative;
+    background: 
+      linear-gradient(45deg, rgba(27, 38, 59, 0.7), rgba(94, 84, 142, 0.7)),
+      url('reverie.jpg') center center / cover no-repeat;
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -3.25rem; /* Compense le padding-top du body */
+  }
+
+  /* Support mobile pour les petites écrans */
+  @media (max-height: 600px) {
+    .hero.is-dream {
+      min-height: 350px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero.is-dream {
+      min-height: 400px;
+    }
+  }
+
+  /* Filtre sombre pour garantir la lisibilité du texte */
+  .hero.is-dream::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(27, 38, 59, 0.4); /* Bleu nuit transparent */
+    z-index: 1;
+  }
+
+  .hero.is-dream .container {
+    position: relative;
+    z-index: 2; /* Place le texte au-dessus du filtre */
+  }
+
+  .hero.is-dream .title {
+    color: white !important;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+
+  .hero.is-dream .subtitle {
+    color: var(--lavande) !important;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+  }
+
+  /* --- NAVIGATION --- */
+  .navbar {
+    background-color: var(--bleu-nuit) !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+
+  .navbar-item, .navbar-link {
+    color: white !important;
+    transition: all 0.3s ease;
+  }
+
+  .navbar-item:hover, .navbar-link:hover {
+    background-color: var(--violet-onirique) !important;
+    color: white !important;
+  }
+
+  .navbar-dropdown {
+    background-color: var(--bleu-nuit);
+    border: none;
+  }
+
+  .navbar-dropdown .navbar-item {
+    color: white !important;
+  }
+
+  .navbar-dropdown .navbar-item:hover {
+    background-color: var(--violet-onirique) !important;
+  }
+
+  /* Burger menu animation */
+  .navbar-burger {
+    color: white;
+  }
+
+  .navbar-burger span {
+    background-color: white;
+  }
+
+  /* --- BLOCS DE CONTENU --- */
+  .section {
+    padding: 3rem 1.5rem;
+  }
+
+  .notification {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border: 1px solid #eee;
+    height: 100%;
+    transition: all 0.3s ease;
+    padding: 1.5rem;
+  }
+
+  .notification:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+  }
+
+  .tag-lang {
+    font-weight: 600;
+    margin-right: 10px;
+    width: 80px;
+    justify-content: center;
+    border: none;
+    color: white;
+  }
+
+  /* Couleurs spécifiques pour les tags de langues */
+  .tag.is-info.tag-lang {
+    background-color: #e91e63; /* Rose pour chinois */
+  }
+
+  .tag.is-primary.tag-lang {
+    background-color: #2196f3; /* Bleu pour anglais */
+  }
+
+  .tag.is-link.tag-lang {
+    background-color: #4caf50; /* Vert pour français */
+  }
+
+  .content ul {
+    margin-left: 1.5rem;
+  }
+
+  .content li {
+    margin-bottom: 0.5rem;
+  }
+
+  .title.mb-5 {
+    margin-bottom: 2rem !important;
+  }
+
+  /* --- FOOTER --- */
+  .footer {
+    background-color: var(--bleu-nuit);
+    color: white;
+    padding: 3rem 1rem;
+    margin-top: 3rem;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .columns.is-multiline {
+      margin-left: -0.75rem;
+      margin-right: -0.75rem;
+    }
+    
+    .column {
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+    }
+    
+    .title.is-1 {
+      font-size: 2rem;
+    }
+    
+    .title.is-3 {
+      font-size: 1.5rem;
+    }
+    
+    .title.is-4 {
+      font-size: 1.25rem;
+    }
+  }
+
+  /* Animation pour le chargement */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .notification, .hero.is-dream .container {
+    animation: fadeInUp 0.6s ease-out;
+  }
+
+  .table {
+    background-color: white;
+  }
+
+  .table thead th {
+    background-color: var(--bleu-nuit);
+    color: white !important;
+    border-color: var(--bleu-nuit);
+    font-weight: 600;
+  }
+
+  .table tbody tr:hover {
+    background-color: var(--rose-bonbon) !important;
+  }
+
+  .tag-status {
+    font-weight: 600;
+    border: none;
+  }
+
+  .tag-success {
+    background-color: #4caf50 !important;
+    color: white !important;
+  }
+
+  .tag-warning {
+    background-color: #ff9800 !important;
+    color: white !important;
+  }
+
+  .tag-danger {
+    background-color: #f44336 !important;
+    color: white !important;
+  }
+
+  .tag-info {
+    background-color: #2196f3 !important;
+    color: white !important;
+  }
+
+  .code-url {
+    background-color: #f5f5f5;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 0.9em;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+  }
+
+  .stats-box {
+    background-color: var(--blanc-casse);
+    border-left: 4px solid var(--violet-onirique);
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0 8px 8px 0;
+  }
+
+  .stats-title {
+    color: var(--violet-onirique);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .stats-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--bleu-nuit);
+  }
+
+  @media (max-width: 768px) {
+    .hero.is-table {
+      min-height: 200px;
+    }
+    
+    .title.is-1 {
+      font-size: 2rem;
+    }
+    
+    .title.is-3 {
+      font-size: 1.5rem;
+    }
+    
+    .table-container {
+      padding: 0.5rem;
+    }
+    
+    .table td, .table th {
+      padding: 0.5em 0.75em;
+      font-size: 0.9em;
+    }
+  }
+
+  .fade-in {
+    animation: fadeIn 0.6s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+    /* Ajouts pour compléter ton style existant */
+
+  .analysis-module {
+    border-left: 8px solid var(--violet-onirique);
+  }
+
+  .table-container {
+    max-height: 500px; /* Ajoute un scroll interne si le tableau est trop long */
+    overflow-y: auto;
+    border-radius: 8px;
+  }
+
+  /* On force le texte de l'analyse à être plus lisible */
+  .content {
+    line-height: 1.7;
+    text-align: justify;
+  }
+
+  /* Animation douce pour les sections */
+  .fade-in {
+    animation: fadeInUp 0.8s ease-out;
+  }
+
+  /* Correction pour les mobiles */
+  @media (max-width: 768px) {
+    .hero.is-dream {
+      padding: 2rem 1rem;
+    }
+  }
+  

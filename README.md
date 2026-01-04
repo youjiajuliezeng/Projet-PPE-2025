@@ -4,7 +4,7 @@ Cliquez pour explorer chez les rêveuses :
 ## Contributeuses
 Voici les chercheuses de rêve avec ses profils GitHub :  
 - ZHENG Ting (Paris Nanterre) - https://github.com/ZHENGTING-oss  
-- LEBAIL Emmy (Inalco) - https://github.com/emmylebail  
+- LE BAIL Emmy (Inalco) - https://github.com/emmylebail  
 - ZENG Youjia (Sorbonne Nouvelle) - https://github.com/youjiajuliezeng  
 
 ## Description du projet

@@ -8,44 +8,44 @@
 
    Ad
 
-   39°
+   45°
 
-   39°
+   45°
 
    (BUTTON) ×
    Durango, Colorado
-   Currently 39°
+   Currently 45°
    Weather data from The Durango Herald and WeatherKit.org
-   Fri
-   High: 47°
-   Low: 31°
-   Wintry Mix
-   64 % chance of precipitation
    Sat
-   High: 47°
-   Low: 29°
+   High: 46°
+   Low: 27°
    Mostly Cloudy
    0 % chance of precipitation
    Sun
-   High: 48°
+   High: 49°
    Low: 32°
    Clear
    0 % chance of precipitation
    Mon
-   High: 42°
-   Low: 32°
-   Mostly Cloudy
-   0 % chance of precipitation
-   Tue
-   High: 41°
+   High: 39°
    Low: 29°
+   Wintry Mix
+   39 % chance of precipitation
+   Tue
+   High: 40°
+   Low: 27°
    Mostly Cloudy
    0 % chance of precipitation
    Wed
-   High: 38°
-   Low: 29°
+   High: 39°
+   Low: 26°
    Wintry Mix
-   36 % chance of precipitation
+   34 % chance of precipitation
+   Thu
+   High: 34°
+   Low: 23°
+   Wintry Mix
+   54 % chance of precipitation
    (BUTTON) River Flows (BUTTON) Snow Report
    (BUTTON) ×
 
@@ -453,6 +453,11 @@ Related Tags
 
    Employment Job layoffs Food
    You might also like
+   [?uuid=b0992056-fe4c-5334-9bcd-4d1a7eaa0977&function=hardcrop&type=prev
+   iew&source=false&width=390&height=202]
+   As Telluride strike enters Day 5, visitation drops and nearby resorts
+   salvage holiday ski vacations
+   Jan 2, 2026
    [?uuid=d12021e5-ca6b-5e32-96ef-7c3b6b88631d&function=hardcrop&type=prev
    iew&source=false&width=390&height=202]
    Trump administration orders a Colorado coal-fired power generator to
@@ -462,32 +467,29 @@ Related Tags
    iew&source=false&width=390&height=202]
    Will 2026 be the year for housing reform?
    Dec 31, 2025
-   [?uuid=6b361d25-6718-571e-9392-adf54bc050f8&function=hardcrop&type=prev
-   iew&source=false&width=390&height=202]
-   More thrifting and fewer returns: the early trends that defined
-   shopping
-   Dec 28, 2025
    Show Comments
 
 Reader Comments
 
 Recent Local News
 
-   [imengine.public.prod.dur.navigacloud.com?uuid=aeff093a-6f55-569b-80f2-
-   b32f9cbbed88&amp;function=cropresize&amp;type=preview&amp;source=false&
-   amp;q=75&amp;crop_w=0.9925&amp;crop_h=0.76804&amp;width=2000&amp;height
-   =1125&amp;x=0.0075&amp;y=0.12887]
-   New year brings higher taxes, at least in La Plata County
-   [imengine.public.prod.dur.navigacloud.com?uuid=b8a30fe6-7cb1-5cd3-b61f-
-   9128ff4c8b24&amp;function=cropresize&amp;type=preview&amp;source=false&
-   amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.86042&amp;width=2000&amp;heigh
-   t=1125&amp;x=1.0E-5&amp;y=0.04015]
-   Couple killed in Bayfield-area house fire identified
-   [imengine.public.prod.dur.navigacloud.com?uuid=27708015-4e59-56ac-bfb6-
-   4d597e7c31fb&amp;function=cropresize&amp;type=preview&amp;source=false&
+   [imengine.public.prod.dur.navigacloud.com?uuid=d58bd382-d1e9-532b-b630-
+   10a3bdaffe2b&amp;function=cropresize&amp;type=preview&amp;source=false&
+   amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.5625&amp;width=899&amp;height=
+   506&amp;x=1.0E-5&amp;y=0.0775]
+   Resident arrested by ICE on New Year’s Eve lived in Durango for 22
+   years
+   [imengine.public.prod.dur.navigacloud.com?uuid=5d3a107d-c019-5870-994c-
+   6afb70913780&amp;function=cropresize&amp;type=preview&amp;source=false&
    amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.75&amp;width=2000&amp;height=1
-   125&amp;x=1.0E-5&amp;y=0.155]
-   Photos: Another one for the pile
+   125&amp;x=1.0E-5&amp;y=0.12]
+   Photos: Warm winter cast
+   [imengine.public.prod.dur.navigacloud.com?uuid=900C2BEC-1F6B-44EE-A528-
+   33A3639211A6&amp;function=cropresize&amp;type=preview&amp;source=false&
+   amp;q=75&amp;crop_w=0.86625&amp;crop_h=0.99999&amp;width=1542&amp;heigh
+   t=867&amp;x=0.00125&amp;y=1.0E-5]
+   City of Durango signs probation agreement after summer day care program
+   incident
 
    MENU
    SEARCH

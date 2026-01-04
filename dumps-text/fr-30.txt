@@ -182,7 +182,7 @@
      * hover
 
 Matelas UNIVERSAL
-       (130)
+       (131)
        À partir de 632,00 €
        Le matelas Universal, doté de la technologie BULTEX® nano, propose
        la parfaite combinaison entre la fermeté et le moelleux de son
@@ -201,7 +201,7 @@ Matelas SOFTLY
      * hover
 
 Sommier VIGOROSO
-       (14)
+       (15)
        À partir de 431,00 €
        Existe en plusieurs décos et doté d'un tissu plateau micro-ventilé,
        il permet une aération optimale du matelas. Le sommier Vigoroso est
@@ -492,7 +492,7 @@ On ne peut pas crier à l’aide pendant un cauchemar
      * hover
 
 Matelas UNIVERSAL
-       (130)
+       (131)
        À partir de 632,00 €
        Le matelas Universal, doté de la technologie BULTEX® nano, propose
        la parfaite combinaison entre la fermeté et le moelleux de son

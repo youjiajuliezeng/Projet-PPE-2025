@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Analyse des cooccurrences - Français</title>
+</head>
+<body>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong>✨ LA RÊVERIE</strong>
+                </a>
+                <!-- Burger menu amélioré -->
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div id="navbarBasic" class="navbar-menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="index.html" title="Page d'accueil">Accueil</a>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/fr.html" title="Tableau français">Français</a>
+                            <a class="navbar-item" href="tableaux/en.html" title="Tableau anglais">Anglais</a>
+                            <a class="navbar-item" href="tableaux/zh.html" title="Tableau chinois">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Analyses par langue">Analyses</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="analyse-fr.html" title="Analyse française">Français</a>
+                            <a class="navbar-item" href="analyse-en.html" title="Analyse anglaise">Anglais</a>
+                            <a class="navbar-item" href="analyse-zh.html" title="Analyse chinoise">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <a class="navbar-item" href="presentation.html" title="À propos du projet">À propos</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero is-dream">
+        <div class="container">
+        </div>
+        <div class="container has-text-centered">
+            <h1 class="title is-2">Analyse des cooccurrences</h1>
+            <p class="subtitle is-3">Exploration sémantique du corpus français</p>
+        </div>
+    </section>
+
+    <main class="container is-fluid section">
+        
+        <div class="box fade-in">
+            <h2 class="title is-3 has-text-centered mb-6">Comparaison des Corpus</h2>
+            
+            <!-- Statistiques des corpus -->
+            <div class="columns is-centered mb-6">
+                <div class="column has-text-centered">
+                    <div class="notification is-info is-light">
+                        <p class="title is-4">Corpus dumps-text</p>
+                        <p class="subtitle is-5"><strong>159,151</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-success is-light">
+                        <p class="title is-4">Corpus contextes</p>
+                        <p class="subtitle is-5"><strong>25,872</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-warning is-light">
+                        <p class="title is-4">Mot-cible : rêve / rêver</p>
+                        <p class="subtitle is-5">Occurrences : 566</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="columns is-desktop">
+                <!-- Premier tableau - Corpus dumps-text -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus dumps-text</h3>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Mot</th>
+                                    <th>Corpus</th>
+                                    <th>Contexte</th>
+                                    <th>Fréquence</th>
+                                    <th>Co-fréquence</th>
+                                    <th>Spécificité</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>interprétation</td><td>159151</td><td>19200</td><td>183</td><td>133</td><td><strong class="has-text-danger">79.68</strong></td></tr>
+                                <tr><td>contrées</td><td>159151</td><td>19200</td><td>32</td><td>29</td><td><strong class="has-text-danger">23.12</strong></td></tr>
+                                <tr><td>récits</td><td>159151</td><td>19200</td><td>34</td><td>24</td><td><strong class="has-text-danger">14.49</strong></td></tr>
+                                <tr><td>freud</td><td>159151</td><td>19200</td><td>231</td><td>68</td><td><strong class="has-text-danger">12.02</strong></td></tr>
+                                <tr><td>prémonitoires</td><td>159151</td><td>19200</td><td>15</td><td>14</td><td><strong class="has-text-danger">11.74</strong></td></tr>
+                                <tr><td>certains</td><td>159151</td><td>19200</td><td>55</td><td>28</td><td><strong class="has-text-danger">11.65</strong></td></tr>
+                                <tr><td>propres</td><td>159151</td><td>19200</td><td>24</td><td>16</td><td><strong class="has-text-warning">9.28</strong></td></tr>
+                                <tr><td>lucide</td><td>159151</td><td>19200</td><td>14</td><td>12</td><td><strong class="has-text-warning">9.18</strong></td></tr>
+                                <tr><td>injection</td><td>159151</td><td>19200</td><td>25</td><td>16</td><td><strong class="has-text-warning">8.89</strong></td></tr>
+                                <tr><td>récurrents</td><td>159151</td><td>19200</td><td>17</td><td>13</td><td><strong class="has-text-warning">8.79</strong></td></tr>
+                                <tr><td>types</td><td>159151</td><td>19200</td><td>27</td><td>16</td><td><strong class="has-text-warning">8.20</strong></td></tr>
+                                <tr><td>travail</td><td>159151</td><td>19200</td><td>109</td><td>34</td><td><strong class="has-text-warning">7.13</strong></td></tr>
+                                <tr><td>récit</td><td>159151</td><td>19200</td><td>43</td><td>19</td><td><strong class="has-text-warning">6.89</strong></td></tr>
+                                <tr><td>perron</td><td>159151</td><td>19200</td><td>16</td><td>11</td><td><strong class="has-text-warning">6.74</strong></td></tr>
+                                <tr><td>faite</td><td>159151</td><td>19200</td><td>36</td><td>17</td><td><strong class="has-text-warning">6.74</strong></td></tr>
+                                <tr><td>peuvent</td><td>159151</td><td>19200</td><td>94</td><td>30</td><td><strong class="has-text-warning">6.62</strong></td></tr>
+                                <tr><td>souvenir</td><td>159151</td><td>19200</td><td>46</td><td>19</td><td><strong class="has-text-warning">6.34</strong></td></tr>
+                                <tr><td>selon</td><td>159151</td><td>19200</td><td>123</td><td>35</td><td><strong class="has-text-warning">6.26</strong></td></tr>
+                                <tr><td>fonction</td><td>159151</td><td>19200</td><td>64</td><td>23</td><td><strong class="has-text-warning">6.25</strong></td></tr>
+                                <tr><td>littérature</td><td>159151</td><td>19200</td><td>69</td><td>24</td><td><strong class="has-text-warning">6.20</strong></td></tr>
+                                <tr><td>souvent</td><td>159151</td><td>19200</td><td>80</td><td>26</td><td><strong class="has-text-warning">6.01</strong></td></tr>
+                                <tr><td>mythe</td><td>159151</td><td>19200</td><td>15</td><td>10</td><td><strong class="has-text-warning">5.99</strong></td></tr>
+                                <tr><td>analyse</td><td>159151</td><td>19200</td><td>71</td><td>24</td><td><strong class="has-text-warning">5.95</strong></td></tr>
+                                <tr><td>serait</td><td>159151</td><td>19200</td><td>55</td><td>20</td><td><strong class="has-text-warning">5.62</strong></td></tr>
+                                <tr><td>diurne</td><td>159151</td><td>19200</td><td>16</td><td>10</td><td><strong class="has-text-warning">5.62</strong></td></tr>
+                                <tr><td>ocf</td><td>159151</td><td>19200</td><td>31</td><td>14</td><td><strong class="has-text-success">5.39</strong></td></tr>
+                                <tr><td>éveillé</td><td>159151</td><td>19200</td><td>20</td><td>11</td><td><strong class="has-text-success">5.38</strong></td></tr>
+                                <tr><td>peut</td><td>159151</td><td>19200</td><td>221</td><td>50</td><td><strong class="has-text-success">5.35</strong></td></tr>
+                                <tr><td>distingue</td><td>159151</td><td>19200</td><td>14</td><td>9</td><td><strong class="has-text-success">5.24</strong></td></tr>
+                                <tr><td>interpréter</td><td>159151</td><td>19200</td><td>18</td><td>10</td><td><strong class="has-text-success">4.99</strong></td></tr>
+                                <tr><td>raconte</td><td>159151</td><td>19200</td><td>12</td><td>8</td><td><strong class="has-text-success">4.88</strong></td></tr>
+                                <tr><td>ai</td><td>159151</td><td>19200</td><td>249</td><td>53</td><td><strong class="has-text-success">4.86</strong></td></tr>
+                                <tr><td>phénomène</td><td>159151</td><td>19200</td><td>23</td><td>11</td><td><strong class="has-text-success">4.64</strong></td></tr>
+                                <tr><td>temps</td><td>159151</td><td>19200</td><td>140</td><td>34</td><td><strong class="has-text-success">4.55</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Deuxième tableau - Corpus contextes -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus contextes</h3>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Mot</th>
+                                    <th>Corpus</th>
+                                    <th>Contexte</th>
+                                    <th>Fréquence</th>
+                                    <th>Co-fréquence</th>
+                                    <th>Spécificité</th>   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>interprétation</td><td>25872</td><td>17249</td><td>137</td><td>127</td><td><strong class="has-text-danger">12.52</strong></td></tr>
+                                <tr><td>contrées</td><td>25872</td><td>17249</td><td>28</td><td>28</td><td><strong class="has-text-warning">4.93</strong></td></tr>
+                                <tr><td>aux</td><td>25872</td><td>17249</td><td>41</td><td>37</td><td><strong class="has-text-success">3.42</strong></td></tr>
+                                <tr><td>freud</td><td>25872</td><td>17249</td><td>77</td><td>64</td><td><strong class="has-text-success">3.21</strong></td></tr>
+                                <tr><td>temps</td><td>25872</td><td>17249</td><td>39</td><td>35</td><td><strong class="has-text-success">3.16</strong></td></tr>
+                                <tr><td>entre</td><td>25872</td><td>17249</td><td>29</td><td>27</td><td><strong class="has-text-success">3.10</strong></td></tr>
+                                <tr><td>travail</td><td>25872</td><td>17249</td><td>38</td><td>34</td><td><strong class="has-text-success">3.03</strong></td></tr>
+                                <tr><td>certains</td><td>25872</td><td>17249</td><td>28</td><td>26</td><td><strong class="has-text-success">2.96</strong></td></tr>
+                                <tr><td>littérature</td><td>25872</td><td>17249</td><td>22</td><td>21</td><td><strong class="has-text-success">2.83</strong></td></tr>
+                                <tr><td>monde</td><td>25872</td><td>17249</td><td>22</td><td>21</td><td><strong class="has-text-success">2.83</strong></td></tr>
+                                <tr><td>faite</td><td>25872</td><td>17249</td><td>16</td><td>16</td><td><strong class="has-text-success">2.82</strong></td></tr>
+                                <tr><td>propres</td><td>25872</td><td>17249</td><td>15</td><td>15</td><td><strong class="has-text-success">2.64</strong></td></tr>
+                                <tr><td>aussi</td><td>25872</td><td>17249</td><td>59</td><td>49</td><td><strong class="has-text-success">2.60</strong></td></tr>
+                                <tr><td>ai</td><td>25872</td><td>17249</td><td>66</td><td>54</td><td><strong class="has-text-success">2.54</strong></td></tr>
+                                <tr><td>récits</td><td>25872</td><td>17249</td><td>20</td><td>19</td><td><strong class="has-text-success">2.52</strong></td></tr>
+                                <tr><td>j</td><td>25872</td><td>17249</td><td>78</td><td>62</td><td><strong class="has-text-success">2.32</strong></td></tr>
+                                <tr><td>serait</td><td>25872</td><td>17249</td><td>18</td><td>17</td><td><strong class="has-text-success">2.22</strong></td></tr>
+                                <tr><td>article</td><td>25872</td><td>17249</td><td>12</td><td>12</td><td><strong class="has-text-success">2.11</strong></td></tr>
+                                <tr><td>lucide</td><td>25872</td><td>17249</td><td>12</td><td>12</td><td><strong class="has-text-success">2.11</strong></td></tr>
+                                <tr><td>prémonitoires</td><td>25872</td><td>17249</td><td>12</td><td>12</td><td><strong class="has-text-success">2.11</strong></td></tr>
+                                <tr><td>ont</td><td>25872</td><td>17249</td><td>38</td><td>32</td><td><strong class="has-text-success">2.06</strong></td></tr>
+                                <tr><td>mort</td><td>25872</td><td>17249</td><td>38</td><td>32</td><td><strong class="has-text-success">2.06</strong></td></tr>
+                                <tr><td>peut</td><td>25872</td><td>17249</td><td>56</td><td>45</td><td><strong class="has-text-success">2.00</strong></td></tr>
+                                <tr><td>mieux</td><td>25872</td><td>17249</td><td>11</td><td>11</td><td><strong class="has-text-success">1.94</strong></td></tr>
+                                <tr><td>fonctions</td><td>25872</td><td>17249</td><td>11</td><td>11</td><td><strong class="has-text-success">1.94</strong></td></tr>
+                                <tr><td>récurrents</td><td>25872</td><td>17249</td><td>11</td><td>11</td><td><strong class="has-text-success">1.94</strong></td></tr>
+                                <tr><td>p</td><td>25872</td><td>17249</td><td>55</td><td>44</td><td><strong class="has-text-success">1.92</strong></td></tr>
+                                <tr><td>types</td><td>25872</td><td>17249</td><td>16</td><td>15</td><td><strong class="has-text-success">1.91</strong></td></tr>
+                                <tr><td>nos</td><td>25872</td><td>17249</td><td>40</td><td>33</td><td><strong class="has-text-success">1.88</strong></td></tr>
+                                <tr><td>peu</td><td>25872</td><td>17249</td><td>15</td><td>14</td><td><strong class="has-text-success">1.77</strong></td></tr>
+                                <tr><td>signification</td><td>25872</td><td>17249</td><td>15</td><td>14</td><td><strong class="has-text-success">1.77</strong></td></tr>
+                                <tr><td>entrée</td><td>25872</td><td>17249</td><td>10</td><td>10</td><td><strong class="has-text-success">1.76</strong></td></tr>
+                                <tr><td>nouvelle</td><td>25872</td><td>17249</td><td>10</td><td>10</td><td><strong class="has-text-success">1.76</strong></td></tr>
+                                <tr><td>3</td><td>25872</td><td>17249</td><td>19</td><td>17</td><td><strong class="has-text-success">1.72</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Légende des couleurs -->
+            <div class="notification is-light mt-4">
+                <div class="columns is-mobile is-centered">
+                    <div class="column is-narrow">
+                        <span class="tag is-danger">Spécificité élevée (&gt;10)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-warning">Spécificité moyenne (5-10)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-success">Spécificité faible (&lt;5)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification analysis-module">
+                    <h2 class="title is-4 mb-4">Analyse des tableaux</h2>
+                    <div class="content is-medium">
+                        <p>L'analyse des cooccurrences dans le corpus français révèle une orientation nettement scientifique et analytique autour du concept de rêve. Le terme « interprétation » domine les deux tableaux avec des spécificités très élevées (79,68 et 12,52), indiquant une approche herméneutique prédominante.</p>
+                        
+                        <p>La présence de « Freud » comme mot-clé significatif (12,02 et 3,21) confirme l'influence persistante de la psychanalyse dans la conceptualisation du rêve en français. Cette orientation théorique est renforcée par d'autres termes comme « travail » (7,13/3,03), « analyse » (5,95/1,35), et « phénomène » (4,64/1,06), qui inscrivent le rêve dans un cadre d'étude systématique.</p>
+                        
+                        <p>Une tension intéressante apparaît entre les termes techniques (« récurrents », « lucide », « prémonitoires », « diurne ») et les termes narratifs (« récits », « récit », « raconte »). Cette dualité suggère que le rêve est à la fois un objet d'étude scientifique et une matière narrative, une expérience subjective qui appelle à être mise en récit.</p>
+                        
+                        <p>Contrairement au corpus chinois, on note l'absence de termes collectifs ou nationaux. Les occurrences de « propre » (9,28/2,64) et « nos » (3,38/1,88) pointent vers une dimension personnelle ou interpersonnelle plutôt que collective.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification is-white">
+                    <h2 class="title is-4 has-text-centered">Nuage de mots</h2>
+                    <div class="has-text-centered mb-5">
+                        <img src="./wordcloud/images/wordcloud_fr.png" alt="Nuage de mots français" style="max-height: 400px; border-radius: 8px;">
+                    </div>
+                    <div class="content">
+                        <p>Le nuage de mots français confirme et complète cette analyse. La prédominance de « sommeil » comme association centrale révèle l'ancrage physiologique du rêve dans la culture française. La présence de « cauchemar » et « terreur » introduit une dimension affective et émotionnelle souvent négligée dans les analyses purement techniques.</p>
+                        
+                        <p>La constellation « interprétation »-« signification »-« sens » forme un cluster sémantique cohérent qui souligne la quête de sens caractéristique de l'approche française du rêve. Contrairement au corpus chinois où le rêve est tourné vers l'action et la réalisation (« 实现 », « 努力 »), le rêve français apparaît davantage comme un objet de contemplation et de décryptage.</p>
+                        
+                        <p>Les termes « désir » et « accomplissement » renvoient explicitement à la théorie freudienne de l'accomplissement de désir, confirmant l'hégémonie du modèle psychanalytique dans l'imaginaire français du rêve. L'absence quasi-totale de références collectives ou politiques contraste fortement avec le corpus chinois.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-8">
+                <div class="box has-background-link-light">
+                    <h2 class="title is-4">Conclusion</h2>
+                    <p class="is-italic">
+                        Le rêve dans le discours français apparaît comme un objet double : à la fois phénomène psychologique à décrypter et expérience narrative à partager. Dominé par l'héritage freudien et une approche herméneutique, il se construit essentiellement comme une énigme individuelle à résoudre. Cette conception introspective et analytique s'oppose nettement au « rêve chinois » qui fonctionne comme un projet collectif orienté vers l'action et la réalisation. La divergence fondamentale réside dans cette opposition entre rêve comme énigme (France) et rêve comme projet (Chine).
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="footer" role="contentinfo">
+        <div class="container has-text-centered">
+            <p>Projet encadré - La vie multilingue des mots sur le web</p>
+            <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+            <p class="is-size-7 mt-1">
+                <a href="mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+                <a href="contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Script amélioré pour le menu burger avec accessibilité
+        document.addEventListener('DOMContentLoaded', () => {
+            const navbarBurgers = document.querySelectorAll('.navbar-burger');
+            
+            navbarBurgers.forEach(burger => {
+                burger.addEventListener('click', () => {
+                    const targetId = burger.dataset.target;
+                    const target = document.getElementById(targetId);
+                    
+                    // Toggle classes
+                    burger.classList.toggle('is-active');
+                    target.classList.toggle('is-active');
+                    
+                    // Mise à jour ARIA pour accessibilité
+                    const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+                    burger.setAttribute('aria-expanded', !isExpanded);
+                    
+                    // Optionnel: empêcher le scroll du body quand le menu est ouvert
+                    if (!isExpanded) {
+                        document.body.style.overflow = 'hidden';
+                    } else {
+                        document.body.style.overflow = '';
+                    }
+                });
+            });
+            
+            // Fermer le menu burger en cliquant à l'extérieur (sur mobile)
+            document.addEventListener('click', (event) => {
+                const navbarMenu = document.getElementById('navbarBasic');
+                const navbarBurger = document.querySelector('.navbar-burger');
+                
+                if (navbarMenu && navbarMenu.classList.contains('is-active') &&
+                    !navbarMenu.contains(event.target) && 
+                    !navbarBurger.contains(event.target)) {
+                    navbarMenu.classList.remove('is-active');
+                    navbarBurger.classList.remove('is-active');
+                    navbarBurger.setAttribute('aria-expanded', 'false');
+                    document.body.style.overflow = '';
+                }
+            });
+            
+            // Animation au défilement
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+            
+            // Observer les notifications
+            document.querySelectorAll('.notification').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+        });
+    </script>
+
+</body>
+</html>

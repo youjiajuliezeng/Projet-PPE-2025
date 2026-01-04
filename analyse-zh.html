@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Analyse des cooccurrences - Chinois</title>
+</head>
+<body>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong>✨ LA RÊVERIE</strong>
+                </a>
+                <!-- Burger menu amélioré -->
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div id="navbarBasic" class="navbar-menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="index.html" title="Page d'accueil">Accueil</a>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/fr.html" title="Tableau français">Français</a>
+                            <a class="navbar-item" href="tableaux/en.html" title="Tableau anglais">Anglais</a>
+                            <a class="navbar-item" href="tableaux/zh.html" title="Tableau chinois">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link" title="Analyses par langue">Analyses</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="analyse-fr.html" title="Analyse française">Français</a>
+                            <a class="navbar-item" href="analyse-en.html" title="Analyse anglaise">Anglais</a>
+                            <a class="navbar-item" href="analyse-zh.html" title="Analyse chinoise">Chinois</a>
+                        </div>
+                    </div>
+                    
+                    <a class="navbar-item" href="presentation.html" title="À propos du projet">À propos</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero is-dream">
+        <div class="container">
+        </div>
+        <div class="container has-text-centered">
+            <h1 class="title is-2">Analyse des cooccurrences</h1>
+            <p class="subtitle is-3">Exploration sémantique du corpus chinois</p>
+        </div>
+    </section>
+
+    <main class="container is-fluid section">
+        
+        <div class="box fade-in">
+            <h2 class="title is-3 has-text-centered mb-6">Comparaison des Corpus</h2>
+            
+            <!-- Statistiques des corpus -->
+            <div class="columns is-centered mb-6">
+                <div class="column has-text-centered">
+                    <div class="notification is-info is-light">
+                        <p class="title is-4">Corpus dumps-text</p>
+                        <p class="subtitle is-5"><strong>124,862</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-success is-light">
+                        <p class="title is-4">Corpus contextes</p>
+                        <p class="subtitle is-5"><strong>16,005</strong> mots</p>
+                    </div>
+                </div>
+                <div class="column has-text-centered">
+                    <div class="notification is-warning is-light">
+                        <p class="title is-4">Mot-cible : 梦 / 梦想</p>
+                        <p class="subtitle is-5">梦想 : 566 | 梦 : 372 | 梦想 : 194</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="columns is-desktop">
+                <!-- Premier tableau - Corpus dumps-text -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus dumps-text</h3>
+                        <p class="is-size-5 has-text-centered">124,862 mots - 33 occurrences</p>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Mot</th>
+                                    <th>Corpus</th>
+                                    <th>Contexte</th>
+                                    <th>Fréquence</th>
+                                    <th>Co-fréquence</th>
+                                    <th>Spécificité</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>实现</td><td>124862</td><td>3730</td><td>108</td><td>36</td><td><strong class="has-text-danger">27.14</strong></td></tr>
+                                <tr><td>伟大</td><td>124862</td><td>3730</td><td>77</td><td>24</td><td><strong class="has-text-danger">17.58</strong></td></tr>
+                                <tr><td>中国</td><td>124862</td><td>3730</td><td>483</td><td>55</td><td><strong class="has-text-danger">16.47</strong></td></tr>
+                                <tr><td>盒子</td><td>124862</td><td>3730</td><td>15</td><td>12</td><td><strong class="has-text-danger">15.69</strong></td></tr>
+                                <tr><td>必须</td><td>124862</td><td>3730</td><td>33</td><td>13</td><td><strong class="has-text-danger">11.33</strong></td></tr>
+                                <tr><td>大唐</td><td>124862</td><td>3730</td><td>39</td><td>12</td><td><strong class="has-text-warning">9.07</strong></td></tr>
+                                <tr><td>最初</td><td>124862</td><td>3730</td><td>19</td><td>9</td><td><strong class="has-text-warning">8.89</strong></td></tr>
+                                <tr><td>托举</td><td>124862</td><td>3730</td><td>10</td><td>7</td><td><strong class="has-text-warning">8.64</strong></td></tr>
+                                <tr><td>遥</td><td>124862</td><td>3730</td><td>5</td><td>5</td><td><strong class="has-text-warning">7.62</strong></td></tr>
+                                <tr><td>逐</td><td>124862</td><td>3730</td><td>6</td><td>5</td><td><strong class="has-text-warning">6.86</strong></td></tr>
+                                <tr><td>关于</td><td>124862</td><td>3730</td><td>71</td><td>13</td><td><strong class="has-text-warning">6.83</strong></td></tr>
+                                <tr><td>醒</td><td>124862</td><td>3730</td><td>28</td><td>8</td><td><strong class="has-text-warning">5.97</strong></td></tr>
+                                <tr><td>追</td><td>124862</td><td>3730</td><td>8</td><td>5</td><td><strong class="has-text-warning">5.92</strong></td></tr>
+                                <tr><td>追逐</td><td>124862</td><td>3730</td><td>9</td><td>5</td><td><strong class="has-text-warning">5.58</strong></td></tr>
+                                <tr><td>意象</td><td>124862</td><td>3730</td><td>9</td><td>5</td><td><strong class="has-text-warning">5.58</strong></td></tr>
+                                <tr><td>追求</td><td>124862</td><td>3730</td><td>23</td><td>7</td><td><strong class="has-text-warning">5.50</strong></td></tr>
+                                <tr><td>努力</td><td>124862</td><td>3730</td><td>55</td><td>10</td><td><strong class="has-text-warning">5.38</strong></td></tr>
+                                <tr><td>昨天</td><td>124862</td><td>3730</td><td>10</td><td>5</td><td><strong class="has-text-warning">5.29</strong></td></tr>
+                                <tr><td>做</td><td>124862</td><td>3730</td><td>148</td><td>16</td><td><strong class="has-text-warning">5.10</strong></td></tr>
+                                <tr><td>复兴</td><td>124862</td><td>3730</td><td>39</td><td>8</td><td><strong class="has-text-success">4.82</strong></td></tr>
+                                <tr><td>回首</td><td>124862</td><td>3730</td><td>12</td><td>5</td><td><strong class="has-text-success">4.82</strong></td></tr>
+                                <tr><td>红尘</td><td>124862</td><td>3730</td><td>13</td><td>5</td><td><strong class="has-text-success">4.62</strong></td></tr>
+                                <tr><td>孤独</td><td>124862</td><td>3730</td><td>14</td><td>5</td><td><strong class="has-text-success">4.44</strong></td></tr>
+                                <tr><td>明白</td><td>124862</td><td>3730</td><td>17</td><td>5</td><td><strong class="has-text-success">3.99</strong></td></tr>
+                                <tr><td>大学</td><td>124862</td><td>3730</td><td>50</td><td>7</td><td><strong class="has-text-success">3.24</strong></td></tr>
+                                <tr><td>中华民族</td><td>124862</td><td>3730</td><td>43</td><td>6</td><td><strong class="has-text-success">2.85</strong></td></tr>
+                                <tr><td>现实</td><td>124862</td><td>3730</td><td>36</td><td>5</td><td><strong class="has-text-success">2.46</strong></td></tr>
+                                <tr><td>事业</td><td>124862</td><td>3730</td><td>53</td><td>6</td><td><strong class="has-text-success">2.41</strong></td></tr>
+                                <tr><td>提供</td><td>124862</td><td>3730</td><td>43</td><td>5</td><td><strong class="has-text-success">2.14</strong></td></tr>
+                                <tr><td>写</td><td>124862</td><td>3730</td><td>88</td><td>7</td><td><strong class="has-text-success">1.94</strong></td></tr>
+                                <tr><td>青春</td><td>124862</td><td>3730</td><td>50</td><td>5</td><td><strong class="has-text-success">1.89</strong></td></tr>
+                                <tr><td>时代</td><td>124862</td><td>3730</td><td>114</td><td>8</td><td><strong class="has-text-success">1.85</strong></td></tr>
+                                <tr><td>进行</td><td>124862</td><td>3730</td><td>55</td><td>5</td><td><strong class="has-text-success">1.74</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Deuxième tableau - Corpus contextes -->
+                <div class="column">
+                    <div class="stats-box">
+                        <h3 class="stats-title has-text-centered">Corpus contextes</h3>
+                        <p class="is-size-5 has-text-centered">16,005 mots - 30 occurrences</p>
+                    </div>
+                    <div class="table-container">
+                        <table class="table is-striped is-hoverable is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Mot</th>
+                                    <th>Corpus</th>
+                                    <th>Contexte</th>
+                                    <th>Fréquence</th>
+                                    <th>Co-fréquence</th>
+                                    <th>Spécificité</th>   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>中国</td><td>16005</td><td>3887</td><td>109</td><td>59</td><td><strong class="has-text-danger">10.85</strong></td></tr>
+                                <tr><td>实现</td><td>16005</td><td>3887</td><td>56</td><td>35</td><td><strong class="has-text-warning">8.95</strong></td></tr>
+                                <tr><td>盒子</td><td>16005</td><td>3887</td><td>12</td><td>12</td><td><strong class="has-text-warning">7.38</strong></td></tr>
+                                <tr><td>必须</td><td>16005</td><td>3887</td><td>16</td><td>13</td><td><strong class="has-text-warning">5.61</strong></td></tr>
+                                <tr><td>伟大</td><td>16005</td><td>3887</td><td>46</td><td>24</td><td><strong class="has-text-success">4.52</strong></td></tr>
+                                <tr><td>最初</td><td>16005</td><td>3887</td><td>11</td><td>9</td><td><strong class="has-text-success">4.04</strong></td></tr>
+                                <tr><td>大唐</td><td>16005</td><td>3887</td><td>18</td><td>12</td><td><strong class="has-text-success">3.84</strong></td></tr>
+                                <tr><td>遥</td><td>16005</td><td>3887</td><td>5</td><td>5</td><td><strong class="has-text-success">3.07</strong></td></tr>
+                                <tr><td>逐</td><td>16005</td><td>3887</td><td>5</td><td>5</td><td><strong class="has-text-success">3.07</strong></td></tr>
+                                <tr><td>追</td><td>16005</td><td>3887</td><td>5</td><td>5</td><td><strong class="has-text-success">3.07</strong></td></tr>
+                                <tr><td>托举</td><td>16005</td><td>3887</td><td>9</td><td>7</td><td><strong class="has-text-success">2.99</strong></td></tr>
+                                <tr><td>努力</td><td>16005</td><td>3887</td><td>16</td><td>10</td><td><strong class="has-text-success">2.97</strong></td></tr>
+                                <tr><td>做</td><td>16005</td><td>3887</td><td>34</td><td>16</td><td><strong class="has-text-success">2.67</strong></td></tr>
+                                <tr><td>追求</td><td>16005</td><td>3887</td><td>10</td><td>7</td><td><strong class="has-text-success">2.59</strong></td></tr>
+                                <tr><td>青春</td><td>16005</td><td>3887</td><td>6</td><td>5</td><td><strong class="has-text-success">2.42</strong></td></tr>
+                                <tr><td>昨天</td><td>16005</td><td>3887</td><td>6</td><td>5</td><td><strong class="has-text-success">2.42</strong></td></tr>
+                                <tr><td>孤独</td><td>16005</td><td>3887</td><td>6</td><td>5</td><td><strong class="has-text-success">2.42</strong></td></tr>
+                                <tr><td>回首</td><td>16005</td><td>3887</td><td>6</td><td>5</td><td><strong class="has-text-success">2.42</strong></td></tr>
+                                <tr><td>意象</td><td>16005</td><td>3887</td><td>6</td><td>5</td><td><strong class="has-text-success">2.42</strong></td></tr>
+                                <tr><td>复兴</td><td>16005</td><td>3887</td><td>14</td><td>8</td><td><strong class="has-text-success">2.17</strong></td></tr>
+                                <tr><td>追逐</td><td>16005</td><td>3887</td><td>7</td><td>5</td><td><strong class="has-text-success">1.99</strong></td></tr>
+                                <tr><td>读</td><td>16005</td><td>3887</td><td>7</td><td>5</td><td><strong class="has-text-success">1.99</strong></td></tr>
+                                <tr><td>提供</td><td>16005</td><td>3887</td><td>7</td><td>5</td><td><strong class="has-text-success">1.99</strong></td></tr>
+                                <tr><td>成为</td><td>16005</td><td>3887</td><td>8</td><td>5</td><td><strong class="has-text-success">1.69</strong></td></tr>
+                                <tr><td>大学</td><td>16005</td><td>3887</td><td>15</td><td>7</td><td><strong class="has-text-success">1.46</strong></td></tr>
+                                <tr><td>精神</td><td>16005</td><td>3887</td><td>9</td><td>5</td><td><strong class="has-text-success">1.46</strong></td></tr>
+                                <tr><td>红尘</td><td>16005</td><td>3887</td><td>9</td><td>5</td><td><strong class="has-text-success">1.46</strong></td></tr>
+                                <tr><td>事业</td><td>16005</td><td>3887</td><td>13</td><td>6</td><td><strong class="has-text-success">1.30</strong></td></tr>
+                                <tr><td>进行</td><td>16005</td><td>3887</td><td>10</td><td>5</td><td><strong class="has-text-success">1.28</strong></td></tr>
+                                <tr><td>时代</td><td>16005</td><td>3887</td><td>26</td><td>9</td><td><strong class="has-text-success">1.09</strong></td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Légende des couleurs -->
+            <div class="notification is-light mt-4">
+                <div class="columns is-mobile is-centered">
+                    <div class="column is-narrow">
+                        <span class="tag is-danger">Spécificité élevée (&gt;10)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-warning">Spécificité moyenne (5-10)</span>
+                    </div>
+                    <div class="column is-narrow">
+                        <span class="tag is-success">Spécificité faible (&lt;5)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification analysis-module">
+                    <h2 class="title is-4 mb-4">Analyse des tableaux</h2>
+                    <div class="content is-medium">
+                        <p>L'examen des tableaux de cooccurrence révèle une structure sémantique clairement stratifiée autour du terme « 梦 ». Au premier niveau, les associations les plus fortes confirment massivement notre hypothèse initiale : « 中国 » (Chine) présente les scores de spécificité les plus élevés (10,85 et 16,47 selon les corpus), immédiatement suivi par « 实现 » (réaliser, 8,95/27,14) et « 伟大 » (grand, 4,52/17,58).</p>
+                        
+                        <p>Cette triade « Chine-réaliser-grand » constitue l'armature discursive du « 中国梦 », projet national à dimension à la fois politique et historique, comme en témoignent également les occurrences significatives de « 复兴 » (renaissance) et « 大唐 » (grande dynastie Tang).</p>
+                        
+                        <p>Toutefois, les données révèlent une seconde strate moins attendue, composée de termes comme « 青春 » (jeunesse), « 孤独 » (solitude), « 追求 » (poursuite) et « 努力 » (effort), qui introduisent une dimension personnelle, existentielle et active. Cette dualité quantitative suggère que le rêve chinois fonctionne comme un opérateur sémantique capable d'articuler l'échelle collective nationale et l'échelle individuelle subjective.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-10">
+                <div class="notification is-white">
+                    <h2 class="title is-4 has-text-centered">Nuage de mots</h2>
+                    <div class="has-text-centered mb-5">
+                        <img src="./wordcloud/images/wordcloud_zh.png" alt="Nuage de mots chinois" style="max-height: 400px; border-radius: 8px;">
+                    </div>
+                    <div class="content">
+                        <p>Le nuage de mots vient enrichir et nuancer cette analyse quantitative en révélant l'étendue des réseaux associatifs. Si certaines confirmations étaient attendues (« 国家 » - pays, « 发展 » - développement), plusieurs éléments émergent comme significativement complémentaires.</p>
+                        
+                        <p>La présence de « 家 » (famille/foyer) introduit une échelle intermédiaire entre l'individu et la nation, rappelant l'importance des structures familiales dans l'imaginaire social chinois. « 电影 » (cinéma) et « 成为 » (devenir) pointent vers une dimension narrative et transformative du rêve, qui n'est pas seulement un état mais un processus de transformation, souvent médiatisé par des récits culturels.</p>
+                        
+                        <p>Enfin, « 世界 » (monde) élargit considérablement le cadre spatial, indiquant que le rêve chinois contemporain se projette également sur une scène globale. Ces associations qualitatives montrent que « 梦 » opère comme un nœud conceptuel reliant des registres variés : du domestique au mondial, du politique au culturel, du statique (l'état rêvé) au dynamique (le processus de réalisation).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="columns is-centered mt-6">
+            <div class="column is-8">
+                <div class="box has-background-link-light">
+                    <h2 class="title is-4">Conclusion</h2>
+                    <p class="is-italic">
+                        L'hypothèse est validée mais nuancée : le « rêve chinois » dépasse le cadre institutionnel pour s'avérer un concept intégrateur. Il articule trois axes : les échelles (individu → monde), les registres (politique → existentiel) et le temps (passé → futur). Cette capacité à relier des dimensions souvent séparées explique sa puissance sociale. Loin d'être une simple évasion, le rêve fonctionne ainsi comme un opérateur de cohérence symbolique dans le discours chinois contemporain.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="footer" role="contentinfo">
+        <div class="container has-text-centered">
+            <p>Projet encadré - La vie multilingue des mots sur le web</p>
+            <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+            <p class="is-size-7 mt-1">
+                <a href="mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+                <a href="contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Script amélioré pour le menu burger avec accessibilité
+        document.addEventListener('DOMContentLoaded', () => {
+            const navbarBurgers = document.querySelectorAll('.navbar-burger');
+            
+            navbarBurgers.forEach(burger => {
+                burger.addEventListener('click', () => {
+                    const targetId = burger.dataset.target;
+                    const target = document.getElementById(targetId);
+                    
+                    // Toggle classes
+                    burger.classList.toggle('is-active');
+                    target.classList.toggle('is-active');
+                    
+                    // Mise à jour ARIA pour accessibilité
+                    const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+                    burger.setAttribute('aria-expanded', !isExpanded);
+                    
+                    // Optionnel: empêcher le scroll du body quand le menu est ouvert
+                    if (!isExpanded) {
+                        document.body.style.overflow = 'hidden';
+                    } else {
+                        document.body.style.overflow = '';
+                    }
+                });
+            });
+            
+            // Fermer le menu burger en cliquant à l'extérieur (sur mobile)
+            document.addEventListener('click', (event) => {
+                const navbarMenu = document.getElementById('navbarBasic');
+                const navbarBurger = document.querySelector('.navbar-burger');
+                
+                if (navbarMenu && navbarMenu.classList.contains('is-active') &&
+                    !navbarMenu.contains(event.target) && 
+                    !navbarBurger.contains(event.target)) {
+                    navbarMenu.classList.remove('is-active');
+                    navbarBurger.classList.remove('is-active');
+                    navbarBurger.setAttribute('aria-expanded', 'false');
+                    document.body.style.overflow = '';
+                }
+            });
+            
+            // Animation au défilement
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+            
+            // Observer les notifications
+            document.querySelectorAll('.notification').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+        });
+    </script>
+
+</body>
+</html>

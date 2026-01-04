@@ -28,7 +28,6 @@
 Introduction aux rêves
    paradoxal, qu’on appelle rêve, a un rôle majeur pour notre cerveau. Ces
 Qu’est-ce qu’un rêve ?
-   Le rêve est une activité nocturne qui peut durer quelques minutes 
    pendant le sommeil. Les rêves sont formés à partir d’évènements qui se
 Pendant quelle phase de sommeil rêve-t-on ?
    comprennent, chacun, plusieurs phases. Le rêve intervient en majorité
@@ -105,3 +104,4 @@ Nous faisons en moyenne 1460 rêves par an
    souvenir de leurs rêves que d’autres.
 Cauchemars et mauvais rêves
 Des chercheurs ont trouvé le signal cérébral des rêves
+   Nos revendeurs
