@@ -102,6 +102,10 @@ while read -r line; do
 
   # Encodage depuis Content-Type si présent
   encodage="$(cat "$headers_tmp" | tr '\r' '\n' | grep -i '^content-type:' | grep -ioE 'charset=[^;[:space:]]+' | head -n 1 | cut -d= -f2)"
+  # si encodage n'est pas présent dans Content-type de headers, le retirer dans le corps
+  if [ -z "$encodage" ]; then
+    encodage=$(grep -E -o "charset=[^\"'> ]*" "$body_tmp" | head -1 | tr -d "/>" | cut -d= -f2)
+  fi
   [[ -z "$encodage" ]] && encodage="none"
 
   # On sauvegarde la page aspirée
