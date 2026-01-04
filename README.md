@@ -46,7 +46,7 @@ Pour chaque page, le programme calcule :
 À partir de ces contextes, une concordance de type KWIC (contexte gauche / cible / contexte droit) est générée automatiquement, facilitant l'analyse qualitative suivante.  
 
 ### Analyse quantitative & Visualisation
-Dans une étape ultérieure, le projet intègre une analyse PALS par le script [make_pals_corpus](programmes/make_pals_corpus.sh) afin de regrouper et aligner les différentes formes morphologiques du mot, en considérant la segmentation des caractères en mots pour le chinois, ainsi que la normalisation (minuscules) et isolation de la ponctuation pout le français et l'anglais. Le script [analyse_pals.sh](programmes/analyse_pals.sh) regroupe ensuite les formes morphologiques, identifie les cooccurrences significatives et calcule les fréquences et spécificités.  
+Dans une étape ultérieure, le projet intègre une analyse PALS par le script [make_pals_corpus](programmes/make_pals_corpus.sh) afin de pour formater les textes selon le standard PALS (un mot par ligne), en adaptant le traitement aux spécificités linguistiques : segmentation des caractères en mots pour le chinois, normalisation (minuscules) et isolation de la ponctuation pour le français et l'anglais. Le script [analyse_pals.sh](programmes/analyse_pals.sh) regroupe ensuite les formes morphologiques via des expressions régulières, identifie les cooccurrences significatives et calcule les fréquences et spécificités.
 
 À partir des données de fréquence et de cooccurrence, des nuages de mots (word clouds) sont générés pour chaque langue par le script [wordcloud](programmes/wordcloud.sh). Ces visualisations offrent une synthèse graphique des environnements lexicaux du mot étudié et facilitent la comparaison entre les corpus.  
 
