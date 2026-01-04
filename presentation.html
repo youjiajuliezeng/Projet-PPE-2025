@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Tableau zh</title>
+</head>
+<body>
+
+<nav class="navbar is-fixed-top" role="navigation" aria-label="Navigation principale">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="index.html">
+        <strong>✨ LA RÊVERIE</strong>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarTable">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarTable" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="index.html" title="Page d'accueil">Accueil</a>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Tableaux de données">Tableaux</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="tableaux/fr.html" title="Tableau français">Français</a>
+            <a class="navbar-item" href="tableaux/en.html" title="Tableau anglais">Anglais</a>
+            <a class="navbar-item" href="tableaux/zh.html" title="Tableau chinois">Chinois</a>
+          </div>
+        </div>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" title="Analyses par langue">Analyses</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="analyse-fr.html" title="Analyse française">Français</a>
+            <a class="navbar-item" href="analyse-en.html" title="Analyse anglaise">Anglais</a>
+            <a class="navbar-item" href="analyse-zh.html" title="Analyse chinoise">Chinois</a>
+          </div>
+        </div>
+        
+        <a class="navbar-item" href="presentation.html" title="À propos du projet">À propos</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<section class="hero is-dream">
+  <div class="container">
+  </div>
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title is-2">Bienvenue à la RÊVERIE</h1>
+      <p class="subtitle is-3">Cliquez pour explorer chez les rêveuses</p>
+    </div>
+  </div>
+</section>
+
+<main class="section" role="main">
+  <div class="container">
+    <div class="content has-text-centered">
+      <h2 class="title is-3">Voici les chercheuses de rêve avec leurs profils GitHub :</h2>
+      
+      <div class="columns is-centered mt-5">
+        <div class="column is-4">
+          <div class="box">
+            <h3 class="title is-4">ZHENG Ting</h3>
+            <p class="subtitle is-6">Paris Nanterre</p>
+            <a href="https://github.com/ZHENGTING-oss" target="_blank" class="button is-link">
+              <span class="icon">
+                <i class="fab fa-github"></i>
+              </span>
+              <span>Profil GitHub</span>
+            </a>
+          </div>
+        </div>
+        
+        <div class="column is-4">
+          <div class="box">
+            <h3 class="title is-4">LE BAIL Emmy</h3>
+            <p class="subtitle is-6">Inalco</p>
+            <a href="https://github.com/emmylebail" target="_blank" class="button is-link">
+              <span class="icon">
+                <i class="fab fa-github"></i>
+              </span>
+              <span>Profil GitHub</span>
+            </a>
+          </div>
+        </div>
+        
+        <div class="column is-4">
+          <div class="box">
+            <h3 class="title is-4">ZENG Youjia</h3>
+            <p class="subtitle is-6">Sorbonne Nouvelle</p>
+            <a href="https://github.com/youjiajuliezeng" target="_blank" class="button is-link">
+              <span class="icon">
+                <i class="fab fa-github"></i>
+              </span>
+              <span>Profil GitHub</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer class="footer" role="contentinfo">
+  <div class="container has-text-centered">
+    <p>Projet encadré - La vie multilingue des mots sur le web</p>
+    <p class="is-size-7 mt-2">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
+    <p class="is-size-7 mt-1">
+      <a href="../mentions-legales.html" style="color: var(--lavande); text-decoration: underline;">Mentions légales</a> | 
+      <a href="../contact.html" style="color: var(--lavande); text-decoration: underline;">Contact</a>
+    </p>
+  </div>
+</footer>
+
+<!-- Ajout de Font Awesome pour les icônes -->
+<script src="https://kit.fontawesome.com/your-fontawesome-kit.js" crossorigin="anonymous"></script>
+<!-- Remplacez "your-fontawesome-kit.js" par votre propre kit -->
+
+<script>
+  // Script pour le menu burger
+  document.addEventListener('DOMContentLoaded', () => {
+    const navbarBurgers = document.querySelectorAll('.navbar-burger');
+    
+    navbarBurgers.forEach(burger => {
+      burger.addEventListener('click', () => {
+        const targetId = burger.dataset.target;
+        const target = document.getElementById(targetId);
+        
+        burger.classList.toggle('is-active');
+        target.classList.toggle('is-active');
+        
+        const isExpanded = burger.getAttribute('aria-expanded') === 'true';
+        burger.setAttribute('aria-expanded', !isExpanded);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
