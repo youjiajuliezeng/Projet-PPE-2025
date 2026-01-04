@@ -660,16 +660,16 @@ The Cut Shop
 Most Viewed Stories
 
     1. Breaking Up With My Toxic Mom Group
-    2. Rama Duwaji, First Lady of New York City
-    3. The Assistant Having Bad Sex With a Good Boyfriend
-    4. Expect the Astrology of 2026 to Dramatically Change Our Lives
-    5. Tommy Lee Jones’s Daughter, Victoria Jones, Found Dead at 34
+    2. In 2026, We Are Friction-Maxxing
+    3. Your Weekly Horoscopes by Madame Clairevoyant: January 4–10
+    4. Rama Duwaji, First Lady of New York City
+    5. The Assistant Having Bad Sex With a Good Boyfriend
 
     1. The Assistant Having Bad Sex With a Good Boyfriend
-    2. Breaking Up With My Toxic Mom Group
-    3. The Beauty Products Heated Rivalry Star Hudson Williams Uses to the
+    2. In 2026, We Are Friction-Maxxing
+    3. Breaking Up With My Toxic Mom Group
+    4. The Beauty Products Heated Rivalry Star Hudson Williams Uses to the
        Last Drop
-    4. Expect the Astrology of 2026 to Dramatically Change Our Lives
     5. Rama Duwaji, First Lady of New York City
 
    (BUTTON) Sign In to Comment
@@ -677,21 +677,29 @@ Most Viewed Stories
 Most Popular
 
     1. Breaking Up With My Toxic Mom Group
-    2. Rama Duwaji, First Lady of New York City
-    3. The Assistant Having Bad Sex With a Good Boyfriend
-    4. Expect the Astrology of 2026 to Dramatically Change Our Lives
-    5. Tommy Lee Jones’s Daughter, Victoria Jones, Found Dead at 34
+    2. In 2026, We Are Friction-Maxxing
+    3. Your Weekly Horoscopes by Madame Clairevoyant: January 4–10
+    4. Rama Duwaji, First Lady of New York City
+    5. The Assistant Having Bad Sex With a Good Boyfriend
 
     1. The Assistant Having Bad Sex With a Good Boyfriend
-    2. Breaking Up With My Toxic Mom Group
-    3. The Beauty Products Heated Rivalry Star Hudson Williams Uses to the
+    2. In 2026, We Are Friction-Maxxing
+    3. Breaking Up With My Toxic Mom Group
+    4. The Beauty Products Heated Rivalry Star Hudson Williams Uses to the
        Last Drop
-    4. Expect the Astrology of 2026 to Dramatically Change Our Lives
     5. Rama Duwaji, First Lady of New York City
 
   The Latest
 
-   parenting 7:00 a.m.
+   astrology 5:00 a.m.
+   Your Weekly Horoscopes by Madame Clairevoyant: January 4–10 With so
+   many planets in Capricorn this week, you’re feeling especially
+   levelheaded. Put it to good use.
+   By Claire Comstock-Gay
+
+   [ld+json]
+
+   parenting Yesterday at 7:00 a.m.
    In 2026, We Are Friction-Maxxing In the face of technologies that sell
    us escapism at every turn, we need to build up tolerance for
    “inconvenience.”
@@ -699,52 +707,52 @@ Most Popular
 
    [ld+json]
 
-   sex diaries Yesterday at 7:00 p.m.
+   sex diaries Jan. 2, 2026
    The Assistant Having Bad Sex With a Good Boyfriend In this week’s
    story, a woman hard launches her relationship even though she’s not
    sure it’ll last.
 
    [ld+json]
 
-   obits Yesterday at 1:31 p.m.
+   obits Jan. 2, 2026
    Tommy Lee Jones’s Daughter, Victoria Jones, Found Dead at 34 The
    actor’s daughter, who appeared alongside him in Men in Black II, was
    34.
 
    Premiere Of Broad Green Pictures'
 
-   dating rumors Yesterday at 12:17 p.m.
+   dating rumors Jan. 2, 2026
    Wait, Are Alix Earle and Tom Brady a Thing Now? They spent New Year’s
    Eve looking pretty flirty in St. Barts.
 
    2025 LACMA Art+Film Gala
 
-   wellness Yesterday at 10:00 a.m.
+   wellness Jan. 2, 2026
    The Best Notebooks for Journaling Add this habit to your nightly
    routine.
 
    [ld+json]
 
-   obsessive tester Yesterday at 8:00 a.m.
+   obsessive tester Jan. 2, 2026
    The Beauty Closet of a Shopping Editor With Sensitive Skin Here are my
    top 25 products.
 
    [ld+json]
 
-   personal finance Yesterday at 8:00 a.m.
+   personal finance Jan. 2, 2026
    What It Really Costs to Go Without Health Insurance And what to know
    about navigating the health-care system without it.
    By Charlotte Cowles
 
    [ld+json]
 
-   where did you get that? Yesterday at 7:00 a.m.
+   where did you get that? Jan. 2, 2026
    Where Model Alva Claire Gets Her Ceramics Claire shares her favorite
    tank tops and the Yohji Yamamoto cardigan she wears again and again.
 
    Alva Claire
 
-   astrology Yesterday at 5:00 a.m.
+   astrology Jan. 2, 2026
    Your Daily Horoscope by Madame Clairevoyant: January 2, 2026 Ahead of
    the full moon in Cancer tomorrow, your feelings are all over the place.
    Be gentle with yourself — and others.
@@ -809,11 +817,6 @@ Most Popular
    What You Can Expect on New Year’s Eve — Based on Astrology, Obviously
    Some horoscopes to help you usher in 2026.
    By Aliza Kelly
-
-   [ld+json]
-
-   obsessive tester Dec. 30, 2025
-   Our Beauty Writer’s Top 25 Products Welcome to my Beauty Closet.
 
    [ld+json]
 

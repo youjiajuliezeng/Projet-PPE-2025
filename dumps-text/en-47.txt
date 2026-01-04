@@ -8,44 +8,44 @@
 
    Ad
 
-   45°
+   49°
 
-   45°
+   49°
 
    (BUTTON) ×
    Durango, Colorado
-   Currently 45°
+   Currently 49°
    Weather data from The Durango Herald and WeatherKit.org
-   Sat
-   High: 46°
-   Low: 27°
-   Mostly Cloudy
-   0 % chance of precipitation
    Sun
    High: 49°
-   Low: 32°
+   Low: 33°
    Clear
    0 % chance of precipitation
    Mon
-   High: 39°
+   High: 40°
    Low: 29°
    Wintry Mix
-   39 % chance of precipitation
+   46 % chance of precipitation
    Tue
-   High: 40°
-   Low: 27°
+   High: 41°
+   Low: 26°
    Mostly Cloudy
    0 % chance of precipitation
    Wed
    High: 39°
    Low: 26°
-   Wintry Mix
-   34 % chance of precipitation
+   Partly Cloudy
+   0 % chance of precipitation
    Thu
-   High: 34°
-   Low: 23°
+   High: 35°
+   Low: 24°
    Wintry Mix
-   54 % chance of precipitation
+   56 % chance of precipitation
+   Fri
+   High: 32°
+   Low: 17°
+   Mostly Clear
+   0 % chance of precipitation
    (BUTTON) River Flows (BUTTON) Snow Report
    (BUTTON) ×
 
@@ -455,8 +455,7 @@ Related Tags
    You might also like
    [?uuid=b0992056-fe4c-5334-9bcd-4d1a7eaa0977&function=hardcrop&type=prev
    iew&source=false&width=390&height=202]
-   As Telluride strike enters Day 5, visitation drops and nearby resorts
-   salvage holiday ski vacations
+   Amid Telluride strike, nearby resorts salvage holiday ski vacations
    Jan 2, 2026
    [?uuid=d12021e5-ca6b-5e32-96ef-7c3b6b88631d&function=hardcrop&type=prev
    iew&source=false&width=390&height=202]
