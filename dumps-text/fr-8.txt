@@ -14,12 +14,12 @@
           + Billets de blog récents
      * Contenu
           + Pages à succès
-               o Filles du Roi Triton (personnages)
-               o Petits Pois
                o Mr. Big (Zootopie)
+               o Guillaume Lebon
+               o Petits Pois
                o Vice-versa 2
+               o Nick Wilde
                o Pawbert Lynxley
-               o Maire Brian Winddancer
                o Judy Hopps
           + Films
                o Tarzan (film)
@@ -122,12 +122,12 @@
           + Billets de blog récents
      * Contenu
           + Pages à succès
-               o Filles du Roi Triton (personnages)
-               o Petits Pois
                o Mr. Big (Zootopie)
+               o Guillaume Lebon
+               o Petits Pois
                o Vice-versa 2
+               o Nick Wilde
                o Pawbert Lynxley
-               o Maire Brian Winddancer
                o Judy Hopps
           + Films
                o Tarzan (film)

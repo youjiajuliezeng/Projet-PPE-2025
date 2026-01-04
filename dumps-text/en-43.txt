@@ -61,7 +61,9 @@ ESPN
      * Fantasy
      * Watch
 
-     * [default-team-logo-500.png?h=100&w=100] College Sports
+     * [default-team-logo-500.png?h=100&w=100]
+
+College Sports
      * Home
      * Men's Sports Scores
      * Women's Sports Scores
@@ -69,68 +71,63 @@ ESPN
      * Tickets
 
    Logan Lednicky caps dream with volleyball title at Texas A&M
-   13dElizabeth Merrill
+   14dElizabeth Merrill
    Stick to football? Irish WR Faison to skip lacrosse
    Notre Dame Fighting Irish
-   1dAdam Rittenberg
+   2dAdam Rittenberg
 
    Colorado names New Mexico's Lovo as next AD
    Colorado Buffaloes
-   5dAdam Rittenberg
+   6dAdam Rittenberg
    UGA gives AD Brooks contract extension, raise
    Georgia Bulldogs
-   12d
+   13d
    Aggies topple final 1-seed to clinch volleyball title
-   13dCharlotte Gibson
+   14dCharlotte Gibson
    Pitt rues defensive play after another semis loss
-   16dCharlotte Gibson
+   17dCharlotte Gibson
    Texas A&M, Kentucky book spots in volleyball final
-   16d
+   17d
    NCAA slams Kalshi's intent to offer portal trading
-   17dDavid Purdum
+   18dDavid Purdum
    NCAA women's volleyball Way-Too-Early Top 10 for 2026
-   13dCharlie Creme
+   14dCharlie Creme
    2025 NCAA volleyball tournament: Schedule, scores, news
-   13dESPN
+   14dESPN
    Proof that Texas A&M volleyball's run is more methodical than magical
-   15dElizabeth Merrill
-   The unlikeliest journey to NCAA volleyball's final four
    16dElizabeth Merrill
+   The unlikeliest journey to NCAA volleyball's final four
+   17dElizabeth Merrill
    Do college sports need a CBA? Some ADs are starting to think so﻿
-   25dDan Murphy
+   26dDan Murphy
    Western Michigan won the men's hockey natty! Now what?
-   86dAdam Rittenberg
+   87dAdam Rittenberg
    What to watch as the 2026 NCAA gymnastics season begins
-   1dD'Arcy Maine
+   2dD'Arcy Maine
    Stick to football? Irish WR Faison to skip lacrosse
    Notre Dame Fighting Irish
-   1dAdam Rittenberg
+   2dAdam Rittenberg
    Olympic men's hockey central: Schedule, rosters, how to watch
    Milan-Cortina Games
-   1dESPN Staff
+   2dESPN Staff
    The best of Indiana sports history: stars, teams, and moments
    Indiana Fever
-   1dDana Lee
+   2dDana Lee
    The NHL is back at the Olympics! Everything you need to know about
    hockey in Milan-Cortina
-   2dRyan Clark and Kristen Shilton
+   3dRyan Clark and Kristen Shilton
    Colorado names New Mexico's Lovo as next AD
    Colorado Buffaloes
-   5dAdam Rittenberg
+   6dAdam Rittenberg
    The NHL's best this week: Where should the next outdoor game be held?
-   5dArda Ocal
+   6dArda Ocal
    How to watch E60's 2025 documentary 'Paid to Play' on ESPN
-   8dKeith Jenkins
+   9dKeith Jenkins
    World Junior Championship guide: Top contenders, key players to watch
    Montreal Canadiens
-   11dRachel Kryshak
-   UGA gives AD Brooks contract extension, raise
-   Georgia Bulldogs
-   12d
+   12dRachel Kryshak
    Wetzel: Is this the last straw for NCAA enforcement?
-   12dDan Wetzel
-   Logan Lednicky caps dream with volleyball title at Texas A&M
-   13dElizabeth Merrill
+   13dDan Wetzel
 
 Logan Lednicky caps dream with volleyball title at Texas A&M
 

@@ -52,131 +52,7 @@ escape_html() {
   echo "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g'
 }
 
-# Fonction améliorée pour détecter l'encodage
-detect_encoding() {
-    local file="$1"
-    local http_encoding="$2"
-    
-    if [[ -n "$http_encoding" ]] && [[ "$http_encoding" != "none" ]]; then
-        echo "$http_encoding"
-        return 0
-    fi
-    
-    # 2. Vérifier la balise meta charset
-    local meta_enc=$(grep -ioE '<meta[^>]*charset=[^>]*>' "$file" | grep -ioE 'charset=[^"[:space:]>]+' | cut -d'=' -f2 | tr -d '"' | head -n 1)
-    if [[ -n "$meta_enc" ]]; then
-        echo "$meta_enc"
-        return 0
-    fi
-    
-    # 3. Utiliser file -i pour détecter
-    local file_enc=$(file -b --mime-encoding "$file")
-    if [[ "$file_enc" != "us-ascii" && "$file_enc" != "binary" && -n "$file_enc" ]]; then
-        echo "$file_enc"
-        return 0
-    fi
-    
-    # 5. Par défaut UTF-8
-    echo "UTF-8"
-}
-
-# Fonction améliorée pour extraire le texte
-extract_text() {
-    local input_file="$1"
-    local output_file="$2"
-    local encoding="$3"
-    local url="$4"
-    
-    # Normaliser l'encodage
-    encoding=$(echo "$encoding" | tr '[:lower:]' '[:upper:]')
-    case "$encoding" in
-        "UTF8"|"UTF-8") encoding="UTF-8" ;;
-        "ISO-8859-1"|"ISO8859-1") encoding="ISO-8859-1" ;;
-        "WINDOWS-1252"|"CP1252") encoding="WINDOWS-1252" ;;
-        "GB2312"|"GBK"|"GB18030") encoding="GB18030" ;;
-        "BIG5") encoding="BIG5" ;;
-        *) encoding="UTF-8" ;;
-    esac
-    
-    # Méthode 1: Lynx (meilleur pour la plupart des sites)
-    if command -v lynx >/dev/null 2>&1; then
-        # Essayer avec l'encodage détecté
-        lynx -dump -nolist -assume_charset="$encoding" -display_charset=UTF-8 "$input_file" 2>/dev/null > "$output_file"
-
-        # Nettoyer l'encodage
-        if [[ -f "$output_file" ]]; then
-            iconv -f utf-8 -t utf-8//IGNORE "$output_file" > "${output_file}.tmp" 2>/dev/null && mv "${output_file}.tmp" "$output_file"
-        fi
-        
-        # Si vide ou trop petit, essayer UTF-8
-        if [[ ! -s "$output_file" ]] || [[ $(wc -c < "$output_file" 2>/dev/null) -lt 100 ]]; then
-            lynx -dump -nolist -assume_charset=UTF-8 -display_charset=UTF-8 "$input_file" 2>/dev/null > "$output_file"
-        fi
-    fi
-    
-    # Méthode 2: html2text (alternative)
-    if [[ ! -s "$output_file" ]] && command -v html2text >/dev/null 2>&1; then
-        if [[ "$encoding" != "UTF-8" ]] && [[ "$encoding" != "utf-8" ]]; then
-            iconv -f "$encoding" -t UTF-8//IGNORE "$input_file" 2>/dev/null | html2text -utf8 > "$output_file" 2>/dev/null || true
-        else
-            html2text -utf8 "$input_file" > "$output_file" 2>/dev/null || true
-        fi
-    fi
-    
-    # S'assurer que le fichier existe
-    if [[ ! -f "$output_file" ]]; then
-        echo "Impossible d'extraire le texte de cette page." > "$output_file"
-    fi
-    
-    # Nettoyer le texte : remplacer les retours à la ligne multiples par un seul espace
-    if [[ -f "$output_file" ]]; then
-        sed -i 's/\s\+/ /g; s/^[[:space:]]*//; s/[[:space:]]*$//' "$output_file" 2>/dev/null || true
-    fi
-}
-
-# Fonction pour extraire les contextes de manière fiable
-extract_contexts() {
-    local dump_file="$1"
-    local regex="$2"
-    local is_zh="$3"
-    local ctx_chars="$4"
-    local output_file="$5"
-    
-    # Vider le fichier de sortie
-    > "$output_file"
-    
-    if [[ ! -f "$dump_file" ]] || [[ ! -s "$dump_file" ]]; then
-        return
-    fi
-    
-    # Lire tout le contenu (une seule ligne)
-    local content
-    content=$(cat "$dump_file" | tr '\n' ' ' | sed 's/\s\+/ /g')
-    
-    # Créer un fichier temporaire avec le contenu sur une ligne
-    local temp_file
-    temp_file=$(mktemp)
-    echo "$content" > "$temp_file"
-    
-    # Extraire les contextes
-    if [[ "$is_zh" -eq 1 ]]; then
-        # Pour le chinois
-        grep -oE ".{0,$ctx_chars}${regex}.{0,$ctx_chars}" "$temp_file" 2>/dev/null >> "$output_file"
-    else
-        # Pour français/anglais (insensible à la casse)
-        grep -oiE ".{0,$ctx_chars}${regex}.{0,$ctx_chars}" "$temp_file" 2>/dev/null >> "$output_file"
-    fi
-    
-    # Nettoyer le fichier temporaire
-    rm -f "$temp_file"
-    
-    # Nettoyer les résultats
-    if [[ -f "$output_file" ]]; then
-        sed -i 's/^[[:space:]]*//; s/[[:space:]]*$//; /^$/d' "$output_file" 2>/dev/null || true
-    fi
-}
-
-# En-tête HTML
+# En-tête HTML (même que précédemment, mais je raccourcis pour la lisibilité)
 echo "<!DOCTYPE html>
 <html lang=\"$base\">
 <head>
@@ -228,7 +104,8 @@ echo "<!DOCTYPE html>
     </div>
   </div>
 </nav>
-
+<div>
+</div>
 <header class=\"hero is-table\" role=\"banner\">
 </header>
 
@@ -257,7 +134,7 @@ echo "</div>
       <div class=\"column is-5\">
         <div class=\"stats-box\">
           <div class=\"stats-title\">Mot recherché :</div>
-          <div class=\"stats-value\">$mot_regex</div>
+          <div class=\"stats-value\">"$mot_regex"</div>
         </div>
       </div>
       
@@ -311,21 +188,32 @@ while read -r line; do
   contexte="contextes/${base}-${numero}.ctx.txt"
   concordance="concordances/${base}-${numero}.html"
 
-  # Créer le fichier temporaire pour les headers
+  # Créer les fichiers temporaires
   headers_tmp="$(mktemp)"
+  body_tmp="$(mktemp)"
   
   # Requête HTTP avec gestion d'erreur
-  code_http=$(curl -s -L -o "$aspiration" -D "$headers_tmp" -w "%{http_code}" --max-time 30 "$url" 2>/dev/null || echo "000")
+  code_http="$(curl -s -L --max-time 30 -D "$headers_tmp" -o "$body_tmp" -w "%{http_code}" "$url" 2>/dev/null || echo "000")"
   
-  # Lire l'encodage depuis les headers
-  encodage_from_header="$(cat "$headers_tmp" 2>/dev/null | tr '\r' '\n' | grep -i '^content-type:' | grep -ioE 'charset=[^;[:space:]]+' | head -n 1 | cut -d= -f2 || echo "")"
+  # Lire l'encodage AVANT de supprimer le fichier headers_tmp
+  encodage="$(cat "$headers_tmp" | tr '\r' '\n' | grep -i '^content-type:' | grep -ioE 'charset=[^;[:space:]]+' | head -n 1 | cut -d= -f2)"
+  rm -f "$headers_tmp"
+  if [ -z "$encodage" ]
+  then
+    encodage=$(grep -E -o "charset=[^\"'> ]*" "$body_tmp" | head -1 | tr -d "/>" | cut -d= -f2)
+  fi
   
-  # Nettoyer le fichier temporaire
-  rm -f "$headers_tmp" 2>/dev/null
+  [[ -z "$encodage" ]] && encodage="none"
 
-  # Détection robuste de l'encodage
-  detected_encoding="$(detect_encoding "$aspiration" "$encodage_from_header")"
-  
+  # Sauvegarder la page aspirée seulement si le fichier temporaire existe
+  if [[ -f "$body_tmp" ]] && [[ -s "$body_tmp" ]]; then
+    mv "$body_tmp" "$aspiration"
+  else
+    # Créer un fichier vide si le téléchargement a échoué
+    echo "<!-- Échec du téléchargement -->" > "$aspiration"
+    rm -f "$body_tmp" 2>/dev/null
+  fi
+
   # URL échappée pour HTML
   url_escaped="$(escape_html "$url")"
 
@@ -349,7 +237,7 @@ while read -r line; do
             </a>
           </td>
           <td><span class=\"tag $tag_class\">$code_http</span></td>
-          <td><span class=\"tag tag-info\">$detected_encoding</span></td>
+          <td><span class=\"tag tag-info\">$encodage</span></td>
           <td>0</td>
           <td>0</td>
           <td><a class=\"button is-small is-link is-outlined\" href=\"../$aspiration\" target=\"_blank\">HTML</a></td>
@@ -363,19 +251,52 @@ while read -r line; do
   # Page avec succès
   ((urls_success++))
 
-  # Extraction du texte avec méthodes multiples
-  extract_text "$aspiration" "$dump" "$detected_encoding" "$url"
+  # Dump texte (lynx) - Forcer la sortie UTF-8
+    # Essayer de convertir l'encodage d'abord
+    if [[ "$encodage" != "none" ]] && [[ "$encodage" != "UTF-8" ]] && [[ "$encodage" != "utf-8" ]]; then
+        # Traitement spécial pour GB2312/GBK
+        if [[ "$encodage" == "gb2312" ]] || [[ "$encodage" == "gbk" ]] || [[ "$encodage" == "GB2312" ]] || [[ "$encodage" == "GBK" ]]; then
+            iconv -f GBK -t UTF-8//IGNORE "$aspiration" 2>/dev/null | lynx -dump -nolist -stdin 2>/dev/null > "$dump" || true
+        else
+            # Essayer de convertir d'autres encodages
+            iconv -f "$encodage" -t UTF-8//IGNORE "$aspiration" 2>/dev/null | lynx -dump -nolist -stdin 2>/dev/null > "$dump" || true
+        fi
+    fi
 
-  # Vérifier si le fichier dump existe
-  if [[ ! -f "$dump" ]] || [[ ! -s "$dump" ]]; then
+    # Si la méthode ci-dessus échoue ou si la conversion n'est pas nécessaire, utiliser la méthode par défaut
+    if [[ ! -s "$dump" ]]; then
+        lynx -dump -nolist -assume_charset=UTF-8 -display_charset=UTF-8 "$aspiration" 2>/dev/null > "$dump" || true
+    fi
+
+    # Finalement, s'assurer que le fichier est en UTF-8
+    if command -v uconv &> /dev/null; then
+        # Utiliser uconv (si disponible) pour une conversion plus sûre
+        uconv -f UTF-8 -t UTF-8//IGNORE "$dump" -o "$dump.tmp" 2>/dev/null && mv "$dump.tmp" "$dump"
+    elif command -v iconv &> /dev/null; then
+        # Utiliser iconv
+        iconv -f UTF-8 -t UTF-8//IGNORE "$dump" -o "$dump.tmp" 2>/dev/null && mv "$dump.tmp" "$dump"
+    fi
+
+  # Dump texte (lynx) - avec gestion d'erreur
+  if [[ "$encodage" != "none" ]] && [[ "$encodage" != "UTF-8" ]] && [[ "$encodage" != "utf-8" ]]; then
+    if [[ -f "$aspiration" ]]; then
+      lynx -dump -nolist -assume_charset="$encodage" -display_charset=UTF-8 "$aspiration" 2>/dev/null > "$dump" || true
+    fi
+  else
+    if [[ -f "$aspiration" ]]; then
+      lynx -dump -nolist -assume_charset=UTF-8 -display_charset=UTF-8 "$aspiration" 2>/dev/null > "$dump" || true
+    fi
+
+  fi
+
+  # Nombre de mots - vérifier si le fichier existe
+  if [[ -f "$dump" ]]; then
+    nb_mots="$(wc -w < "$dump" 2>/dev/null | tr -d '[:space:]' || echo "0")"
+  else
+    nb_mots="0"
     # Créer un fichier dump vide
     echo "" > "$dump"
-    nb_mots="0"
-  else
-    # Nombre de mots
-    nb_mots="$(wc -w < "$dump" 2>/dev/null | tr -d '[:space:]' || echo "0")"
   fi
-  
   [[ -z "$nb_mots" ]] && nb_mots="0"
   total_mots=$((total_mots + nb_mots))
 
@@ -385,16 +306,24 @@ while read -r line; do
     if [[ "$is_zh" -eq 1 ]]; then
       occurrences="$(grep -Eo "$mot_regex_bounded" "$dump" 2>/dev/null | wc -l 2>/dev/null | tr -d '[:space:]' || echo "0")"
     else
-      occurrences="$(grep -Eio "$mot_regex_bounded" "$dump" 2>/dev/null | wc -l 2>/dev/null | tr -d '[:space:]' || echo "0")"
+      occurrences="$(grep -Eoi "$mot_regex_bounded" "$dump" 2>/dev/null | wc -l 2>/dev/null | tr -d '[:space:]' || echo "0")"
     fi
   fi
   [[ -z "$occurrences" ]] && occurrences="0"
   total_occurrences=$((total_occurrences + occurrences))
 
-  # Extraction des contextes avec la nouvelle fonction
-  extract_contexts "$dump" "$mot_regex" "$is_zh" "$ctx_chars" "$contexte"
+  # Extraction des contextes
+  if [[ -f "$dump" ]] && [[ -s "$dump" ]]; then
+    if [[ "$is_zh" -eq 1 ]]; then
+      grep -Eo ".{0,${ctx_chars}}${mot_regex}.{0,${ctx_chars}}" "$dump" 2>/dev/null > "$contexte" || true
+    else
+      grep -Eio ".{0,${ctx_chars}}${mot_regex}.{0,${ctx_chars}}" "$dump" 2>/dev/null > "$contexte" || true
+    fi
+  else
+    echo "" > "$contexte"
+  fi
 
-  # Concordance (gauche / cible / droite)
+  # Concordance (gauche / cible / droite) - version simplifiée
   echo "<!DOCTYPE html>
 <html lang=\"$base\">
 <head>
@@ -448,8 +377,10 @@ while read -r line; do
 
 <header class=\"hero is-table\" role=\"banner\">
 </header>
+<body>
 
-<main class=\"section\">
+  <div>
+  </div>
   <div class=\"container\">
     <h1 class=\"title is-3\">Concordance — $base-$numero</h1>
     <p class=\"subtitle is-6\">URL: <a href=\"$url\" target=\"_blank\">$url_escaped</a></p>
@@ -466,32 +397,25 @@ while read -r line; do
         <tbody>" > "$concordance"
 
   if [[ -f "$contexte" ]] && [[ -s "$contexte" ]]; then
-   while read -r ctxline; do
-      # Échapper les caractères HTML
-      ctxline_escaped="$(escape_html "$ctxline")"
+    while read -r ctxline; do
+      ctxline="$(echo "$ctxline" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')"
       
       if [[ "$is_zh" -eq 1 ]]; then
-        # Pour le chinois, chercher le motif exact
-        if echo "$ctxline" | grep -qE "$mot_regex"; then
-          gauche="$(echo "$ctxline" | sed "s/\(.*\)$mot_regex\(.*\)/\1/" 2>/dev/null || echo "")"
-          cible="$(echo "$ctxline" | grep -oE "$mot_regex" 2>/dev/null | head -1 || echo "")"
-          droit="$(echo "$ctxline" | sed "s/.*$mot_regex//" 2>/dev/null || echo "")"
-        fi
+        gauche="$(echo "$ctxline" | awk -v re="$mot_regex" '{ if (match($0, re)) print substr($0, 1, RSTART-1); }' 2>/dev/null || echo "")"
+        cible="$(echo "$ctxline" | awk -v re="$mot_regex" '{ if (match($0, re)) print substr($0, RSTART, RLENGTH); }' 2>/dev/null || echo "")"
+        droit="$(echo "$ctxline" | awk -v re="$mot_regex" '{ if (match($0, re)) print substr($0, RSTART+RLENGTH); }' 2>/dev/null || echo "")"
       else
-        # Pour français/anglais, insensible à la casse
-        if echo "$ctxline" | grep -qiE "$mot_regex"; then
-          gauche="$(echo "$ctxline" | sed "s/\(.*\)$mot_regex\(.*\)/\1/i" 2>/dev/null || echo "")"
-          cible="$(echo "$ctxline" | grep -oiE "$mot_regex" 2>/dev/null | head -1 || echo "")"
-          droit="$(echo "$ctxline" | sed "s/.*$mot_regex//i" 2>/dev/null || echo "")"
-        fi
+        gauche="$(echo "$ctxline" | awk -v re="$mot_regex" 'BEGIN{IGNORECASE=1} { if (match($0, re)) print substr($0, 1, RSTART-1); }' 2>/dev/null || echo "")"
+        cible="$(echo "$ctxline" | awk -v re="$mot_regex" 'BEGIN{IGNORECASE=1} { if (match($0, re)) print substr($0, RSTART, RLENGTH); }' 2>/dev/null || echo "")"
+        droit="$(echo "$ctxline" | awk -v re="$mot_regex" 'BEGIN{IGNORECASE=1} { if (match($0, re)) print substr($0, RSTART+RLENGTH); }' 2>/dev/null || echo "")"
       fi
       
-      # Nettoyer les espaces et échapper HTML
+      # Échapper les résultats
       gauche="$(escape_html "$gauche")"
       cible="$(escape_html "$cible")"
       droit="$(escape_html "$droit")"
-        
-        echo "        <tr>
+      
+      echo "        <tr>
           <td style=\"text-align: right; width: 40%;\">$gauche</td>
           <td style=\"text-align: center; width: 20%;\"><span class=\"kwic-target\">$cible</span></td>
           <td style=\"text-align: left; width: 40%;\">$droit</td>
@@ -510,9 +434,7 @@ while read -r line; do
       <a href=\"../tableaux/$base.html\" class=\"button is-black\">← Retour au tableau</a>
     </div>
   </div>
-</main>
-
-<footer class=\"footer\" role=\"contentinfo\">
+  <footer class=\"footer\" role=\"contentinfo\">
   <div class=\"container has-text-centered\">
     <p>Projet encadré - La vie multilingue des mots sur le web</p>
     <p class=\"is-size-7 mt-2\">© 2025/2026 - Master TAL | Université Paris Cité - INALCO - Université Paris Nanterre</p>
@@ -522,27 +444,6 @@ while read -r line; do
     </p>
   </div>
 </footer>
-
-<script>
-  // Script pour le menu burger
-  document.addEventListener('DOMContentLoaded', () => {
-    const navbarBurgers = document.querySelectorAll('.navbar-burger');
-    
-    navbarBurgers.forEach(burger => {
-      burger.addEventListener('click', () => {
-        const targetId = burger.dataset.target;
-        const target = document.getElementById(targetId);
-        
-        burger.classList.toggle('is-active');
-        target.classList.toggle('is-active');
-        
-        const isExpanded = burger.getAttribute('aria-expanded') === 'true';
-        burger.setAttribute('aria-expanded', !isExpanded);
-      });
-    });
-  });
-</script>
-
 </body>
 </html>" >> "$concordance"
 
@@ -562,7 +463,7 @@ while read -r line; do
     mots_tag_class="tag-warning"
   fi
 
-  # Écriture HTML (tableau principal)
+  # Ecriture HTML (tableau principal)
   echo "        <tr>
           <td><strong>$numero</strong></td>
           <td>
@@ -571,7 +472,7 @@ while read -r line; do
             </a>
           </td>
           <td><span class=\"tag tag-success\">$code_http</span></td>
-          <td><span class=\"tag tag-info\">$detected_encoding</span></td>
+          <td><span class=\"tag tag-info\">$encodage</span></td>
           <td><span class=\"tag $mots_tag_class\">$nb_mots</span></td>
           <td><span class=\"tag $occ_tag_class\">$occurrences</span></td>
           <td><a class=\"button is-small is-link is-outlined\" href=\"../$aspiration\" target=\"_blank\">HTML</a></td>
@@ -596,7 +497,7 @@ if [[ $total_urls -gt 0 ]]; then
   taux_success=$((urls_success * 100 / total_urls))
 fi
 
-# Fermeture du tableau
+# Fermeture du tableau (même que précédemment)
 echo "        </tbody>
       </table>
     </div>
